@@ -1,0 +1,68 @@
+name: Epic
+description: Describe a large body of work composed of multiple related features or tasks spanning the RADPS ecosystem.
+title: "[Epic]: "
+labels: ["epic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        An **epic** represents a significant, multi-part body of work. It may be broken down into individual feature issues, tasks, or implementation issues across one or more repositories.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: A brief description of this epic and its overall goal.
+      placeholder: "e.g. Implement end-to-end visibility calibration pipeline across xradio, astroviper, and calviper."
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation and Goals
+      description: Why is this epic important? What high-level outcome does it deliver?
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected_repos
+    attributes:
+      label: Affected Repositories
+      description: Which repositories are involved in this epic?
+      placeholder: |
+        - xradio
+        - astroviper
+        - calviper
+    validations:
+      required: true
+
+  - type: textarea
+    id: child_issues
+    attributes:
+      label: Child Issues / Tasks
+      description: List the individual features, tasks, or issues that make up this epic. You can link to issues in this repository or in individual repositories.
+      placeholder: |
+        - [ ] #1 — Feature: streaming read API (xradio)
+        - [ ] #2 — Feature: calibration solver integration (calviper)
+    validations:
+      required: false
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance Criteria
+      description: What must be true for this epic to be considered done?
+      placeholder: |
+        - [ ] All child issues are resolved
+        - [ ] End-to-end integration test passes in testviper
+    validations:
+      required: false
+
+  - type: textarea
+    id: related_issues
+    attributes:
+      label: Related Issues / PRs
+      description: Link any related issues, roadmap items, or pull requests.
+    validations:
+      required: false

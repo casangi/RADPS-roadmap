@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: xradio issues
+    url: https://github.com/casangi/xradio/issues
+    about: File an issue that is isolated to the xradio repository.
+  - name: astroviper issues
+    url: https://github.com/casangi/astroviper/issues
+    about: File an issue that is isolated to the astroviper repository.
+  - name: RADPS issues
+    url: https://github.com/casangi/RADPS/issues
+    about: File an issue that is isolated to the core RADPS infrastructure repository.
+  - name: radpsdocs issues
+    url: https://github.com/casangi/radpsdocs/issues
+    about: File an issue that is isolated to the RADPS documentation repository.

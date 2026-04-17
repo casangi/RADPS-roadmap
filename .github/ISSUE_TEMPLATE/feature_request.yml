@@ -1,0 +1,64 @@
+name: Feature Request
+description: Propose a new capability or enhancement that may affect one or more RADPS repositories.
+title: "[Feature]: "
+labels: ["feature"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the RADPS roadmap! Please fill out the sections below to help us understand the proposed feature.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: A brief, one-sentence description of the proposed feature.
+      placeholder: "e.g. Add support for streaming visibility data directly from xradio into astroviper."
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why is this feature needed? What problem does it solve or what capability does it enable?
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected_repos
+    attributes:
+      label: Affected Repositories
+      description: Which repositories would this feature affect? List each repository and briefly describe the expected changes.
+      placeholder: |
+        - xradio: add streaming read API
+        - astroviper: consume the new streaming API
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the solution you have in mind, including any relevant design decisions or alternatives you have considered.
+    validations:
+      required: false
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance Criteria
+      description: What conditions must be met for this feature to be considered complete?
+      placeholder: |
+        - [ ] Criterion 1
+        - [ ] Criterion 2
+    validations:
+      required: false
+
+  - type: textarea
+    id: related_issues
+    attributes:
+      label: Related Issues / PRs
+      description: Link any related issues or pull requests in this repository or in individual repositories.
+    validations:
+      required: false

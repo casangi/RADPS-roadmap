@@ -1,0 +1,77 @@
+name: Cross-Repository Bug
+description: Report a defect whose root cause or fix spans multiple RADPS repositories.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for bugs that span more than one repository. If the bug is isolated to a single repository, please open the issue there directly.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear description of the bug.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: How can someone reproduce this bug?
+      placeholder: |
+        1. Install xradio X.Y and astroviper A.B
+        2. Run the following code snippet: ...
+        3. Observe the error: ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual_behavior
+    attributes:
+      label: Actual Behavior
+      description: What actually happened? Include any error messages or tracebacks.
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected_repos
+    attributes:
+      label: Affected Repositories
+      description: Which repositories are involved in this bug? Describe the role of each.
+      placeholder: |
+        - xradio v1.2.3: produces incorrect output in ...
+        - astroviper v0.9.0: crashes when consuming that output because ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Relevant version information (Python version, OS, package versions, etc.).
+      placeholder: |
+        - Python: 3.11
+        - OS: Ubuntu 22.04
+        - xradio: 1.2.3
+        - astroviper: 0.9.0
+    validations:
+      required: false
+
+  - type: textarea
+    id: related_issues
+    attributes:
+      label: Related Issues / PRs
+      description: Link any related issues or pull requests in this repository or in individual repositories.
+    validations:
+      required: false
