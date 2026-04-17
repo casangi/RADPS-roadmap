@@ -42,7 +42,7 @@ body:
         - xradio
         - astroviper
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: child_issues
