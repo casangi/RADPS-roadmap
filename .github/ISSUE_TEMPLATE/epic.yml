@@ -18,12 +18,20 @@ body:
       required: true
 
   - type: textarea
-    id: motivation
+    id: skills
     attributes:
-      label: Motivation and Goals
-      description: Why is this epic important? What high-level outcome does it deliver?
+      label: Necessary Skills
+      description: A brief description of what skills are needed for this work.
+      placeholder: "what skills are necessary to complete this work?"
     validations:
-      required: true
+      required: false
+
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables
+      description: A brief description of the proposed deliverables
+      placeholder: "What are the proposed deliverables?"
 
   - type: textarea
     id: affected_repos
@@ -33,7 +41,6 @@ body:
       placeholder: |
         - xradio
         - astroviper
-        - calviper
     validations:
       required: true
 
