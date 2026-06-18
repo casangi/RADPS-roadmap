@@ -17,7 +17,7 @@ body:
       required: true
 
   - type: textarea
-    id: summary
+    id: DoD
     attributes:
       label: Definition of Done
       description: How will we know that the item is complete
