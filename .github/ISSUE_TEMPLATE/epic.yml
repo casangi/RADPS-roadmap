@@ -17,20 +17,14 @@ body:
       required: true
 
   - type: textarea
-    id: skills
+    id: summary
     attributes:
-      label: Necessary Skills
-      description: A brief description of what skills are needed for this work.
-      placeholder: "what skills are necessary to complete this work?"
+      label: Definition of Done
+      description: How will we know that the item is complete
+      placeholder: "e.g. draft specification for calibration set generated, reviewed by team, and changes made based on the review."
     validations:
-      required: false
+      required: true
 
-  - type: textarea
-    id: deliverables
-    attributes:
-      label: Deliverables
-      description: A brief description of the proposed deliverables
-      placeholder: "What are the proposed deliverables?"
 
   - type: textarea
     id: affected_repos
@@ -44,17 +38,6 @@ body:
       required: false
 
   - type: textarea
-    id: child_issues
-    attributes:
-      label: Child Issues / Tasks
-      description: List the individual features, tasks, or issues that make up this epic. You can link to issues in this repository or in individual repositories.
-      placeholder: |
-        - [ ] #1 — Feature: streaming read API (xradio)
-        - [ ] #2 — Feature: calibration solver integration (calviper)
-    validations:
-      required: false
-
-  - type: textarea
     id: acceptance_criteria
     attributes:
       label: Acceptance Criteria
@@ -62,13 +45,5 @@ body:
       placeholder: |
         - [ ] All child issues are resolved
         - [ ] End-to-end integration test passes in testviper
-    validations:
-      required: false
-
-  - type: textarea
-    id: related_issues
-    attributes:
-      label: Related Issues / PRs
-      description: Link any related issues, roadmap items, or pull requests.
     validations:
       required: false
