@@ -17,14 +17,15 @@ body:
       required: true
 
   - type: textarea
-    id: DoD
+    id: acceptance_criteria
     attributes:
-      label: Definition of Done
-      description: How will we know that the item is complete
-      placeholder: "e.g. draft specification for calibration set generated, reviewed by team, and changes made based on the review."
+      label: Acceptance Criteria
+      description: What must be true for this epic to be considered done?
+      placeholder: |
+        - [ ] All child issues are resolved
+        - [ ] End-to-end integration test passes in testviper
     validations:
-      required: true
-
+      required: false
 
   - type: textarea
     id: affected_repos
@@ -37,13 +38,3 @@ body:
     validations:
       required: false
 
-  - type: textarea
-    id: acceptance_criteria
-    attributes:
-      label: Acceptance Criteria
-      description: What must be true for this epic to be considered done?
-      placeholder: |
-        - [ ] All child issues are resolved
-        - [ ] End-to-end integration test passes in testviper
-    validations:
-      required: false
