@@ -1,5 +1,5 @@
 name: 🐛 Bug Report
-about: File a structured report to help us reproduce and fix the bug.
+description: File a structured report to help us reproduce and fix the bug.
 title: "Bug: "
 type: Bug
 assignees: []
