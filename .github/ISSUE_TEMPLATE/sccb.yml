@@ -1,7 +1,7 @@
 name: 📋 SCCB Change Request
 description: Submit a change request for review by the Software Configuration Control Board (SCCB).
 title: "SCCB: "
-type: Task
+type: SCCB
 assignees: []
 body:
   - type: markdown
