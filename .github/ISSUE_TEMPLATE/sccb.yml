@@ -1,0 +1,71 @@
+name: 📋 SCCB Change Request
+description: Submit a change request for review by the Software Configuration Control Board (SCCB).
+title: "SCCB: "
+type: Task
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to submit a change request for SCCB review. Please provide as much detail as possible to support the assessment and disposition process.
+
+  - type: textarea
+    id: change_description
+    attributes:
+      label: Change Description
+      description: A clear and concise description of the proposed change.
+      placeholder: E.g., Update the calibration pipeline to support a new data format.
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected_artifacts
+    attributes:
+      label: Affected Artifacts
+      description: List the documents, code, designs, or other artifacts affected by this change.
+      placeholder: E.g., requirements spec, design doc, module X source code.
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected_work_packages
+    attributes:
+      label: Affected Work Packages
+      description: List the work packages impacted by this change.
+      placeholder: E.g., WP-3.2 Calibration, WP-4.1 Imaging.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tier_classification
+    attributes:
+      label: Tier Classification
+      description: Select the tier classification for this change.
+      options:
+        - Tier 1
+        - Tier 2
+        - Tier 3
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact_assessment
+    attributes:
+      label: Impact Assessment
+      description: Describe the impact of this change on schedule, budget, interfaces, and requirements.
+      placeholder: |
+        Schedule impact:
+        Budget impact:
+        Interface impact:
+        Requirements impact:
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_disposition
+    attributes:
+      label: Proposed Disposition
+      description: Recommended disposition for this change request (e.g., approve, reject, defer).
+      placeholder: E.g., Approve for next release cycle.
+    validations:
+      required: true
