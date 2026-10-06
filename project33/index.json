@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:49:59Z",
+  "generated_at": "2026-10-06T21:54:56Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -121,16 +121,16 @@
       "type": "TEXT"
     }
   },
-  "current_pi": null,
+  "current_pi": "PI26.4",
   "current_pi_start": null,
   "current_pi_end": null,
   "pi_order": [
+    "PI26.4",
     "Far-term",
     "Mid-term",
     "Near-term",
     "Triage",
     "PI27.1",
-    "PI26.4",
     "PI-4=26.3",
     "PI-3",
     "PI-2",
