@@ -1,0 +1,11 @@
+team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
+Calibration,Backlog,Issue,casangi/RADPS-roadmap,12,Epic: Calibration set application performance,OPEN,,Calibration; Performance,2026-09-10T21:53:12Z,,,https://github.com/casangi/RADPS-roadmap/issues/12
+Calibration,Backlog,Issue,casangi/RADPS-roadmap,124,Epic: prototype calibration application,OPEN,,Calibration; Data Schemas,2026-09-11T13:52:10Z,,,https://github.com/casangi/RADPS-roadmap/issues/124
+Calibration,Backlog,Issue,casangi/RADPS-roadmap,203,Hold detailed implementation design discussion ,OPEN,,,2026-09-11T13:53:36Z,,casangi/RADPS-roadmap#124,https://github.com/casangi/RADPS-roadmap/issues/203
+Imaging,Backlog,Issue,casangi/RADPS,95,Epic: ngVLA Spectral Cube Scaling on Horizon Simulation,OPEN,,,2026-09-14T18:08:28Z,,,https://github.com/casangi/RADPS/issues/95
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,202,Epic: TACC Continuum Performance Tests,OPEN,,Performance,2026-09-10T17:18:33Z,,,https://github.com/casangi/RADPS-roadmap/issues/202
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,205,Epic:  Imaging Domain Framework Document,OPEN,,,2026-09-10T21:57:26Z,,,https://github.com/casangi/RADPS-roadmap/issues/205
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,209,Epic:  Cube Imaging Beta Test Workshop,OPEN,,,2026-09-11T12:55:35Z,,,https://github.com/casangi/RADPS-roadmap/issues/209
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,27,Epic:  Prototype IF Cube Imaging Workflow,OPEN,,Data Processing Workflows,2026-09-10T22:29:06Z,,,https://github.com/casangi/RADPS-roadmap/issues/27
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,11,Epic: Flagging set specifications,OPEN,,Flagging,2026-09-10T21:23:50Z,,,https://github.com/casangi/RADPS-roadmap/issues/11
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,13,Epic: Flagging task scaling,OPEN,,Flagging; Performance,2026-04-17T20:52:44Z,,,https://github.com/casangi/RADPS-roadmap/issues/13

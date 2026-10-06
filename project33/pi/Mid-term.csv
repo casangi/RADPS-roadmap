@@ -1,0 +1,12 @@
+team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
+Calibration,Backlog,Issue,casangi/RADPS-roadmap,38,Epic:  Calibration solve scaling,OPEN,,Calibration; Performance,2026-09-08T21:36:21Z,,,https://github.com/casangi/RADPS-roadmap/issues/38
+Calibration,Backlog,Issue,casangi/RADPS-roadmap,45,Epic:  Prototype Calibration Workflow,OPEN,,Calibration; Data Processing Workflows,2026-04-21T18:23:10Z,,,https://github.com/casangi/RADPS-roadmap/issues/45
+External,Backlog,Issue,casangi/RADPS-roadmap,53,Epic:  ALMA-D3 - Workflow Outputs Interface Definition,OPEN,aakepley,Data Processing Workflows; Data Reduction Reports; System Integration; ALMA ICT,2026-06-29T18:03:55Z,,,https://github.com/casangi/RADPS-roadmap/issues/53
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,145,Epic:  Integrate findcont into RADPS,OPEN,,Image Analysis; Data Processing Workflows,2026-06-23T20:58:15Z,,,https://github.com/casangi/RADPS-roadmap/issues/145
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,15,Epic: Auto-multithresh scaling,OPEN,,Data Processing Workflows; Performance,2026-04-22T11:51:07Z,,,https://github.com/casangi/RADPS-roadmap/issues/15
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,40,Epic:  Prototype Full Imaging Workflow,OPEN,,Imaging; Data Processing Workflows,2026-04-21T18:23:08Z,,,https://github.com/casangi/RADPS-roadmap/issues/40
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,17,Epic: Specify Pipeline Processing Data Product (PPDP) schema,OPEN,,Data Schemas,2026-04-21T18:23:05Z,,,https://github.com/casangi/RADPS-roadmap/issues/17
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,28,Epic: Visibilities and cal sets visualization,OPEN,,Visibility Manipulation; Visualization,2026-06-23T16:53:07Z,,,https://github.com/casangi/RADPS-roadmap/issues/28
+Management,Backlog,Issue,casangi/RADPS-roadmap,16,Epic: Heuristic Development Use Case,OPEN,,Heuristics; Data Processing Workflows,2026-04-21T18:23:05Z,,,https://github.com/casangi/RADPS-roadmap/issues/16
+Management,Backlog,Issue,casangi/RADPS-roadmap,31,Epic: User-facing tutorial page introducing RADPS technologies,OPEN,,Deployment Patterns,2026-04-21T17:32:03Z,,,https://github.com/casangi/RADPS-roadmap/issues/31
+Pipeline,Backlog,Issue,casangi/RADPS-roadmap,142,Epic: User interfaces for workflows,OPEN,,User Interfaces,2026-09-11T13:33:46Z,,,https://github.com/casangi/RADPS-roadmap/issues/142

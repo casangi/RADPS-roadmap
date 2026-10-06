@@ -1,0 +1,10 @@
+team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
+Calibration,Backlog,Issue,casangi/RADPS-roadmap,42,Epic:  Prototype ALMA Low SNR Calibration,OPEN,,Calibration; Data Processing Workflows,2026-04-21T18:23:09Z,,,https://github.com/casangi/RADPS-roadmap/issues/42
+Calibration,Backlog,Issue,casangi/RADPS-roadmap,43,Epic:  Prototype ALMA Polarization calibration,OPEN,,Calibration; Polarization,2026-04-22T11:50:53Z,,,https://github.com/casangi/RADPS-roadmap/issues/43
+External,Backlog,Issue,casangi/RADPS-roadmap,55,Epic: ALMA-D3 - User Interfaces,OPEN,,System Integration; ALMA ICT,2026-06-29T18:04:05Z,,,https://github.com/casangi/RADPS-roadmap/issues/55
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,22,Epic: Ephemeris Imaging,OPEN,,Imaging,2026-04-17T20:53:51Z,,,https://github.com/casangi/RADPS-roadmap/issues/22
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,41,Epic:  Prototype Self-Calibration Workflow,OPEN,,Data Processing Workflows,2026-04-21T18:23:08Z,,,https://github.com/casangi/RADPS-roadmap/issues/41
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,84,Epic:  Prototype Ephemeris Imaging Workflow,OPEN,,Data Processing Workflows; Single Dish,2026-05-08T04:57:46Z,,,https://github.com/casangi/RADPS-roadmap/issues/84
+Management,Backlog,Issue,casangi/RADPS-roadmap,46,Epic:  ALMA Manual Data Reduction Requirements Capture,OPEN,,Imaging; Calibration; Flagging,2026-04-21T18:22:16Z,,,https://github.com/casangi/RADPS-roadmap/issues/46
+Management,Backlog,Issue,casangi/RADPS-roadmap,47,Epic:  ALMA Manual Data Reduction Demonstration,OPEN,,Imaging; Calibration; User Tools,2026-04-21T18:22:17Z,,,https://github.com/casangi/RADPS-roadmap/issues/47
+Management,Backlog,Issue,casangi/RADPS-roadmap,48,Epic:  User-facing workflow guide,OPEN,,Data Processing Workflows,2026-04-21T18:13:34Z,,,https://github.com/casangi/RADPS-roadmap/issues/48

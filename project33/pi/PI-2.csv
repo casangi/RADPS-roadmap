@@ -1,0 +1,7 @@
+team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
+,Done,Issue,casangi/RADPS-roadmap,49,Epic:  WSU Data Reduction Report Use Cases,CLOSED,,Data Reduction Reports,2026-04-21T17:42:26Z,2026-04-21T17:42:26Z,,https://github.com/casangi/RADPS-roadmap/issues/49
+,Done,Issue,casangi/RADPS-roadmap,68,Epic:  Data Volume Estimate for Data Reduction Reports,CLOSED,,Data Reduction Reports,2026-04-21T20:35:14Z,2026-04-21T20:35:14Z,,https://github.com/casangi/RADPS-roadmap/issues/68
+,Done,Issue,casangi/RADPS-roadmap,72,Epic:  Per-channel Cube Imaging Heuristics,CLOSED,,Heuristics,2026-04-21T20:35:23Z,2026-04-21T20:35:23Z,,https://github.com/casangi/RADPS-roadmap/issues/72
+,Done,Issue,casangi/RADPS-roadmap,73,Epic: IF test data sets,CLOSED,,Performance; Single Dish,2026-04-21T20:20:54Z,2026-04-21T20:11:53Z,,https://github.com/casangi/RADPS-roadmap/issues/73
+,Done,Issue,casangi/RADPS-roadmap,74,Epic:  TP test data sets,CLOSED,,Performance; Single Dish,2026-04-21T20:24:06Z,2026-04-21T20:20:43Z,,https://github.com/casangi/RADPS-roadmap/issues/74
+,Done,Issue,casangi/astroviper,110,fix rescaling bug for psf fitting,CLOSED,aakepley taktsutsumi,Feedback,2025-11-21T20:24:43Z,2025-10-01T19:18:01Z,casangi/astroviper#45,https://github.com/casangi/astroviper/issues/110
