@@ -1,0 +1,81 @@
+name: Export RADPS Roadmap project
+
+# Publishes org project casangi/33 ("RADPS Roadmap") as flat files on the
+# project-export branch (project33/index.json, summary.md, pi/*.csv,
+# changes-log.csv) so they can be read from raw.githubusercontent.com
+# without authentication.
+
+on:
+  schedule:
+    - cron: "5 10 * * *"   # 06:05 America/New_York during EDT (05:05 during EST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: project-export
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out scripts
+        uses: actions/checkout@v4
+        with:
+          path: main
+          persist-credentials: false
+
+      - name: Check out (or create) the project-export branch
+        env:
+          PUSH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir export && cd export
+          git init -q
+          git remote add origin "https://x-access-token:${PUSH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads origin project-export >/dev/null 2>&1; then
+            git fetch -q --depth 1 origin project-export
+            git checkout -q -b project-export FETCH_HEAD
+          else
+            echo "project-export branch not found; creating it as an orphan branch"
+            git checkout -q --orphan project-export
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Export project 33
+        env:
+          # GITHUB_TOKEN cannot read organization projects. Use a classic PAT
+          # with read:project + repo, or a fine-grained token / GitHub App with
+          # organization "Projects: read" and read access to the repos.
+          GH_TOKEN: ${{ secrets.PROJECT_EXPORT_TOKEN }}
+          CURRENT_PI: ${{ vars.CURRENT_PI }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GH_TOKEN}" ]; then
+            echo "::error::Secret PROJECT_EXPORT_TOKEN is not set; cannot read the org project."
+            exit 1
+          fi
+          python main/.github/scripts/export_project.py \
+            --org casangi --project 33 --out export/project33
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          cd export
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A project33
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+            exit 0
+          fi
+          git commit -q -m "Export project 33 ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push -q origin project-export
+          echo "### Project export published" >> "$GITHUB_STEP_SUMMARY"
+          sed -n '1,40p' project33/summary.md >> "$GITHUB_STEP_SUMMARY"
