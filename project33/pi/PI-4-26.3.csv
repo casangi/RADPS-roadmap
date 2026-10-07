@@ -11,7 +11,7 @@ Calibration,Done,Issue,casangi/RADPS-roadmap,3,Epic: Domain Framework Documentat
 Calibration,In progress,Issue,casangi/RADPS-roadmap,4,Epic: Calibration dataset specifications,OPEN,Jan-Willem vsmagalhaes gmoellen dessmalljive,Calibration; Data Schemas,2026-07-08T14:52:28Z,,,https://github.com/casangi/RADPS-roadmap/issues/4
 External,In progress,Issue,casangi/RADPS-roadmap,33,Epic: Xradio images in CARTA,OPEN,,Visualization,2026-06-24T19:58:32Z,,,https://github.com/casangi/RADPS-roadmap/issues/33
 Imaging,Backlog,Issue,casangi/astroviper,263,port Zernike polynominal fitting code from astrohack,OPEN,,,2026-08-10T20:47:37Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/astroviper/issues/263
-Imaging,Backlog,Issue,casangi/xradio,600,Data Schema for Representing Primary Beams,OPEN,,Schema,2026-09-10T16:35:57Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/600
+Imaging,Backlog,Issue,casangi/xradio,600,Data Schema for Representing Primary Beams,OPEN,,Schema,2026-10-07T15:05:06Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/600
 Imaging,Backlog,Issue,casangi/xradio,601,Define Convolution Function Cache Data Schema,OPEN,,,2026-08-10T20:42:12Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/601
 Imaging,Done,Issue,casangi/RADPS,86,test drive of k3 infrastructure,CLOSED,Jan-Willem,,2026-09-07T14:58:08Z,2026-09-07T14:58:08Z,casangi/RADPS-roadmap#37,https://github.com/casangi/RADPS/issues/86
 Imaging,Done,Issue,casangi/RADPS,87,Single Field Cube Small Dataset Frontera,CLOSED,Jan-Willem,,2026-08-19T09:19:27Z,2026-08-19T09:19:27Z,casangi/RADPS-roadmap#120,https://github.com/casangi/RADPS/issues/87

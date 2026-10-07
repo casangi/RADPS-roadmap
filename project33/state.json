@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T22:09:53Z",
+ "generated_at": "2026-10-07T19:05:32Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2631,6 +2631,16 @@
    "title": "Self consistency test of cube imaging on a simulated point source field",
    "url": "https://github.com/casangi/astroviper/issues/306"
   },
+  "https://github.com/casangi/astroviper/issues/307": {
+   "number": 307,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "New Algorithms Tracker",
+   "url": "https://github.com/casangi/astroviper/issues/307"
+  },
   "https://github.com/casangi/astroviper/issues/314": {
    "number": 314,
    "pi": "PI26.4",
@@ -3067,9 +3077,19 @@
    "repo": "casangi/graphviper",
    "state": "OPEN",
    "status": "In progress",
-   "team": "Imaging",
+   "team": "Infrastructure",
    "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
    "url": "https://github.com/casangi/graphviper/issues/68"
+  },
+  "https://github.com/casangi/graphviper/issues/70": {
+   "number": 70,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "make_parallel_coord(n_chunks=n) can return far fewer chunks than requested",
+   "url": "https://github.com/casangi/graphviper/issues/70"
   },
   "https://github.com/casangi/pyasdm/issues/28": {
    "number": 28,
@@ -4690,6 +4710,16 @@
    "team": "Infrastructure",
    "title": "MSv2 converter: replace per-partition TaQL with row-run reads, read sub-tables once, stream large variables to zarr",
    "url": "https://github.com/casangi/xradio/issues/624"
+  },
+  "https://github.com/casangi/xradio/issues/629": {
+   "number": 629,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "MSv2 xarray backend: xr.open_datatree(msv2) with partitions cached in the MSv2",
+   "url": "https://github.com/casangi/xradio/issues/629"
   }
  }
 }
