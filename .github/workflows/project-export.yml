@@ -7,7 +7,14 @@ name: Export RADPS Roadmap project
 
 on:
   schedule:
-    - cron: "5 10 * * *"   # 06:05 America/New_York during EDT (05:05 during EST)
+    # GitHub's schedule event is best-effort: runs are delayed, and sometimes
+    # dropped outright, during high load, which peaks at the start of every
+    # hour. Keep the minute away from :00 and run twice so one missed slot
+    # does not leave the export stale for a whole day. A second run that
+    # fires after a successful first run just re-exports (cheap, and the
+    # files only change where the project changed, apart from generated_at).
+    - cron: "23 10 * * *"  # 06:23 America/New_York during EDT (05:23 during EST)
+    - cron: "47 12 * * *"  # 08:47 America/New_York during EDT (07:47 during EST), safety net
   workflow_dispatch:
 
 permissions:
