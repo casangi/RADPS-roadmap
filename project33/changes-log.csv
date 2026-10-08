@@ -3,3 +3,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-07T19:05:32Z,casangi/xradio,629,MSv2 xarray backend: xr.open_datatree(msv2) with partitions cached in the MSv2,project,,added,https://github.com/casangi/xradio/issues/629
 2026-10-07T19:05:32Z,casangi/astroviper,307,New Algorithms Tracker,project,,added,https://github.com/casangi/astroviper/issues/307
 2026-10-07T19:05:32Z,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,project,,added,https://github.com/casangi/graphviper/issues/70
+2026-10-08T17:27:12Z,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,Status,In progress,Done,https://github.com/casangi/graphviper/issues/70
+2026-10-08T17:27:12Z,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,state,OPEN,CLOSED,https://github.com/casangi/graphviper/issues/70

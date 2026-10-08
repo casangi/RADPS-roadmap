@@ -130,5 +130,5 @@ Single Dish,In progress,Issue,casangi/RADPS-roadmap,75,Epic:  SD Technology Demo
 Single Dish,In progress,Issue,casangi/graphviper,59,Create Single-Dish Workflow Skeleton,OPEN,jrhosk,,2026-08-20T23:48:35Z,,casangi/RADPS-roadmap#66,https://github.com/casangi/graphviper/issues/59
 Single Dish,Won't Do,Issue,casangi/astroviper,240,run SD benchmark testing on TACC,CLOSED,,,2026-06-30T13:55:43Z,2026-06-30T13:55:42Z,,https://github.com/casangi/astroviper/issues/240
 ,Backlog,Issue,casangi/astroviper,135,support of cube imaging with simple 1:1 mapping of spectral and image channels,OPEN,renaudmiel,Single Dish,2025-11-13T07:12:28Z,,casangi/astroviper#124,https://github.com/casangi/astroviper/issues/135
-,Backlog,Issue,casangi/astroviper,214,direction mapping from celestial coordinate to image pixel coordinate (including projection),OPEN,,,2026-08-05T06:11:18Z,,casangi/astroviper#124,https://github.com/casangi/astroviper/issues/214
+,Backlog,Issue,casangi/astroviper,214,direction mapping from celestial coordinate to image pixel coordinate (including projection),OPEN,,,2026-10-08T07:09:48Z,,casangi/astroviper#124,https://github.com/casangi/astroviper/issues/214
 ,In progress,Issue,casangi/astroviper,124,Advanced single-dish cube imaging,OPEN,,Single Dish,2026-03-18T04:40:05Z,,casangi/RADPS-roadmap#75,https://github.com/casangi/astroviper/issues/124

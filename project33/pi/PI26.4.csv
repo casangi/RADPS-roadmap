@@ -12,7 +12,7 @@ Imaging,Backlog,Issue,casangi/astroviper,286,Fix plotting in iteration controlle
 Imaging,Backlog,Issue,casangi/astroviper,295,"Simulation From ""First Principles"" for Cube and Continuum Imaging",OPEN,Jan-Willem hmuellergoe,Unit Tests,2026-09-30T18:40:52Z,,,https://github.com/casangi/astroviper/issues/295
 Imaging,Backlog,Issue,casangi/astroviper,297,Connect Continuum Imaging to MTMFS,OPEN,hmuellergoe,,2026-10-01T15:39:13Z,,,https://github.com/casangi/astroviper/issues/297
 Imaging,Backlog,Issue,casangi/astroviper,298,Finish Continuum Imaging Memo II,OPEN,hmuellergoe,,2026-10-01T15:46:18Z,,,https://github.com/casangi/astroviper/issues/298
-Imaging,Backlog,Issue,casangi/astroviper,307,New Algorithms Tracker,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-10-05T16:57:54Z,,,https://github.com/casangi/astroviper/issues/307
+Imaging,Backlog,Issue,casangi/astroviper,307,New Algorithms Tracker,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-10-07T21:44:49Z,,,https://github.com/casangi/astroviper/issues/307
 Imaging,Done,Issue,casangi/RADPS-roadmap,21,Epic: Simulating visibilities,CLOSED,,Visibility Manipulation,2026-10-01T17:45:10Z,2026-10-01T17:45:10Z,,https://github.com/casangi/RADPS-roadmap/issues/21
 Imaging,Done,Issue,casangi/astroviper,289,Fix divergence test memory usage and add memory test,CLOSED,Jan-Willem,Fundamental Core Function; Unit Tests,2026-10-06T18:22:40Z,2026-10-06T18:22:40Z,,https://github.com/casangi/astroviper/issues/289
 Imaging,Done,PullRequest,casangi/flowviper,10,4 add new example workflow,MERGED,,,2026-10-06T08:29:25Z,2026-10-06T08:29:25Z,,https://github.com/casangi/flowviper/pull/10
@@ -59,6 +59,7 @@ Infrastructure,Backlog,Issue,casangi/xradio,594,Discuss modifications with partn
 Infrastructure,Backlog,Issue,casangi/xradio,598,Improve Memory Performance --Implementation,OPEN,enrique-alma-eso,,2026-08-21T18:06:24Z,,casangi/xradio#577,https://github.com/casangi/xradio/issues/598
 Infrastructure,Backlog,Issue,casangi/xradio,613,ASDM backend: ensure BDFs are loaded correctly for single dish ASDMs,OPEN,FedeMPouzols,enhancement,2026-09-21T10:26:12Z,,casangi/xradio#591,https://github.com/casangi/xradio/issues/613
 Infrastructure,Done,Issue,casangi/graphviper,67,"Default per-task memory hooks (mmap threshold pin, malloc_trim) raise minor page faults",CLOSED,Jan-Willem,bug,2026-10-02T12:38:16Z,2026-10-02T12:38:16Z,,https://github.com/casangi/graphviper/issues/67
+Infrastructure,Done,Issue,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,CLOSED,Jan-Willem,bug,2026-10-07T22:10:28Z,2026-10-07T22:10:28Z,,https://github.com/casangi/graphviper/issues/70
 Infrastructure,Done,Issue,casangi/testviper,60,Create A Dispatch to Benchviper,CLOSED,awells-nrao,,2026-10-01T13:03:25Z,2026-10-01T13:03:25Z,,https://github.com/casangi/testviper/issues/60
 Infrastructure,Done,Issue,casangi/toolviper,65,Dask Nanny MALLOC_TRIM_THRESHOLD_ disables glibc dynamic mmap threshold in workers,CLOSED,Jan-Willem,bug,2026-10-02T12:38:49Z,2026-10-02T12:38:49Z,,https://github.com/casangi/toolviper/issues/65
 Infrastructure,Done,Issue,casangi/xradio,497,Image Format,CLOSED,scpmw sjperkins Jan-Willem dmehring tnakazato Copilot,documentation; enhancement,2026-10-02T21:30:47Z,2026-10-02T21:30:47Z,,https://github.com/casangi/xradio/issues/497
@@ -71,7 +72,6 @@ Infrastructure,In progress,Issue,casangi/RADPS-roadmap,62,Epic:  Refactor of XRA
 Infrastructure,In progress,Issue,casangi/benchviper,25,Update matrix of dependencies to use ARCAE backend,OPEN,awells-nrao smcastro,enhancement,2026-09-15T13:26:05Z,,,https://github.com/casangi/benchviper/issues/25
 Infrastructure,In progress,Issue,casangi/benchviper,27,Force workflow failure when benchmarks fail to execute,OPEN,awells-nrao,,2026-09-01T13:43:03Z,,,https://github.com/casangi/benchviper/issues/27
 Infrastructure,In progress,Issue,casangi/graphviper,68,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",OPEN,Jan-Willem,,2026-10-05T15:46:25Z,,,https://github.com/casangi/graphviper/issues/68
-Infrastructure,In progress,Issue,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,OPEN,Jan-Willem,bug,2026-10-07T17:29:43Z,,,https://github.com/casangi/graphviper/issues/70
 Infrastructure,In progress,Issue,casangi/pyasdm,30,binary table improvement,OPEN,bgarwood,,2026-07-28T18:45:49Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/pyasdm/issues/30
 Infrastructure,In progress,Issue,casangi/pyasdm,37,Finalize and implement binary table improvements,OPEN,bgarwood,,2026-09-08T14:49:34Z,,casangi/pyasdm#30,https://github.com/casangi/pyasdm/issues/37
 Infrastructure,In progress,Issue,casangi/pyasdm,50,"CI: Python 3.12–3.14, lint + Linux 3.13 on push, full matrix on PRs and merges to main",OPEN,Jan-Willem,,2026-10-05T15:24:25Z,,,https://github.com/casangi/pyasdm/issues/50
@@ -83,7 +83,7 @@ Infrastructure,In progress,Issue,casangi/xradio,577,Improve Memory Performance o
 Infrastructure,In progress,Issue,casangi/xradio,591,ASDM backend: Support single dish (SpectrumXds),OPEN,FedeMPouzols,enhancement,2026-07-06T17:32:01Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/xradio/issues/591
 Infrastructure,In progress,Issue,casangi/xradio,592,ASDM backend reviewed and merged with consolidated tests working on CI,OPEN,FedeMPouzols,enhancement,2026-07-07T10:27:33Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/xradio/issues/592
 Infrastructure,In progress,Issue,casangi/xradio,599,Use ARCAE as MSv2 Backend,OPEN,Jan-Willem,enhancement,2026-08-31T14:53:25Z,,,https://github.com/casangi/xradio/issues/599
-Infrastructure,In progress,Issue,casangi/xradio,603,Ephemeris data trimmed,OPEN,Jan-Willem,bug,2026-09-16T06:36:39Z,,,https://github.com/casangi/xradio/issues/603
+Infrastructure,In progress,Issue,casangi/xradio,603,Ephemeris data trimmed,OPEN,Jan-Willem,bug,2026-10-08T07:47:09Z,,,https://github.com/casangi/xradio/issues/603
 Infrastructure,In progress,Issue,casangi/xradio,612,ASDM backend: support single dish metadata => SpectrumXds and sub-datasets,OPEN,FedeMPouzols,enhancement,2026-09-21T10:25:51Z,,casangi/xradio#591,https://github.com/casangi/xradio/issues/612
 Infrastructure,In progress,Issue,casangi/xradio,620,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",OPEN,Jan-Willem,,2026-10-05T15:30:11Z,,,https://github.com/casangi/xradio/issues/620
 Management,Backlog,Issue,casangi/radpsdocs,26,Add existing documents to memo series,OPEN,,Memo Series,2026-04-22T11:13:21Z,,casangi/RADPS-roadmap#25,https://github.com/casangi/radpsdocs/issues/26

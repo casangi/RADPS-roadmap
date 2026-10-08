@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T19:05:32Z",
+ "generated_at": "2026-10-08T17:27:12Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3085,8 +3085,8 @@
    "number": 70,
    "pi": "PI26.4",
    "repo": "casangi/graphviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "make_parallel_coord(n_chunks=n) can return far fewer chunks than requested",
    "url": "https://github.com/casangi/graphviper/issues/70"
