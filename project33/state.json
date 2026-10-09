@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T19:01:39Z",
+ "generated_at": "2026-10-09T17:04:05Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2465,8 +2465,8 @@
    "number": 281,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Create python bindings for deconvolver MTMFS",
    "url": "https://github.com/casangi/astroviper/issues/281"
@@ -2535,8 +2535,8 @@
    "number": 291,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Entropy stop based on Homan et al.",
    "url": "https://github.com/casangi/astroviper/issues/291"
@@ -2545,8 +2545,8 @@
    "number": 292,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Restore convention change",
    "url": "https://github.com/casangi/astroviper/issues/292"
@@ -4376,7 +4376,7 @@
    "pi": "PI26.4",
    "repo": "casangi/toolviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "Propose a structure to store test data in Cloudflare",
    "url": "https://github.com/casangi/toolviper/issues/62"

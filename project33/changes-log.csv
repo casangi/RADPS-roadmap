@@ -5,3 +5,10 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-07T19:05:32Z,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,project,,added,https://github.com/casangi/graphviper/issues/70
 2026-10-08T17:27:12Z,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,Status,In progress,Done,https://github.com/casangi/graphviper/issues/70
 2026-10-08T17:27:12Z,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,state,OPEN,CLOSED,https://github.com/casangi/graphviper/issues/70
+2026-10-09T17:04:05Z,casangi/toolviper,62,Propose a structure to store test data in Cloudflare,Status,Backlog,In progress,https://github.com/casangi/toolviper/issues/62
+2026-10-09T17:04:05Z,casangi/astroviper,281,Create python bindings for deconvolver MTMFS,Status,In progress,Done,https://github.com/casangi/astroviper/issues/281
+2026-10-09T17:04:05Z,casangi/astroviper,281,Create python bindings for deconvolver MTMFS,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/281
+2026-10-09T17:04:05Z,casangi/astroviper,291,Entropy stop based on Homan et al.,Status,In progress,Done,https://github.com/casangi/astroviper/issues/291
+2026-10-09T17:04:05Z,casangi/astroviper,291,Entropy stop based on Homan et al.,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/291
+2026-10-09T17:04:05Z,casangi/astroviper,292,Restore convention change,Status,In progress,Done,https://github.com/casangi/astroviper/issues/292
+2026-10-09T17:04:05Z,casangi/astroviper,292,Restore convention change,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/292
