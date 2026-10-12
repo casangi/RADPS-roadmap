@@ -12,3 +12,9 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-09T17:04:05Z,casangi/astroviper,291,Entropy stop based on Homan et al.,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/291
 2026-10-09T17:04:05Z,casangi/astroviper,292,Restore convention change,Status,In progress,Done,https://github.com/casangi/astroviper/issues/292
 2026-10-09T17:04:05Z,casangi/astroviper,292,Restore convention change,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/292
+2026-10-12T19:53:10Z,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",project,,added,https://github.com/casangi/xradio/issues/633
+2026-10-12T19:53:10Z,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",project,,added,https://github.com/casangi/xradio/issues/634
+2026-10-12T19:53:10Z,casangi/xradio,635,"ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",project,,added,https://github.com/casangi/xradio/issues/635
+2026-10-12T19:53:10Z,casangi/astroviper,323,Simulator: add bandwidth and time averaging smearing for all sky models,project,,added,https://github.com/casangi/astroviper/issues/323
+2026-10-12T19:53:10Z,casangi/astroviper,324,Simulator: add on/off source observing gaps and expose scan_intent,project,,added,https://github.com/casangi/astroviper/issues/324
+2026-10-12T19:53:10Z,casangi/astroviper,325,Simulator: add visibility corruptions following the measurement equation,project,,added,https://github.com/casangi/astroviper/issues/325

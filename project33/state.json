@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T17:48:41Z",
+ "generated_at": "2026-10-12T19:53:10Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2651,6 +2651,36 @@
    "title": "Performance Improvements and Bug Fixes for deconvolvers",
    "url": "https://github.com/casangi/astroviper/issues/314"
   },
+  "https://github.com/casangi/astroviper/issues/323": {
+   "number": 323,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Simulator: add bandwidth and time averaging smearing for all sky models",
+   "url": "https://github.com/casangi/astroviper/issues/323"
+  },
+  "https://github.com/casangi/astroviper/issues/324": {
+   "number": 324,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Simulator: add on/off source observing gaps and expose scan_intent",
+   "url": "https://github.com/casangi/astroviper/issues/324"
+  },
+  "https://github.com/casangi/astroviper/issues/325": {
+   "number": 325,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Simulator: add visibility corruptions following the measurement equation",
+   "url": "https://github.com/casangi/astroviper/issues/325"
+  },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
    "pi": "",
@@ -4720,6 +4750,36 @@
    "team": "Infrastructure",
    "title": "MSv2 xarray backend: xr.open_datatree(msv2) with partitions cached in the MSv2",
    "url": "https://github.com/casangi/xradio/issues/629"
+  },
+  "https://github.com/casangi/xradio/issues/633": {
+   "number": 633,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "write_image: let the zarr writer take chunks, shards and a compressor",
+   "url": "https://github.com/casangi/xradio/issues/633"
+  },
+  "https://github.com/casangi/xradio/issues/634": {
+   "number": 634,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",
+   "url": "https://github.com/casangi/xradio/issues/634"
+  },
+  "https://github.com/casangi/xradio/issues/635": {
+   "number": 635,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",
+   "url": "https://github.com/casangi/xradio/issues/635"
   }
  }
 }
