@@ -18,3 +18,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-12T19:53:10Z,casangi/astroviper,323,Simulator: add bandwidth and time averaging smearing for all sky models,project,,added,https://github.com/casangi/astroviper/issues/323
 2026-10-12T19:53:10Z,casangi/astroviper,324,Simulator: add on/off source observing gaps and expose scan_intent,project,,added,https://github.com/casangi/astroviper/issues/324
 2026-10-12T19:53:10Z,casangi/astroviper,325,Simulator: add visibility corruptions following the measurement equation,project,,added,https://github.com/casangi/astroviper/issues/325
+2026-10-12T21:25:22Z,casangi/astroviper,326,Simulator: VLBI accurate UVW from radio_telescope_delay_model (CALC11),project,,added,https://github.com/casangi/astroviper/issues/326
+2026-10-12T21:25:22Z,casangi/xradio,636,ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11),project,,added,https://github.com/casangi/xradio/issues/636

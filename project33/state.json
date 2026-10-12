@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T19:53:10Z",
+ "generated_at": "2026-10-12T21:25:22Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2681,6 +2681,16 @@
    "title": "Simulator: add visibility corruptions following the measurement equation",
    "url": "https://github.com/casangi/astroviper/issues/325"
   },
+  "https://github.com/casangi/astroviper/issues/326": {
+   "number": 326,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Simulator: VLBI accurate UVW from radio_telescope_delay_model (CALC11)",
+   "url": "https://github.com/casangi/astroviper/issues/326"
+  },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
    "pi": "",
@@ -4780,6 +4790,16 @@
    "team": "Infrastructure",
    "title": "ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",
    "url": "https://github.com/casangi/xradio/issues/635"
+  },
+  "https://github.com/casangi/xradio/issues/636": {
+   "number": 636,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11)",
+   "url": "https://github.com/casangi/xradio/issues/636"
   }
  }
 }

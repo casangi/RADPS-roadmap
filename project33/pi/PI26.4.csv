@@ -15,7 +15,7 @@ Imaging,Backlog,Issue,casangi/astroviper,298,Finish Continuum Imaging Memo II,OP
 Imaging,Backlog,Issue,casangi/astroviper,307,New Algorithms Tracker,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-10-07T21:44:49Z,,,https://github.com/casangi/astroviper/issues/307
 Imaging,Backlog,Issue,casangi/astroviper,323,Simulator: add bandwidth and time averaging smearing for all sky models,OPEN,Jan-Willem,,2026-10-12T19:16:23Z,,,https://github.com/casangi/astroviper/issues/323
 Imaging,Backlog,Issue,casangi/astroviper,324,Simulator: add on/off source observing gaps and expose scan_intent,OPEN,Jan-Willem,,2026-10-12T19:29:21Z,,,https://github.com/casangi/astroviper/issues/324
-Imaging,Backlog,Issue,casangi/astroviper,325,Simulator: add visibility corruptions following the measurement equation,OPEN,Jan-Willem,,2026-10-12T19:16:27Z,,,https://github.com/casangi/astroviper/issues/325
+Imaging,Backlog,Issue,casangi/astroviper,325,Simulator: add visibility corruptions following the measurement equation,OPEN,Jan-Willem,,2026-10-12T20:31:05Z,,,https://github.com/casangi/astroviper/issues/325
 Imaging,Done,Issue,casangi/RADPS-roadmap,21,Epic: Simulating visibilities,CLOSED,,Visibility Manipulation,2026-10-01T17:45:10Z,2026-10-01T17:45:10Z,,https://github.com/casangi/RADPS-roadmap/issues/21
 Imaging,Done,Issue,casangi/astroviper,281,Create python bindings for deconvolver MTMFS,CLOSED,Jan-Willem hmuellergoe,,2026-10-09T00:55:36Z,2026-10-09T00:55:36Z,casangi/RADPS-roadmap#136,https://github.com/casangi/astroviper/issues/281
 Imaging,Done,Issue,casangi/astroviper,289,Fix divergence test memory usage and add memory test,CLOSED,Jan-Willem,Fundamental Core Function; Unit Tests,2026-10-06T18:22:40Z,2026-10-06T18:22:40Z,,https://github.com/casangi/astroviper/issues/289
@@ -46,6 +46,7 @@ Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,214,Epic:  GraphVIPER mainten
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,215,Work through ToolVIPER tutorials,OPEN,enrique-alma-eso,,2026-09-24T14:28:14Z,,casangi/RADPS-roadmap#57,https://github.com/casangi/RADPS-roadmap/issues/215
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,57,Epic:  ToolVIPER maintenance,OPEN,enrique-alma-eso,,2026-09-24T14:15:16Z,,,https://github.com/casangi/RADPS-roadmap/issues/57
 Infrastructure,Backlog,Issue,casangi/astroviper,293,Reduce duplicate instances of GitHub workflows,OPEN,Jan-Willem,,2026-09-30T19:14:09Z,,,https://github.com/casangi/astroviper/issues/293
+Infrastructure,Backlog,Issue,casangi/astroviper,326,Simulator: VLBI accurate UVW from radio_telescope_delay_model (CALC11),OPEN,Jan-Willem,,2026-10-12T19:59:58Z,,,https://github.com/casangi/astroviper/issues/326
 Infrastructure,Backlog,Issue,casangi/benchviper,36,Update benchviper for iteration control parameter name changes,OPEN,,,2026-09-29T14:21:36Z,,,https://github.com/casangi/benchviper/issues/36
 Infrastructure,Backlog,Issue,casangi/pyasdm,28,Pointing table: look into performance and try to optimize,OPEN,FedeMPouzols,enhancement,2026-07-28T18:55:53Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/pyasdm/issues/28
 Infrastructure,Backlog,Issue,casangi/pyasdm,31,Epic: asdm tests,OPEN,bgarwood,,2026-08-07T22:34:25Z,,,https://github.com/casangi/pyasdm/issues/31
@@ -63,6 +64,7 @@ Infrastructure,Backlog,Issue,casangi/xradio,613,ASDM backend: ensure BDFs are lo
 Infrastructure,Backlog,Issue,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",OPEN,Jan-Willem,enhancement,2026-10-12T13:58:09Z,,,https://github.com/casangi/xradio/issues/633
 Infrastructure,Backlog,Issue,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",OPEN,Jan-Willem,,2026-10-12T13:57:56Z,,,https://github.com/casangi/xradio/issues/634
 Infrastructure,Backlog,Issue,casangi/xradio,635,"ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",OPEN,FedeMPouzols,documentation; enhancement,2026-10-12T14:11:35Z,,casangi/xradio#592,https://github.com/casangi/xradio/issues/635
+Infrastructure,Backlog,Issue,casangi/xradio,636,ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11),OPEN,Jan-Willem,,2026-10-12T19:59:56Z,,,https://github.com/casangi/xradio/issues/636
 Infrastructure,Done,Issue,casangi/graphviper,67,"Default per-task memory hooks (mmap threshold pin, malloc_trim) raise minor page faults",CLOSED,Jan-Willem,bug,2026-10-02T12:38:16Z,2026-10-02T12:38:16Z,,https://github.com/casangi/graphviper/issues/67
 Infrastructure,Done,Issue,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,CLOSED,Jan-Willem,bug,2026-10-07T22:10:28Z,2026-10-07T22:10:28Z,,https://github.com/casangi/graphviper/issues/70
 Infrastructure,Done,Issue,casangi/testviper,60,Create A Dispatch to Benchviper,CLOSED,awells-nrao,,2026-10-01T13:03:25Z,2026-10-01T13:03:25Z,,https://github.com/casangi/testviper/issues/60
