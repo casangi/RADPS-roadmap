@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T17:40:24Z",
+ "generated_at": "2026-10-13T19:50:59Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -4785,8 +4785,8 @@
    "number": 634,
    "pi": "PI26.4",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",
    "url": "https://github.com/casangi/xradio/issues/634"

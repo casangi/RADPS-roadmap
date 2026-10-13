@@ -39,3 +39,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-13T17:40:24Z,casangi/toolviper,64,Please upload this ASDM to be available for download with `toolviper.utils.data.download()`: uid://A002/X10f6291/X12d9 (ExecBlock ID),project,,added,https://github.com/casangi/toolviper/issues/64
 2026-10-13T17:40:24Z,casangi/xradio,637,arcae backend: known arcae issues and limitations (review list for #606),project,,added,https://github.com/casangi/xradio/issues/637
 2026-10-13T17:40:24Z,casangi/xradio,640,Move API from Custom Functions to Xarray backends + Accessors,project,,added,https://github.com/casangi/xradio/issues/640
+2026-10-13T19:50:59Z,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",Status,In progress,Done,https://github.com/casangi/xradio/issues/634
+2026-10-13T19:50:59Z,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/634
