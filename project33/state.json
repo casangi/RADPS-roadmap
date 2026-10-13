@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T21:25:22Z",
+ "generated_at": "2026-10-13T17:40:24Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -315,8 +315,8 @@
    "number": 136,
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "port Multi-Term Multi-Scale Multi-Frequency Synthesis (MTMFS w/ multiscale) from CASA to astroviper",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/136"
@@ -393,7 +393,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/144": {
    "number": 144,
-   "pi": "Near-term",
+   "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -403,7 +403,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/145": {
    "number": 145,
-   "pi": "Mid-term",
+   "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -593,7 +593,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/18": {
    "number": 18,
-   "pi": "Near-term",
+   "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -693,7 +693,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/20": {
    "number": 20,
-   "pi": "Near-term",
+   "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -2365,8 +2365,8 @@
    "number": 260,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "remove excess code in continuum technology demonstrator",
    "url": "https://github.com/casangi/astroviper/issues/260"
@@ -2525,8 +2525,8 @@
    "number": 290,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Divergence test based on Thompson et al.",
    "url": "https://github.com/casangi/astroviper/issues/290"
@@ -2586,7 +2586,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Connect Continuum Imaging to MTMFS",
    "url": "https://github.com/casangi/astroviper/issues/297"
@@ -2647,7 +2647,7 @@
    "repo": "casangi/astroviper",
    "state": "OPEN",
    "status": "Backlog",
-   "team": "",
+   "team": "Imaging",
    "title": "Performance Improvements and Bug Fixes for deconvolvers",
    "url": "https://github.com/casangi/astroviper/issues/314"
   },
@@ -4035,8 +4035,8 @@
    "number": 15,
    "pi": "PI26.4",
    "repo": "casangi/radps-context",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Pipeline",
    "title": "Decide logical components and architecture style",
    "url": "https://github.com/casangi/radps-context/issues/15"
@@ -4421,6 +4421,16 @@
    "title": "Propose a structure to store test data in Cloudflare",
    "url": "https://github.com/casangi/toolviper/issues/62"
   },
+  "https://github.com/casangi/toolviper/issues/64": {
+   "number": 64,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Please upload this ASDM to be available for download with `toolviper.utils.data.download()`: uid://A002/X10f6291/X12d9 (ExecBlock ID)",
+   "url": "https://github.com/casangi/toolviper/issues/64"
+  },
   "https://github.com/casangi/toolviper/issues/65": {
    "number": 65,
    "pi": "PI26.4",
@@ -4766,7 +4776,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "write_image: let the zarr writer take chunks, shards and a compressor",
    "url": "https://github.com/casangi/xradio/issues/633"
@@ -4776,7 +4786,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",
    "url": "https://github.com/casangi/xradio/issues/634"
@@ -4800,6 +4810,26 @@
    "team": "Infrastructure",
    "title": "ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11)",
    "url": "https://github.com/casangi/xradio/issues/636"
+  },
+  "https://github.com/casangi/xradio/issues/637": {
+   "number": 637,
+   "pi": "Triage",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "arcae backend: known arcae issues and limitations (review list for #606)",
+   "url": "https://github.com/casangi/xradio/issues/637"
+  },
+  "https://github.com/casangi/xradio/issues/640": {
+   "number": 640,
+   "pi": "Triage",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Move API from Custom Functions to Xarray backends + Accessors",
+   "url": "https://github.com/casangi/xradio/issues/640"
   }
  }
 }

@@ -20,3 +20,22 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-12T19:53:10Z,casangi/astroviper,325,Simulator: add visibility corruptions following the measurement equation,project,,added,https://github.com/casangi/astroviper/issues/325
 2026-10-12T21:25:22Z,casangi/astroviper,326,Simulator: VLBI accurate UVW from radio_telescope_delay_model (CALC11),project,,added,https://github.com/casangi/astroviper/issues/326
 2026-10-12T21:25:22Z,casangi/xradio,636,ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11),project,,added,https://github.com/casangi/xradio/issues/636
+2026-10-13T17:40:24Z,casangi/RADPS-roadmap,144,Epic: Spectrum within a mask,Program Increment,Near-term,PI27.1,https://github.com/casangi/RADPS-roadmap/issues/144
+2026-10-13T17:40:24Z,casangi/RADPS-roadmap,18,Epic: Continuum Subtraction,Program Increment,Near-term,PI27.1,https://github.com/casangi/RADPS-roadmap/issues/18
+2026-10-13T17:40:24Z,casangi/RADPS-roadmap,20,Epic: Image Moments,Program Increment,Near-term,PI27.1,https://github.com/casangi/RADPS-roadmap/issues/20
+2026-10-13T17:40:24Z,casangi/radps-context,15,Decide logical components and architecture style,Status,In progress,Done,https://github.com/casangi/radps-context/issues/15
+2026-10-13T17:40:24Z,casangi/radps-context,15,Decide logical components and architecture style,state,OPEN,CLOSED,https://github.com/casangi/radps-context/issues/15
+2026-10-13T17:40:24Z,casangi/RADPS-roadmap,136,port Multi-Term Multi-Scale Multi-Frequency Synthesis (MTMFS w/ multiscale) from CASA to astroviper,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/136
+2026-10-13T17:40:24Z,casangi/RADPS-roadmap,136,port Multi-Term Multi-Scale Multi-Frequency Synthesis (MTMFS w/ multiscale) from CASA to astroviper,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/136
+2026-10-13T17:40:24Z,casangi/RADPS-roadmap,145,Epic:  Integrate findcont into RADPS,Program Increment,Mid-term,PI27.1,https://github.com/casangi/RADPS-roadmap/issues/145
+2026-10-13T17:40:24Z,casangi/astroviper,260,remove excess code in continuum technology demonstrator,Status,In progress,Done,https://github.com/casangi/astroviper/issues/260
+2026-10-13T17:40:24Z,casangi/astroviper,260,remove excess code in continuum technology demonstrator,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/260
+2026-10-13T17:40:24Z,casangi/astroviper,290,Divergence test based on Thompson et al.,Status,In progress,Done,https://github.com/casangi/astroviper/issues/290
+2026-10-13T17:40:24Z,casangi/astroviper,290,Divergence test based on Thompson et al.,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/290
+2026-10-13T17:40:24Z,casangi/astroviper,297,Connect Continuum Imaging to MTMFS,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/297
+2026-10-13T17:40:24Z,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,Team,,Imaging,https://github.com/casangi/astroviper/issues/314
+2026-10-13T17:40:24Z,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",Status,Backlog,In progress,https://github.com/casangi/xradio/issues/633
+2026-10-13T17:40:24Z,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",Status,Backlog,In progress,https://github.com/casangi/xradio/issues/634
+2026-10-13T17:40:24Z,casangi/toolviper,64,Please upload this ASDM to be available for download with `toolviper.utils.data.download()`: uid://A002/X10f6291/X12d9 (ExecBlock ID),project,,added,https://github.com/casangi/toolviper/issues/64
+2026-10-13T17:40:24Z,casangi/xradio,637,arcae backend: known arcae issues and limitations (review list for #606),project,,added,https://github.com/casangi/xradio/issues/637
+2026-10-13T17:40:24Z,casangi/xradio,640,Move API from Custom Functions to Xarray backends + Accessors,project,,added,https://github.com/casangi/xradio/issues/640
