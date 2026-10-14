@@ -2,6 +2,7 @@ team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,p
 Infrastructure,Backlog,Issue,casangi/xradio,573,Add Xarray backends for XRADIO image formats: CASA images and FITS images,OPEN,FedeMPouzols,enhancement,2026-07-07T10:30:26Z,,casangi/RADPS-roadmap#65,https://github.com/casangi/xradio/issues/573
 Infrastructure,Done,Issue,casangi/xradio,572,Add an Xarray backend for ASDM format support in XRADIO.,CLOSED,FedeMPouzols,enhancement,2026-07-27T15:26:32Z,2026-07-27T15:26:32Z,casangi/RADPS-roadmap#65,https://github.com/casangi/xradio/issues/572
 Infrastructure,Done,Issue,casangi/xradio,611,"Add test infrastructure for single dish (dataset, fixtures, basic tests, etc.)",CLOSED,FedeMPouzols,enhancement; tests,2026-09-29T18:46:27Z,2026-09-29T18:46:27Z,casangi/xradio#591,https://github.com/casangi/xradio/issues/611
+Infrastructure,In progress,Issue,casangi/testviper,34,Prototype first workflow integration test,OPEN,awells-nrao smcastro taktsutsumi,,2026-10-05T06:24:00Z,,casangi/RADPS-roadmap#109,https://github.com/casangi/testviper/issues/34
 Infrastructure,Won't Do,Issue,casangi/RADPS-roadmap,60,Epic:  XRADIO measurement set maintenance,CLOSED,,Data Schemas,2026-09-10T21:24:14Z,2026-09-10T21:24:14Z,,https://github.com/casangi/RADPS-roadmap/issues/60
 Pipeline,Done,Issue,casangi/radps-context,21,consistency in actor naming in use cases,CLOSED,,,2026-09-24T20:14:23Z,2026-09-24T20:14:23Z,casangi/radps-context#14,https://github.com/casangi/radps-context/issues/21
 ,,Issue,casangi/xradio,521,Simulated WSU single-dish test data for benchmarking of imaging prototype,OPEN,aakepley Jan-Willem tnakazato,,2026-07-28T04:35:56Z,,casangi/RADPS-roadmap#74,https://github.com/casangi/xradio/issues/521
@@ -41,7 +42,6 @@ Pipeline,Done,Issue,casangi/radps-context,21,consistency in actor naming in use 
 ,Backlog,Issue,casangi/radps-context,6,Create prototype 1,OPEN,,,2026-03-02T19:46:33Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/6
 ,Backlog,Issue,casangi/radps-context,7,Create additional prototype(s),OPEN,,,2026-03-02T19:46:57Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/7
 ,Backlog,Issue,casangi/radps-context,8,Conduct trade-off analysis,OPEN,,,2026-03-02T19:47:11Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/8
-,Backlog,Issue,casangi/radps-sccb,2,SCCB: Add full polarization imaging to RADPS-ALMA project scope,OPEN,sspitale,,2026-09-22T19:03:18Z,,,https://github.com/casangi/radps-sccb/issues/2
 ,Backlog,Issue,casangi/radpsdocs,23,implement RADPS documentation skeleton on readthedocs,OPEN,,ReadTheDocs,2026-04-21T21:44:24Z,,casangi/radpsdocs#9,https://github.com/casangi/radpsdocs/issues/23
 ,Backlog,Issue,casangi/radpsdocs,3,Put together intro to RADPS PI2 wiki page,OPEN,aakepley,ReadTheDocs,2026-04-21T21:44:15Z,,casangi/radpsdocs#9,https://github.com/casangi/radpsdocs/issues/3
 ,Backlog,Issue,casangi/radpsdocs,31,add line about MOU to memo,OPEN,aakepley,Memo Series,2026-04-27T20:55:07Z,,casangi/radpsdocs#25,https://github.com/casangi/radpsdocs/issues/31
@@ -114,5 +114,6 @@ Pipeline,Done,Issue,casangi/radps-context,21,consistency in actor naming in use 
 ,In progress,Issue,casangi/radps-alma-pdr,4,RADPS-ALMA Requirements,OPEN,aakepley,,2026-07-17T19:10:46Z,,casangi/RADPS-roadmap#80,https://github.com/casangi/radps-alma-pdr/issues/4
 ,In progress,Issue,casangi/radps-alma-pdr,5,RADPS-ALMA / ALMA-D3 Interface Description,OPEN,aakepley,,2026-08-14T19:10:11Z,,casangi/RADPS-roadmap#80,https://github.com/casangi/radps-alma-pdr/issues/5
 ,In progress,Issue,casangi/radps-alma-pdr,7,Compliance Matrix,OPEN,aakepley,,2026-07-17T19:13:15Z,,casangi/RADPS-roadmap#80,https://github.com/casangi/radps-alma-pdr/issues/7
+,In progress,Issue,casangi/radps-sccb,2,SCCB: Add full polarization imaging to RADPS-ALMA project scope,OPEN,sspitale,,2026-10-13T21:14:06Z,,,https://github.com/casangi/radps-sccb/issues/2
 ,Won't Do,Issue,casangi/RADPS,67,Determine what metrics are needed to measure performance for the RADPS-ALMA Development Study,CLOSED,aakepley swwitz Jan-Willem jmalone-nrao,cluster infrastructure,2026-06-24T19:53:49Z,2026-06-24T19:53:49Z,casangi/astroviper#134,https://github.com/casangi/RADPS/issues/67
 ,Won't Do,Issue,casangi/graphviper,57,single dish walking skeleton work,CLOSED,jrhosk,documentation; enhancement,2026-06-19T00:29:15Z,2026-06-19T00:29:15Z,casangi/graphviper#59,https://github.com/casangi/graphviper/issues/57

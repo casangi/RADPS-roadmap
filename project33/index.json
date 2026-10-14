@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:50:59Z",
+  "generated_at": "2026-10-14T15:14:37Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -169,12 +169,12 @@
         }
       },
       "Infrastructure": {
-        "total": 61,
-        "done": 10,
+        "total": 60,
+        "done": 12,
         "by_status": {
-          "Backlog": 29,
-          "Done": 10,
-          "In progress": 22
+          "Backlog": 27,
+          "Done": 12,
+          "In progress": 21
         }
       },
       "Management": {
@@ -409,11 +409,12 @@
     },
     "(no PI)": {
       "Infrastructure": {
-        "total": 4,
+        "total": 5,
         "done": 2,
         "by_status": {
           "Backlog": 1,
           "Done": 2,
+          "In progress": 1,
           "Won't Do": 1
         }
       },
@@ -429,9 +430,9 @@
         "done": 56,
         "by_status": {
           "(no status)": 1,
-          "Backlog": 42,
+          "Backlog": 41,
           "Done": 56,
-          "In progress": 11,
+          "In progress": 12,
           "Won't Do": 2
         }
       }

@@ -41,3 +41,11 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-13T17:40:24Z,casangi/xradio,640,Move API from Custom Functions to Xarray backends + Accessors,project,,added,https://github.com/casangi/xradio/issues/640
 2026-10-13T19:50:59Z,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",Status,In progress,Done,https://github.com/casangi/xradio/issues/634
 2026-10-13T19:50:59Z,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/634
+2026-10-14T15:14:37Z,casangi/testviper,34,Prototype first workflow integration test,Status,Backlog,In progress,https://github.com/casangi/testviper/issues/34
+2026-10-14T15:14:37Z,casangi/testviper,34,Prototype first workflow integration test,Program Increment,PI26.4,,https://github.com/casangi/testviper/issues/34
+2026-10-14T15:14:37Z,casangi/xradio,592,ASDM backend reviewed and merged with consolidated tests working on CI,Status,In progress,Done,https://github.com/casangi/xradio/issues/592
+2026-10-14T15:14:37Z,casangi/xradio,592,ASDM backend reviewed and merged with consolidated tests working on CI,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/592
+2026-10-14T15:14:37Z,casangi/radps-sccb,2,SCCB: Add full polarization imaging to RADPS-ALMA project scope,Status,Backlog,In progress,https://github.com/casangi/radps-sccb/issues/2
+2026-10-14T15:14:37Z,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",Status,In progress,Done,https://github.com/casangi/xradio/issues/633
+2026-10-14T15:14:37Z,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/633
+2026-10-14T15:14:37Z,casangi/xradio,635,"ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",Status,Backlog,In progress,https://github.com/casangi/xradio/issues/635

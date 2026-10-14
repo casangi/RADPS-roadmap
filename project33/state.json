@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T19:50:59Z",
+ "generated_at": "2026-10-14T15:14:37Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -4136,7 +4136,7 @@
    "pi": "",
    "repo": "casangi/radps-sccb",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "",
    "title": "SCCB: Add full polarization imaging to RADPS-ALMA project scope",
    "url": "https://github.com/casangi/radps-sccb/issues/2"
@@ -4303,10 +4303,10 @@
   },
   "https://github.com/casangi/testviper/issues/34": {
    "number": 34,
-   "pi": "PI26.4",
+   "pi": "",
    "repo": "casangi/testviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "Prototype first workflow integration test",
    "url": "https://github.com/casangi/testviper/issues/34"
@@ -4605,8 +4605,8 @@
    "number": 592,
    "pi": "PI26.4",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "ASDM backend reviewed and merged with consolidated tests working on CI",
    "url": "https://github.com/casangi/xradio/issues/592"
@@ -4775,8 +4775,8 @@
    "number": 633,
    "pi": "PI26.4",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "write_image: let the zarr writer take chunks, shards and a compressor",
    "url": "https://github.com/casangi/xradio/issues/633"
@@ -4796,7 +4796,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",
    "url": "https://github.com/casangi/xradio/issues/635"
