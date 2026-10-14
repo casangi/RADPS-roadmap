@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:14:37Z",
+  "generated_at": "2026-10-14T17:37:47Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -170,19 +170,19 @@
       },
       "Infrastructure": {
         "total": 60,
-        "done": 12,
+        "done": 13,
         "by_status": {
           "Backlog": 27,
-          "Done": 12,
-          "In progress": 21
+          "Done": 13,
+          "In progress": 20
         }
       },
       "Management": {
-        "total": 3,
+        "total": 4,
         "done": 0,
         "by_status": {
           "Backlog": 1,
-          "In progress": 2
+          "In progress": 3
         }
       },
       "Pipeline": {
@@ -374,12 +374,12 @@
       },
       "Management": {
         "total": 20,
-        "done": 9,
+        "done": 16,
         "by_status": {
-          "Backlog": 2,
-          "Done": 9,
-          "In progress": 7,
-          "Won't Do": 2
+          "Backlog": 1,
+          "Done": 16,
+          "In progress": 2,
+          "Won't Do": 1
         }
       },
       "Pipeline": {
@@ -391,10 +391,10 @@
       },
       "Single Dish": {
         "total": 7,
-        "done": 2,
+        "done": 3,
         "by_status": {
-          "Done": 2,
-          "In progress": 4,
+          "Done": 3,
+          "In progress": 3,
           "Won't Do": 1
         }
       },
@@ -410,10 +410,9 @@
     "(no PI)": {
       "Infrastructure": {
         "total": 5,
-        "done": 2,
+        "done": 3,
         "by_status": {
-          "Backlog": 1,
-          "Done": 2,
+          "Done": 3,
           "In progress": 1,
           "Won't Do": 1
         }
@@ -426,13 +425,13 @@
         }
       },
       "(no team)": {
-        "total": 112,
-        "done": 56,
+        "total": 110,
+        "done": 78,
         "by_status": {
           "(no status)": 1,
-          "Backlog": 41,
-          "Done": 56,
-          "In progress": 12,
+          "Backlog": 27,
+          "Done": 78,
+          "In progress": 2,
           "Won't Do": 2
         }
       }
@@ -455,10 +454,9 @@
       },
       "Infrastructure": {
         "total": 7,
-        "done": 6,
+        "done": 7,
         "by_status": {
-          "Done": 6,
-          "In progress": 1
+          "Done": 7
         }
       },
       "Pipeline": {
@@ -470,9 +468,9 @@
       },
       "Single Dish": {
         "total": 1,
-        "done": 0,
+        "done": 1,
         "by_status": {
-          "In progress": 1
+          "Done": 1
         }
       },
       "(no team)": {
@@ -510,10 +508,10 @@
         }
       },
       "(no team)": {
-        "total": 3,
+        "total": 4,
         "done": 0,
         "by_status": {
-          "Backlog": 3
+          "Backlog": 4
         }
       }
     },

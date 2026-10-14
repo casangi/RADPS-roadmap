@@ -49,3 +49,74 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-14T15:14:37Z,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",Status,In progress,Done,https://github.com/casangi/xradio/issues/633
 2026-10-14T15:14:37Z,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/633
 2026-10-14T15:14:37Z,casangi/xradio,635,"ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",Status,Backlog,In progress,https://github.com/casangi/xradio/issues/635
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,5,RADPS-ALMA / ALMA-D3 Interface Description,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/5
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,5,RADPS-ALMA / ALMA-D3 Interface Description,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/5
+2026-10-14T17:37:47Z,casangi/RADPS-roadmap,80,Epic:  Generate RADPS-ALMA PDR Documentation,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/80
+2026-10-14T17:37:47Z,casangi/RADPS-roadmap,80,Epic:  Generate RADPS-ALMA PDR Documentation,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/80
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,12,Development and Deployment Plan,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/12
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,12,Development and Deployment Plan,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/12
+2026-10-14T17:37:47Z,casangi/astroviper,47,apply_common_beam,Program Increment,,Triage,https://github.com/casangi/astroviper/issues/47
+2026-10-14T17:37:47Z,casangi/RADPS-roadmap,65,Epic:  Move to using Xarray backends,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/65
+2026-10-14T17:37:47Z,casangi/RADPS-roadmap,65,Epic:  Move to using Xarray backends,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/65
+2026-10-14T17:37:47Z,casangi/RADPS-roadmap,71,Epic:  Single Dish Imaging Performance Testing,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/71
+2026-10-14T17:37:47Z,casangi/RADPS-roadmap,71,Epic:  Single Dish Imaging Performance Testing,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/71
+2026-10-14T17:37:47Z,casangi/xradio,573,Add Xarray backends for XRADIO image formats: CASA images and FITS images,Status,Backlog,Done,https://github.com/casangi/xradio/issues/573
+2026-10-14T17:37:47Z,casangi/xradio,573,Add Xarray backends for XRADIO image formats: CASA images and FITS images,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/573
+2026-10-14T17:37:47Z,casangi/astroviper,241,Single-dish cube imaging benchmarking at NAOJ,Status,In progress,Done,https://github.com/casangi/astroviper/issues/241
+2026-10-14T17:37:47Z,casangi/astroviper,241,Single-dish cube imaging benchmarking at NAOJ,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/241
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,1,Preliminary Project Management Plan,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/1
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,1,Preliminary Project Management Plan,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/1
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,11,Technology Demonstrator Code,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/11
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,11,Technology Demonstrator Code,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/11
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,27,Generate a List of Reference Docs,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/27
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,27,Generate a List of Reference Docs,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/27
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,28,Create WBS for PMP,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/28
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,28,Create WBS for PMP,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/28
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,29,Cost Estimate of WBS,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/29
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,29,Cost Estimate of WBS,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/29
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,30,Create a Master Schedule with Milestones,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/30
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,30,Create a Master Schedule with Milestones,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/30
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,31,Document the Multi-region Coordination Model,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/31
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,31,Document the Multi-region Coordination Model,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/31
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,32,Define and Agree on CDR Timeline,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/32
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,32,Define and Agree on CDR Timeline,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/32
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,33,Identify Documentation Control Home,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/33
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,33,Identify Documentation Control Home,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/33
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,34,Define the Preliminary Commissioning Concept,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/34
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,34,Define the Preliminary Commissioning Concept,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/34
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,35,Define the Change Control Process,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/35
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,35,Define the Change Control Process,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/35
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,36,Create Communication Plan,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/36
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,36,Create Communication Plan,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/36
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,37,Update Org Chart,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/37
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,37,Update Org Chart,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/37
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,38,Identify the Governing Documents,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/38
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,38,Identify the Governing Documents,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/38
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,13,Operational and Technical Impact Assessment,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/13
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,13,Operational and Technical Impact Assessment,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/13
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,4,RADPS-ALMA Requirements,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/4
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,4,RADPS-ALMA Requirements,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/4
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,7,Compliance Matrix,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/7
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,7,Compliance Matrix,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/7
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,14,Risk Register,Status,In progress,Done,https://github.com/casangi/radps-alma-pdr/issues/14
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,14,Risk Register,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/14
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,15,Configured Items Data List,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/15
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,15,Configured Items Data List,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/15
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,3,Introduction to Document Package,Status,Won't Do,Done,https://github.com/casangi/radps-alma-pdr/issues/3
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,3,Introduction to Document Package,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/3
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,39,Create WBS Dictionary.,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/39
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,39,Create WBS Dictionary.,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/39
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,45,Review examples of Operational and Technical Impact Assessments,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/45
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,45,Review examples of Operational and Technical Impact Assessments,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/45
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,46,Create outline for Operational and Technical Impact Assessment,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/46
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,46,Create outline for Operational and Technical Impact Assessment,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/46
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,47,Assess current status of requirements based on process of ISOpT requirements process,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/47
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,47,Assess current status of requirements based on process of ISOpT requirements process,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/47
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,48,Talk with Rachel Rosen re: update of Cameo requirements,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/48
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,48,Talk with Rachel Rosen re: update of Cameo requirements,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/48
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,66,Final revisions,Status,Backlog,Done,https://github.com/casangi/radps-alma-pdr/issues/66
+2026-10-14T17:37:47Z,casangi/radps-alma-pdr,66,Final revisions,state,OPEN,CLOSED,https://github.com/casangi/radps-alma-pdr/issues/66
+2026-10-14T17:37:47Z,casangi/radps-sccb,2,SCCB: Add full polarization imaging to RADPS-ALMA project scope,Program Increment,,PI26.4,https://github.com/casangi/radps-sccb/issues/2
+2026-10-14T17:37:47Z,casangi/radps-sccb,2,SCCB: Add full polarization imaging to RADPS-ALMA project scope,Team,,Management,https://github.com/casangi/radps-sccb/issues/2
+2026-10-14T17:37:47Z,casangi/xradio,635,"ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",Status,In progress,Done,https://github.com/casangi/xradio/issues/635
+2026-10-14T17:37:47Z,casangi/xradio,635,"ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/635

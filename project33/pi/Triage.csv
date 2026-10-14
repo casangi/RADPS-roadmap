@@ -35,3 +35,4 @@ Single Dish,Won't Do,Issue,casangi/astroviper,239,Preliminary description of wal
 ,Backlog,Issue,casangi/RADPS-roadmap,143,Epic: Compute Infrastructure recommendations,OPEN,,,2026-06-23T20:50:59Z,,,https://github.com/casangi/RADPS-roadmap/issues/143
 ,Backlog,Issue,casangi/RADPS-roadmap,69,Epic:  Quantifying the Cluster Utilization Efficiency,OPEN,,Data Processing Workflows,2026-06-29T18:02:18Z,,,https://github.com/casangi/RADPS-roadmap/issues/69
 ,Backlog,Issue,casangi/RADPS-roadmap,70,Epic:  Empirical Size of Compute Estimates,OPEN,,Performance; Descope?,2026-06-29T18:02:26Z,,,https://github.com/casangi/RADPS-roadmap/issues/70
+,Backlog,Issue,casangi/astroviper,47,apply_common_beam,OPEN,,Fundamental Core Function; MS3.1: Single Field; MS3.2: Mosaic,2025-07-25T21:08:55Z,,casangi/astroviper#51,https://github.com/casangi/astroviper/issues/47
