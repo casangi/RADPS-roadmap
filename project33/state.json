@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T15:08:12Z",
+ "generated_at": "2026-10-15T17:23:45Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -938,7 +938,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
-   "title": "Epic:  Prototype IF Cube Imaging Workflow",
+   "title": "Epic:  Prototype Imaging Workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/27"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/28": {
