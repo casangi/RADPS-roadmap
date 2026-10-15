@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:37:47Z",
+  "generated_at": "2026-10-15T15:08:12Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -143,62 +143,69 @@
     "Near-term": "pi/Near-term.csv",
     "PI27.1": "pi/PI27.1.csv",
     "PI-4=26.3": "pi/PI-4-26.3.csv",
-    "(no PI)": "pi/no-pi.csv",
     "PI-3": "pi/PI-3.csv",
     "Triage": "pi/Triage.csv",
-    "PI-2": "pi/PI-2.csv"
+    "PI-2": "pi/PI-2.csv",
+    "(no PI)": "pi/no-pi.csv"
   },
-  "item_count": 483,
+  "item_count": 497,
   "counts": {
     "PI26.4": {
       "Calibration": {
-        "total": 5,
+        "total": 6,
         "done": 0,
         "by_status": {
           "Backlog": 1,
-          "In progress": 4
+          "In progress": 5
+        }
+      },
+      "External": {
+        "total": 1,
+        "done": 0,
+        "by_status": {
+          "In progress": 1
         }
       },
       "Imaging": {
-        "total": 31,
+        "total": 46,
         "done": 10,
         "by_status": {
-          "Backlog": 12,
+          "Backlog": 23,
           "Done": 10,
-          "In progress": 9
+          "In progress": 13
         }
       },
       "Infrastructure": {
-        "total": 60,
-        "done": 13,
+        "total": 62,
+        "done": 14,
         "by_status": {
           "Backlog": 27,
-          "Done": 13,
-          "In progress": 20
+          "Done": 14,
+          "In progress": 21
         }
       },
       "Management": {
-        "total": 4,
+        "total": 5,
         "done": 0,
         "by_status": {
-          "Backlog": 1,
-          "In progress": 3
+          "In progress": 5
         }
       },
       "Pipeline": {
-        "total": 2,
+        "total": 8,
         "done": 1,
         "by_status": {
-          "Backlog": 1,
+          "Backlog": 7,
           "Done": 1
         }
       },
       "Single Dish": {
-        "total": 4,
+        "total": 10,
         "done": 1,
         "by_status": {
-          "Backlog": 3,
-          "Done": 1
+          "Backlog": 8,
+          "Done": 1,
+          "In progress": 1
         }
       }
     },
@@ -286,10 +293,10 @@
         }
       },
       "Imaging": {
-        "total": 5,
+        "total": 7,
         "done": 0,
         "by_status": {
-          "Backlog": 5
+          "Backlog": 7
         }
       },
       "Infrastructure": {
@@ -300,10 +307,10 @@
         }
       },
       "Management": {
-        "total": 4,
+        "total": 11,
         "done": 0,
         "by_status": {
-          "Backlog": 3,
+          "Backlog": 10,
           "In progress": 1
         }
       },
@@ -340,123 +347,34 @@
     },
     "PI-4=26.3": {
       "Calibration": {
-        "total": 10,
+        "total": 9,
         "done": 9,
         "by_status": {
-          "Done": 9,
-          "In progress": 1
-        }
-      },
-      "External": {
-        "total": 1,
-        "done": 0,
-        "by_status": {
-          "In progress": 1
+          "Done": 9
         }
       },
       "Imaging": {
-        "total": 50,
-        "done": 38,
+        "total": 47,
+        "done": 39,
         "by_status": {
-          "Backlog": 3,
-          "Done": 38,
-          "In progress": 9
+          "Done": 39,
+          "In progress": 8
         }
       },
       "Infrastructure": {
-        "total": 39,
-        "done": 36,
+        "total": 43,
+        "done": 41,
         "by_status": {
-          "Done": 36,
-          "In progress": 1,
+          "Done": 41,
           "Won't Do": 2
         }
       },
       "Management": {
-        "total": 20,
-        "done": 16,
+        "total": 47,
+        "done": 46,
         "by_status": {
-          "Backlog": 1,
-          "Done": 16,
-          "In progress": 2,
+          "Done": 46,
           "Won't Do": 1
-        }
-      },
-      "Pipeline": {
-        "total": 3,
-        "done": 3,
-        "by_status": {
-          "Done": 3
-        }
-      },
-      "Single Dish": {
-        "total": 7,
-        "done": 3,
-        "by_status": {
-          "Done": 3,
-          "In progress": 3,
-          "Won't Do": 1
-        }
-      },
-      "(no team)": {
-        "total": 3,
-        "done": 0,
-        "by_status": {
-          "Backlog": 2,
-          "In progress": 1
-        }
-      }
-    },
-    "(no PI)": {
-      "Infrastructure": {
-        "total": 5,
-        "done": 3,
-        "by_status": {
-          "Done": 3,
-          "In progress": 1,
-          "Won't Do": 1
-        }
-      },
-      "Pipeline": {
-        "total": 1,
-        "done": 1,
-        "by_status": {
-          "Done": 1
-        }
-      },
-      "(no team)": {
-        "total": 110,
-        "done": 78,
-        "by_status": {
-          "(no status)": 1,
-          "Backlog": 27,
-          "Done": 78,
-          "In progress": 2,
-          "Won't Do": 2
-        }
-      }
-    },
-    "PI-3": {
-      "External": {
-        "total": 2,
-        "done": 2,
-        "by_status": {
-          "Done": 2
-        }
-      },
-      "Imaging": {
-        "total": 4,
-        "done": 2,
-        "by_status": {
-          "Done": 2,
-          "Won't Do": 2
-        }
-      },
-      "Infrastructure": {
-        "total": 7,
-        "done": 7,
-        "by_status": {
-          "Done": 7
         }
       },
       "Pipeline": {
@@ -467,28 +385,75 @@
         }
       },
       "Single Dish": {
-        "total": 1,
-        "done": 1,
+        "total": 16,
+        "done": 6,
         "by_status": {
-          "Done": 1
+          "Backlog": 4,
+          "Done": 6,
+          "In progress": 5,
+          "Won't Do": 1
+        }
+      }
+    },
+    "PI-3": {
+      "External": {
+        "total": 7,
+        "done": 7,
+        "by_status": {
+          "Done": 7
+        }
+      },
+      "Imaging": {
+        "total": 7,
+        "done": 5,
+        "by_status": {
+          "Done": 5,
+          "Won't Do": 2
+        }
+      },
+      "Infrastructure": {
+        "total": 13,
+        "done": 13,
+        "by_status": {
+          "Done": 13
+        }
+      },
+      "Management": {
+        "total": 4,
+        "done": 4,
+        "by_status": {
+          "Done": 4
+        }
+      },
+      "Pipeline": {
+        "total": 4,
+        "done": 4,
+        "by_status": {
+          "Done": 4
+        }
+      },
+      "Single Dish": {
+        "total": 3,
+        "done": 2,
+        "by_status": {
+          "Done": 2,
+          "In progress": 1
         }
       },
       "(no team)": {
-        "total": 14,
-        "done": 12,
+        "total": 2,
+        "done": 0,
         "by_status": {
-          "Backlog": 1,
-          "Done": 12,
-          "Won't Do": 1
+          "Won't Do": 2
         }
       }
     },
     "Triage": {
       "Imaging": {
-        "total": 2,
+        "total": 3,
         "done": 0,
         "by_status": {
-          "Backlog": 2
+          "Backlog": 3
         }
       },
       "Infrastructure": {
@@ -508,19 +473,64 @@
         }
       },
       "(no team)": {
-        "total": 4,
+        "total": 3,
         "done": 0,
         "by_status": {
-          "Backlog": 4
+          "Backlog": 3
         }
       }
     },
     "PI-2": {
-      "(no team)": {
-        "total": 6,
-        "done": 6,
+      "External": {
+        "total": 5,
+        "done": 5,
         "by_status": {
-          "Done": 6
+          "Done": 5
+        }
+      },
+      "Imaging": {
+        "total": 31,
+        "done": 31,
+        "by_status": {
+          "Done": 31
+        }
+      },
+      "Management": {
+        "total": 6,
+        "done": 5,
+        "by_status": {
+          "Done": 5,
+          "Won't Do": 1
+        }
+      }
+    },
+    "(no PI)": {
+      "External": {
+        "total": 1,
+        "done": 1,
+        "by_status": {
+          "Done": 1
+        }
+      },
+      "Imaging": {
+        "total": 1,
+        "done": 0,
+        "by_status": {
+          "Won't Do": 1
+        }
+      },
+      "Infrastructure": {
+        "total": 1,
+        "done": 0,
+        "by_status": {
+          "Won't Do": 1
+        }
+      },
+      "(no team)": {
+        "total": 9,
+        "done": 0,
+        "by_status": {
+          "Won't Do": 9
         }
       }
     }

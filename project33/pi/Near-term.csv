@@ -1,9 +1,11 @@
 team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
-External,Backlog,Issue,casangi/RADPS-roadmap,54,Epic:  ALMA-D3 - Data Access Interface Definition,OPEN,,Data Processing Workflows; System Integration; ALMA ICT,2026-06-29T18:02:08Z,,,https://github.com/casangi/RADPS-roadmap/issues/54
-External,In progress,Issue,casangi/RADPS-roadmap,51,Epic:  ALMA-D3 - Workflow Initialization Interface Definition,OPEN,aakepley,System Integration; ALMA ICT,2026-06-17T14:34:12Z,,,https://github.com/casangi/RADPS-roadmap/issues/51
+External,Backlog,Issue,casangi/RADPS-roadmap,54,Epic:  ALMA-D3 - Data Access Interface Definition,OPEN,,Data Processing Workflows; System Integration; ALMA ICT,2026-10-14T20:30:18Z,,,https://github.com/casangi/RADPS-roadmap/issues/54
+External,In progress,Issue,casangi/RADPS-roadmap,51,Epic:  ALMA-D3 - Workflow Initialization Interface Definition,OPEN,aakepley,System Integration; ALMA ICT,2026-10-14T20:29:20Z,,,https://github.com/casangi/RADPS-roadmap/issues/51
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,14,Epic: Multi-term Continuum Imaging,OPEN,,Imaging; Algorithms,2026-04-21T17:10:15Z,,,https://github.com/casangi/RADPS-roadmap/issues/14
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,140,Epic: Auto-multithresh Implementation,OPEN,,,2026-06-23T16:52:01Z,,,https://github.com/casangi/RADPS-roadmap/issues/140
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,217,Epic: Single Field Cube and Continuum Imaging Campaign on real data,OPEN,,,2026-10-01T17:29:29Z,,,https://github.com/casangi/RADPS-roadmap/issues/217
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,220,Epic: Visibility visualization GUI,OPEN,,Visualization,2026-10-14T20:10:52Z,,,https://github.com/casangi/RADPS-roadmap/issues/220
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,221,Epic: Calibration data set visualization GUI,OPEN,,Visualization,2026-10-14T20:32:09Z,,,https://github.com/casangi/RADPS-roadmap/issues/221
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,30,Epic: User-facing tutorial focusing on  prototype imaging functionality for scientists,OPEN,,Imaging,2026-04-21T17:31:30Z,,,https://github.com/casangi/RADPS-roadmap/issues/30
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,8,Epic: Imaging-related Visibility Manipulation,OPEN,,Visibility Manipulation,2026-08-10T19:04:28Z,,,https://github.com/casangi/RADPS-roadmap/issues/8
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,19,Epic: Component list specification,OPEN,,Visibility Manipulation,2026-04-17T20:53:25Z,,,https://github.com/casangi/RADPS-roadmap/issues/19
@@ -13,7 +15,14 @@ Infrastructure,Backlog,Issue,casangi/graphviper,65,python-graphviz needs to be i
 Management,Backlog,Issue,casangi/RADPS-roadmap,206,Epic:  Process for inclusion of diagrams in documents,OPEN,,,2026-09-10T22:04:32Z,,,https://github.com/casangi/RADPS-roadmap/issues/206
 Management,Backlog,Issue,casangi/RADPS-roadmap,26,Epic: RADPS Program level documentation,OPEN,,,2026-06-24T20:00:55Z,,,https://github.com/casangi/RADPS-roadmap/issues/26
 Management,Backlog,Issue,casangi/RADPS-roadmap,50,Epic:  ngVLA Data Reduction Reports Use Cases,OPEN,,Data Reduction Reports,2026-04-21T17:45:50Z,,,https://github.com/casangi/RADPS-roadmap/issues/50
-Management,In progress,Issue,casangi/RADPS-roadmap,25,Epic: RADPS Intro Memo & Series,OPEN,aakepley,Heuristics; Algorithms,2026-05-15T21:31:05Z,,,https://github.com/casangi/RADPS-roadmap/issues/25
+Management,Backlog,Issue,casangi/radpsdocs,23,implement RADPS documentation skeleton on readthedocs,OPEN,,ReadTheDocs,2026-04-21T21:44:24Z,,casangi/radpsdocs#9,https://github.com/casangi/radpsdocs/issues/23
+Management,Backlog,Issue,casangi/radpsdocs,26,Add existing documents to memo series,OPEN,,Memo Series,2026-04-22T11:13:21Z,,casangi/RADPS-roadmap#25,https://github.com/casangi/radpsdocs/issues/26
+Management,Backlog,Issue,casangi/radpsdocs,30,Submit memo to library,OPEN,aakepley,,2026-04-27T20:54:53Z,,casangi/radpsdocs#25,https://github.com/casangi/radpsdocs/issues/30
+Management,Backlog,Issue,casangi/radpsdocs,31,add line about MOU to memo,OPEN,aakepley,Memo Series,2026-04-27T20:55:07Z,,casangi/radpsdocs#25,https://github.com/casangi/radpsdocs/issues/31
+Management,Backlog,Issue,casangi/radpsdocs,32,proofread memo,OPEN,,,2026-04-28T17:21:14Z,,casangi/radpsdocs#25,https://github.com/casangi/radpsdocs/issues/32
+Management,Backlog,Issue,casangi/radpsdocs,4,Put together RADPS resources list wiki page,OPEN,aakepley,ReadTheDocs,2026-04-21T21:43:31Z,,casangi/radpsdocs#9,https://github.com/casangi/radpsdocs/issues/4
+Management,Backlog,Issue,casangi/radpsdocs,9,Initial RADPS Program Documentation,OPEN,aakepley e-koch,Epic,2025-10-14T18:47:51Z,,casangi/RADPS-roadmap#26,https://github.com/casangi/radpsdocs/issues/9
+Management,In progress,Issue,casangi/RADPS-roadmap,25,Epic: RADPS Intro Memo & Series,OPEN,aakepley,Heuristics; Algorithms,2026-10-14T20:28:44Z,,,https://github.com/casangi/RADPS-roadmap/issues/25
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,204,Epic: Analyze how to incorporate existing Pipeline heuristics into RADIO architecture,OPEN,,,2026-09-10T21:51:09Z,,,https://github.com/casangi/RADPS-roadmap/issues/204
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,207,Epic:  Logical Workflow Design,OPEN,,,2026-09-10T22:06:21Z,,,https://github.com/casangi/RADPS-roadmap/issues/207
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,29,"Epic: Demonstrate hybrid workflow mixing legacy domain functions with astroviper, CASA, etc.",OPEN,,Data Processing Workflows; Deployment Patterns,2026-04-17T20:54:49Z,,,https://github.com/casangi/RADPS-roadmap/issues/29
