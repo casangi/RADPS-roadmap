@@ -1,6 +1,8 @@
 name: Epic
 description: Describe a large body of work composed of multiple related features or tasks spanning the RADPS ecosystem.
 title: "Epic: "
+type: "Epic"
+projects: ["casangi/33"]
 body:
   - type: markdown
     attributes:
