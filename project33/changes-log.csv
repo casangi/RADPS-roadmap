@@ -397,3 +397,24 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-15T15:08:12Z,casangi/RADPS-roadmap,220,Epic: Visibility visualization GUI,project,,added,https://github.com/casangi/RADPS-roadmap/issues/220
 2026-10-15T15:08:12Z,casangi/RADPS-roadmap,221,Epic: Calibration data set visualization GUI,project,,added,https://github.com/casangi/RADPS-roadmap/issues/221
 2026-10-15T15:08:12Z,casangi/astroviper,328,"Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",project,,added,https://github.com/casangi/astroviper/issues/328
+2026-10-16T14:55:57Z,casangi/RADPS-roadmap,66,Epic:  TP analysis and walking skeleton,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/66
+2026-10-16T14:55:57Z,casangi/RADPS-roadmap,66,Epic:  TP analysis and walking skeleton,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/66
+2026-10-16T14:55:57Z,casangi/RADPS-roadmap,75,Epic:  SD Technology Demonstrator Code,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/75
+2026-10-16T14:55:57Z,casangi/RADPS-roadmap,75,Epic:  SD Technology Demonstrator Code,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/75
+2026-10-16T14:55:57Z,casangi/xradio,521,Simulated WSU single-dish test data for benchmarking of imaging prototype,Status,In progress,Done,https://github.com/casangi/xradio/issues/521
+2026-10-16T14:55:57Z,casangi/xradio,521,Simulated WSU single-dish test data for benchmarking of imaging prototype,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/521
+2026-10-16T14:55:57Z,casangi/graphviper,59,Create Single-Dish Workflow Skeleton,Status,In progress,Done,https://github.com/casangi/graphviper/issues/59
+2026-10-16T14:55:57Z,casangi/graphviper,59,Create Single-Dish Workflow Skeleton,state,OPEN,CLOSED,https://github.com/casangi/graphviper/issues/59
+2026-10-16T14:55:57Z,casangi/RADPS-roadmap,118,Epic: Prototype ALMA Solar TP MDR workflow,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/118
+2026-10-16T14:55:57Z,casangi/RADPS-roadmap,223,Epic: Advanced single-dish cube imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/223
+2026-10-16T14:55:57Z,casangi/astroviper,135,support of cube imaging with simple 1:1 mapping of spectral and image channels,Program Increment,PI-4=26.3,PI26.4,https://github.com/casangi/astroviper/issues/135
+2026-10-16T14:55:57Z,casangi/astroviper,214,direction mapping from celestial coordinate to image pixel coordinate (including projection),Program Increment,PI-4=26.3,PI26.4,https://github.com/casangi/astroviper/issues/214
+2026-10-16T14:55:57Z,casangi/astroviper,228,explore single-dish pipeline with prefect capabilities,Program Increment,PI-4=26.3,Triage,https://github.com/casangi/astroviper/issues/228
+2026-10-16T14:55:57Z,casangi/astroviper,233,Workflow description of standard SDPL processing procedure (hsd_calimage),Status,In progress,Done,https://github.com/casangi/astroviper/issues/233
+2026-10-16T14:55:57Z,casangi/astroviper,233,Workflow description of standard SDPL processing procedure (hsd_calimage),state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/233
+2026-10-16T14:55:57Z,casangi/graphviper,62,Create walking skeleton for  baseline subtraction,Status,Backlog,Done,https://github.com/casangi/graphviper/issues/62
+2026-10-16T14:55:57Z,casangi/graphviper,62,Create walking skeleton for  baseline subtraction,state,OPEN,CLOSED,https://github.com/casangi/graphviper/issues/62
+2026-10-16T14:55:57Z,casangi/xradio,599,Use ARCAE as MSv2 Backend,Status,In progress,Done,https://github.com/casangi/xradio/issues/599
+2026-10-16T14:55:57Z,casangi/xradio,599,Use ARCAE as MSv2 Backend,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/599
+2026-10-16T14:55:57Z,casangi/xradio,644,`SIGMA` is not a redundant column,project,,added,https://github.com/casangi/xradio/issues/644
+2026-10-16T14:55:57Z,casangi/astroviper,124,Advanced single-dish cube imaging,project,present,removed,https://github.com/casangi/astroviper/issues/124

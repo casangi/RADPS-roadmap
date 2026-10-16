@@ -1,20 +1,20 @@
 # RADPS Roadmap — status by PI and team
 
-Generated 2026-10-15T17:23:45Z from https://github.com/orgs/casangi/projects/33.
+Generated 2026-10-16T14:55:57Z from https://github.com/orgs/casangi/projects/33.
 
 Current PI: **PI26.4**
 
-## PI26.4 — 26/138 done (19%)
+## PI26.4 — 27/141 done (19%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | Calibration | 0/6 | 0% | 1 | 5 | 0 | 0 |
 | External | 0/1 | 0% | 0 | 1 | 0 | 0 |
 | Imaging | 10/46 | 22% | 23 | 13 | 10 | 0 |
-| Infrastructure | 14/62 | 23% | 27 | 21 | 14 | 0 |
+| Infrastructure | 15/62 | 24% | 27 | 20 | 15 | 0 |
 | Management | 0/5 | 0% | 0 | 5 | 0 | 0 |
 | Pipeline | 1/8 | 12% | 7 | 0 | 1 | 0 |
-| Single Dish | 1/10 | 10% | 8 | 1 | 1 | 0 |
+| Single Dish | 1/13 | 8% | 9 | 3 | 1 | 0 |
 
 ## Far-term — 0/9 done (0%)
 
@@ -46,13 +46,13 @@ Current PI: **PI26.4**
 | Management | 0/11 | 0% | 10 | 1 | 0 | 0 |
 | Pipeline | 0/5 | 0% | 5 | 0 | 0 | 0 |
 
-## Triage — 0/37 done (0%)
+## Triage — 0/39 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | Imaging | 0/3 | 0% | 3 | 0 | 0 | 0 |
-| Infrastructure | 0/5 | 0% | 4 | 0 | 0 | 1 |
-| Single Dish | 0/26 | 0% | 25 | 0 | 0 | 1 |
+| Infrastructure | 0/6 | 0% | 5 | 0 | 0 | 1 |
+| Single Dish | 0/27 | 0% | 26 | 0 | 0 | 1 |
 | (no team) | 0/3 | 0% | 3 | 0 | 0 | 0 |
 
 ## PI27.1 — 0/14 done (0%)
@@ -63,7 +63,7 @@ Current PI: **PI26.4**
 | Imaging | 0/9 | 0% | 9 | 0 | 0 | 0 |
 | Infrastructure | 0/2 | 0% | 2 | 0 | 0 | 0 |
 
-## PI-4=26.3 — 145/166 done (87%)
+## PI-4=26.3 — 150/162 done (93%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
@@ -72,9 +72,9 @@ Current PI: **PI26.4**
 | Infrastructure | 41/43 | 95% | 0 | 0 | 41 | 2 |
 | Management | 46/47 | 98% | 0 | 0 | 46 | 1 |
 | Pipeline | 4/4 | 100% | 0 | 0 | 4 | 0 |
-| Single Dish | 6/16 | 38% | 4 | 5 | 6 | 1 |
+| Single Dish | 11/12 | 92% | 0 | 0 | 11 | 1 |
 
-## PI-3 — 35/40 done (88%)
+## PI-3 — 36/40 done (90%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
@@ -83,7 +83,7 @@ Current PI: **PI26.4**
 | Infrastructure | 13/13 | 100% | 0 | 0 | 13 | 0 |
 | Management | 4/4 | 100% | 0 | 0 | 4 | 0 |
 | Pipeline | 4/4 | 100% | 0 | 0 | 4 | 0 |
-| Single Dish | 2/3 | 67% | 0 | 1 | 2 | 0 |
+| Single Dish | 3/3 | 100% | 0 | 0 | 3 | 0 |
 | (no team) | 0/2 | 0% | 0 | 0 | 0 | 2 |
 
 ## PI-2 — 41/42 done (98%)

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:23:45Z",
+  "generated_at": "2026-10-16T14:55:57Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -148,7 +148,7 @@
     "PI-2": "pi/PI-2.csv",
     "(no PI)": "pi/no-pi.csv"
   },
-  "item_count": 497,
+  "item_count": 498,
   "counts": {
     "PI26.4": {
       "Calibration": {
@@ -177,11 +177,11 @@
       },
       "Infrastructure": {
         "total": 62,
-        "done": 14,
+        "done": 15,
         "by_status": {
           "Backlog": 27,
-          "Done": 14,
-          "In progress": 21
+          "Done": 15,
+          "In progress": 20
         }
       },
       "Management": {
@@ -200,12 +200,12 @@
         }
       },
       "Single Dish": {
-        "total": 10,
+        "total": 13,
         "done": 1,
         "by_status": {
-          "Backlog": 8,
+          "Backlog": 9,
           "Done": 1,
-          "In progress": 1
+          "In progress": 3
         }
       }
     },
@@ -385,12 +385,10 @@
         }
       },
       "Single Dish": {
-        "total": 16,
-        "done": 6,
+        "total": 12,
+        "done": 11,
         "by_status": {
-          "Backlog": 4,
-          "Done": 6,
-          "In progress": 5,
+          "Done": 11,
           "Won't Do": 1
         }
       }
@@ -434,10 +432,9 @@
       },
       "Single Dish": {
         "total": 3,
-        "done": 2,
+        "done": 3,
         "by_status": {
-          "Done": 2,
-          "In progress": 1
+          "Done": 3
         }
       },
       "(no team)": {
@@ -457,18 +454,18 @@
         }
       },
       "Infrastructure": {
-        "total": 5,
+        "total": 6,
         "done": 0,
         "by_status": {
-          "Backlog": 4,
+          "Backlog": 5,
           "Won't Do": 1
         }
       },
       "Single Dish": {
-        "total": 26,
+        "total": 27,
         "done": 0,
         "by_status": {
-          "Backlog": 25,
+          "Backlog": 26,
           "Won't Do": 1
         }
       },

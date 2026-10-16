@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T17:23:45Z",
+ "generated_at": "2026-10-16T14:55:57Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -196,7 +196,7 @@
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Single Dish",
    "title": "Epic: Prototype ALMA Solar TP MDR workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/118"
@@ -891,6 +891,16 @@
    "title": "Epic: Calibration data set visualization GUI",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/221"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/223": {
+   "number": 223,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Single Dish",
+   "title": "Epic: Advanced single-dish cube imaging",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/223"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/23": {
    "number": 23,
    "pi": "Near-term",
@@ -1325,8 +1335,8 @@
    "number": 66,
    "pi": "PI-4=26.3",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Single Dish",
    "title": "Epic:  TP analysis and walking skeleton",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/66"
@@ -1425,8 +1435,8 @@
    "number": 75,
    "pi": "PI-4=26.3",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Single Dish",
    "title": "Epic:  SD Technology Demonstrator Code",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/75"
@@ -2001,16 +2011,6 @@
    "title": "Implement image analysis capability for ALMA Solar TP data reduction",
    "url": "https://github.com/casangi/astroviper/issues/123"
   },
-  "https://github.com/casangi/astroviper/issues/124": {
-   "number": 124,
-   "pi": "PI-4=26.3",
-   "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
-   "team": "Single Dish",
-   "title": "Advanced single-dish cube imaging",
-   "url": "https://github.com/casangi/astroviper/issues/124"
-  },
   "https://github.com/casangi/astroviper/issues/125": {
    "number": 125,
    "pi": "Triage",
@@ -2063,7 +2063,7 @@
   },
   "https://github.com/casangi/astroviper/issues/135": {
    "number": 135,
-   "pi": "PI-4=26.3",
+   "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
    "status": "Backlog",
@@ -2153,7 +2153,7 @@
   },
   "https://github.com/casangi/astroviper/issues/214": {
    "number": 214,
-   "pi": "PI-4=26.3",
+   "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
    "status": "Backlog",
@@ -2173,7 +2173,7 @@
   },
   "https://github.com/casangi/astroviper/issues/228": {
    "number": 228,
-   "pi": "PI-4=26.3",
+   "pi": "Triage",
    "repo": "casangi/astroviper",
    "state": "OPEN",
    "status": "Backlog",
@@ -2205,8 +2205,8 @@
    "number": 233,
    "pi": "PI-4=26.3",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Single Dish",
    "title": "Workflow description of standard SDPL processing procedure (hsd_calimage)",
    "url": "https://github.com/casangi/astroviper/issues/233"
@@ -3185,8 +3185,8 @@
    "number": 59,
    "pi": "PI-4=26.3",
    "repo": "casangi/graphviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Single Dish",
    "title": "Create Single-Dish Workflow Skeleton",
    "url": "https://github.com/casangi/graphviper/issues/59"
@@ -3215,8 +3215,8 @@
    "number": 62,
    "pi": "PI-4=26.3",
    "repo": "casangi/graphviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Single Dish",
    "title": "Create walking skeleton for  baseline subtraction",
    "url": "https://github.com/casangi/graphviper/issues/62"
@@ -4655,8 +4655,8 @@
    "number": 521,
    "pi": "PI-3",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Single Dish",
    "title": "Simulated WSU single-dish test data for benchmarking of imaging prototype",
    "url": "https://github.com/casangi/xradio/issues/521"
@@ -4785,8 +4785,8 @@
    "number": 599,
    "pi": "PI26.4",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Use ARCAE as MSv2 Backend",
    "url": "https://github.com/casangi/xradio/issues/599"
@@ -4970,6 +4970,16 @@
    "team": "Infrastructure",
    "title": "Move API from Custom Functions to Xarray backends + Accessors",
    "url": "https://github.com/casangi/xradio/issues/640"
+  },
+  "https://github.com/casangi/xradio/issues/644": {
+   "number": 644,
+   "pi": "Triage",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "`SIGMA` is not a redundant column",
+   "url": "https://github.com/casangi/xradio/issues/644"
   }
  }
 }
