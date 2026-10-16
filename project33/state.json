@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T14:55:57Z",
+ "generated_at": "2026-10-16T16:59:51Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2645,8 +2645,8 @@
    "number": 303,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
    "url": "https://github.com/casangi/astroviper/issues/303"
@@ -3255,8 +3255,8 @@
    "number": 68,
    "pi": "PI26.4",
    "repo": "casangi/graphviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
    "url": "https://github.com/casangi/graphviper/issues/68"
@@ -3455,8 +3455,8 @@
    "number": 50,
    "pi": "PI26.4",
    "repo": "casangi/pyasdm",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "CI: Python 3.12\u20133.14, lint + Linux 3.13 on push, full matrix on PRs and merges to main",
    "url": "https://github.com/casangi/pyasdm/issues/50"
@@ -4585,11 +4585,21 @@
    "number": 69,
    "pi": "PI26.4",
    "repo": "casangi/toolviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
    "url": "https://github.com/casangi/toolviper/issues/69"
+  },
+  "https://github.com/casangi/toolviper/issues/71": {
+   "number": 71,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Remove GraphVIPER Dependency",
+   "url": "https://github.com/casangi/toolviper/issues/71"
   },
   "https://github.com/casangi/xradio/issues/355": {
    "number": 355,
@@ -4885,8 +4895,8 @@
    "number": 620,
    "pi": "PI26.4",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
    "url": "https://github.com/casangi/xradio/issues/620"

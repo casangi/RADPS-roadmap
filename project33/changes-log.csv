@@ -418,3 +418,14 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-16T14:55:57Z,casangi/xradio,599,Use ARCAE as MSv2 Backend,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/599
 2026-10-16T14:55:57Z,casangi/xradio,644,`SIGMA` is not a redundant column,project,,added,https://github.com/casangi/xradio/issues/644
 2026-10-16T14:55:57Z,casangi/astroviper,124,Advanced single-dish cube imaging,project,present,removed,https://github.com/casangi/astroviper/issues/124
+2026-10-16T16:59:51Z,casangi/pyasdm,50,"CI: Python 3.12–3.14, lint + Linux 3.13 on push, full matrix on PRs and merges to main",Status,In progress,Done,https://github.com/casangi/pyasdm/issues/50
+2026-10-16T16:59:51Z,casangi/pyasdm,50,"CI: Python 3.12–3.14, lint + Linux 3.13 on push, full matrix on PRs and merges to main",state,OPEN,CLOSED,https://github.com/casangi/pyasdm/issues/50
+2026-10-16T16:59:51Z,casangi/xradio,620,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",Status,In progress,Done,https://github.com/casangi/xradio/issues/620
+2026-10-16T16:59:51Z,casangi/xradio,620,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/620
+2026-10-16T16:59:51Z,casangi/toolviper,69,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",Status,In progress,Done,https://github.com/casangi/toolviper/issues/69
+2026-10-16T16:59:51Z,casangi/toolviper,69,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",state,OPEN,CLOSED,https://github.com/casangi/toolviper/issues/69
+2026-10-16T16:59:51Z,casangi/graphviper,68,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",Status,In progress,Done,https://github.com/casangi/graphviper/issues/68
+2026-10-16T16:59:51Z,casangi/graphviper,68,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",state,OPEN,CLOSED,https://github.com/casangi/graphviper/issues/68
+2026-10-16T16:59:51Z,casangi/astroviper,303,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",Status,In progress,Done,https://github.com/casangi/astroviper/issues/303
+2026-10-16T16:59:51Z,casangi/astroviper,303,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/303
+2026-10-16T16:59:51Z,casangi/toolviper,71,Remove GraphVIPER Dependency,project,,added,https://github.com/casangi/toolviper/issues/71
