@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T16:59:51Z",
+ "generated_at": "2026-10-17T13:48:34Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2821,6 +2821,16 @@
    "title": "Finish Continuum Imaging Memo I",
    "url": "https://github.com/casangi/astroviper/issues/330"
   },
+  "https://github.com/casangi/astroviper/issues/331": {
+   "number": 331,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Document arcae as the casacore backend; remove python-casacore from the README, extras and tests",
+   "url": "https://github.com/casangi/astroviper/issues/331"
+  },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
    "pi": "PI-2",
@@ -3121,6 +3131,16 @@
    "title": "Update benchviper for iteration control parameter name changes",
    "url": "https://github.com/casangi/benchviper/issues/36"
   },
+  "https://github.com/casangi/benchviper/issues/41": {
+   "number": 41,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "README: give the reason for the macOS note now that XRADIO uses arcae",
+   "url": "https://github.com/casangi/benchviper/issues/41"
+  },
   "https://github.com/casangi/flowviper/issues/11": {
    "number": 11,
    "pi": "PI26.4",
@@ -3270,6 +3290,16 @@
    "team": "Infrastructure",
    "title": "make_parallel_coord(n_chunks=n) can return far fewer chunks than requested",
    "url": "https://github.com/casangi/graphviper/issues/70"
+  },
+  "https://github.com/casangi/graphviper/issues/73": {
+   "number": 73,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "The all extra installs python-casacore, but XRADIO 1.3.0 needs arcae",
+   "url": "https://github.com/casangi/graphviper/issues/73"
   },
   "https://github.com/casangi/pyasdm/issues/28": {
    "number": 28,
@@ -4511,6 +4541,16 @@
    "title": "Create A Dispatch to Benchviper",
    "url": "https://github.com/casangi/testviper/issues/60"
   },
+  "https://github.com/casangi/testviper/issues/64": {
+   "number": 64,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Remove the python-casacore and conda instructions for macOS",
+   "url": "https://github.com/casangi/testviper/issues/64"
+  },
   "https://github.com/casangi/toolviper/issues/52": {
    "number": 52,
    "pi": "PI-4=26.3",
@@ -4990,6 +5030,26 @@
    "team": "Infrastructure",
    "title": "`SIGMA` is not a redundant column",
    "url": "https://github.com/casangi/xradio/issues/644"
+  },
+  "https://github.com/casangi/xradio/issues/645": {
+   "number": 645,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Docs: remove the python-casacore mentions left after the arcae backend",
+   "url": "https://github.com/casangi/xradio/issues/645"
+  },
+  "https://github.com/casangi/xradio/issues/647": {
+   "number": 647,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Update docs now that MSv2 is a full supported backend",
+   "url": "https://github.com/casangi/xradio/issues/647"
   }
  }
 }
