@@ -2,7 +2,7 @@ team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,p
 External,Backlog,Issue,casangi/RADPS-roadmap,54,Epic:  ALMA-D3 - Data Access Interface Definition,OPEN,,Data Processing Workflows; System Integration; ALMA ICT,2026-10-15T15:33:02Z,,,https://github.com/casangi/RADPS-roadmap/issues/54
 External,In progress,Issue,casangi/RADPS-roadmap,51,Epic:  ALMA-D3 - Workflow Initialization Interface Definition,OPEN,aakepley,System Integration; ALMA ICT,2026-10-15T15:33:13Z,,,https://github.com/casangi/RADPS-roadmap/issues/51
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,14,Epic: Multi-term Continuum Imaging,OPEN,,Imaging; Algorithms,2026-10-15T15:18:29Z,,,https://github.com/casangi/RADPS-roadmap/issues/14
-Imaging,Backlog,Issue,casangi/RADPS-roadmap,140,Epic: Auto-multithresh Implementation,OPEN,,,2026-10-15T15:17:54Z,,,https://github.com/casangi/RADPS-roadmap/issues/140
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,140,Epic: Auto-multithresh Implementation,OPEN,,,2026-10-19T17:48:26Z,,,https://github.com/casangi/RADPS-roadmap/issues/140
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,217,Epic: Single Field Cube and Continuum Imaging Campaign on real data,OPEN,,,2026-10-15T15:17:58Z,,,https://github.com/casangi/RADPS-roadmap/issues/217
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,220,Epic: Visibility visualization GUI,OPEN,,Visualization,2026-10-15T15:16:08Z,,,https://github.com/casangi/RADPS-roadmap/issues/220
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,221,Epic: Calibration data set visualization GUI,OPEN,,Visualization,2026-10-15T15:16:09Z,,,https://github.com/casangi/RADPS-roadmap/issues/221
