@@ -435,3 +435,13 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-17T13:48:34Z,casangi/astroviper,331,"Document arcae as the casacore backend; remove python-casacore from the README, extras and tests",project,,added,https://github.com/casangi/astroviper/issues/331
 2026-10-17T13:48:34Z,casangi/testviper,64,Remove the python-casacore and conda instructions for macOS,project,,added,https://github.com/casangi/testviper/issues/64
 2026-10-17T13:48:34Z,casangi/benchviper,41,README: give the reason for the macOS note now that XRADIO uses arcae,project,,added,https://github.com/casangi/benchviper/issues/41
+2026-10-19T17:02:25Z,casangi/astroviper,297,Connect Continuum Imaging to MTMFS,Status,In progress,Done,https://github.com/casangi/astroviper/issues/297
+2026-10-19T17:02:25Z,casangi/astroviper,297,Connect Continuum Imaging to MTMFS,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/297
+2026-10-19T17:02:25Z,casangi/astroviper,328,"Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/328
+2026-10-19T17:02:25Z,casangi/xradio,644,`SIGMA` is not a redundant column,Program Increment,Triage,PI26.4,https://github.com/casangi/xradio/issues/644
+2026-10-19T17:02:25Z,casangi/toolviper,76,Add twhya_selfcal_lsrk_5chans.ps.zarr to CloudFlare,project,,added,https://github.com/casangi/toolviper/issues/76
+2026-10-19T17:02:25Z,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",project,,added,https://github.com/casangi/toolviper/issues/75
+2026-10-19T17:02:25Z,casangi/astroviper,338,fft_backend: scipy is about 2x faster than pyfftw on Apple silicon; check on Linux before changing the default,project,,added,https://github.com/casangi/astroviper/issues/338
+2026-10-19T17:02:25Z,casangi/astroviper,337,Future testing of CORAL,project,,added,https://github.com/casangi/astroviper/issues/337
+2026-10-19T17:02:25Z,casangi/astroviper,333,Reports for image_cube_single_field and simulate_processing_set,project,,added,https://github.com/casangi/astroviper/issues/333
+2026-10-19T17:02:25Z,casangi/xradio,648,Image schema review,project,,added,https://github.com/casangi/xradio/issues/648

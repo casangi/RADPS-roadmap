@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T16:09:12Z",
+ "generated_at": "2026-10-19T17:02:25Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2615,8 +2615,8 @@
    "number": 297,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Connect Continuum Imaging to MTMFS",
    "url": "https://github.com/casangi/astroviper/issues/297"
@@ -2806,7 +2806,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",
    "url": "https://github.com/casangi/astroviper/issues/328"
@@ -2830,6 +2830,36 @@
    "team": "Infrastructure",
    "title": "Document arcae as the casacore backend; remove python-casacore from the README, extras and tests",
    "url": "https://github.com/casangi/astroviper/issues/331"
+  },
+  "https://github.com/casangi/astroviper/issues/333": {
+   "number": 333,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Reports for image_cube_single_field and simulate_processing_set",
+   "url": "https://github.com/casangi/astroviper/issues/333"
+  },
+  "https://github.com/casangi/astroviper/issues/337": {
+   "number": 337,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Future testing of CORAL",
+   "url": "https://github.com/casangi/astroviper/issues/337"
+  },
+  "https://github.com/casangi/astroviper/issues/338": {
+   "number": 338,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "fft_backend: scipy is about 2x faster than pyfftw on Apple silicon; check on Linux before changing the default",
+   "url": "https://github.com/casangi/astroviper/issues/338"
   },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
@@ -4641,6 +4671,26 @@
    "title": "Remove GraphVIPER Dependency",
    "url": "https://github.com/casangi/toolviper/issues/71"
   },
+  "https://github.com/casangi/toolviper/issues/75": {
+   "number": 75,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",
+   "url": "https://github.com/casangi/toolviper/issues/75"
+  },
+  "https://github.com/casangi/toolviper/issues/76": {
+   "number": 76,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add twhya_selfcal_lsrk_5chans.ps.zarr to CloudFlare",
+   "url": "https://github.com/casangi/toolviper/issues/76"
+  },
   "https://github.com/casangi/xradio/issues/355": {
    "number": 355,
    "pi": "PI-3",
@@ -4908,7 +4958,7 @@
    "state": "OPEN",
    "status": "In progress",
    "team": "Infrastructure",
-   "title": "ASDM backend: support single dish metadata => SpectrumXds and sub-datasets",
+   "title": "ASDM backend: support single dish metadata => SpectrumXds and improvements in sub-datasets (FieldAndSourceXds)",
    "url": "https://github.com/casangi/xradio/issues/612"
   },
   "https://github.com/casangi/xradio/issues/613": {
@@ -5023,7 +5073,7 @@
   },
   "https://github.com/casangi/xradio/issues/644": {
    "number": 644,
-   "pi": "Triage",
+   "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
    "status": "Backlog",
@@ -5050,6 +5100,16 @@
    "team": "Infrastructure",
    "title": "Update docs now that MSv2 is a full supported backend",
    "url": "https://github.com/casangi/xradio/issues/647"
+  },
+  "https://github.com/casangi/xradio/issues/648": {
+   "number": 648,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Image schema review",
+   "url": "https://github.com/casangi/xradio/issues/648"
   }
  }
 }
