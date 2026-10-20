@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T15:12:32Z",
+ "generated_at": "2026-10-20T17:33:58Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -4565,8 +4565,8 @@
    "number": 57,
    "pi": "PI26.4",
    "repo": "casangi/testviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Align testviper configuration with astroviper",
    "url": "https://github.com/casangi/testviper/issues/57"
@@ -4710,6 +4710,16 @@
    "team": "Infrastructure",
    "title": "Add twhya_selfcal_lsrk_5chans.ps.zarr to CloudFlare",
    "url": "https://github.com/casangi/toolviper/issues/76"
+  },
+  "https://github.com/casangi/toolviper/issues/77": {
+   "number": 77,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Evaluate proposed file uploader solution for cyber-security",
+   "url": "https://github.com/casangi/toolviper/issues/77"
   },
   "https://github.com/casangi/xradio/issues/355": {
    "number": 355,
@@ -5133,7 +5143,7 @@
   },
   "https://github.com/casangi/xradio/issues/651": {
    "number": 651,
-   "pi": "",
+   "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
    "status": "Backlog",
@@ -5143,7 +5153,7 @@
   },
   "https://github.com/casangi/xradio/issues/652": {
    "number": 652,
-   "pi": "",
+   "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
    "status": "Backlog",

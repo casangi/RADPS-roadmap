@@ -463,3 +463,8 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-20T15:12:32Z,casangi/astroviper,340,ARDG -> astroviper: Autocorr-CLEAN,project,,added,https://github.com/casangi/astroviper/issues/340
 2026-10-20T15:12:32Z,casangi/xradio,651,ASDM Backend: ensure multi-field/source partitions work well (mosaics),project,,added,https://github.com/casangi/xradio/issues/651
 2026-10-20T15:12:32Z,casangi/xradio,652,ASDM Backend: support ephemeris data (FieldSourceEphemerisXds),project,,added,https://github.com/casangi/xradio/issues/652
+2026-10-20T17:33:58Z,casangi/testviper,57,Align testviper configuration with astroviper,Status,Backlog,Done,https://github.com/casangi/testviper/issues/57
+2026-10-20T17:33:58Z,casangi/testviper,57,Align testviper configuration with astroviper,state,OPEN,CLOSED,https://github.com/casangi/testviper/issues/57
+2026-10-20T17:33:58Z,casangi/xradio,651,ASDM Backend: ensure multi-field/source partitions work well (mosaics),Program Increment,,PI26.4,https://github.com/casangi/xradio/issues/651
+2026-10-20T17:33:58Z,casangi/xradio,652,ASDM Backend: support ephemeris data (FieldSourceEphemerisXds),Program Increment,,PI26.4,https://github.com/casangi/xradio/issues/652
+2026-10-20T17:33:58Z,casangi/toolviper,77,Evaluate proposed file uploader solution for cyber-security,project,,added,https://github.com/casangi/toolviper/issues/77
