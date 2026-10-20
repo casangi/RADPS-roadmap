@@ -1,6 +1,8 @@
 team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
 External,Done,Issue,casangi/RADPS-roadmap,121,Initial Assessment of Workflow Initialization Proposal by ISAP,CLOSED,,,2026-10-14T20:30:00Z,2026-10-14T20:30:00Z,casangi/RADPS-roadmap#51,https://github.com/casangi/RADPS-roadmap/issues/121
 Imaging,Won't Do,Issue,casangi/xradio,516,Update Image Unit Tests,CLOSED,,,2026-01-07T18:12:04Z,2026-01-07T18:12:04Z,casangi/xradio#497,https://github.com/casangi/xradio/issues/516
+Infrastructure,Backlog,Issue,casangi/xradio,651,ASDM Backend: ensure multi-field/source partitions work well (mosaics),OPEN,FedeMPouzols,enhancement,2026-10-20T12:26:14Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/xradio/issues/651
+Infrastructure,Backlog,Issue,casangi/xradio,652,ASDM Backend: support ephemeris data (FieldSourceEphemerisXds),OPEN,FedeMPouzols,enhancement,2026-10-20T12:26:08Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/xradio/issues/652
 Infrastructure,Won't Do,Issue,casangi/RADPS-roadmap,60,Epic:  XRADIO measurement set maintenance,CLOSED,,Data Schemas,2026-09-10T21:24:14Z,2026-09-10T21:24:14Z,,https://github.com/casangi/RADPS-roadmap/issues/60
 ,Won't Do,Issue,casangi/RADPS,67,Determine what metrics are needed to measure performance for the RADPS-ALMA Development Study,CLOSED,aakepley swwitz Jan-Willem jmalone-nrao,cluster infrastructure,2026-06-24T19:53:49Z,2026-06-24T19:53:49Z,casangi/astroviper#134,https://github.com/casangi/RADPS/issues/67
 ,Won't Do,Issue,casangi/RADPS,68,Prototype monitoring stack for RADPS-ALMA Performance Testing,CLOSED,aakepley swwitz Jan-Willem jmalone-nrao,cluster infrastructure,2026-06-24T19:52:56Z,2026-06-24T19:52:56Z,casangi/astroviper#134,https://github.com/casangi/RADPS/issues/68

@@ -445,3 +445,21 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-19T17:02:25Z,casangi/astroviper,337,Future testing of CORAL,project,,added,https://github.com/casangi/astroviper/issues/337
 2026-10-19T17:02:25Z,casangi/astroviper,333,Reports for image_cube_single_field and simulate_processing_set,project,,added,https://github.com/casangi/astroviper/issues/333
 2026-10-19T17:02:25Z,casangi/xradio,648,Image schema review,project,,added,https://github.com/casangi/xradio/issues/648
+2026-10-20T15:12:32Z,casangi/RADPS-roadmap,133,"Epic:  Reduce, Reuse, Recycle experiment",Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/133
+2026-10-20T15:12:32Z,casangi/RADPS-roadmap,133,"Epic:  Reduce, Reuse, Recycle experiment",state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/133
+2026-10-20T15:12:32Z,casangi/RADPS-roadmap,135,port Adaptive Scale Clean (ASP) from CASA into astroviper,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/135
+2026-10-20T15:12:32Z,casangi/RADPS-roadmap,135,port Adaptive Scale Clean (ASP) from CASA into astroviper,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/135
+2026-10-20T15:12:32Z,casangi/RADPS-roadmap,137,port AWproject from CASA,Program Increment,PI26.4,Triage,https://github.com/casangi/RADPS-roadmap/issues/137
+2026-10-20T15:12:32Z,casangi/RADPS-roadmap,138,port GPU gridder to astroviper,Program Increment,PI26.4,Triage,https://github.com/casangi/RADPS-roadmap/issues/138
+2026-10-20T15:12:32Z,casangi/RADPS-roadmap,152,Port Hogbom from CASA into astroviper,Status,Backlog,Done,https://github.com/casangi/RADPS-roadmap/issues/152
+2026-10-20T15:12:32Z,casangi/RADPS-roadmap,152,Port Hogbom from CASA into astroviper,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/152
+2026-10-20T15:12:32Z,casangi/testviper,59,Align Python and Os Version in testing Repositories,Status,In progress,Done,https://github.com/casangi/testviper/issues/59
+2026-10-20T15:12:32Z,casangi/testviper,59,Align Python and Os Version in testing Repositories,state,OPEN,CLOSED,https://github.com/casangi/testviper/issues/59
+2026-10-20T15:12:32Z,casangi/astroviper,328,"Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",Status,In progress,Done,https://github.com/casangi/astroviper/issues/328
+2026-10-20T15:12:32Z,casangi/astroviper,328,"Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/328
+2026-10-20T15:12:32Z,casangi/astroviper,333,Reports for image_cube_single_field and simulate_processing_set,Status,In progress,Done,https://github.com/casangi/astroviper/issues/333
+2026-10-20T15:12:32Z,casangi/astroviper,333,Reports for image_cube_single_field and simulate_processing_set,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/333
+2026-10-20T15:12:32Z,casangi/astroviper,339,ARDG -> astroviper: Component Relaxation,project,,added,https://github.com/casangi/astroviper/issues/339
+2026-10-20T15:12:32Z,casangi/astroviper,340,ARDG -> astroviper: Autocorr-CLEAN,project,,added,https://github.com/casangi/astroviper/issues/340
+2026-10-20T15:12:32Z,casangi/xradio,651,ASDM Backend: ensure multi-field/source partitions work well (mosaics),project,,added,https://github.com/casangi/xradio/issues/651
+2026-10-20T15:12:32Z,casangi/xradio,652,ASDM Backend: support ephemeris data (FieldSourceEphemerisXds),project,,added,https://github.com/casangi/xradio/issues/652

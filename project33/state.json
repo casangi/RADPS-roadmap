@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T18:51:02Z",
+ "generated_at": "2026-10-20T15:12:32Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -295,8 +295,8 @@
    "number": 133,
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Epic:  Reduce, Reuse, Recycle experiment",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/133"
@@ -305,8 +305,8 @@
    "number": 135,
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "port Adaptive Scale Clean (ASP) from CASA into astroviper",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/135"
@@ -323,7 +323,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/137": {
    "number": 137,
-   "pi": "PI26.4",
+   "pi": "Triage",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -333,7 +333,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/138": {
    "number": 138,
-   "pi": "PI26.4",
+   "pi": "Triage",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -455,8 +455,8 @@
    "number": 152,
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Port Hogbom from CASA into astroviper",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/152"
@@ -2805,8 +2805,8 @@
    "number": 328,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",
    "url": "https://github.com/casangi/astroviper/issues/328"
@@ -2835,8 +2835,8 @@
    "number": 333,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Reports for image_cube_single_field and simulate_processing_set",
    "url": "https://github.com/casangi/astroviper/issues/333"
@@ -2860,6 +2860,26 @@
    "team": "Imaging",
    "title": "fft_backend: scipy is about 2x faster than pyfftw on Apple silicon; check on Linux before changing the default",
    "url": "https://github.com/casangi/astroviper/issues/338"
+  },
+  "https://github.com/casangi/astroviper/issues/339": {
+   "number": 339,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "ARDG -> astroviper: Component Relaxation",
+   "url": "https://github.com/casangi/astroviper/issues/339"
+  },
+  "https://github.com/casangi/astroviper/issues/340": {
+   "number": 340,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "ARDG -> astroviper: Autocorr-CLEAN",
+   "url": "https://github.com/casangi/astroviper/issues/340"
   },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
@@ -4555,8 +4575,8 @@
    "number": 59,
    "pi": "PI26.4",
    "repo": "casangi/testviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Align Python and Os Version in testing Repositories",
    "url": "https://github.com/casangi/testviper/issues/59"
@@ -5110,6 +5130,26 @@
    "team": "Infrastructure",
    "title": "Image schema review",
    "url": "https://github.com/casangi/xradio/issues/648"
+  },
+  "https://github.com/casangi/xradio/issues/651": {
+   "number": 651,
+   "pi": "",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM Backend: ensure multi-field/source partitions work well (mosaics)",
+   "url": "https://github.com/casangi/xradio/issues/651"
+  },
+  "https://github.com/casangi/xradio/issues/652": {
+   "number": 652,
+   "pi": "",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM Backend: support ephemeris data (FieldSourceEphemerisXds)",
+   "url": "https://github.com/casangi/xradio/issues/652"
   }
  }
 }
