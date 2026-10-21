@@ -468,3 +468,23 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-20T17:33:58Z,casangi/xradio,651,ASDM Backend: ensure multi-field/source partitions work well (mosaics),Program Increment,,PI26.4,https://github.com/casangi/xradio/issues/651
 2026-10-20T17:33:58Z,casangi/xradio,652,ASDM Backend: support ephemeris data (FieldSourceEphemerisXds),Program Increment,,PI26.4,https://github.com/casangi/xradio/issues/652
 2026-10-20T17:33:58Z,casangi/toolviper,77,Evaluate proposed file uploader solution for cyber-security,project,,added,https://github.com/casangi/toolviper/issues/77
+2026-10-21T15:23:20Z,casangi/xradio,636,ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11),Status,Backlog,In progress,https://github.com/casangi/xradio/issues/636
+2026-10-21T15:23:20Z,casangi/xradio,640,Move API from Custom Functions to Xarray backends + Accessors,Status,Backlog,In progress,https://github.com/casangi/xradio/issues/640
+2026-10-21T15:23:20Z,casangi/xradio,640,Move API from Custom Functions to Xarray backends + Accessors,Program Increment,Triage,PI26.4,https://github.com/casangi/xradio/issues/640
+2026-10-21T15:23:20Z,casangi/xradio,644,`SIGMA` is not a redundant column,Status,Backlog,In progress,https://github.com/casangi/xradio/issues/644
+2026-10-21T15:23:20Z,casangi/xradio,647,Update docs now that MSv2 is a full supported backend,Status,Backlog,In progress,https://github.com/casangi/xradio/issues/647
+2026-10-21T15:23:20Z,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",Status,Backlog,In progress,https://github.com/casangi/toolviper/issues/75
+2026-10-21T15:23:20Z,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",Team,Imaging,Infrastructure,https://github.com/casangi/toolviper/issues/75
+2026-10-21T15:23:20Z,casangi/xradio,648,Image schema review,Status,Backlog,In progress,https://github.com/casangi/xradio/issues/648
+2026-10-21T15:23:20Z,casangi/benchviper,45,Fix astroviper fft_ifft benchmark,project,,added,https://github.com/casangi/benchviper/issues/45
+2026-10-21T15:23:20Z,casangi/benchviper,44,Use the shared pre-commit workflow,project,,added,https://github.com/casangi/benchviper/pull/44
+2026-10-21T15:23:20Z,casangi/pyasdm,56,Errors found by ruff,project,,added,https://github.com/casangi/pyasdm/issues/56
+2026-10-21T15:23:20Z,casangi/toolviper,78,"pre-commit: update ruff to 0.16.10, the version every repository uses",project,,added,https://github.com/casangi/toolviper/issues/78
+2026-10-21T15:23:20Z,casangi/xradio,660,An aperture-plane image read from CASA does not conform to the image schema,project,,added,https://github.com/casangi/xradio/issues/660
+2026-10-21T15:23:20Z,casangi/xradio,659,"Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",project,,added,https://github.com/casangi/xradio/issues/659
+2026-10-21T15:23:20Z,casangi/xradio,657,"pre-commit: update ruff to 0.16.10, the version every repository uses",project,,added,https://github.com/casangi/xradio/issues/657
+2026-10-21T15:23:20Z,casangi/xradio,656,Image schema review -- the TRON lens -- 4. Support cropped PSFs,project,,added,https://github.com/casangi/xradio/issues/656
+2026-10-21T15:23:20Z,casangi/xradio,655,Image schema review -- the TRON lens -- 3. Expose the dataset's WCS,project,,added,https://github.com/casangi/xradio/issues/655
+2026-10-21T15:23:20Z,casangi/xradio,654,Image schema review -- the TRON lens -- 2. No schema home for time/frequency-reduced products,project,,added,https://github.com/casangi/xradio/issues/654
+2026-10-21T15:23:20Z,casangi/xradio,653,Image schema review -- the TRON lens -- 1. Per-timeslot flags,project,,added,https://github.com/casangi/xradio/issues/653
+2026-10-21T15:23:20Z,casangi/xradio,649,convert_msv2_to_processing_set: AlignmentError in create_system_calibration_xds when SYSCAL lacks some antennas of a partition,project,,added,https://github.com/casangi/xradio/issues/649

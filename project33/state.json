@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T17:33:58Z",
+ "generated_at": "2026-10-21T15:23:20Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3191,6 +3191,26 @@
    "title": "README: give the reason for the macOS note now that XRADIO uses arcae",
    "url": "https://github.com/casangi/benchviper/issues/41"
   },
+  "https://github.com/casangi/benchviper/issues/45": {
+   "number": 45,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Fix astroviper fft_ifft benchmark",
+   "url": "https://github.com/casangi/benchviper/issues/45"
+  },
+  "https://github.com/casangi/benchviper/pull/44": {
+   "number": 44,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Use the shared pre-commit workflow",
+   "url": "https://github.com/casangi/benchviper/pull/44"
+  },
   "https://github.com/casangi/flowviper/issues/11": {
    "number": 11,
    "pi": "PI26.4",
@@ -3550,6 +3570,16 @@
    "team": "Infrastructure",
    "title": "When an empty set is passed to `loadOnlyComponents` that should mean \"no binary component array is loaded\".",
    "url": "https://github.com/casangi/pyasdm/issues/52"
+  },
+  "https://github.com/casangi/pyasdm/issues/56": {
+   "number": 56,
+   "pi": "",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Errors found by ruff",
+   "url": "https://github.com/casangi/pyasdm/issues/56"
   },
   "https://github.com/casangi/radps-alma-pdr/issues/1": {
    "number": 1,
@@ -4696,8 +4726,8 @@
    "pi": "PI26.4",
    "repo": "casangi/toolviper",
    "state": "OPEN",
-   "status": "Backlog",
-   "team": "Imaging",
+   "status": "In progress",
+   "team": "Infrastructure",
    "title": "local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",
    "url": "https://github.com/casangi/toolviper/issues/75"
   },
@@ -4720,6 +4750,16 @@
    "team": "Infrastructure",
    "title": "Evaluate proposed file uploader solution for cyber-security",
    "url": "https://github.com/casangi/toolviper/issues/77"
+  },
+  "https://github.com/casangi/toolviper/issues/78": {
+   "number": 78,
+   "pi": "",
+   "repo": "casangi/toolviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "pre-commit: update ruff to 0.16.10, the version every repository uses",
+   "url": "https://github.com/casangi/toolviper/issues/78"
   },
   "https://github.com/casangi/xradio/issues/355": {
    "number": 355,
@@ -5076,7 +5116,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11)",
    "url": "https://github.com/casangi/xradio/issues/636"
@@ -5093,10 +5133,10 @@
   },
   "https://github.com/casangi/xradio/issues/640": {
    "number": 640,
-   "pi": "Triage",
+   "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "Move API from Custom Functions to Xarray backends + Accessors",
    "url": "https://github.com/casangi/xradio/issues/640"
@@ -5106,7 +5146,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "`SIGMA` is not a redundant column",
    "url": "https://github.com/casangi/xradio/issues/644"
@@ -5126,7 +5166,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "Update docs now that MSv2 is a full supported backend",
    "url": "https://github.com/casangi/xradio/issues/647"
@@ -5136,10 +5176,20 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "Image schema review",
    "url": "https://github.com/casangi/xradio/issues/648"
+  },
+  "https://github.com/casangi/xradio/issues/649": {
+   "number": 649,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "convert_msv2_to_processing_set: AlignmentError in create_system_calibration_xds when SYSCAL lacks some antennas of a partition",
+   "url": "https://github.com/casangi/xradio/issues/649"
   },
   "https://github.com/casangi/xradio/issues/651": {
    "number": 651,
@@ -5160,6 +5210,76 @@
    "team": "Infrastructure",
    "title": "ASDM Backend: support ephemeris data (FieldSourceEphemerisXds)",
    "url": "https://github.com/casangi/xradio/issues/652"
+  },
+  "https://github.com/casangi/xradio/issues/653": {
+   "number": 653,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review -- the TRON lens -- 1. Per-timeslot flags",
+   "url": "https://github.com/casangi/xradio/issues/653"
+  },
+  "https://github.com/casangi/xradio/issues/654": {
+   "number": 654,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review -- the TRON lens -- 2. No schema home for time/frequency-reduced products",
+   "url": "https://github.com/casangi/xradio/issues/654"
+  },
+  "https://github.com/casangi/xradio/issues/655": {
+   "number": 655,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review -- the TRON lens -- 3. Expose the dataset's WCS",
+   "url": "https://github.com/casangi/xradio/issues/655"
+  },
+  "https://github.com/casangi/xradio/issues/656": {
+   "number": 656,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review -- the TRON lens -- 4. Support cropped PSFs",
+   "url": "https://github.com/casangi/xradio/issues/656"
+  },
+  "https://github.com/casangi/xradio/issues/657": {
+   "number": 657,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "pre-commit: update ruff to 0.16.10, the version every repository uses",
+   "url": "https://github.com/casangi/xradio/issues/657"
+  },
+  "https://github.com/casangi/xradio/issues/659": {
+   "number": 659,
+   "pi": "",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",
+   "url": "https://github.com/casangi/xradio/issues/659"
+  },
+  "https://github.com/casangi/xradio/issues/660": {
+   "number": 660,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "An aperture-plane image read from CASA does not conform to the image schema",
+   "url": "https://github.com/casangi/xradio/issues/660"
   }
  }
 }

@@ -1,7 +1,10 @@
 team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
 External,Done,Issue,casangi/RADPS-roadmap,121,Initial Assessment of Workflow Initialization Proposal by ISAP,CLOSED,,,2026-10-14T20:30:00Z,2026-10-14T20:30:00Z,casangi/RADPS-roadmap#51,https://github.com/casangi/RADPS-roadmap/issues/121
 Imaging,Won't Do,Issue,casangi/xradio,516,Update Image Unit Tests,CLOSED,,,2026-01-07T18:12:04Z,2026-01-07T18:12:04Z,casangi/xradio#497,https://github.com/casangi/xradio/issues/516
+Infrastructure,Backlog,Issue,casangi/xradio,659,"Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",OPEN,Jan-Willem,bug,2026-10-21T14:51:14Z,,,https://github.com/casangi/xradio/issues/659
+Infrastructure,In progress,Issue,casangi/toolviper,78,"pre-commit: update ruff to 0.16.10, the version every repository uses",OPEN,Jan-Willem,,2026-10-21T14:46:40Z,,,https://github.com/casangi/toolviper/issues/78
 Infrastructure,Won't Do,Issue,casangi/RADPS-roadmap,60,Epic:  XRADIO measurement set maintenance,CLOSED,,Data Schemas,2026-09-10T21:24:14Z,2026-09-10T21:24:14Z,,https://github.com/casangi/RADPS-roadmap/issues/60
+,Backlog,Issue,casangi/pyasdm,56,Errors found by ruff,OPEN,,,2026-10-21T14:26:42Z,,casangi/pyasdm#37,https://github.com/casangi/pyasdm/issues/56
 ,Won't Do,Issue,casangi/RADPS,67,Determine what metrics are needed to measure performance for the RADPS-ALMA Development Study,CLOSED,aakepley swwitz Jan-Willem jmalone-nrao,cluster infrastructure,2026-06-24T19:53:49Z,2026-06-24T19:53:49Z,casangi/astroviper#134,https://github.com/casangi/RADPS/issues/67
 ,Won't Do,Issue,casangi/RADPS,68,Prototype monitoring stack for RADPS-ALMA Performance Testing,CLOSED,aakepley swwitz Jan-Willem jmalone-nrao,cluster infrastructure,2026-06-24T19:52:56Z,2026-06-24T19:52:56Z,casangi/astroviper#134,https://github.com/casangi/RADPS/issues/68
 ,Won't Do,Issue,casangi/graphviper,57,single dish walking skeleton work,CLOSED,jrhosk,documentation; enhancement,2026-06-19T00:29:15Z,2026-06-19T00:29:15Z,casangi/graphviper#59,https://github.com/casangi/graphviper/issues/57
