@@ -488,3 +488,8 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-21T15:23:20Z,casangi/xradio,654,Image schema review -- the TRON lens -- 2. No schema home for time/frequency-reduced products,project,,added,https://github.com/casangi/xradio/issues/654
 2026-10-21T15:23:20Z,casangi/xradio,653,Image schema review -- the TRON lens -- 1. Per-timeslot flags,project,,added,https://github.com/casangi/xradio/issues/653
 2026-10-21T15:23:20Z,casangi/xradio,649,convert_msv2_to_processing_set: AlignmentError in create_system_calibration_xds when SYSCAL lacks some antennas of a partition,project,,added,https://github.com/casangi/xradio/issues/649
+2026-10-21T17:41:13Z,casangi/benchviper,25,Update matrix of dependencies to use ARCAE backend,Status,In progress,Done,https://github.com/casangi/benchviper/issues/25
+2026-10-21T17:41:13Z,casangi/benchviper,25,Update matrix of dependencies to use ARCAE backend,state,OPEN,CLOSED,https://github.com/casangi/benchviper/issues/25
+2026-10-21T17:41:13Z,casangi/astroviper,298,Finish Continuum Imaging Memo II,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/298
+2026-10-21T17:41:13Z,casangi/testviper,66,Use the shared pre-commit workflow,project,,added,https://github.com/casangi/testviper/issues/66
+2026-10-21T17:41:13Z,casangi/flowviper,18,prefect_workflow README: out-of-date macOS MSv2 note and broken link,project,,added,https://github.com/casangi/flowviper/issues/18

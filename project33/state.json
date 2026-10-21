@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T15:23:20Z",
+ "generated_at": "2026-10-21T17:41:13Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2626,7 +2626,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Finish Continuum Imaging Memo II",
    "url": "https://github.com/casangi/astroviper/issues/298"
@@ -3115,8 +3115,8 @@
    "number": 25,
    "pi": "PI26.4",
    "repo": "casangi/benchviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Update matrix of dependencies to use ARCAE backend",
    "url": "https://github.com/casangi/benchviper/issues/25"
@@ -3220,6 +3220,16 @@
    "team": "Single Dish",
    "title": "single dish workflow notebooks",
    "url": "https://github.com/casangi/flowviper/issues/11"
+  },
+  "https://github.com/casangi/flowviper/issues/18": {
+   "number": 18,
+   "pi": "PI26.4",
+   "repo": "casangi/flowviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "prefect_workflow README: out-of-date macOS MSv2 note and broken link",
+   "url": "https://github.com/casangi/flowviper/issues/18"
   },
   "https://github.com/casangi/flowviper/issues/4": {
    "number": 4,
@@ -4630,6 +4640,16 @@
    "team": "Infrastructure",
    "title": "Remove the python-casacore and conda instructions for macOS",
    "url": "https://github.com/casangi/testviper/issues/64"
+  },
+  "https://github.com/casangi/testviper/issues/66": {
+   "number": 66,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Use the shared pre-commit workflow",
+   "url": "https://github.com/casangi/testviper/issues/66"
   },
   "https://github.com/casangi/toolviper/issues/52": {
    "number": 52,
