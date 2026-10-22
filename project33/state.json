@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T15:23:49Z",
+ "generated_at": "2026-10-22T17:39:38Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -10,6 +10,96 @@
    "team": "Imaging",
    "title": "Epic: Mosaic Cube Imaging Distributed Application",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/10"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/100": {
+   "number": 100,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_atmcor",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/100"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/101": {
+   "number": 101,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics -  hsd_baseline (line detection/validation)",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/101"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/102": {
+   "number": 102,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_baseline (others)",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/102"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/103": {
+   "number": 103,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_blflag",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/103"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/104": {
+   "number": 104,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_imaging",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/104"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/105": {
+   "number": 105,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Single-Dish Cadence imaging benchmarking",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/105"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/106": {
+   "number": 106,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  ALMA Solar Total-Power MDR benchmarking",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/106"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/107": {
+   "number": 107,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  ALMA Total-Power Spectral Line MDR benchmarking",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/107"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/108": {
+   "number": 108,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  ALMA Total-Power Spectral Line Calibration and Imaging benchmarking",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/108"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/109": {
    "number": 109,
@@ -31,6 +121,56 @@
    "title": "Epic: Flagging set specifications",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/11"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/111": {
+   "number": 111,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic:  CI/CD Pilot",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/111"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/112": {
+   "number": 112,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic:  Benchmark tests for individual modules",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/112"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/113": {
+   "number": 113,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "Infrastructure",
+   "title": "Define a deployment model for RADPS",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/113"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/114": {
+   "number": 114,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic: Add benchmark tests for AstroVIPER",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/114"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/115": {
+   "number": 115,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "Epic: Requirements Analysis and Use Cases for Context",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/115"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/116": {
    "number": 116,
    "pi": "PI26.4",
@@ -50,6 +190,26 @@
    "team": "Infrastructure",
    "title": "Epic: RADIO (Radio Astronomy Data-processing Inter-Operability) Reference Architecture",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/117"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/118": {
+   "number": 118,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Single Dish",
+   "title": "Epic: Prototype ALMA Solar TP MDR workflow",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/118"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/119": {
+   "number": 119,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic: ALMA Total-Power Spectral Line Calibration and Imaging benchmarking",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/119"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/12": {
    "number": 12,
@@ -71,6 +231,46 @@
    "title": "Benchmark Single Field Cube Imaging",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/120"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/121": {
+   "number": 121,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Initial Assessment of Workflow Initialization Proposal by ISAP",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/121"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/122": {
+   "number": 122,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "",
+   "title": "Define charge of ISAP investigation of workflow initialization interface.",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/122"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/123": {
+   "number": 123,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Analyze RADPS architecture in relation to ALMA architecture and identify common interfaces",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/123"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/124": {
+   "number": 124,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Calibration",
+   "title": "Epic: prototype calibration application",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/124"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/126": {
    "number": 126,
    "pi": "PI-4=26.3",
@@ -90,6 +290,56 @@
    "team": "Infrastructure",
    "title": "Epic: Flagging task scaling",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/13"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/133": {
+   "number": 133,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic:  Reduce, Reuse, Recycle experiment",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/133"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/135": {
+   "number": 135,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "port Adaptive Scale Clean (ASP) from CASA into astroviper",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/135"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/136": {
+   "number": 136,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "port Multi-Term Multi-Scale Multi-Frequency Synthesis (MTMFS w/ multiscale) from CASA to astroviper",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/136"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/137": {
+   "number": 137,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "port AWproject from CASA",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/137"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/138": {
+   "number": 138,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "port GPU gridder to astroviper",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/138"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/139": {
    "number": 139,
@@ -131,6 +381,16 @@
    "title": "Epic: User interfaces for workflows",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/142"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/143": {
+   "number": 143,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Compute Infrastructure recommendations",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/143"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/144": {
    "number": 144,
    "pi": "PI27.1",
@@ -140,6 +400,16 @@
    "team": "Imaging",
    "title": "Epic: Spectrum within a mask",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/144"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/145": {
+   "number": 145,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic:  Integrate findcont into RADPS",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/145"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/146": {
    "number": 146,
@@ -180,6 +450,46 @@
    "team": "Imaging",
    "title": "Epic: Auto-multithresh scaling",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/15"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/152": {
+   "number": 152,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Port Hogbom from CASA into astroviper",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/152"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/155": {
+   "number": 155,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Calibration",
+   "title": "Complete draft for review by team",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/155"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/156": {
+   "number": 156,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Calibration",
+   "title": "Team reviews and comments on draft",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/156"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/157": {
+   "number": 157,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Calibration",
+   "title": "Document revised based on comments by team",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/157"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/158": {
    "number": 158,
@@ -261,6 +571,16 @@
    "title": "Epic: Astrohack PI-26.3 placeholder",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/164"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/165": {
+   "number": 165,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Decide on Unit and component test data",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/165"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/17": {
    "number": 17,
    "pi": "Mid-term",
@@ -281,6 +601,16 @@
    "title": "Epic: Continuum Subtraction",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/18"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/185": {
+   "number": 185,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Bug: Colab notebooks often fail to due to import issues even though notebooks pass tests on github",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/185"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/19": {
    "number": 19,
    "pi": "Near-term",
@@ -290,6 +620,56 @@
    "team": "Infrastructure",
    "title": "Epic: Component list specification",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/19"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/193": {
+   "number": 193,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Increment Python Version",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/193"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/194": {
+   "number": 194,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Continuum Imaging Validation",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/194"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/196": {
+   "number": 196,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "check primary beam implementation",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/196"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/197": {
+   "number": 197,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Management",
+   "title": "Add guidelines for issue and PR creation to AGENTS.md",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/197"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/198": {
+   "number": 198,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic: Implement widebandpbcor",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/198"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/199": {
    "number": 199,
@@ -331,6 +711,86 @@
    "title": "Epic: Fix license configuration in VIPER components",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/200"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/201": {
+   "number": 201,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Epic: Incorporate VIPER into SIS testing",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/201"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/202": {
+   "number": 202,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic: TACC Continuum Performance Tests",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/202"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/203": {
+   "number": 203,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Calibration",
+   "title": "Hold detailed implementation design discussion ",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/203"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/204": {
+   "number": 204,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Pipeline",
+   "title": "Epic: Analyze how to incorporate existing Pipeline heuristics into RADIO architecture",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/204"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/205": {
+   "number": 205,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic:  Imaging Domain Framework Document",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/205"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/206": {
+   "number": 206,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Management",
+   "title": "Epic:  Process for inclusion of diagrams in documents",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/206"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/207": {
+   "number": 207,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Pipeline",
+   "title": "Epic:  Logical Workflow Design",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/207"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/209": {
+   "number": 209,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic:  Cube Imaging Beta Test Workshop",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/209"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/21": {
    "number": 21,
    "pi": "PI26.4",
@@ -341,6 +801,66 @@
    "title": "Epic: Simulating visibilities",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/21"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/210": {
+   "number": 210,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic: Performance Targets for Imaging",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/210"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/214": {
+   "number": 214,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Epic:  GraphVIPER maintenance",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/214"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/215": {
+   "number": 215,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Work through ToolVIPER tutorials",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/215"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/216": {
+   "number": 216,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Calibration",
+   "title": "Epic: Astrohack PI26.4 placeholder",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/216"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/217": {
+   "number": 217,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic: Single Field Cube and Continuum Imaging Campaign on real data",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/217"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/219": {
+   "number": 219,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Management",
+   "title": "Epic: AI Usage",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/219"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/22": {
    "number": 22,
    "pi": "Far-term",
@@ -350,6 +870,36 @@
    "team": "Imaging",
    "title": "Epic: Ephemeris Imaging",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/22"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/220": {
+   "number": 220,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic: Visibility visualization GUI",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/220"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/221": {
+   "number": 221,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic: Calibration data set visualization GUI",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/221"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/223": {
+   "number": 223,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Single Dish",
+   "title": "Epic: Advanced single-dish cube imaging",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/223"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/23": {
    "number": 23,
@@ -611,6 +1161,16 @@
    "title": "Epic:  User-facing workflow guide",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/48"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/49": {
+   "number": 49,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Epic:  WSU Data Reduction Report Use Cases",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/49"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/5": {
    "number": 5,
    "pi": "PI-3",
@@ -630,6 +1190,46 @@
    "team": "Management",
    "title": "Epic:  ngVLA Data Reduction Reports Use Cases",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/50"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/51": {
+   "number": 51,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "External",
+   "title": "Epic:  ALMA-D3 - Workflow Initialization Interface Definition",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/51"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/52": {
+   "number": 52,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Epic:  ALMA-D3 - System Communication Interface Definition",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/52"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/53": {
+   "number": 53,
+   "pi": "Mid-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "External",
+   "title": "Epic:  ALMA-D3 - Workflow Outputs Interface Definition",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/53"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/54": {
+   "number": 54,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "External",
+   "title": "Epic:  ALMA-D3 - Data Access Interface Definition",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/54"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/55": {
    "number": 55,
@@ -651,6 +1251,16 @@
    "title": "Epic:  ToolVIPER maintenance",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/57"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/58": {
+   "number": 58,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Epic:  AstroVIPER imaging maintenance",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/58"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/6": {
    "number": 6,
    "pi": "PI-3",
@@ -661,6 +1271,26 @@
    "title": "Epic: Single Cube Benchmarking (IF)",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/6"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/60": {
+   "number": 60,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "Infrastructure",
+   "title": "Epic:  XRADIO measurement set maintenance",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/60"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/61": {
+   "number": 61,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic:  Replace Python casacore with ARCAE",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/61"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/62": {
    "number": 62,
    "pi": "PI26.4",
@@ -670,6 +1300,176 @@
    "team": "Infrastructure",
    "title": "Epic:  Refactor of XRADIO MSv2 to MSv4 converter",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/62"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/63": {
+   "number": 63,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Epic:  Upgrade from Zarr Python v2 to V3",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/63"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/64": {
+   "number": 64,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic:  Add an ASDM backend for XRADIO",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/64"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/65": {
+   "number": 65,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic:  Move to using Xarray backends",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/65"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/66": {
+   "number": 66,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Epic:  TP analysis and walking skeleton",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/66"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/67": {
+   "number": 67,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Epic:  Document existing ALMA-D3 interfaces for data processing",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/67"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/68": {
+   "number": 68,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Epic:  Data Volume Estimate for Data Reduction Reports",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/68"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/69": {
+   "number": 69,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic:  Quantifying the Cluster Utilization Efficiency",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/69"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/7": {
+   "number": 7,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Won't Do",
+   "team": "Management",
+   "title": "Epic: Walking Skeleton 2.0",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/7"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/70": {
+   "number": 70,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic:  Empirical Size of Compute Estimates",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/70"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/71": {
+   "number": 71,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Epic:  Single Dish Imaging Performance Testing",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/71"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/72": {
+   "number": 72,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Epic:  Per-channel Cube Imaging Heuristics",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/72"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/73": {
+   "number": 73,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Epic: IF test data sets",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/73"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/74": {
+   "number": 74,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Epic:  TP test data sets",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/74"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/75": {
+   "number": 75,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Epic:  SD Technology Demonstrator Code",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/75"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/76": {
+   "number": 76,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic:  Prototype Test Plan",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/76"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/77": {
+   "number": 77,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Epic: RADPS-ALMA Organization",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/77"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/78": {
+   "number": 78,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Epic:  Planning for Future Reviews",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/78"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/79": {
    "number": 79,
@@ -701,6 +1501,36 @@
    "title": "Epic:  Generate RADPS-ALMA PDR Documentation",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/80"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/81": {
+   "number": 81,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "Infrastructure",
+   "title": "Epic:  Development and Deployment Plan",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/81"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/82": {
+   "number": 82,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Prototype ALMA Total-Power Spectral Line MDR workflow",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/82"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/83": {
+   "number": 83,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Prototype ALMA Total-Power Spectral Line Calibration and Imaging Workflow",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/83"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/84": {
    "number": 84,
    "pi": "Far-term",
@@ -710,6 +1540,336 @@
    "team": "Imaging",
    "title": "Epic:  Prototype Ephemeris Imaging Workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/84"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/85": {
+   "number": 85,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Single-Dish Calibration domain code - \"ps\" calibration",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/85"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/86": {
+   "number": 86,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Assessment of dependency on libsakura",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/86"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/88": {
+   "number": 88,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Single-Dish baseline subtraction domain code - Polynominal fitting",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/88"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/89": {
+   "number": 89,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Single-Dish baseline subtraction domain code: cspline fitting",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/89"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/9": {
+   "number": 9,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Epic: Image Statistics",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/9"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/90": {
+   "number": 90,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Single-Dish baseline subtraction domain code: chevyshev fitting",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/90"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/91": {
+   "number": 91,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Single-Dish baseline subtraction domain code: sinusoidal fitting",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/91"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/92": {
+   "number": 92,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Offline atmospheric correction domain code",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/92"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/93": {
+   "number": 93,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Single-Dish Ephemeris Imaging",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/93"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/95": {
+   "number": 95,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_importdata",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/95"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/96": {
+   "number": 96,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_flagdata",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/96"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/97": {
+   "number": 97,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_skycal",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/97"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/98": {
+   "number": 98,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_k2jycal",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/98"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/99": {
+   "number": 99,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Epic:  Migration of Single-Dish Pipeline heuristics - hsd_applycal",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/99"
+  },
+  "https://github.com/casangi/RADPS/issues/62": {
+   "number": 62,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Benchmarking Datasets and Storage Requirements",
+   "url": "https://github.com/casangi/RADPS/issues/62"
+  },
+  "https://github.com/casangi/RADPS/issues/65": {
+   "number": 65,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Validation Dataset Selection and Generation",
+   "url": "https://github.com/casangi/RADPS/issues/65"
+  },
+  "https://github.com/casangi/RADPS/issues/66": {
+   "number": 66,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Phase I Storage and Compute Upgrade Acceptance",
+   "url": "https://github.com/casangi/RADPS/issues/66"
+  },
+  "https://github.com/casangi/RADPS/issues/67": {
+   "number": 67,
+   "pi": "",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "",
+   "title": "Determine what metrics are needed to measure performance for the RADPS-ALMA Development Study",
+   "url": "https://github.com/casangi/RADPS/issues/67"
+  },
+  "https://github.com/casangi/RADPS/issues/68": {
+   "number": 68,
+   "pi": "",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "",
+   "title": "Prototype monitoring stack for RADPS-ALMA Performance Testing",
+   "url": "https://github.com/casangi/RADPS/issues/68"
+  },
+  "https://github.com/casangi/RADPS/issues/78": {
+   "number": 78,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "",
+   "title": "cluster integration",
+   "url": "https://github.com/casangi/RADPS/issues/78"
+  },
+  "https://github.com/casangi/RADPS/issues/80": {
+   "number": 80,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Final work items for internal k3s cluster",
+   "url": "https://github.com/casangi/RADPS/issues/80"
+  },
+  "https://github.com/casangi/RADPS/issues/81": {
+   "number": 81,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Traefik ingress to replace NodePort/raw-IP exposure",
+   "url": "https://github.com/casangi/RADPS/issues/81"
+  },
+  "https://github.com/casangi/RADPS/issues/82": {
+   "number": 82,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Dask operator runs in dask-system namespace",
+   "url": "https://github.com/casangi/RADPS/issues/82"
+  },
+  "https://github.com/casangi/RADPS/issues/83": {
+   "number": 83,
+   "pi": "PI-2",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "All deployments managed by ArgoCD",
+   "url": "https://github.com/casangi/RADPS/issues/83"
+  },
+  "https://github.com/casangi/RADPS/issues/84": {
+   "number": 84,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "Namespace infrastructure separated from application charts",
+   "url": "https://github.com/casangi/RADPS/issues/84"
+  },
+  "https://github.com/casangi/RADPS/issues/85": {
+   "number": 85,
+   "pi": "PI-3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "External",
+   "title": "TLS cert bootstrapped as a Secret outside of Git",
+   "url": "https://github.com/casangi/RADPS/issues/85"
+  },
+  "https://github.com/casangi/RADPS/issues/86": {
+   "number": 86,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "test drive of k3 infrastructure",
+   "url": "https://github.com/casangi/RADPS/issues/86"
+  },
+  "https://github.com/casangi/RADPS/issues/87": {
+   "number": 87,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Single Field Cube Small Dataset Frontera",
+   "url": "https://github.com/casangi/RADPS/issues/87"
+  },
+  "https://github.com/casangi/RADPS/issues/88": {
+   "number": 88,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Single Field Cube Medium Benchmark Frontera",
+   "url": "https://github.com/casangi/RADPS/issues/88"
+  },
+  "https://github.com/casangi/RADPS/issues/89": {
+   "number": 89,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Single Field Cube Large Dataset Benchmark Frontera",
+   "url": "https://github.com/casangi/RADPS/issues/89"
+  },
+  "https://github.com/casangi/RADPS/issues/90": {
+   "number": 90,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Single Field Cube CASA Medium Dataset Benchmark Frontera",
+   "url": "https://github.com/casangi/RADPS/issues/90"
+  },
+  "https://github.com/casangi/RADPS/issues/93": {
+   "number": 93,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Single Field Cube Medium Benchmark Multi Cycle Frontera",
+   "url": "https://github.com/casangi/RADPS/issues/93"
+  },
+  "https://github.com/casangi/RADPS/issues/94": {
+   "number": 94,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Benchmark Fits Backend using Medium Dataset",
+   "url": "https://github.com/casangi/RADPS/issues/94"
   },
   "https://github.com/casangi/RADPS/issues/95": {
    "number": 95,
@@ -721,6 +1881,256 @@
    "title": "Epic: ngVLA Spectral Cube Scaling on Horizon Simulation",
    "url": "https://github.com/casangi/RADPS/issues/95"
   },
+  "https://github.com/casangi/RADPS/issues/96": {
+   "number": 96,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Epic: AstroVIPER Cube Imaging Benchmarking at NRAO",
+   "url": "https://github.com/casangi/RADPS/issues/96"
+  },
+  "https://github.com/casangi/RADPS/issues/97": {
+   "number": 97,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Transfer single field cube imaging test data to Charlottesville",
+   "url": "https://github.com/casangi/RADPS/issues/97"
+  },
+  "https://github.com/casangi/astroviper/issues/110": {
+   "number": 110,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "fix rescaling bug for psf fitting",
+   "url": "https://github.com/casangi/astroviper/issues/110"
+  },
+  "https://github.com/casangi/astroviper/issues/111": {
+   "number": 111,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "increase code coverage for prolate spheroidal gridding visibility tests to >80%",
+   "url": "https://github.com/casangi/astroviper/issues/111"
+  },
+  "https://github.com/casangi/astroviper/issues/112": {
+   "number": 112,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Tests should be added to tests/unit/core/imaging",
+   "url": "https://github.com/casangi/astroviper/issues/112"
+  },
+  "https://github.com/casangi/astroviper/issues/113": {
+   "number": 113,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Investigate differences between astroviper and CASA hogbom implementations",
+   "url": "https://github.com/casangi/astroviper/issues/113"
+  },
+  "https://github.com/casangi/astroviper/issues/115": {
+   "number": 115,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "primitive single-dish imaging prototype",
+   "url": "https://github.com/casangi/astroviper/issues/115"
+  },
+  "https://github.com/casangi/astroviper/issues/118": {
+   "number": 118,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "SD Calibration: Tsys calibration prototype",
+   "url": "https://github.com/casangi/astroviper/issues/118"
+  },
+  "https://github.com/casangi/astroviper/issues/119": {
+   "number": 119,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "SD Calibration: K2Jy calibration prototype",
+   "url": "https://github.com/casangi/astroviper/issues/119"
+  },
+  "https://github.com/casangi/astroviper/issues/120": {
+   "number": 120,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "SD Calibration: Sky calibration prototype",
+   "url": "https://github.com/casangi/astroviper/issues/120"
+  },
+  "https://github.com/casangi/astroviper/issues/121": {
+   "number": 121,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "SD Calibration",
+   "url": "https://github.com/casangi/astroviper/issues/121"
+  },
+  "https://github.com/casangi/astroviper/issues/122": {
+   "number": 122,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "SD Calibration: applycal equivalent functionality",
+   "url": "https://github.com/casangi/astroviper/issues/122"
+  },
+  "https://github.com/casangi/astroviper/issues/123": {
+   "number": 123,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Implement image analysis capability for ALMA Solar TP data reduction",
+   "url": "https://github.com/casangi/astroviper/issues/123"
+  },
+  "https://github.com/casangi/astroviper/issues/125": {
+   "number": 125,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Graceful error handling when re-running imaging weights",
+   "url": "https://github.com/casangi/astroviper/issues/125"
+  },
+  "https://github.com/casangi/astroviper/issues/129": {
+   "number": 129,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Add masking of sidelobes before fitting",
+   "url": "https://github.com/casangi/astroviper/issues/129"
+  },
+  "https://github.com/casangi/astroviper/issues/13": {
+   "number": 13,
+   "pi": "PI-3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Do initial AstroVIPER cluster benchmarks",
+   "url": "https://github.com/casangi/astroviper/issues/13"
+  },
+  "https://github.com/casangi/astroviper/issues/132": {
+   "number": 132,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "Infrastructure",
+   "title": "Hyperthreading and Benchmarks",
+   "url": "https://github.com/casangi/astroviper/issues/132"
+  },
+  "https://github.com/casangi/astroviper/issues/134": {
+   "number": 134,
+   "pi": "PI-3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Benchmark Single Field Major Cycle Imaging",
+   "url": "https://github.com/casangi/astroviper/issues/134"
+  },
+  "https://github.com/casangi/astroviper/issues/135": {
+   "number": 135,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "support of cube imaging with simple 1:1 mapping of spectral and image channels",
+   "url": "https://github.com/casangi/astroviper/issues/135"
+  },
+  "https://github.com/casangi/astroviper/issues/136": {
+   "number": 136,
+   "pi": "PI-3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "frequency frame conversion",
+   "url": "https://github.com/casangi/astroviper/issues/136"
+  },
+  "https://github.com/casangi/astroviper/issues/140": {
+   "number": 140,
+   "pi": "PI-3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "performance tuning of single dish imaging prototype with dask",
+   "url": "https://github.com/casangi/astroviper/issues/140"
+  },
+  "https://github.com/casangi/astroviper/issues/147": {
+   "number": 147,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "imaging loop",
+   "url": "https://github.com/casangi/astroviper/issues/147"
+  },
+  "https://github.com/casangi/astroviper/issues/155": {
+   "number": 155,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "create example notebook for casangi/astroviper #43",
+   "url": "https://github.com/casangi/astroviper/issues/155"
+  },
+  "https://github.com/casangi/astroviper/issues/162": {
+   "number": 162,
+   "pi": "PI-3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Degridding model: astroviper vs CASA offset",
+   "url": "https://github.com/casangi/astroviper/issues/162"
+  },
+  "https://github.com/casangi/astroviper/issues/172": {
+   "number": 172,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Creat demonstration notebook for make_point_spread_function",
+   "url": "https://github.com/casangi/astroviper/issues/172"
+  },
   "https://github.com/casangi/astroviper/issues/183": {
    "number": 183,
    "pi": "PI-4=26.3",
@@ -731,6 +2141,56 @@
    "title": "Achieve Reasonable Compute and Memory Performance for Single Field Imaging",
    "url": "https://github.com/casangi/astroviper/issues/183"
   },
+  "https://github.com/casangi/astroviper/issues/187": {
+   "number": 187,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Implement function to do direction frame conversion",
+   "url": "https://github.com/casangi/astroviper/issues/187"
+  },
+  "https://github.com/casangi/astroviper/issues/214": {
+   "number": 214,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "direction mapping from celestial coordinate to image pixel coordinate (including projection)",
+   "url": "https://github.com/casangi/astroviper/issues/214"
+  },
+  "https://github.com/casangi/astroviper/issues/227": {
+   "number": 227,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Single-dish cube imaging benchmarking at TACC",
+   "url": "https://github.com/casangi/astroviper/issues/227"
+  },
+  "https://github.com/casangi/astroviper/issues/228": {
+   "number": 228,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "explore single-dish pipeline with prefect capabilities",
+   "url": "https://github.com/casangi/astroviper/issues/228"
+  },
+  "https://github.com/casangi/astroviper/issues/229": {
+   "number": 229,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "make_mask.ipynb failing CI",
+   "url": "https://github.com/casangi/astroviper/issues/229"
+  },
   "https://github.com/casangi/astroviper/issues/23": {
    "number": 23,
    "pi": "PI-2",
@@ -740,6 +2200,16 @@
    "team": "Imaging",
    "title": "spectral_frame_conversion",
    "url": "https://github.com/casangi/astroviper/issues/23"
+  },
+  "https://github.com/casangi/astroviper/issues/233": {
+   "number": 233,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Workflow description of standard SDPL processing procedure (hsd_calimage)",
+   "url": "https://github.com/casangi/astroviper/issues/233"
   },
   "https://github.com/casangi/astroviper/issues/239": {
    "number": 239,
@@ -761,6 +2231,46 @@
    "title": "run SD benchmark testing on TACC",
    "url": "https://github.com/casangi/astroviper/issues/240"
   },
+  "https://github.com/casangi/astroviper/issues/241": {
+   "number": 241,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Single-dish cube imaging benchmarking at NAOJ",
+   "url": "https://github.com/casangi/astroviper/issues/241"
+  },
+  "https://github.com/casangi/astroviper/issues/242": {
+   "number": 242,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Run isolated scaling test on Fronterra",
+   "url": "https://github.com/casangi/astroviper/issues/242"
+  },
+  "https://github.com/casangi/astroviper/issues/243": {
+   "number": 243,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Initial implementation of simple (nterms=0) continuum imaging",
+   "url": "https://github.com/casangi/astroviper/issues/243"
+  },
+  "https://github.com/casangi/astroviper/issues/244": {
+   "number": 244,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Initial Performance optimization for simple (nterms=0) continuum imaging",
+   "url": "https://github.com/casangi/astroviper/issues/244"
+  },
   "https://github.com/casangi/astroviper/issues/245": {
    "number": 245,
    "pi": "PI26.4",
@@ -770,6 +2280,176 @@
    "team": "Imaging",
    "title": "Decide on test case(s) to use for continuum imaging performance experiments",
    "url": "https://github.com/casangi/astroviper/issues/245"
+  },
+  "https://github.com/casangi/astroviper/issues/248": {
+   "number": 248,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Distributed application graph implementation with sleeps and visualization",
+   "url": "https://github.com/casangi/astroviper/issues/248"
+  },
+  "https://github.com/casangi/astroviper/issues/249": {
+   "number": 249,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Connect full iteration control and multi residual-model cycles",
+   "url": "https://github.com/casangi/astroviper/issues/249"
+  },
+  "https://github.com/casangi/astroviper/issues/250": {
+   "number": 250,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Create node tasks (add IO to processing_functions)",
+   "url": "https://github.com/casangi/astroviper/issues/250"
+  },
+  "https://github.com/casangi/astroviper/issues/251": {
+   "number": 251,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Add node tasks to the graph and demonstrate a single residual-model cycle",
+   "url": "https://github.com/casangi/astroviper/issues/251"
+  },
+  "https://github.com/casangi/astroviper/issues/252": {
+   "number": 252,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Add a visibility weighting graph",
+   "url": "https://github.com/casangi/astroviper/issues/252"
+  },
+  "https://github.com/casangi/astroviper/issues/254": {
+   "number": 254,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "enable mvc option (standard gridder only)",
+   "url": "https://github.com/casangi/astroviper/issues/254"
+  },
+  "https://github.com/casangi/astroviper/issues/255": {
+   "number": 255,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "validate that mvc is working properly",
+   "url": "https://github.com/casangi/astroviper/issues/255"
+  },
+  "https://github.com/casangi/astroviper/issues/256": {
+   "number": 256,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "validate mfs is working correctly",
+   "url": "https://github.com/casangi/astroviper/issues/256"
+  },
+  "https://github.com/casangi/astroviper/issues/257": {
+   "number": 257,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "identify and obtain appropriate test data sets for continuum validation",
+   "url": "https://github.com/casangi/astroviper/issues/257"
+  },
+  "https://github.com/casangi/astroviper/issues/258": {
+   "number": 258,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "test 8 permutations and compare resulting image properties",
+   "url": "https://github.com/casangi/astroviper/issues/258"
+  },
+  "https://github.com/casangi/astroviper/issues/259": {
+   "number": 259,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "decide on one path through the algorithm",
+   "url": "https://github.com/casangi/astroviper/issues/259"
+  },
+  "https://github.com/casangi/astroviper/issues/260": {
+   "number": 260,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "remove excess code in continuum technology demonstrator",
+   "url": "https://github.com/casangi/astroviper/issues/260"
+  },
+  "https://github.com/casangi/astroviper/issues/261": {
+   "number": 261,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "add appropriate unit tests for the chosen continuum imaging path",
+   "url": "https://github.com/casangi/astroviper/issues/261"
+  },
+  "https://github.com/casangi/astroviper/issues/263": {
+   "number": 263,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "port Zernike polynominal fitting code from astrohack",
+   "url": "https://github.com/casangi/astroviper/issues/263"
+  },
+  "https://github.com/casangi/astroviper/issues/265": {
+   "number": 265,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Experiment with porting SIRIUS Simulator to AstroVIPER",
+   "url": "https://github.com/casangi/astroviper/issues/265"
+  },
+  "https://github.com/casangi/astroviper/issues/268": {
+   "number": 268,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "single field cube imaging links to feather tutorial, not single field cube.",
+   "url": "https://github.com/casangi/astroviper/issues/268"
+  },
+  "https://github.com/casangi/astroviper/issues/269": {
+   "number": 269,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic: Imaging Processing Function Refactor",
+   "url": "https://github.com/casangi/astroviper/issues/269"
   },
   "https://github.com/casangi/astroviper/issues/270": {
    "number": 270,
@@ -811,6 +2491,396 @@
    "title": "Ensure model grids are contiguous before degridding",
    "url": "https://github.com/casangi/astroviper/issues/273"
   },
+  "https://github.com/casangi/astroviper/issues/281": {
+   "number": 281,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Create python bindings for deconvolver MTMFS",
+   "url": "https://github.com/casangi/astroviper/issues/281"
+  },
+  "https://github.com/casangi/astroviper/issues/283": {
+   "number": 283,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Calibration",
+   "title": "Epic: Fringe fitting prototype",
+   "url": "https://github.com/casangi/astroviper/issues/283"
+  },
+  "https://github.com/casangi/astroviper/issues/285": {
+   "number": 285,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Fix nsigma in iteration controller",
+   "url": "https://github.com/casangi/astroviper/issues/285"
+  },
+  "https://github.com/casangi/astroviper/issues/286": {
+   "number": 286,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Fix plotting in iteration controller notebooks",
+   "url": "https://github.com/casangi/astroviper/issues/286"
+  },
+  "https://github.com/casangi/astroviper/issues/288": {
+   "number": 288,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Calibration",
+   "title": "Refactor to match the new module structure",
+   "url": "https://github.com/casangi/astroviper/issues/288"
+  },
+  "https://github.com/casangi/astroviper/issues/289": {
+   "number": 289,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Fix divergence test memory usage and add memory test",
+   "url": "https://github.com/casangi/astroviper/issues/289"
+  },
+  "https://github.com/casangi/astroviper/issues/290": {
+   "number": 290,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Divergence test based on Thompson et al.",
+   "url": "https://github.com/casangi/astroviper/issues/290"
+  },
+  "https://github.com/casangi/astroviper/issues/291": {
+   "number": 291,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Entropy stop based on Homan et al.",
+   "url": "https://github.com/casangi/astroviper/issues/291"
+  },
+  "https://github.com/casangi/astroviper/issues/292": {
+   "number": 292,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Restore convention change",
+   "url": "https://github.com/casangi/astroviper/issues/292"
+  },
+  "https://github.com/casangi/astroviper/issues/293": {
+   "number": 293,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Reduce duplicate instances of GitHub workflows",
+   "url": "https://github.com/casangi/astroviper/issues/293"
+  },
+  "https://github.com/casangi/astroviper/issues/294": {
+   "number": 294,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Atmospheric phase corruption with a Kolmogorov phase screen in the simulator",
+   "url": "https://github.com/casangi/astroviper/issues/294"
+  },
+  "https://github.com/casangi/astroviper/issues/295": {
+   "number": 295,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Simulation From \"First Principles\" for Cube and Continuum Imaging",
+   "url": "https://github.com/casangi/astroviper/issues/295"
+  },
+  "https://github.com/casangi/astroviper/issues/297": {
+   "number": 297,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Connect Continuum Imaging to MTMFS",
+   "url": "https://github.com/casangi/astroviper/issues/297"
+  },
+  "https://github.com/casangi/astroviper/issues/298": {
+   "number": 298,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Finish Continuum Imaging Memo II",
+   "url": "https://github.com/casangi/astroviper/issues/298"
+  },
+  "https://github.com/casangi/astroviper/issues/299": {
+   "number": 299,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Align uv-cell assignment between CASA and Astroviper",
+   "url": "https://github.com/casangi/astroviper/issues/299"
+  },
+  "https://github.com/casangi/astroviper/issues/303": {
+   "number": 303,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
+   "url": "https://github.com/casangi/astroviper/issues/303"
+  },
+  "https://github.com/casangi/astroviper/issues/306": {
+   "number": 306,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Self consistency test of cube imaging on a simulated point source field",
+   "url": "https://github.com/casangi/astroviper/issues/306"
+  },
+  "https://github.com/casangi/astroviper/issues/307": {
+   "number": 307,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "New Algorithms Tracker",
+   "url": "https://github.com/casangi/astroviper/issues/307"
+  },
+  "https://github.com/casangi/astroviper/issues/308": {
+   "number": 308,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Automatic simulation chunking can index beyond the available axes",
+   "url": "https://github.com/casangi/astroviper/issues/308"
+  },
+  "https://github.com/casangi/astroviper/issues/309": {
+   "number": 309,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Recheck cube convergence after the visibility-based residual update",
+   "url": "https://github.com/casangi/astroviper/issues/309"
+  },
+  "https://github.com/casangi/astroviper/issues/314": {
+   "number": 314,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Performance Improvements and Bug Fixes for deconvolvers",
+   "url": "https://github.com/casangi/astroviper/issues/314"
+  },
+  "https://github.com/casangi/astroviper/issues/318": {
+   "number": 318,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Single Dish",
+   "title": "Integrate all processing steps into single workflow to construct E2E data reduction sequence of ALMA Solar TP Regional observation",
+   "url": "https://github.com/casangi/astroviper/issues/318"
+  },
+  "https://github.com/casangi/astroviper/issues/319": {
+   "number": 319,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Check Input Parameters for validity before scheduling a graph",
+   "url": "https://github.com/casangi/astroviper/issues/319"
+  },
+  "https://github.com/casangi/astroviper/issues/320": {
+   "number": 320,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "NumPy-compatible dtypes from load through the full stack",
+   "url": "https://github.com/casangi/astroviper/issues/320"
+  },
+  "https://github.com/casangi/astroviper/issues/321": {
+   "number": 321,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Define a consistent PSF-origin convention across imaging and deconvolution",
+   "url": "https://github.com/casangi/astroviper/issues/321"
+  },
+  "https://github.com/casangi/astroviper/issues/322": {
+   "number": 322,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Define a floating-point precision policy for continuum imaging",
+   "url": "https://github.com/casangi/astroviper/issues/322"
+  },
+  "https://github.com/casangi/astroviper/issues/323": {
+   "number": 323,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Simulator: add bandwidth and time averaging smearing for all sky models",
+   "url": "https://github.com/casangi/astroviper/issues/323"
+  },
+  "https://github.com/casangi/astroviper/issues/324": {
+   "number": 324,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Simulator: add on/off source observing gaps and expose scan_intent",
+   "url": "https://github.com/casangi/astroviper/issues/324"
+  },
+  "https://github.com/casangi/astroviper/issues/325": {
+   "number": 325,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Simulator: add visibility corruptions following the measurement equation",
+   "url": "https://github.com/casangi/astroviper/issues/325"
+  },
+  "https://github.com/casangi/astroviper/issues/326": {
+   "number": 326,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Simulator: VLBI accurate UVW from radio_telescope_delay_model (CALC11)",
+   "url": "https://github.com/casangi/astroviper/issues/326"
+  },
+  "https://github.com/casangi/astroviper/issues/327": {
+   "number": 327,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Asp: evaluate two LibRA AspMatrixCleaner behaviours (Hogbom switch state across model updates; scales when largestscale < PSF width)",
+   "url": "https://github.com/casangi/astroviper/issues/327"
+  },
+  "https://github.com/casangi/astroviper/issues/328": {
+   "number": 328,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",
+   "url": "https://github.com/casangi/astroviper/issues/328"
+  },
+  "https://github.com/casangi/astroviper/issues/330": {
+   "number": 330,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Finish Continuum Imaging Memo I",
+   "url": "https://github.com/casangi/astroviper/issues/330"
+  },
+  "https://github.com/casangi/astroviper/issues/331": {
+   "number": 331,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Document arcae as the casacore backend; remove python-casacore from the README, extras and tests",
+   "url": "https://github.com/casangi/astroviper/issues/331"
+  },
+  "https://github.com/casangi/astroviper/issues/333": {
+   "number": 333,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Reports for image_cube_single_field and simulate_processing_set",
+   "url": "https://github.com/casangi/astroviper/issues/333"
+  },
+  "https://github.com/casangi/astroviper/issues/337": {
+   "number": 337,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Future testing of CORAL",
+   "url": "https://github.com/casangi/astroviper/issues/337"
+  },
+  "https://github.com/casangi/astroviper/issues/338": {
+   "number": 338,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "fft_backend: scipy is about 2x faster than pyfftw on Apple silicon; check on Linux before changing the default",
+   "url": "https://github.com/casangi/astroviper/issues/338"
+  },
+  "https://github.com/casangi/astroviper/issues/339": {
+   "number": 339,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "ARDG -> astroviper: Component Relaxation",
+   "url": "https://github.com/casangi/astroviper/issues/339"
+  },
+  "https://github.com/casangi/astroviper/issues/340": {
+   "number": 340,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "ARDG -> astroviper: Autocorr-CLEAN",
+   "url": "https://github.com/casangi/astroviper/issues/340"
+  },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
    "pi": "PI-2",
@@ -851,6 +2921,36 @@
    "title": "ifft_and_normalize_image\u200b & fft_and_denormalize_image",
    "url": "https://github.com/casangi/astroviper/issues/43"
   },
+  "https://github.com/casangi/astroviper/issues/44": {
+   "number": 44,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "hogbom_deconvolve\u200b",
+   "url": "https://github.com/casangi/astroviper/issues/44"
+  },
+  "https://github.com/casangi/astroviper/issues/45": {
+   "number": 45,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "fit_gaussian",
+   "url": "https://github.com/casangi/astroviper/issues/45"
+  },
+  "https://github.com/casangi/astroviper/issues/47": {
+   "number": 47,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "apply_common_beam",
+   "url": "https://github.com/casangi/astroviper/issues/47"
+  },
   "https://github.com/casangi/astroviper/issues/48": {
    "number": 48,
    "pi": "PI-2",
@@ -860,6 +2960,16 @@
    "team": "Imaging",
    "title": "make_point_spread_function",
    "url": "https://github.com/casangi/astroviper/issues/48"
+  },
+  "https://github.com/casangi/astroviper/issues/49": {
+   "number": 49,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "cube_single_field_primary_beam",
+   "url": "https://github.com/casangi/astroviper/issues/49"
   },
   "https://github.com/casangi/astroviper/issues/51": {
    "number": 51,
@@ -871,6 +2981,36 @@
    "title": "cube_single_field_image",
    "url": "https://github.com/casangi/astroviper/issues/51"
   },
+  "https://github.com/casangi/astroviper/issues/52": {
+   "number": 52,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "grid_imaging_weights",
+   "url": "https://github.com/casangi/astroviper/issues/52"
+  },
+  "https://github.com/casangi/astroviper/issues/54": {
+   "number": 54,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "degrid_imaging_weights",
+   "url": "https://github.com/casangi/astroviper/issues/54"
+  },
+  "https://github.com/casangi/astroviper/issues/55": {
+   "number": 55,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Incorporate Single Field Cube Imaging into the Prefect Pipeline Workflow",
+   "url": "https://github.com/casangi/astroviper/issues/55"
+  },
   "https://github.com/casangi/astroviper/issues/56": {
    "number": 56,
    "pi": "PI-2",
@@ -880,6 +3020,226 @@
    "team": "Imaging",
    "title": "prolate_spheroidal_degrid_visibility",
    "url": "https://github.com/casangi/astroviper/issues/56"
+  },
+  "https://github.com/casangi/astroviper/issues/66": {
+   "number": 66,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "iteration_control",
+   "url": "https://github.com/casangi/astroviper/issues/66"
+  },
+  "https://github.com/casangi/astroviper/issues/67": {
+   "number": 67,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "create/update_mask",
+   "url": "https://github.com/casangi/astroviper/issues/67"
+  },
+  "https://github.com/casangi/astroviper/issues/77": {
+   "number": 77,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "stokes_to_corr",
+   "url": "https://github.com/casangi/astroviper/issues/77"
+  },
+  "https://github.com/casangi/astroviper/issues/78": {
+   "number": 78,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "corr_to_stokes",
+   "url": "https://github.com/casangi/astroviper/issues/78"
+  },
+  "https://github.com/casangi/astroviper/issues/90": {
+   "number": 90,
+   "pi": "PI-2",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Build System for C++ using Pybind11, scikit_build_core, cibuildwheel",
+   "url": "https://github.com/casangi/astroviper/issues/90"
+  },
+  "https://github.com/casangi/benchviper/issues/17": {
+   "number": 17,
+   "pi": "PI-3",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Epic - Add benchmark tests for XRADIO",
+   "url": "https://github.com/casangi/benchviper/issues/17"
+  },
+  "https://github.com/casangi/benchviper/issues/18": {
+   "number": 18,
+   "pi": "PI-3",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Create benchmark tests for image_xds",
+   "url": "https://github.com/casangi/benchviper/issues/18"
+  },
+  "https://github.com/casangi/benchviper/issues/19": {
+   "number": 19,
+   "pi": "PI-3",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Create benchmark tests for image",
+   "url": "https://github.com/casangi/benchviper/issues/19"
+  },
+  "https://github.com/casangi/benchviper/issues/23": {
+   "number": 23,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Create the necessary license files for benchviper repo",
+   "url": "https://github.com/casangi/benchviper/issues/23"
+  },
+  "https://github.com/casangi/benchviper/issues/25": {
+   "number": 25,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Update matrix of dependencies to use ARCAE backend",
+   "url": "https://github.com/casangi/benchviper/issues/25"
+  },
+  "https://github.com/casangi/benchviper/issues/26": {
+   "number": 26,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Build and test astroviper with asv false positive due to missing gcc 14",
+   "url": "https://github.com/casangi/benchviper/issues/26"
+  },
+  "https://github.com/casangi/benchviper/issues/27": {
+   "number": 27,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Force workflow failure when benchmarks fail to execute",
+   "url": "https://github.com/casangi/benchviper/issues/27"
+  },
+  "https://github.com/casangi/benchviper/issues/29": {
+   "number": 29,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Modify yaml actions to run on benchviper branches",
+   "url": "https://github.com/casangi/benchviper/issues/29"
+  },
+  "https://github.com/casangi/benchviper/issues/31": {
+   "number": 31,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "benchmarks/fft_ifft.py fails with new astroviper updates",
+   "url": "https://github.com/casangi/benchviper/issues/31"
+  },
+  "https://github.com/casangi/benchviper/issues/32": {
+   "number": 32,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Modify benchmarking workflow to use dispatch to execute benchmarks per commit instead of commit range",
+   "url": "https://github.com/casangi/benchviper/issues/32"
+  },
+  "https://github.com/casangi/benchviper/issues/36": {
+   "number": 36,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Update benchviper for iteration control parameter name changes",
+   "url": "https://github.com/casangi/benchviper/issues/36"
+  },
+  "https://github.com/casangi/benchviper/issues/41": {
+   "number": 41,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "README: give the reason for the macOS note now that XRADIO uses arcae",
+   "url": "https://github.com/casangi/benchviper/issues/41"
+  },
+  "https://github.com/casangi/benchviper/issues/45": {
+   "number": 45,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Fix astroviper fft_ifft benchmark",
+   "url": "https://github.com/casangi/benchviper/issues/45"
+  },
+  "https://github.com/casangi/benchviper/pull/44": {
+   "number": 44,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "MERGED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Use the shared pre-commit workflow",
+   "url": "https://github.com/casangi/benchviper/pull/44"
+  },
+  "https://github.com/casangi/flowviper/issues/11": {
+   "number": 11,
+   "pi": "PI26.4",
+   "repo": "casangi/flowviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Single Dish",
+   "title": "single dish workflow notebooks",
+   "url": "https://github.com/casangi/flowviper/issues/11"
+  },
+  "https://github.com/casangi/flowviper/issues/18": {
+   "number": 18,
+   "pi": "PI26.4",
+   "repo": "casangi/flowviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "prefect_workflow README: out-of-date macOS MSv2 note and broken link",
+   "url": "https://github.com/casangi/flowviper/issues/18"
+  },
+  "https://github.com/casangi/flowviper/issues/4": {
+   "number": 4,
+   "pi": "PI26.4",
+   "repo": "casangi/flowviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Add new example workflow",
+   "url": "https://github.com/casangi/flowviper/issues/4"
   },
   "https://github.com/casangi/flowviper/issues/6": {
    "number": 6,
@@ -891,6 +3251,156 @@
    "title": "Update simple imaging workflow for astroviper API changes",
    "url": "https://github.com/casangi/flowviper/issues/6"
   },
+  "https://github.com/casangi/flowviper/issues/8": {
+   "number": 8,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/flowviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Create the necessary license files for flowviper  repo",
+   "url": "https://github.com/casangi/flowviper/issues/8"
+  },
+  "https://github.com/casangi/flowviper/pull/10": {
+   "number": 10,
+   "pi": "PI26.4",
+   "repo": "casangi/flowviper",
+   "state": "MERGED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "4 add new example workflow",
+   "url": "https://github.com/casangi/flowviper/pull/10"
+  },
+  "https://github.com/casangi/graphviper/issues/57": {
+   "number": 57,
+   "pi": "",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "",
+   "title": "single dish walking skeleton work",
+   "url": "https://github.com/casangi/graphviper/issues/57"
+  },
+  "https://github.com/casangi/graphviper/issues/59": {
+   "number": 59,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Create Single-Dish Workflow Skeleton",
+   "url": "https://github.com/casangi/graphviper/issues/59"
+  },
+  "https://github.com/casangi/graphviper/issues/60": {
+   "number": 60,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Create walking skeleton for hsd_blflag",
+   "url": "https://github.com/casangi/graphviper/issues/60"
+  },
+  "https://github.com/casangi/graphviper/issues/61": {
+   "number": 61,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Create walking skeleton for hsd_imaging",
+   "url": "https://github.com/casangi/graphviper/issues/61"
+  },
+  "https://github.com/casangi/graphviper/issues/62": {
+   "number": 62,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Create walking skeleton for  baseline subtraction",
+   "url": "https://github.com/casangi/graphviper/issues/62"
+  },
+  "https://github.com/casangi/graphviper/issues/64": {
+   "number": 64,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Create Append",
+   "url": "https://github.com/casangi/graphviper/issues/64"
+  },
+  "https://github.com/casangi/graphviper/issues/65": {
+   "number": 65,
+   "pi": "Near-term",
+   "repo": "casangi/graphviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "python-graphviz needs to be installed in addition to graphviz",
+   "url": "https://github.com/casangi/graphviper/issues/65"
+  },
+  "https://github.com/casangi/graphviper/issues/67": {
+   "number": 67,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Default per-task memory hooks (mmap threshold pin, malloc_trim) raise minor page faults",
+   "url": "https://github.com/casangi/graphviper/issues/67"
+  },
+  "https://github.com/casangi/graphviper/issues/68": {
+   "number": 68,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
+   "url": "https://github.com/casangi/graphviper/issues/68"
+  },
+  "https://github.com/casangi/graphviper/issues/70": {
+   "number": 70,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "make_parallel_coord(n_chunks=n) can return far fewer chunks than requested",
+   "url": "https://github.com/casangi/graphviper/issues/70"
+  },
+  "https://github.com/casangi/graphviper/issues/73": {
+   "number": 73,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "The all extra installs python-casacore, but XRADIO 1.3.0 needs arcae",
+   "url": "https://github.com/casangi/graphviper/issues/73"
+  },
+  "https://github.com/casangi/pyasdm/issues/28": {
+   "number": 28,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Pointing table: look into performance and try to optimize",
+   "url": "https://github.com/casangi/pyasdm/issues/28"
+  },
+  "https://github.com/casangi/pyasdm/issues/29": {
+   "number": 29,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Pointing table (and other ~15 tables): `getByContext()` doesn't return anything",
+   "url": "https://github.com/casangi/pyasdm/issues/29"
+  },
   "https://github.com/casangi/pyasdm/issues/30": {
    "number": 30,
    "pi": "PI26.4",
@@ -900,6 +3410,216 @@
    "team": "Infrastructure",
    "title": "binary table improvement",
    "url": "https://github.com/casangi/pyasdm/issues/30"
+  },
+  "https://github.com/casangi/pyasdm/issues/31": {
+   "number": 31,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Epic: asdm tests",
+   "url": "https://github.com/casangi/pyasdm/issues/31"
+  },
+  "https://github.com/casangi/pyasdm/issues/32": {
+   "number": 32,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Create a PR to merge the pyasdm template code to the almasw main branch",
+   "url": "https://github.com/casangi/pyasdm/issues/32"
+  },
+  "https://github.com/casangi/pyasdm/issues/34": {
+   "number": 34,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Make the uniqueness check when a table is open optional",
+   "url": "https://github.com/casangi/pyasdm/issues/34"
+  },
+  "https://github.com/casangi/pyasdm/issues/35": {
+   "number": 35,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Investigate use of lists of rows to satisfy context and key selection",
+   "url": "https://github.com/casangi/pyasdm/issues/35"
+  },
+  "https://github.com/casangi/pyasdm/issues/36": {
+   "number": 36,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Investigate loading only where each row starts for a binary table",
+   "url": "https://github.com/casangi/pyasdm/issues/36"
+  },
+  "https://github.com/casangi/pyasdm/issues/37": {
+   "number": 37,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Finalize and implement binary table improvements",
+   "url": "https://github.com/casangi/pyasdm/issues/37"
+  },
+  "https://github.com/casangi/pyasdm/issues/38": {
+   "number": 38,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Move all of these changes to the code generation templates in almasw and create pyasdm 1.0",
+   "url": "https://github.com/casangi/pyasdm/issues/38"
+  },
+  "https://github.com/casangi/pyasdm/issues/39": {
+   "number": 39,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Pyasdm v1.0 release",
+   "url": "https://github.com/casangi/pyasdm/issues/39"
+  },
+  "https://github.com/casangi/pyasdm/issues/41": {
+   "number": 41,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Investigate and fix issues seen when running benchmarks during issue #34 testing",
+   "url": "https://github.com/casangi/pyasdm/issues/41"
+  },
+  "https://github.com/casangi/pyasdm/issues/43": {
+   "number": 43,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Modify workflow to publish builds to pypi",
+   "url": "https://github.com/casangi/pyasdm/issues/43"
+  },
+  "https://github.com/casangi/pyasdm/issues/44": {
+   "number": 44,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Create pyasdm first release",
+   "url": "https://github.com/casangi/pyasdm/issues/44"
+  },
+  "https://github.com/casangi/pyasdm/issues/46": {
+   "number": 46,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ArrayTimeInterval.fromBin returns about half the real start time for binary tables (midpoint convention)",
+   "url": "https://github.com/casangi/pyasdm/issues/46"
+  },
+  "https://github.com/casangi/pyasdm/issues/47": {
+   "number": 47,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Generated setFromXML parses XML booleans with bool(text), so 'false' is read as True",
+   "url": "https://github.com/casangi/pyasdm/issues/47"
+  },
+  "https://github.com/casangi/pyasdm/issues/48": {
+   "number": 48,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "SourceTable.add checks the wrong container length and can raise IndexError when adding Source rows",
+   "url": "https://github.com/casangi/pyasdm/issues/48"
+  },
+  "https://github.com/casangi/pyasdm/issues/49": {
+   "number": 49,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM.fromXML never resets the startTimeDurationInXML/Bin flags, so one ASDM's time convention leaks into later ASDMs",
+   "url": "https://github.com/casangi/pyasdm/issues/49"
+  },
+  "https://github.com/casangi/pyasdm/issues/50": {
+   "number": 50,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "CI: Python 3.12\u20133.14, lint + Linux 3.13 on push, full matrix on PRs and merges to main",
+   "url": "https://github.com/casangi/pyasdm/issues/50"
+  },
+  "https://github.com/casangi/pyasdm/issues/52": {
+   "number": 52,
+   "pi": "PI26.4",
+   "repo": "casangi/pyasdm",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "When an empty set is passed to `loadOnlyComponents` that should mean \"no binary component array is loaded\".",
+   "url": "https://github.com/casangi/pyasdm/issues/52"
+  },
+  "https://github.com/casangi/pyasdm/issues/56": {
+   "number": 56,
+   "pi": "",
+   "repo": "casangi/pyasdm",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Errors found by ruff",
+   "url": "https://github.com/casangi/pyasdm/issues/56"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/1": {
+   "number": 1,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Preliminary Project Management Plan",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/1"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/10": {
+   "number": 10,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "SD Performance Testing Report",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/10"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/11": {
+   "number": 11,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Technology Demonstrator Code",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/11"
   },
   "https://github.com/casangi/radps-alma-pdr/issues/12": {
    "number": 12,
@@ -911,6 +3631,36 @@
    "title": "Development and Deployment Plan",
    "url": "https://github.com/casangi/radps-alma-pdr/issues/12"
   },
+  "https://github.com/casangi/radps-alma-pdr/issues/13": {
+   "number": 13,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Operational and Technical Impact Assessment",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/13"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/14": {
+   "number": 14,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Risk Register",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/14"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/15": {
+   "number": 15,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Configured Items Data List",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/15"
+  },
   "https://github.com/casangi/radps-alma-pdr/issues/16": {
    "number": 16,
    "pi": "PI-4=26.3",
@@ -921,6 +3671,36 @@
    "title": "Write down requirements for branching and deployment",
    "url": "https://github.com/casangi/radps-alma-pdr/issues/16"
   },
+  "https://github.com/casangi/radps-alma-pdr/issues/17": {
+   "number": 17,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Compile list of evaluation criteria for branching structure",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/17"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/18": {
+   "number": 18,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Hold meeting to discuss and decide on branching with development team",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/18"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/19": {
+   "number": 19,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Decide on branching structure",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/19"
+  },
   "https://github.com/casangi/radps-alma-pdr/issues/2": {
    "number": 2,
    "pi": "PI-4=26.3",
@@ -930,6 +3710,46 @@
    "team": "Infrastructure",
    "title": "Epic: QA Plan for PDR",
    "url": "https://github.com/casangi/radps-alma-pdr/issues/2"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/20": {
+   "number": 20,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Hold meeting to discuss and decide on deployment model",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/20"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/21": {
+   "number": 21,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "update document to reflect slurm as the feasible path forward for RADPS-ALMA",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/21"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/22": {
+   "number": 22,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Identify impact of single CI/CD system on RADPS planning",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/22"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/23": {
+   "number": 23,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Determine how RADPS-ALMA aligns with the single CI/CD Plan",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/23"
   },
   "https://github.com/casangi/radps-alma-pdr/issues/24": {
    "number": 24,
@@ -951,6 +3771,256 @@
    "title": "Feedback on Quality Assurance Plan for RADPS-ALMA",
    "url": "https://github.com/casangi/radps-alma-pdr/issues/25"
   },
+  "https://github.com/casangi/radps-alma-pdr/issues/26": {
+   "number": 26,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Define Scope",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/26"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/27": {
+   "number": 27,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Generate a List of Reference Docs",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/27"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/28": {
+   "number": 28,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Create WBS for PMP",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/28"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/29": {
+   "number": 29,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Cost Estimate of WBS",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/29"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/3": {
+   "number": 3,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Introduction to Document Package",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/3"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/30": {
+   "number": 30,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Create a Master Schedule with Milestones",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/30"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/31": {
+   "number": 31,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Document the Multi-region Coordination Model",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/31"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/32": {
+   "number": 32,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Define and Agree on CDR Timeline",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/32"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/33": {
+   "number": 33,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Identify Documentation Control Home",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/33"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/34": {
+   "number": 34,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Define the Preliminary Commissioning Concept",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/34"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/35": {
+   "number": 35,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Define the Change Control Process",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/35"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/36": {
+   "number": 36,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Create Communication Plan",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/36"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/37": {
+   "number": 37,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Update Org Chart",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/37"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/38": {
+   "number": 38,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Identify the Governing Documents",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/38"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/39": {
+   "number": 39,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Create WBS Dictionary.",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/39"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/4": {
+   "number": 4,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "RADPS-ALMA Requirements",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/4"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/40": {
+   "number": 40,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Identify stakeholders who needs to be consulted about this document",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/40"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/41": {
+   "number": 41,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Put together outline of document",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/41"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/42": {
+   "number": 42,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Write rough draft of DDP ",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/42"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/43": {
+   "number": 43,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Get feedback on rough draft",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/43"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/44": {
+   "number": 44,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Revise draft to incorporate feedback",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/44"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/45": {
+   "number": 45,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Review examples of Operational and Technical Impact Assessments",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/45"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/46": {
+   "number": 46,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Create outline for Operational and Technical Impact Assessment",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/46"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/47": {
+   "number": 47,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Assess current status of requirements based on process of ISOpT requirements process",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/47"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/48": {
+   "number": 48,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Talk with Rachel Rosen re: update of Cameo requirements",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/48"
+  },
   "https://github.com/casangi/radps-alma-pdr/issues/5": {
    "number": 5,
    "pi": "PI-4=26.3",
@@ -960,6 +4030,86 @@
    "team": "Management",
    "title": "RADPS-ALMA / ALMA-D3 Interface Description",
    "url": "https://github.com/casangi/radps-alma-pdr/issues/5"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/50": {
+   "number": 50,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Write initial draft of report",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/50"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/51": {
+   "number": 51,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Initial draft reviewed by Krishna and Amanda",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/51"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/52": {
+   "number": 52,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Draft revised based on comments from Krishna and Amanda",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/52"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/53": {
+   "number": 53,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Draft reviewed by TACC",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/53"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/54": {
+   "number": 54,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Draft revised based on TACC comments",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/54"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/55": {
+   "number": 55,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Draft reviewed by Imaging Team",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/55"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/56": {
+   "number": 56,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Draft revised based on Imaging Team comments",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/56"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/57": {
+   "number": 57,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "final revision and proofread",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/57"
   },
   "https://github.com/casangi/radps-alma-pdr/issues/58": {
    "number": 58,
@@ -971,6 +4121,106 @@
    "title": "Final edit pass on QA Plan Document",
    "url": "https://github.com/casangi/radps-alma-pdr/issues/58"
   },
+  "https://github.com/casangi/radps-alma-pdr/issues/59": {
+   "number": 59,
+   "pi": "",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "OPEN",
+   "status": "Won't Do",
+   "team": "",
+   "title": "Write outline",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/59"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/6": {
+   "number": 6,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Preliminary Design Report",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/6"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/60": {
+   "number": 60,
+   "pi": "",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "OPEN",
+   "status": "Won't Do",
+   "team": "",
+   "title": "Revise outline",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/60"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/61": {
+   "number": 61,
+   "pi": "",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "OPEN",
+   "status": "Won't Do",
+   "team": "",
+   "title": "Write rough draft",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/61"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/62": {
+   "number": 62,
+   "pi": "",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "OPEN",
+   "status": "Won't Do",
+   "team": "",
+   "title": "Revise rough draft",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/62"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/63": {
+   "number": 63,
+   "pi": "",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "OPEN",
+   "status": "Won't Do",
+   "team": "",
+   "title": "get feedback on rough draft",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/63"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/64": {
+   "number": 64,
+   "pi": "",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "OPEN",
+   "status": "Won't Do",
+   "team": "",
+   "title": "final proof read",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/64"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/65": {
+   "number": 65,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Re-organize content in QA Plan and Development and Deployment Plan",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/65"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/66": {
+   "number": 66,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Final revisions",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/66"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/7": {
+   "number": 7,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Compliance Matrix",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/7"
+  },
   "https://github.com/casangi/radps-alma-pdr/issues/8": {
    "number": 8,
    "pi": "PI-4=26.3",
@@ -980,6 +4230,436 @@
    "team": "Imaging",
    "title": "IF Performance Testing Report",
    "url": "https://github.com/casangi/radps-alma-pdr/issues/8"
+  },
+  "https://github.com/casangi/radps-alma-pdr/issues/9": {
+   "number": 9,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-alma-pdr",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Amanda talks to Liza about point of contact and process",
+   "url": "https://github.com/casangi/radps-alma-pdr/issues/9"
+  },
+  "https://github.com/casangi/radps-context/issues/10": {
+   "number": 10,
+   "pi": "PI-3",
+   "repo": "casangi/radps-context",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "Review Requirements for RADPS",
+   "url": "https://github.com/casangi/radps-context/issues/10"
+  },
+  "https://github.com/casangi/radps-context/issues/11": {
+   "number": 11,
+   "pi": "PI-3",
+   "repo": "casangi/radps-context",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "Review constraints and non-functional requirements for RADPS",
+   "url": "https://github.com/casangi/radps-context/issues/11"
+  },
+  "https://github.com/casangi/radps-context/issues/12": {
+   "number": 12,
+   "pi": "PI-3",
+   "repo": "casangi/radps-context",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "Document all use cases for the Context",
+   "url": "https://github.com/casangi/radps-context/issues/12"
+  },
+  "https://github.com/casangi/radps-context/issues/13": {
+   "number": 13,
+   "pi": "PI-3",
+   "repo": "casangi/radps-context",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "Identify which use cases are relevant to RADPS and where they may be handled by workflow manager or another solution.",
+   "url": "https://github.com/casangi/radps-context/issues/13"
+  },
+  "https://github.com/casangi/radps-context/issues/14": {
+   "number": 14,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-context",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "Flesh out identified use cases",
+   "url": "https://github.com/casangi/radps-context/issues/14"
+  },
+  "https://github.com/casangi/radps-context/issues/15": {
+   "number": 15,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-context",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "Decide logical components and architecture style",
+   "url": "https://github.com/casangi/radps-context/issues/15"
+  },
+  "https://github.com/casangi/radps-context/issues/2": {
+   "number": 2,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-context",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Pipeline",
+   "title": "Review Walking Skeleton for prototype requirements",
+   "url": "https://github.com/casangi/radps-context/issues/2"
+  },
+  "https://github.com/casangi/radps-context/issues/21": {
+   "number": 21,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-context",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "consistency in actor naming in use cases",
+   "url": "https://github.com/casangi/radps-context/issues/21"
+  },
+  "https://github.com/casangi/radps-context/issues/22": {
+   "number": 22,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/radps-context",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Pipeline",
+   "title": "Current context supplementary appendix is missing information for several use cases",
+   "url": "https://github.com/casangi/radps-context/issues/22"
+  },
+  "https://github.com/casangi/radps-context/issues/3": {
+   "number": 3,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-context",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Define how to prototype",
+   "url": "https://github.com/casangi/radps-context/issues/3"
+  },
+  "https://github.com/casangi/radps-context/issues/4": {
+   "number": 4,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-context",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Pipeline",
+   "title": "Define trade-off analysis parameters",
+   "url": "https://github.com/casangi/radps-context/issues/4"
+  },
+  "https://github.com/casangi/radps-context/issues/5": {
+   "number": 5,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-context",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Pipeline",
+   "title": "Write up ADRs",
+   "url": "https://github.com/casangi/radps-context/issues/5"
+  },
+  "https://github.com/casangi/radps-context/issues/6": {
+   "number": 6,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-context",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Pipeline",
+   "title": "Create prototype 1",
+   "url": "https://github.com/casangi/radps-context/issues/6"
+  },
+  "https://github.com/casangi/radps-context/issues/7": {
+   "number": 7,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-context",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Pipeline",
+   "title": "Create additional prototype(s)",
+   "url": "https://github.com/casangi/radps-context/issues/7"
+  },
+  "https://github.com/casangi/radps-context/issues/8": {
+   "number": 8,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-context",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Pipeline",
+   "title": "Conduct trade-off analysis",
+   "url": "https://github.com/casangi/radps-context/issues/8"
+  },
+  "https://github.com/casangi/radps-sccb/issues/2": {
+   "number": 2,
+   "pi": "PI26.4",
+   "repo": "casangi/radps-sccb",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Management",
+   "title": "SCCB: Add full polarization imaging to RADPS-ALMA project scope",
+   "url": "https://github.com/casangi/radps-sccb/issues/2"
+  },
+  "https://github.com/casangi/radpsdocs/issues/12": {
+   "number": 12,
+   "pi": "PI-2",
+   "repo": "casangi/radpsdocs",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Update testing instructions to include installation of casatools, matplotlib, and jupyter",
+   "url": "https://github.com/casangi/radpsdocs/issues/12"
+  },
+  "https://github.com/casangi/radpsdocs/issues/2": {
+   "number": 2,
+   "pi": "PI-2",
+   "repo": "casangi/radpsdocs",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Put together RADPS testing instruction wiki page",
+   "url": "https://github.com/casangi/radpsdocs/issues/2"
+  },
+  "https://github.com/casangi/radpsdocs/issues/23": {
+   "number": 23,
+   "pi": "Near-term",
+   "repo": "casangi/radpsdocs",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Management",
+   "title": "implement RADPS documentation skeleton on readthedocs",
+   "url": "https://github.com/casangi/radpsdocs/issues/23"
+  },
+  "https://github.com/casangi/radpsdocs/issues/25": {
+   "number": 25,
+   "pi": "PI26.4",
+   "repo": "casangi/radpsdocs",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Management",
+   "title": "Initiate RADPS memo series",
+   "url": "https://github.com/casangi/radpsdocs/issues/25"
+  },
+  "https://github.com/casangi/radpsdocs/issues/26": {
+   "number": 26,
+   "pi": "Near-term",
+   "repo": "casangi/radpsdocs",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Management",
+   "title": "Add existing documents to memo series",
+   "url": "https://github.com/casangi/radpsdocs/issues/26"
+  },
+  "https://github.com/casangi/radpsdocs/issues/27": {
+   "number": 27,
+   "pi": "PI-3",
+   "repo": "casangi/radpsdocs",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Write draft memo",
+   "url": "https://github.com/casangi/radpsdocs/issues/27"
+  },
+  "https://github.com/casangi/radpsdocs/issues/28": {
+   "number": 28,
+   "pi": "PI-3",
+   "repo": "casangi/radpsdocs",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Revise draft memo",
+   "url": "https://github.com/casangi/radpsdocs/issues/28"
+  },
+  "https://github.com/casangi/radpsdocs/issues/29": {
+   "number": 29,
+   "pi": "PI-3",
+   "repo": "casangi/radpsdocs",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Get Jeff's approval of memo",
+   "url": "https://github.com/casangi/radpsdocs/issues/29"
+  },
+  "https://github.com/casangi/radpsdocs/issues/3": {
+   "number": 3,
+   "pi": "PI-2",
+   "repo": "casangi/radpsdocs",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "Management",
+   "title": "Put together intro to RADPS PI2 wiki page",
+   "url": "https://github.com/casangi/radpsdocs/issues/3"
+  },
+  "https://github.com/casangi/radpsdocs/issues/30": {
+   "number": 30,
+   "pi": "Near-term",
+   "repo": "casangi/radpsdocs",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Management",
+   "title": "Submit memo to library",
+   "url": "https://github.com/casangi/radpsdocs/issues/30"
+  },
+  "https://github.com/casangi/radpsdocs/issues/31": {
+   "number": 31,
+   "pi": "Near-term",
+   "repo": "casangi/radpsdocs",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Management",
+   "title": "add line about MOU to memo",
+   "url": "https://github.com/casangi/radpsdocs/issues/31"
+  },
+  "https://github.com/casangi/radpsdocs/issues/32": {
+   "number": 32,
+   "pi": "Near-term",
+   "repo": "casangi/radpsdocs",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Management",
+   "title": "proofread memo",
+   "url": "https://github.com/casangi/radpsdocs/issues/32"
+  },
+  "https://github.com/casangi/radpsdocs/issues/4": {
+   "number": 4,
+   "pi": "Near-term",
+   "repo": "casangi/radpsdocs",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Management",
+   "title": "Put together RADPS resources list wiki page",
+   "url": "https://github.com/casangi/radpsdocs/issues/4"
+  },
+  "https://github.com/casangi/radpsdocs/issues/6": {
+   "number": 6,
+   "pi": "PI-2",
+   "repo": "casangi/radpsdocs",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Infrastructure  for RADPS program level documentation",
+   "url": "https://github.com/casangi/radpsdocs/issues/6"
+  },
+  "https://github.com/casangi/radpsdocs/issues/8": {
+   "number": 8,
+   "pi": "PI-2",
+   "repo": "casangi/radpsdocs",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Management",
+   "title": "Create outline for RADPS program documentation",
+   "url": "https://github.com/casangi/radpsdocs/issues/8"
+  },
+  "https://github.com/casangi/radpsdocs/issues/9": {
+   "number": 9,
+   "pi": "Near-term",
+   "repo": "casangi/radpsdocs",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Management",
+   "title": "Initial RADPS Program Documentation",
+   "url": "https://github.com/casangi/radpsdocs/issues/9"
+  },
+  "https://github.com/casangi/testviper/issues/34": {
+   "number": 34,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Prototype first workflow integration test",
+   "url": "https://github.com/casangi/testviper/issues/34"
+  },
+  "https://github.com/casangi/testviper/issues/39": {
+   "number": 39,
+   "pi": "PI-3",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Create global dashboard page",
+   "url": "https://github.com/casangi/testviper/issues/39"
+  },
+  "https://github.com/casangi/testviper/issues/50": {
+   "number": 50,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add link to github insights page",
+   "url": "https://github.com/casangi/testviper/issues/50"
+  },
+  "https://github.com/casangi/testviper/issues/55": {
+   "number": 55,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Astroviper fails to build in testviper",
+   "url": "https://github.com/casangi/testviper/issues/55"
+  },
+  "https://github.com/casangi/testviper/issues/57": {
+   "number": 57,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Align testviper configuration with astroviper",
+   "url": "https://github.com/casangi/testviper/issues/57"
+  },
+  "https://github.com/casangi/testviper/issues/59": {
+   "number": 59,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Align Python and Os Version in testing Repositories",
+   "url": "https://github.com/casangi/testviper/issues/59"
+  },
+  "https://github.com/casangi/testviper/issues/60": {
+   "number": 60,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Create A Dispatch to Benchviper",
+   "url": "https://github.com/casangi/testviper/issues/60"
+  },
+  "https://github.com/casangi/testviper/issues/64": {
+   "number": 64,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Remove the python-casacore and conda instructions for macOS",
+   "url": "https://github.com/casangi/testviper/issues/64"
+  },
+  "https://github.com/casangi/testviper/issues/66": {
+   "number": 66,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Use the shared pre-commit workflow",
+   "url": "https://github.com/casangi/testviper/issues/66"
+  },
+  "https://github.com/casangi/testviper/issues/68": {
+   "number": 68,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Add No Deps Flag to Makefile",
+   "url": "https://github.com/casangi/testviper/issues/68"
   },
   "https://github.com/casangi/toolviper/issues/52": {
    "number": 52,
@@ -1000,6 +4680,636 @@
    "team": "Infrastructure",
    "title": "Add a file uploader interface to toolviper",
    "url": "https://github.com/casangi/toolviper/issues/53"
+  },
+  "https://github.com/casangi/toolviper/issues/57": {
+   "number": 57,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Update ToolVIPER to use ruff instead of black",
+   "url": "https://github.com/casangi/toolviper/issues/57"
+  },
+  "https://github.com/casangi/toolviper/issues/60": {
+   "number": 60,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Fix inconsistent dependency on ipython in toolviper",
+   "url": "https://github.com/casangi/toolviper/issues/60"
+  },
+  "https://github.com/casangi/toolviper/issues/62": {
+   "number": 62,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Propose a structure to store test data in Cloudflare",
+   "url": "https://github.com/casangi/toolviper/issues/62"
+  },
+  "https://github.com/casangi/toolviper/issues/64": {
+   "number": 64,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Please upload this ASDM to be available for download with `toolviper.utils.data.download()`: uid://A002/X10f6291/X12d9 (ExecBlock ID)",
+   "url": "https://github.com/casangi/toolviper/issues/64"
+  },
+  "https://github.com/casangi/toolviper/issues/65": {
+   "number": 65,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Dask Nanny MALLOC_TRIM_THRESHOLD_ disables glibc dynamic mmap threshold in workers",
+   "url": "https://github.com/casangi/toolviper/issues/65"
+  },
+  "https://github.com/casangi/toolviper/issues/69": {
+   "number": 69,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
+   "url": "https://github.com/casangi/toolviper/issues/69"
+  },
+  "https://github.com/casangi/toolviper/issues/71": {
+   "number": 71,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Remove GraphVIPER Dependency",
+   "url": "https://github.com/casangi/toolviper/issues/71"
+  },
+  "https://github.com/casangi/toolviper/issues/75": {
+   "number": 75,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",
+   "url": "https://github.com/casangi/toolviper/issues/75"
+  },
+  "https://github.com/casangi/toolviper/issues/76": {
+   "number": 76,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add twhya_selfcal_lsrk_5chans.ps.zarr to CloudFlare",
+   "url": "https://github.com/casangi/toolviper/issues/76"
+  },
+  "https://github.com/casangi/toolviper/issues/77": {
+   "number": 77,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Evaluate proposed file uploader solution for cyber-security",
+   "url": "https://github.com/casangi/toolviper/issues/77"
+  },
+  "https://github.com/casangi/toolviper/issues/78": {
+   "number": 78,
+   "pi": "",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "pre-commit: update ruff to 0.16.10, the version every repository uses",
+   "url": "https://github.com/casangi/toolviper/issues/78"
+  },
+  "https://github.com/casangi/xradio/issues/355": {
+   "number": 355,
+   "pi": "PI-3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Zarr Python v3 and Zarr v3",
+   "url": "https://github.com/casangi/xradio/issues/355"
+  },
+  "https://github.com/casangi/xradio/issues/453": {
+   "number": 453,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add an ASDM backend to xradio",
+   "url": "https://github.com/casangi/xradio/issues/453"
+  },
+  "https://github.com/casangi/xradio/issues/454": {
+   "number": 454,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Start prototyping functions to partition ASDMs into MSv4s and other basic tasks.",
+   "url": "https://github.com/casangi/xradio/issues/454"
+  },
+  "https://github.com/casangi/xradio/issues/497": {
+   "number": 497,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Image Format",
+   "url": "https://github.com/casangi/xradio/issues/497"
+  },
+  "https://github.com/casangi/xradio/issues/514": {
+   "number": 514,
+   "pi": "PI-2",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Accessor functions for xradio image Dataset",
+   "url": "https://github.com/casangi/xradio/issues/514"
+  },
+  "https://github.com/casangi/xradio/issues/516": {
+   "number": 516,
+   "pi": "",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Won't Do",
+   "team": "Imaging",
+   "title": "Update Image Unit Tests",
+   "url": "https://github.com/casangi/xradio/issues/516"
+  },
+  "https://github.com/casangi/xradio/issues/521": {
+   "number": 521,
+   "pi": "PI-3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Single Dish",
+   "title": "Simulated WSU single-dish test data for benchmarking of imaging prototype",
+   "url": "https://github.com/casangi/xradio/issues/521"
+  },
+  "https://github.com/casangi/xradio/issues/545": {
+   "number": 545,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Calibration",
+   "title": "Add a schema to xradio for calibration data, paralleling the one for MSv4",
+   "url": "https://github.com/casangi/xradio/issues/545"
+  },
+  "https://github.com/casangi/xradio/issues/547": {
+   "number": 547,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Calibration",
+   "title": "Creation of calibration datatree use case list.",
+   "url": "https://github.com/casangi/xradio/issues/547"
+  },
+  "https://github.com/casangi/xradio/issues/572": {
+   "number": 572,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add an Xarray backend for ASDM format support in XRADIO.",
+   "url": "https://github.com/casangi/xradio/issues/572"
+  },
+  "https://github.com/casangi/xradio/issues/573": {
+   "number": 573,
+   "pi": "PI-3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add Xarray backends for XRADIO image formats: CASA images and FITS images",
+   "url": "https://github.com/casangi/xradio/issues/573"
+  },
+  "https://github.com/casangi/xradio/issues/577": {
+   "number": 577,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Improve Memory Performance of convert_msv2_to_processing_set",
+   "url": "https://github.com/casangi/xradio/issues/577"
+  },
+  "https://github.com/casangi/xradio/issues/589": {
+   "number": 589,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add pointing secondary dataset to ASDM backend",
+   "url": "https://github.com/casangi/xradio/issues/589"
+  },
+  "https://github.com/casangi/xradio/issues/590": {
+   "number": 590,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Document and consolidate performance of ASDM backend (compared against Zarr)",
+   "url": "https://github.com/casangi/xradio/issues/590"
+  },
+  "https://github.com/casangi/xradio/issues/591": {
+   "number": 591,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "ASDM backend: Support single dish (SpectrumXds)",
+   "url": "https://github.com/casangi/xradio/issues/591"
+  },
+  "https://github.com/casangi/xradio/issues/592": {
+   "number": 592,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "ASDM backend reviewed and merged with consolidated tests working on CI",
+   "url": "https://github.com/casangi/xradio/issues/592"
+  },
+  "https://github.com/casangi/xradio/issues/593": {
+   "number": 593,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Explore options to schedule dask delay",
+   "url": "https://github.com/casangi/xradio/issues/593"
+  },
+  "https://github.com/casangi/xradio/issues/594": {
+   "number": 594,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Discuss modifications with partners",
+   "url": "https://github.com/casangi/xradio/issues/594"
+  },
+  "https://github.com/casangi/xradio/issues/598": {
+   "number": 598,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Improve Memory Performance --Implementation",
+   "url": "https://github.com/casangi/xradio/issues/598"
+  },
+  "https://github.com/casangi/xradio/issues/599": {
+   "number": 599,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Use ARCAE as MSv2 Backend",
+   "url": "https://github.com/casangi/xradio/issues/599"
+  },
+  "https://github.com/casangi/xradio/issues/600": {
+   "number": 600,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Data Schema for Representing Primary Beams",
+   "url": "https://github.com/casangi/xradio/issues/600"
+  },
+  "https://github.com/casangi/xradio/issues/601": {
+   "number": 601,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Define Convolution Function Cache Data Schema",
+   "url": "https://github.com/casangi/xradio/issues/601"
+  },
+  "https://github.com/casangi/xradio/issues/603": {
+   "number": 603,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Ephemeris data trimmed",
+   "url": "https://github.com/casangi/xradio/issues/603"
+  },
+  "https://github.com/casangi/xradio/issues/608": {
+   "number": 608,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Review definition UVW Coordinates",
+   "url": "https://github.com/casangi/xradio/issues/608"
+  },
+  "https://github.com/casangi/xradio/issues/609": {
+   "number": 609,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "ASDM Backend: recognize single-dish vs. interferometric data, keep consistency in/with complex vs. float data (VISIBILITY/SPECTRUM)",
+   "url": "https://github.com/casangi/xradio/issues/609"
+  },
+  "https://github.com/casangi/xradio/issues/611": {
+   "number": 611,
+   "pi": "PI-4=26.3",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add test infrastructure for single dish (dataset, fixtures, basic tests, etc.)",
+   "url": "https://github.com/casangi/xradio/issues/611"
+  },
+  "https://github.com/casangi/xradio/issues/612": {
+   "number": 612,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "ASDM backend: support single dish metadata => SpectrumXds and improvements in sub-datasets (FieldAndSourceXds)",
+   "url": "https://github.com/casangi/xradio/issues/612"
+  },
+  "https://github.com/casangi/xradio/issues/613": {
+   "number": 613,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM backend: ensure BDFs are loaded correctly for single dish ASDMs",
+   "url": "https://github.com/casangi/xradio/issues/613"
+  },
+  "https://github.com/casangi/xradio/issues/617": {
+   "number": 617,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "load_processing_set GC race, astropy unit cycle in image factory, numcodecs memory",
+   "url": "https://github.com/casangi/xradio/issues/617"
+  },
+  "https://github.com/casangi/xradio/issues/620": {
+   "number": 620,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "CI: lint + Linux 3.13 on push, full Python 3.12\u20133.14 matrix on PRs and merges to main",
+   "url": "https://github.com/casangi/xradio/issues/620"
+  },
+  "https://github.com/casangi/xradio/issues/624": {
+   "number": 624,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "MSv2 converter: replace per-partition TaQL with row-run reads, read sub-tables once, stream large variables to zarr",
+   "url": "https://github.com/casangi/xradio/issues/624"
+  },
+  "https://github.com/casangi/xradio/issues/629": {
+   "number": 629,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "MSv2 xarray backend: xr.open_datatree(msv2) with partitions cached in the MSv2",
+   "url": "https://github.com/casangi/xradio/issues/629"
+  },
+  "https://github.com/casangi/xradio/issues/633": {
+   "number": 633,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "write_image: let the zarr writer take chunks, shards and a compressor",
+   "url": "https://github.com/casangi/xradio/issues/633"
+  },
+  "https://github.com/casangi/xradio/issues/634": {
+   "number": 634,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",
+   "url": "https://github.com/casangi/xradio/issues/634"
+  },
+  "https://github.com/casangi/xradio/issues/635": {
+   "number": 635,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",
+   "url": "https://github.com/casangi/xradio/issues/635"
+  },
+  "https://github.com/casangi/xradio/issues/636": {
+   "number": 636,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11)",
+   "url": "https://github.com/casangi/xradio/issues/636"
+  },
+  "https://github.com/casangi/xradio/issues/637": {
+   "number": 637,
+   "pi": "Triage",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "arcae backend: known arcae issues and limitations (review list for #606)",
+   "url": "https://github.com/casangi/xradio/issues/637"
+  },
+  "https://github.com/casangi/xradio/issues/640": {
+   "number": 640,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Move API from Custom Functions to Xarray backends + Accessors",
+   "url": "https://github.com/casangi/xradio/issues/640"
+  },
+  "https://github.com/casangi/xradio/issues/644": {
+   "number": 644,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "`SIGMA` is not a redundant column",
+   "url": "https://github.com/casangi/xradio/issues/644"
+  },
+  "https://github.com/casangi/xradio/issues/645": {
+   "number": 645,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Docs: remove the python-casacore mentions left after the arcae backend",
+   "url": "https://github.com/casangi/xradio/issues/645"
+  },
+  "https://github.com/casangi/xradio/issues/647": {
+   "number": 647,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Update docs now that MSv2 is a full supported backend",
+   "url": "https://github.com/casangi/xradio/issues/647"
+  },
+  "https://github.com/casangi/xradio/issues/648": {
+   "number": 648,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review",
+   "url": "https://github.com/casangi/xradio/issues/648"
+  },
+  "https://github.com/casangi/xradio/issues/649": {
+   "number": 649,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "convert_msv2_to_processing_set: AlignmentError in create_system_calibration_xds when SYSCAL lacks some antennas of a partition",
+   "url": "https://github.com/casangi/xradio/issues/649"
+  },
+  "https://github.com/casangi/xradio/issues/651": {
+   "number": 651,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM Backend: ensure multi-field/source partitions work well (mosaics)",
+   "url": "https://github.com/casangi/xradio/issues/651"
+  },
+  "https://github.com/casangi/xradio/issues/652": {
+   "number": 652,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM Backend: support ephemeris data (FieldSourceEphemerisXds)",
+   "url": "https://github.com/casangi/xradio/issues/652"
+  },
+  "https://github.com/casangi/xradio/issues/653": {
+   "number": 653,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review -- the TRON lens -- 1. Per-timeslot flags",
+   "url": "https://github.com/casangi/xradio/issues/653"
+  },
+  "https://github.com/casangi/xradio/issues/654": {
+   "number": 654,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review -- the TRON lens -- 2. No schema home for time/frequency-reduced products",
+   "url": "https://github.com/casangi/xradio/issues/654"
+  },
+  "https://github.com/casangi/xradio/issues/655": {
+   "number": 655,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review -- the TRON lens -- 3. Expose the dataset's WCS",
+   "url": "https://github.com/casangi/xradio/issues/655"
+  },
+  "https://github.com/casangi/xradio/issues/656": {
+   "number": 656,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Image schema review -- the TRON lens -- 4. Support cropped PSFs",
+   "url": "https://github.com/casangi/xradio/issues/656"
+  },
+  "https://github.com/casangi/xradio/issues/657": {
+   "number": 657,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "pre-commit: update ruff to 0.16.10, the version every repository uses",
+   "url": "https://github.com/casangi/xradio/issues/657"
+  },
+  "https://github.com/casangi/xradio/issues/659": {
+   "number": 659,
+   "pi": "",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",
+   "url": "https://github.com/casangi/xradio/issues/659"
+  },
+  "https://github.com/casangi/xradio/issues/660": {
+   "number": 660,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "An aperture-plane image read from CASA does not conform to the image schema",
+   "url": "https://github.com/casangi/xradio/issues/660"
   }
  }
 }

@@ -923,3 +923,434 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-22T15:23:49Z,casangi/xradio,657,"pre-commit: update ruff to 0.16.10, the version every repository uses",project,present,removed,https://github.com/casangi/xradio/issues/657
 2026-10-22T15:23:49Z,casangi/xradio,659,"Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",project,present,removed,https://github.com/casangi/xradio/issues/659
 2026-10-22T15:23:49Z,casangi/xradio,660,An aperture-plane image read from CASA does not conform to the image schema,project,present,removed,https://github.com/casangi/xradio/issues/660
+2026-10-22T17:39:38Z,casangi/astroviper,44,hogbom_deconvolve​,project,,added,https://github.com/casangi/astroviper/issues/44
+2026-10-22T17:39:38Z,casangi/astroviper,45,fit_gaussian,project,,added,https://github.com/casangi/astroviper/issues/45
+2026-10-22T17:39:38Z,casangi/astroviper,49,cube_single_field_primary_beam,project,,added,https://github.com/casangi/astroviper/issues/49
+2026-10-22T17:39:38Z,casangi/astroviper,67,create/update_mask,project,,added,https://github.com/casangi/astroviper/issues/67
+2026-10-22T17:39:38Z,casangi/astroviper,77,stokes_to_corr,project,,added,https://github.com/casangi/astroviper/issues/77
+2026-10-22T17:39:38Z,casangi/astroviper,78,corr_to_stokes,project,,added,https://github.com/casangi/astroviper/issues/78
+2026-10-22T17:39:38Z,casangi/astroviper,66,iteration_control,project,,added,https://github.com/casangi/astroviper/issues/66
+2026-10-22T17:39:38Z,casangi/astroviper,47,apply_common_beam,project,,added,https://github.com/casangi/astroviper/issues/47
+2026-10-22T17:39:38Z,casangi/astroviper,147,imaging loop,project,,added,https://github.com/casangi/astroviper/issues/147
+2026-10-22T17:39:38Z,casangi/astroviper,55,Incorporate Single Field Cube Imaging into the Prefect Pipeline Workflow,project,,added,https://github.com/casangi/astroviper/issues/55
+2026-10-22T17:39:38Z,casangi/astroviper,111,increase code coverage for prolate spheroidal gridding visibility tests to >80%,project,,added,https://github.com/casangi/astroviper/issues/111
+2026-10-22T17:39:38Z,casangi/astroviper,90,"Build System for C++ using Pybind11, scikit_build_core, cibuildwheel",project,,added,https://github.com/casangi/astroviper/issues/90
+2026-10-22T17:39:38Z,casangi/astroviper,155,create example notebook for casangi/astroviper #43,project,,added,https://github.com/casangi/astroviper/issues/155
+2026-10-22T17:39:38Z,casangi/astroviper,110,fix rescaling bug for psf fitting,project,,added,https://github.com/casangi/astroviper/issues/110
+2026-10-22T17:39:38Z,casangi/astroviper,52,grid_imaging_weights,project,,added,https://github.com/casangi/astroviper/issues/52
+2026-10-22T17:39:38Z,casangi/astroviper,172,Creat demonstration notebook for make_point_spread_function,project,,added,https://github.com/casangi/astroviper/issues/172
+2026-10-22T17:39:38Z,casangi/astroviper,129,Add masking of sidelobes before fitting,project,,added,https://github.com/casangi/astroviper/issues/129
+2026-10-22T17:39:38Z,casangi/astroviper,113,Investigate differences between astroviper and CASA hogbom implementations,project,,added,https://github.com/casangi/astroviper/issues/113
+2026-10-22T17:39:38Z,casangi/astroviper,54,degrid_imaging_weights,project,,added,https://github.com/casangi/astroviper/issues/54
+2026-10-22T17:39:38Z,casangi/astroviper,125,Graceful error handling when re-running imaging weights,project,,added,https://github.com/casangi/astroviper/issues/125
+2026-10-22T17:39:38Z,casangi/astroviper,112,Tests should be added to tests/unit/core/imaging,project,,added,https://github.com/casangi/astroviper/issues/112
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,115,Epic: Requirements Analysis and Use Cases for Context,project,,added,https://github.com/casangi/RADPS-roadmap/issues/115
+2026-10-22T17:39:38Z,casangi/radps-context,10,Review Requirements for RADPS,project,,added,https://github.com/casangi/radps-context/issues/10
+2026-10-22T17:39:38Z,casangi/radps-context,11,Review constraints and non-functional requirements for RADPS,project,,added,https://github.com/casangi/radps-context/issues/11
+2026-10-22T17:39:38Z,casangi/radps-context,12,Document all use cases for the Context,project,,added,https://github.com/casangi/radps-context/issues/12
+2026-10-22T17:39:38Z,casangi/radps-context,13,Identify which use cases are relevant to RADPS and where they may be handled by workflow manager or another solution.,project,,added,https://github.com/casangi/radps-context/issues/13
+2026-10-22T17:39:38Z,casangi/radps-context,14,Flesh out identified use cases,project,,added,https://github.com/casangi/radps-context/issues/14
+2026-10-22T17:39:38Z,casangi/radps-context,15,Decide logical components and architecture style,project,,added,https://github.com/casangi/radps-context/issues/15
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,49,Epic:  WSU Data Reduction Report Use Cases,project,,added,https://github.com/casangi/RADPS-roadmap/issues/49
+2026-10-22T17:39:38Z,casangi/radps-context,2,Review Walking Skeleton for prototype requirements,project,,added,https://github.com/casangi/radps-context/issues/2
+2026-10-22T17:39:38Z,casangi/radps-context,3,Define how to prototype,project,,added,https://github.com/casangi/radps-context/issues/3
+2026-10-22T17:39:38Z,casangi/radps-context,4,Define trade-off analysis parameters,project,,added,https://github.com/casangi/radps-context/issues/4
+2026-10-22T17:39:38Z,casangi/radps-context,5,Write up ADRs,project,,added,https://github.com/casangi/radps-context/issues/5
+2026-10-22T17:39:38Z,casangi/radps-context,6,Create prototype 1,project,,added,https://github.com/casangi/radps-context/issues/6
+2026-10-22T17:39:38Z,casangi/radps-context,7,Create additional prototype(s),project,,added,https://github.com/casangi/radps-context/issues/7
+2026-10-22T17:39:38Z,casangi/radps-context,8,Conduct trade-off analysis,project,,added,https://github.com/casangi/radps-context/issues/8
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,51,Epic:  ALMA-D3 - Workflow Initialization Interface Definition,project,,added,https://github.com/casangi/RADPS-roadmap/issues/51
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,52,Epic:  ALMA-D3 - System Communication Interface Definition,project,,added,https://github.com/casangi/RADPS-roadmap/issues/52
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,53,Epic:  ALMA-D3 - Workflow Outputs Interface Definition,project,,added,https://github.com/casangi/RADPS-roadmap/issues/53
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,54,Epic:  ALMA-D3 - Data Access Interface Definition,project,,added,https://github.com/casangi/RADPS-roadmap/issues/54
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,185,Bug: Colab notebooks often fail to due to import issues even though notebooks pass tests on github,project,,added,https://github.com/casangi/RADPS-roadmap/issues/185
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,193,Increment Python Version,project,,added,https://github.com/casangi/RADPS-roadmap/issues/193
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,58,Epic:  AstroVIPER imaging maintenance,project,,added,https://github.com/casangi/RADPS-roadmap/issues/58
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,60,Epic:  XRADIO measurement set maintenance,project,,added,https://github.com/casangi/RADPS-roadmap/issues/60
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,61,Epic:  Replace Python casacore with ARCAE,project,,added,https://github.com/casangi/RADPS-roadmap/issues/61
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,63,Epic:  Upgrade from Zarr Python v2 to V3,project,,added,https://github.com/casangi/RADPS-roadmap/issues/63
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,64,Epic:  Add an ASDM backend for XRADIO,project,,added,https://github.com/casangi/RADPS-roadmap/issues/64
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,65,Epic:  Move to using Xarray backends,project,,added,https://github.com/casangi/RADPS-roadmap/issues/65
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,66,Epic:  TP analysis and walking skeleton,project,,added,https://github.com/casangi/RADPS-roadmap/issues/66
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,67,Epic:  Document existing ALMA-D3 interfaces for data processing,project,,added,https://github.com/casangi/RADPS-roadmap/issues/67
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,75,Epic:  SD Technology Demonstrator Code,project,,added,https://github.com/casangi/RADPS-roadmap/issues/75
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,68,Epic:  Data Volume Estimate for Data Reduction Reports,project,,added,https://github.com/casangi/RADPS-roadmap/issues/68
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,69,Epic:  Quantifying the Cluster Utilization Efficiency,project,,added,https://github.com/casangi/RADPS-roadmap/issues/69
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,70,Epic:  Empirical Size of Compute Estimates,project,,added,https://github.com/casangi/RADPS-roadmap/issues/70
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,71,Epic:  Single Dish Imaging Performance Testing,project,,added,https://github.com/casangi/RADPS-roadmap/issues/71
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,72,Epic:  Per-channel Cube Imaging Heuristics,project,,added,https://github.com/casangi/RADPS-roadmap/issues/72
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,73,Epic: IF test data sets,project,,added,https://github.com/casangi/RADPS-roadmap/issues/73
+2026-10-22T17:39:38Z,casangi/RADPS,62,Benchmarking Datasets and Storage Requirements,project,,added,https://github.com/casangi/RADPS/issues/62
+2026-10-22T17:39:38Z,casangi/RADPS,65,Validation Dataset Selection and Generation,project,,added,https://github.com/casangi/RADPS/issues/65
+2026-10-22T17:39:38Z,casangi/RADPS,66,Phase I Storage and Compute Upgrade Acceptance,project,,added,https://github.com/casangi/RADPS/issues/66
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,74,Epic:  TP test data sets,project,,added,https://github.com/casangi/RADPS-roadmap/issues/74
+2026-10-22T17:39:38Z,casangi/radpsdocs,25,Initiate RADPS memo series,project,,added,https://github.com/casangi/radpsdocs/issues/25
+2026-10-22T17:39:38Z,casangi/xradio,521,Simulated WSU single-dish test data for benchmarking of imaging prototype,project,,added,https://github.com/casangi/xradio/issues/521
+2026-10-22T17:39:38Z,casangi/astroviper,227,Single-dish cube imaging benchmarking at TACC,project,,added,https://github.com/casangi/astroviper/issues/227
+2026-10-22T17:39:38Z,casangi/radpsdocs,26,Add existing documents to memo series,project,,added,https://github.com/casangi/radpsdocs/issues/26
+2026-10-22T17:39:38Z,casangi/graphviper,59,Create Single-Dish Workflow Skeleton,project,,added,https://github.com/casangi/graphviper/issues/59
+2026-10-22T17:39:38Z,casangi/graphviper,60,Create walking skeleton for hsd_blflag,project,,added,https://github.com/casangi/graphviper/issues/60
+2026-10-22T17:39:38Z,casangi/graphviper,61,Create walking skeleton for hsd_imaging,project,,added,https://github.com/casangi/graphviper/issues/61
+2026-10-22T17:39:38Z,casangi/radpsdocs,27,Write draft memo,project,,added,https://github.com/casangi/radpsdocs/issues/27
+2026-10-22T17:39:38Z,casangi/radpsdocs,28,Revise draft memo,project,,added,https://github.com/casangi/radpsdocs/issues/28
+2026-10-22T17:39:38Z,casangi/radpsdocs,29,Get Jeff's approval of memo,project,,added,https://github.com/casangi/radpsdocs/issues/29
+2026-10-22T17:39:38Z,casangi/radpsdocs,30,Submit memo to library,project,,added,https://github.com/casangi/radpsdocs/issues/30
+2026-10-22T17:39:38Z,casangi/radpsdocs,9,Initial RADPS Program Documentation,project,,added,https://github.com/casangi/radpsdocs/issues/9
+2026-10-22T17:39:38Z,casangi/radpsdocs,8,Create outline for RADPS program documentation,project,,added,https://github.com/casangi/radpsdocs/issues/8
+2026-10-22T17:39:38Z,casangi/radpsdocs,4,Put together RADPS resources list wiki page,project,,added,https://github.com/casangi/radpsdocs/issues/4
+2026-10-22T17:39:38Z,casangi/radpsdocs,6,Infrastructure  for RADPS program level documentation,project,,added,https://github.com/casangi/radpsdocs/issues/6
+2026-10-22T17:39:38Z,casangi/radpsdocs,2,Put together RADPS testing instruction wiki page,project,,added,https://github.com/casangi/radpsdocs/issues/2
+2026-10-22T17:39:38Z,casangi/radpsdocs,3,Put together intro to RADPS PI2 wiki page,project,,added,https://github.com/casangi/radpsdocs/issues/3
+2026-10-22T17:39:38Z,casangi/radpsdocs,12,"Update testing instructions to include installation of casatools, matplotlib, and jupyter",project,,added,https://github.com/casangi/radpsdocs/issues/12
+2026-10-22T17:39:38Z,casangi/radpsdocs,23,implement RADPS documentation skeleton on readthedocs,project,,added,https://github.com/casangi/radpsdocs/issues/23
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,76,Epic:  Prototype Test Plan,project,,added,https://github.com/casangi/RADPS-roadmap/issues/76
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,77,Epic: RADPS-ALMA Organization,project,,added,https://github.com/casangi/RADPS-roadmap/issues/77
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,78,Epic:  Planning for Future Reviews,project,,added,https://github.com/casangi/RADPS-roadmap/issues/78
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,81,Epic:  Development and Deployment Plan,project,,added,https://github.com/casangi/RADPS-roadmap/issues/81
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,82,Epic:  Prototype ALMA Total-Power Spectral Line MDR workflow,project,,added,https://github.com/casangi/RADPS-roadmap/issues/82
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,83,Epic:  Prototype ALMA Total-Power Spectral Line Calibration and Imaging Workflow,project,,added,https://github.com/casangi/RADPS-roadmap/issues/83
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,85,"Epic:  Single-Dish Calibration domain code - ""ps"" calibration",project,,added,https://github.com/casangi/RADPS-roadmap/issues/85
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,86,Epic:  Assessment of dependency on libsakura,project,,added,https://github.com/casangi/RADPS-roadmap/issues/86
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,88,Epic:  Single-Dish baseline subtraction domain code - Polynominal fitting,project,,added,https://github.com/casangi/RADPS-roadmap/issues/88
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,89,Epic:  Single-Dish baseline subtraction domain code: cspline fitting,project,,added,https://github.com/casangi/RADPS-roadmap/issues/89
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,90,Epic:  Single-Dish baseline subtraction domain code: chevyshev fitting,project,,added,https://github.com/casangi/RADPS-roadmap/issues/90
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,91,Epic:  Single-Dish baseline subtraction domain code: sinusoidal fitting,project,,added,https://github.com/casangi/RADPS-roadmap/issues/91
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,92,Epic:  Offline atmospheric correction domain code,project,,added,https://github.com/casangi/RADPS-roadmap/issues/92
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,93,Epic:  Single-Dish Ephemeris Imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/93
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,95,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_importdata,project,,added,https://github.com/casangi/RADPS-roadmap/issues/95
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,96,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_flagdata,project,,added,https://github.com/casangi/RADPS-roadmap/issues/96
+2026-10-22T17:39:38Z,casangi/astroviper,132,Hyperthreading and Benchmarks,project,,added,https://github.com/casangi/astroviper/issues/132
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,97,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_skycal,project,,added,https://github.com/casangi/RADPS-roadmap/issues/97
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,98,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_k2jycal,project,,added,https://github.com/casangi/RADPS-roadmap/issues/98
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,99,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_applycal,project,,added,https://github.com/casangi/RADPS-roadmap/issues/99
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,100,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_atmcor,project,,added,https://github.com/casangi/RADPS-roadmap/issues/100
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,101,Epic:  Migration of Single-Dish Pipeline heuristics -  hsd_baseline (line detection/validation),project,,added,https://github.com/casangi/RADPS-roadmap/issues/101
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,102,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_baseline (others),project,,added,https://github.com/casangi/RADPS-roadmap/issues/102
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,103,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_blflag,project,,added,https://github.com/casangi/RADPS-roadmap/issues/103
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,104,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/104
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,105,Epic:  Single-Dish Cadence imaging benchmarking,project,,added,https://github.com/casangi/RADPS-roadmap/issues/105
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,106,Epic:  ALMA Solar Total-Power MDR benchmarking,project,,added,https://github.com/casangi/RADPS-roadmap/issues/106
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,107,Epic:  ALMA Total-Power Spectral Line MDR benchmarking,project,,added,https://github.com/casangi/RADPS-roadmap/issues/107
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,108,Epic:  ALMA Total-Power Spectral Line Calibration and Imaging benchmarking,project,,added,https://github.com/casangi/RADPS-roadmap/issues/108
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,111,Epic:  CI/CD Pilot,project,,added,https://github.com/casangi/RADPS-roadmap/issues/111
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,112,Epic:  Benchmark tests for individual modules,project,,added,https://github.com/casangi/RADPS-roadmap/issues/112
+2026-10-22T17:39:38Z,casangi/testviper,34,Prototype first workflow integration test,project,,added,https://github.com/casangi/testviper/issues/34
+2026-10-22T17:39:38Z,casangi/testviper,55,Astroviper fails to build in testviper,project,,added,https://github.com/casangi/testviper/issues/55
+2026-10-22T17:39:38Z,casangi/pyasdm,29,Pointing table (and other ~15 tables): `getByContext()` doesn't return anything,project,,added,https://github.com/casangi/pyasdm/issues/29
+2026-10-22T17:39:38Z,casangi/benchviper,18,Create benchmark tests for image_xds,project,,added,https://github.com/casangi/benchviper/issues/18
+2026-10-22T17:39:38Z,casangi/benchviper,19,Create benchmark tests for image,project,,added,https://github.com/casangi/benchviper/issues/19
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,113,Define a deployment model for RADPS,project,,added,https://github.com/casangi/RADPS-roadmap/issues/113
+2026-10-22T17:39:38Z,casangi/benchviper,17,Epic - Add benchmark tests for XRADIO,project,,added,https://github.com/casangi/benchviper/issues/17
+2026-10-22T17:39:38Z,casangi/radpsdocs,31,add line about MOU to memo,project,,added,https://github.com/casangi/radpsdocs/issues/31
+2026-10-22T17:39:38Z,casangi/radpsdocs,32,proofread memo,project,,added,https://github.com/casangi/radpsdocs/issues/32
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,114,Epic: Add benchmark tests for AstroVIPER,project,,added,https://github.com/casangi/RADPS-roadmap/issues/114
+2026-10-22T17:39:38Z,casangi/astroviper,134,Benchmark Single Field Major Cycle Imaging,project,,added,https://github.com/casangi/astroviper/issues/134
+2026-10-22T17:39:38Z,casangi/RADPS,78,cluster integration,project,,added,https://github.com/casangi/RADPS/issues/78
+2026-10-22T17:39:38Z,casangi/RADPS,67,Determine what metrics are needed to measure performance for the RADPS-ALMA Development Study,project,,added,https://github.com/casangi/RADPS/issues/67
+2026-10-22T17:39:38Z,casangi/astroviper,13,Do initial AstroVIPER cluster benchmarks,project,,added,https://github.com/casangi/astroviper/issues/13
+2026-10-22T17:39:38Z,casangi/astroviper,162,Degridding model: astroviper vs CASA offset,project,,added,https://github.com/casangi/astroviper/issues/162
+2026-10-22T17:39:38Z,casangi/xradio,453,Add an ASDM backend to xradio,project,,added,https://github.com/casangi/xradio/issues/453
+2026-10-22T17:39:38Z,casangi/xradio,454,Start prototyping functions to partition ASDMs into MSv4s and other basic tasks.,project,,added,https://github.com/casangi/xradio/issues/454
+2026-10-22T17:39:38Z,casangi/xradio,572,Add an Xarray backend for ASDM format support in XRADIO.,project,,added,https://github.com/casangi/xradio/issues/572
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,118,Epic: Prototype ALMA Solar TP MDR workflow,project,,added,https://github.com/casangi/RADPS-roadmap/issues/118
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,119,Epic: ALMA Total-Power Spectral Line Calibration and Imaging benchmarking,project,,added,https://github.com/casangi/RADPS-roadmap/issues/119
+2026-10-22T17:39:38Z,casangi/astroviper,120,SD Calibration: Sky calibration prototype,project,,added,https://github.com/casangi/astroviper/issues/120
+2026-10-22T17:39:38Z,casangi/astroviper,122,SD Calibration: applycal equivalent functionality,project,,added,https://github.com/casangi/astroviper/issues/122
+2026-10-22T17:39:38Z,casangi/astroviper,121,SD Calibration,project,,added,https://github.com/casangi/astroviper/issues/121
+2026-10-22T17:39:38Z,casangi/astroviper,118,SD Calibration: Tsys calibration prototype,project,,added,https://github.com/casangi/astroviper/issues/118
+2026-10-22T17:39:38Z,casangi/astroviper,119,SD Calibration: K2Jy calibration prototype,project,,added,https://github.com/casangi/astroviper/issues/119
+2026-10-22T17:39:38Z,casangi/astroviper,123,Implement image analysis capability for ALMA Solar TP data reduction,project,,added,https://github.com/casangi/astroviper/issues/123
+2026-10-22T17:39:38Z,casangi/astroviper,115,primitive single-dish imaging prototype,project,,added,https://github.com/casangi/astroviper/issues/115
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,223,Epic: Advanced single-dish cube imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/223
+2026-10-22T17:39:38Z,casangi/astroviper,135,support of cube imaging with simple 1:1 mapping of spectral and image channels,project,,added,https://github.com/casangi/astroviper/issues/135
+2026-10-22T17:39:38Z,casangi/astroviper,136,frequency frame conversion,project,,added,https://github.com/casangi/astroviper/issues/136
+2026-10-22T17:39:38Z,casangi/astroviper,140,performance tuning of single dish imaging prototype with dask,project,,added,https://github.com/casangi/astroviper/issues/140
+2026-10-22T17:39:38Z,casangi/astroviper,214,direction mapping from celestial coordinate to image pixel coordinate (including projection),project,,added,https://github.com/casangi/astroviper/issues/214
+2026-10-22T17:39:38Z,casangi/astroviper,187,Implement function to do direction frame conversion,project,,added,https://github.com/casangi/astroviper/issues/187
+2026-10-22T17:39:38Z,casangi/astroviper,228,explore single-dish pipeline with prefect capabilities,project,,added,https://github.com/casangi/astroviper/issues/228
+2026-10-22T17:39:38Z,casangi/xradio,573,Add Xarray backends for XRADIO image formats: CASA images and FITS images,project,,added,https://github.com/casangi/xradio/issues/573
+2026-10-22T17:39:38Z,casangi/RADPS,80,Final work items for internal k3s cluster,project,,added,https://github.com/casangi/RADPS/issues/80
+2026-10-22T17:39:38Z,casangi/RADPS,81,Traefik ingress to replace NodePort/raw-IP exposure,project,,added,https://github.com/casangi/RADPS/issues/81
+2026-10-22T17:39:38Z,casangi/RADPS,82,Dask operator runs in dask-system namespace,project,,added,https://github.com/casangi/RADPS/issues/82
+2026-10-22T17:39:38Z,casangi/RADPS,83,All deployments managed by ArgoCD,project,,added,https://github.com/casangi/RADPS/issues/83
+2026-10-22T17:39:38Z,casangi/RADPS,84,Namespace infrastructure separated from application charts,project,,added,https://github.com/casangi/RADPS/issues/84
+2026-10-22T17:39:38Z,casangi/RADPS,85,TLS cert bootstrapped as a Secret outside of Git,project,,added,https://github.com/casangi/RADPS/issues/85
+2026-10-22T17:39:38Z,casangi/astroviper,233,Workflow description of standard SDPL processing procedure (hsd_calimage),project,,added,https://github.com/casangi/astroviper/issues/233
+2026-10-22T17:39:38Z,casangi/xradio,355,Zarr Python v3 and Zarr v3,project,,added,https://github.com/casangi/xradio/issues/355
+2026-10-22T17:39:38Z,casangi/graphviper,57,single dish walking skeleton work,project,,added,https://github.com/casangi/graphviper/issues/57
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,121,Initial Assessment of Workflow Initialization Proposal by ISAP,project,,added,https://github.com/casangi/RADPS-roadmap/issues/121
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,122,Define charge of ISAP investigation of workflow initialization interface.,project,,added,https://github.com/casangi/RADPS-roadmap/issues/122
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,123,Analyze RADPS architecture in relation to ALMA architecture and identify common interfaces,project,,added,https://github.com/casangi/RADPS-roadmap/issues/123
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,124,Epic: prototype calibration application,project,,added,https://github.com/casangi/RADPS-roadmap/issues/124
+2026-10-22T17:39:38Z,casangi/astroviper,241,Single-dish cube imaging benchmarking at NAOJ,project,,added,https://github.com/casangi/astroviper/issues/241
+2026-10-22T17:39:38Z,casangi/xradio,547,Creation of calibration datatree use case list.,project,,added,https://github.com/casangi/xradio/issues/547
+2026-10-22T17:39:38Z,casangi/xradio,545,"Add a schema to xradio for calibration data, paralleling the one for MSv4",project,,added,https://github.com/casangi/xradio/issues/545
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,21,update document to reflect slurm as the feasible path forward for RADPS-ALMA,project,,added,https://github.com/casangi/radps-alma-pdr/issues/21
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,17,Compile list of evaluation criteria for branching structure,project,,added,https://github.com/casangi/radps-alma-pdr/issues/17
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,19,Decide on branching structure,project,,added,https://github.com/casangi/radps-alma-pdr/issues/19
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,22,Identify impact of single CI/CD system on RADPS planning,project,,added,https://github.com/casangi/radps-alma-pdr/issues/22
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,23,Determine how RADPS-ALMA aligns with the single CI/CD Plan,project,,added,https://github.com/casangi/radps-alma-pdr/issues/23
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,133,"Epic:  Reduce, Reuse, Recycle experiment",project,,added,https://github.com/casangi/RADPS-roadmap/issues/133
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,7,Epic: Walking Skeleton 2.0,project,,added,https://github.com/casangi/RADPS-roadmap/issues/7
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,1,Preliminary Project Management Plan,project,,added,https://github.com/casangi/radps-alma-pdr/issues/1
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,10,SD Performance Testing Report,project,,added,https://github.com/casangi/radps-alma-pdr/issues/10
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,11,Technology Demonstrator Code,project,,added,https://github.com/casangi/radps-alma-pdr/issues/11
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,6,Preliminary Design Report,project,,added,https://github.com/casangi/radps-alma-pdr/issues/6
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,135,port Adaptive Scale Clean (ASP) from CASA into astroviper,project,,added,https://github.com/casangi/RADPS-roadmap/issues/135
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,136,port Multi-Term Multi-Scale Multi-Frequency Synthesis (MTMFS w/ multiscale) from CASA to astroviper,project,,added,https://github.com/casangi/RADPS-roadmap/issues/136
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,137,port AWproject from CASA,project,,added,https://github.com/casangi/RADPS-roadmap/issues/137
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,138,port GPU gridder to astroviper,project,,added,https://github.com/casangi/RADPS-roadmap/issues/138
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,145,Epic:  Integrate findcont into RADPS,project,,added,https://github.com/casangi/RADPS-roadmap/issues/145
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,143,Epic: Compute Infrastructure recommendations,project,,added,https://github.com/casangi/RADPS-roadmap/issues/143
+2026-10-22T17:39:38Z,casangi/RADPS,86,test drive of k3 infrastructure,project,,added,https://github.com/casangi/RADPS/issues/86
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,9,Epic: Image Statistics,project,,added,https://github.com/casangi/RADPS-roadmap/issues/9
+2026-10-22T17:39:38Z,casangi/testviper,39,Create global dashboard page,project,,added,https://github.com/casangi/testviper/issues/39
+2026-10-22T17:39:38Z,casangi/testviper,50,Add link to github insights page,project,,added,https://github.com/casangi/testviper/issues/50
+2026-10-22T17:39:38Z,casangi/astroviper,242,Run isolated scaling test on Fronterra,project,,added,https://github.com/casangi/astroviper/issues/242
+2026-10-22T17:39:38Z,casangi/xradio,577,Improve Memory Performance of convert_msv2_to_processing_set,project,,added,https://github.com/casangi/xradio/issues/577
+2026-10-22T17:39:38Z,casangi/astroviper,243,Initial implementation of simple (nterms=0) continuum imaging,project,,added,https://github.com/casangi/astroviper/issues/243
+2026-10-22T17:39:38Z,casangi/astroviper,244,Initial Performance optimization for simple (nterms=0) continuum imaging,project,,added,https://github.com/casangi/astroviper/issues/244
+2026-10-22T17:39:38Z,casangi/RADPS,87,Single Field Cube Small Dataset Frontera,project,,added,https://github.com/casangi/RADPS/issues/87
+2026-10-22T17:39:38Z,casangi/RADPS,88,Single Field Cube Medium Benchmark Frontera,project,,added,https://github.com/casangi/RADPS/issues/88
+2026-10-22T17:39:38Z,casangi/RADPS,89,Single Field Cube Large Dataset Benchmark Frontera,project,,added,https://github.com/casangi/RADPS/issues/89
+2026-10-22T17:39:38Z,casangi/RADPS,93,Single Field Cube Medium Benchmark Multi Cycle Frontera,project,,added,https://github.com/casangi/RADPS/issues/93
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,196,check primary beam implementation,project,,added,https://github.com/casangi/RADPS-roadmap/issues/196
+2026-10-22T17:39:38Z,casangi/RADPS,90,Single Field Cube CASA Medium Dataset Benchmark Frontera,project,,added,https://github.com/casangi/RADPS/issues/90
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,152,Port Hogbom from CASA into astroviper,project,,added,https://github.com/casangi/RADPS-roadmap/issues/152
+2026-10-22T17:39:38Z,casangi/graphviper,62,Create walking skeleton for  baseline subtraction,project,,added,https://github.com/casangi/graphviper/issues/62
+2026-10-22T17:39:38Z,casangi/pyasdm,28,Pointing table: look into performance and try to optimize,project,,added,https://github.com/casangi/pyasdm/issues/28
+2026-10-22T17:39:38Z,casangi/xradio,589,Add pointing secondary dataset to ASDM backend,project,,added,https://github.com/casangi/xradio/issues/589
+2026-10-22T17:39:38Z,casangi/xradio,590,Document and consolidate performance of ASDM backend (compared against Zarr),project,,added,https://github.com/casangi/xradio/issues/590
+2026-10-22T17:39:38Z,casangi/xradio,591,ASDM backend: Support single dish (SpectrumXds),project,,added,https://github.com/casangi/xradio/issues/591
+2026-10-22T17:39:38Z,casangi/xradio,592,ASDM backend reviewed and merged with consolidated tests working on CI,project,,added,https://github.com/casangi/xradio/issues/592
+2026-10-22T17:39:38Z,casangi/xradio,594,Discuss modifications with partners,project,,added,https://github.com/casangi/xradio/issues/594
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,18,Hold meeting to discuss and decide on branching with development team,project,,added,https://github.com/casangi/radps-alma-pdr/issues/18
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,20,Hold meeting to discuss and decide on deployment model,project,,added,https://github.com/casangi/radps-alma-pdr/issues/20
+2026-10-22T17:39:38Z,casangi/xradio,593,Explore options to schedule dask delay,project,,added,https://github.com/casangi/xradio/issues/593
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,155,Complete draft for review by team,project,,added,https://github.com/casangi/RADPS-roadmap/issues/155
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,156,Team reviews and comments on draft,project,,added,https://github.com/casangi/RADPS-roadmap/issues/156
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,157,Document revised based on comments by team,project,,added,https://github.com/casangi/RADPS-roadmap/issues/157
+2026-10-22T17:39:38Z,casangi/RADPS,68,Prototype monitoring stack for RADPS-ALMA Performance Testing,project,,added,https://github.com/casangi/RADPS/issues/68
+2026-10-22T17:39:38Z,casangi/radps-context,22,Current context supplementary appendix is missing information for several use cases,project,,added,https://github.com/casangi/radps-context/issues/22
+2026-10-22T17:39:38Z,casangi/radps-context,21,consistency in actor naming in use cases,project,,added,https://github.com/casangi/radps-context/issues/21
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,165,Decide on Unit and component test data,project,,added,https://github.com/casangi/RADPS-roadmap/issues/165
+2026-10-22T17:39:38Z,casangi/graphviper,64,Create Append,project,,added,https://github.com/casangi/graphviper/issues/64
+2026-10-22T17:39:38Z,casangi/astroviper,248,Distributed application graph implementation with sleeps and visualization,project,,added,https://github.com/casangi/astroviper/issues/248
+2026-10-22T17:39:38Z,casangi/astroviper,250,Create node tasks (add IO to processing_functions),project,,added,https://github.com/casangi/astroviper/issues/250
+2026-10-22T17:39:38Z,casangi/astroviper,251,Add node tasks to the graph and demonstrate a single residual-model cycle,project,,added,https://github.com/casangi/astroviper/issues/251
+2026-10-22T17:39:38Z,casangi/astroviper,249,Connect full iteration control and multi residual-model cycles,project,,added,https://github.com/casangi/astroviper/issues/249
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,26,Define Scope,project,,added,https://github.com/casangi/radps-alma-pdr/issues/26
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,27,Generate a List of Reference Docs,project,,added,https://github.com/casangi/radps-alma-pdr/issues/27
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,28,Create WBS for PMP,project,,added,https://github.com/casangi/radps-alma-pdr/issues/28
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,29,Cost Estimate of WBS,project,,added,https://github.com/casangi/radps-alma-pdr/issues/29
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,30,Create a Master Schedule with Milestones,project,,added,https://github.com/casangi/radps-alma-pdr/issues/30
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,31,Document the Multi-region Coordination Model,project,,added,https://github.com/casangi/radps-alma-pdr/issues/31
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,32,Define and Agree on CDR Timeline,project,,added,https://github.com/casangi/radps-alma-pdr/issues/32
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,33,Identify Documentation Control Home,project,,added,https://github.com/casangi/radps-alma-pdr/issues/33
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,34,Define the Preliminary Commissioning Concept,project,,added,https://github.com/casangi/radps-alma-pdr/issues/34
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,35,Define the Change Control Process,project,,added,https://github.com/casangi/radps-alma-pdr/issues/35
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,36,Create Communication Plan,project,,added,https://github.com/casangi/radps-alma-pdr/issues/36
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,37,Update Org Chart,project,,added,https://github.com/casangi/radps-alma-pdr/issues/37
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,38,Identify the Governing Documents,project,,added,https://github.com/casangi/radps-alma-pdr/issues/38
+2026-10-22T17:39:38Z,casangi/graphviper,65,python-graphviz needs to be installed in addition to graphviz,project,,added,https://github.com/casangi/graphviper/issues/65
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,9,Amanda talks to Liza about point of contact and process,project,,added,https://github.com/casangi/radps-alma-pdr/issues/9
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,13,Operational and Technical Impact Assessment,project,,added,https://github.com/casangi/radps-alma-pdr/issues/13
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,4,RADPS-ALMA Requirements,project,,added,https://github.com/casangi/radps-alma-pdr/issues/4
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,7,Compliance Matrix,project,,added,https://github.com/casangi/radps-alma-pdr/issues/7
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,14,Risk Register,project,,added,https://github.com/casangi/radps-alma-pdr/issues/14
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,15,Configured Items Data List,project,,added,https://github.com/casangi/radps-alma-pdr/issues/15
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,3,Introduction to Document Package,project,,added,https://github.com/casangi/radps-alma-pdr/issues/3
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,39,Create WBS Dictionary.,project,,added,https://github.com/casangi/radps-alma-pdr/issues/39
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,40,Identify stakeholders who needs to be consulted about this document,project,,added,https://github.com/casangi/radps-alma-pdr/issues/40
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,41,Put together outline of document,project,,added,https://github.com/casangi/radps-alma-pdr/issues/41
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,42,Write rough draft of DDP ,project,,added,https://github.com/casangi/radps-alma-pdr/issues/42
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,43,Get feedback on rough draft,project,,added,https://github.com/casangi/radps-alma-pdr/issues/43
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,44,Revise draft to incorporate feedback,project,,added,https://github.com/casangi/radps-alma-pdr/issues/44
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,45,Review examples of Operational and Technical Impact Assessments,project,,added,https://github.com/casangi/radps-alma-pdr/issues/45
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,46,Create outline for Operational and Technical Impact Assessment,project,,added,https://github.com/casangi/radps-alma-pdr/issues/46
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,47,Assess current status of requirements based on process of ISOpT requirements process,project,,added,https://github.com/casangi/radps-alma-pdr/issues/47
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,48,Talk with Rachel Rosen re: update of Cameo requirements,project,,added,https://github.com/casangi/radps-alma-pdr/issues/48
+2026-10-22T17:39:38Z,casangi/xradio,598,Improve Memory Performance --Implementation,project,,added,https://github.com/casangi/xradio/issues/598
+2026-10-22T17:39:38Z,casangi/astroviper,252,Add a visibility weighting graph,project,,added,https://github.com/casangi/astroviper/issues/252
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,194,Continuum Imaging Validation,project,,added,https://github.com/casangi/RADPS-roadmap/issues/194
+2026-10-22T17:39:38Z,casangi/pyasdm,31,Epic: asdm tests,project,,added,https://github.com/casangi/pyasdm/issues/31
+2026-10-22T17:39:38Z,casangi/pyasdm,32,Create a PR to merge the pyasdm template code to the almasw main branch,project,,added,https://github.com/casangi/pyasdm/issues/32
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,197,Add guidelines for issue and PR creation to AGENTS.md,project,,added,https://github.com/casangi/RADPS-roadmap/issues/197
+2026-10-22T17:39:38Z,casangi/astroviper,254,enable mvc option (standard gridder only),project,,added,https://github.com/casangi/astroviper/issues/254
+2026-10-22T17:39:38Z,casangi/astroviper,255,validate that mvc is working properly,project,,added,https://github.com/casangi/astroviper/issues/255
+2026-10-22T17:39:38Z,casangi/astroviper,256,validate mfs is working correctly,project,,added,https://github.com/casangi/astroviper/issues/256
+2026-10-22T17:39:38Z,casangi/astroviper,257,identify and obtain appropriate test data sets for continuum validation,project,,added,https://github.com/casangi/astroviper/issues/257
+2026-10-22T17:39:38Z,casangi/astroviper,258,test 8 permutations and compare resulting image properties,project,,added,https://github.com/casangi/astroviper/issues/258
+2026-10-22T17:39:38Z,casangi/astroviper,259,decide on one path through the algorithm,project,,added,https://github.com/casangi/astroviper/issues/259
+2026-10-22T17:39:38Z,casangi/astroviper,260,remove excess code in continuum technology demonstrator,project,,added,https://github.com/casangi/astroviper/issues/260
+2026-10-22T17:39:38Z,casangi/astroviper,261,add appropriate unit tests for the chosen continuum imaging path,project,,added,https://github.com/casangi/astroviper/issues/261
+2026-10-22T17:39:38Z,casangi/RADPS,94,Benchmark Fits Backend using Medium Dataset,project,,added,https://github.com/casangi/RADPS/issues/94
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,50,Write initial draft of report,project,,added,https://github.com/casangi/radps-alma-pdr/issues/50
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,51,Initial draft reviewed by Krishna and Amanda,project,,added,https://github.com/casangi/radps-alma-pdr/issues/51
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,52,Draft revised based on comments from Krishna and Amanda,project,,added,https://github.com/casangi/radps-alma-pdr/issues/52
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,53,Draft reviewed by TACC,project,,added,https://github.com/casangi/radps-alma-pdr/issues/53
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,54,Draft revised based on TACC comments,project,,added,https://github.com/casangi/radps-alma-pdr/issues/54
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,55,Draft reviewed by Imaging Team,project,,added,https://github.com/casangi/radps-alma-pdr/issues/55
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,56,Draft revised based on Imaging Team comments,project,,added,https://github.com/casangi/radps-alma-pdr/issues/56
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,57,final revision and proofread,project,,added,https://github.com/casangi/radps-alma-pdr/issues/57
+2026-10-22T17:39:38Z,casangi/pyasdm,34,Make the uniqueness check when a table is open optional,project,,added,https://github.com/casangi/pyasdm/issues/34
+2026-10-22T17:39:38Z,casangi/pyasdm,35,Investigate use of lists of rows to satisfy context and key selection,project,,added,https://github.com/casangi/pyasdm/issues/35
+2026-10-22T17:39:38Z,casangi/pyasdm,36,Investigate loading only where each row starts for a binary table,project,,added,https://github.com/casangi/pyasdm/issues/36
+2026-10-22T17:39:38Z,casangi/pyasdm,37,Finalize and implement binary table improvements,project,,added,https://github.com/casangi/pyasdm/issues/37
+2026-10-22T17:39:38Z,casangi/pyasdm,38,Move all of these changes to the code generation templates in almasw and create pyasdm 1.0,project,,added,https://github.com/casangi/pyasdm/issues/38
+2026-10-22T17:39:38Z,casangi/pyasdm,39,Pyasdm v1.0 release,project,,added,https://github.com/casangi/pyasdm/issues/39
+2026-10-22T17:39:38Z,casangi/benchviper,23,Create the necessary license files for benchviper repo,project,,added,https://github.com/casangi/benchviper/issues/23
+2026-10-22T17:39:38Z,casangi/flowviper,8,Create the necessary license files for flowviper  repo,project,,added,https://github.com/casangi/flowviper/issues/8
+2026-10-22T17:39:38Z,casangi/xradio,600,Data Schema for Representing Primary Beams,project,,added,https://github.com/casangi/xradio/issues/600
+2026-10-22T17:39:38Z,casangi/xradio,601,Define Convolution Function Cache Data Schema,project,,added,https://github.com/casangi/xradio/issues/601
+2026-10-22T17:39:38Z,casangi/astroviper,263,port Zernike polynominal fitting code from astrohack,project,,added,https://github.com/casangi/astroviper/issues/263
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,201,Epic: Incorporate VIPER into SIS testing,project,,added,https://github.com/casangi/RADPS-roadmap/issues/201
+2026-10-22T17:39:38Z,casangi/xradio,603,Ephemeris data trimmed,project,,added,https://github.com/casangi/xradio/issues/603
+2026-10-22T17:39:38Z,casangi/toolviper,57,Update ToolVIPER to use ruff instead of black,project,,added,https://github.com/casangi/toolviper/issues/57
+2026-10-22T17:39:38Z,casangi/xradio,599,Use ARCAE as MSv2 Backend,project,,added,https://github.com/casangi/xradio/issues/599
+2026-10-22T17:39:38Z,casangi/benchviper,26,Build and test astroviper with asv false positive due to missing gcc 14,project,,added,https://github.com/casangi/benchviper/issues/26
+2026-10-22T17:39:38Z,casangi/benchviper,27,Force workflow failure when benchmarks fail to execute,project,,added,https://github.com/casangi/benchviper/issues/27
+2026-10-22T17:39:38Z,casangi/astroviper,265,Experiment with porting SIRIUS Simulator to AstroVIPER,project,,added,https://github.com/casangi/astroviper/issues/265
+2026-10-22T17:39:38Z,casangi/pyasdm,41,Investigate and fix issues seen when running benchmarks during issue #34 testing,project,,added,https://github.com/casangi/pyasdm/issues/41
+2026-10-22T17:39:38Z,casangi/xradio,497,Image Format,project,,added,https://github.com/casangi/xradio/issues/497
+2026-10-22T17:39:38Z,casangi/xradio,514,Accessor functions for xradio image Dataset,project,,added,https://github.com/casangi/xradio/issues/514
+2026-10-22T17:39:38Z,casangi/xradio,516,Update Image Unit Tests,project,,added,https://github.com/casangi/xradio/issues/516
+2026-10-22T17:39:38Z,casangi/astroviper,268,"single field cube imaging links to feather tutorial, not single field cube.",project,,added,https://github.com/casangi/astroviper/issues/268
+2026-10-22T17:39:38Z,casangi/astroviper,229,make_mask.ipynb failing CI,project,,added,https://github.com/casangi/astroviper/issues/229
+2026-10-22T17:39:38Z,casangi/astroviper,269,Epic: Imaging Processing Function Refactor,project,,added,https://github.com/casangi/astroviper/issues/269
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,59,Write outline,project,,added,https://github.com/casangi/radps-alma-pdr/issues/59
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,60,Revise outline,project,,added,https://github.com/casangi/radps-alma-pdr/issues/60
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,61,Write rough draft,project,,added,https://github.com/casangi/radps-alma-pdr/issues/61
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,62,Revise rough draft,project,,added,https://github.com/casangi/radps-alma-pdr/issues/62
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,63,get feedback on rough draft,project,,added,https://github.com/casangi/radps-alma-pdr/issues/63
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,64,final proof read,project,,added,https://github.com/casangi/radps-alma-pdr/issues/64
+2026-10-22T17:39:38Z,casangi/xradio,608,Review definition UVW Coordinates,project,,added,https://github.com/casangi/xradio/issues/608
+2026-10-22T17:39:38Z,casangi/toolviper,60,Fix inconsistent dependency on ipython in toolviper,project,,added,https://github.com/casangi/toolviper/issues/60
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,65,Re-organize content in QA Plan and Development and Deployment Plan,project,,added,https://github.com/casangi/radps-alma-pdr/issues/65
+2026-10-22T17:39:38Z,casangi/testviper,59,Align Python and Os Version in testing Repositories,project,,added,https://github.com/casangi/testviper/issues/59
+2026-10-22T17:39:38Z,casangi/testviper,57,Align testviper configuration with astroviper,project,,added,https://github.com/casangi/testviper/issues/57
+2026-10-22T17:39:38Z,casangi/benchviper,29,Modify yaml actions to run on benchviper branches,project,,added,https://github.com/casangi/benchviper/issues/29
+2026-10-22T17:39:38Z,casangi/benchviper,25,Update matrix of dependencies to use ARCAE backend,project,,added,https://github.com/casangi/benchviper/issues/25
+2026-10-22T17:39:38Z,casangi/pyasdm,43,Modify workflow to publish builds to pypi,project,,added,https://github.com/casangi/pyasdm/issues/43
+2026-10-22T17:39:38Z,casangi/benchviper,31,benchmarks/fft_ifft.py fails with new astroviper updates,project,,added,https://github.com/casangi/benchviper/issues/31
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,202,Epic: TACC Continuum Performance Tests,project,,added,https://github.com/casangi/RADPS-roadmap/issues/202
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,198,Epic: Implement widebandpbcor,project,,added,https://github.com/casangi/RADPS-roadmap/issues/198
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,203,Hold detailed implementation design discussion ,project,,added,https://github.com/casangi/RADPS-roadmap/issues/203
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,204,Epic: Analyze how to incorporate existing Pipeline heuristics into RADIO architecture,project,,added,https://github.com/casangi/RADPS-roadmap/issues/204
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,205,Epic:  Imaging Domain Framework Document,project,,added,https://github.com/casangi/RADPS-roadmap/issues/205
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,206,Epic:  Process for inclusion of diagrams in documents,project,,added,https://github.com/casangi/RADPS-roadmap/issues/206
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,207,Epic:  Logical Workflow Design,project,,added,https://github.com/casangi/RADPS-roadmap/issues/207
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,209,Epic:  Cube Imaging Beta Test Workshop,project,,added,https://github.com/casangi/RADPS-roadmap/issues/209
+2026-10-22T17:39:38Z,casangi/RADPS,96,Epic: AstroVIPER Cube Imaging Benchmarking at NRAO,project,,added,https://github.com/casangi/RADPS/issues/96
+2026-10-22T17:39:38Z,casangi/toolviper,62,Propose a structure to store test data in Cloudflare,project,,added,https://github.com/casangi/toolviper/issues/62
+2026-10-22T17:39:38Z,casangi/benchviper,32,Modify benchmarking workflow to use dispatch to execute benchmarks per commit instead of commit range,project,,added,https://github.com/casangi/benchviper/issues/32
+2026-10-22T17:39:38Z,casangi/xradio,609,"ASDM Backend: recognize single-dish vs. interferometric data, keep consistency in/with complex vs. float data (VISIBILITY/SPECTRUM)",project,,added,https://github.com/casangi/xradio/issues/609
+2026-10-22T17:39:38Z,casangi/xradio,611,"Add test infrastructure for single dish (dataset, fixtures, basic tests, etc.)",project,,added,https://github.com/casangi/xradio/issues/611
+2026-10-22T17:39:38Z,casangi/xradio,612,ASDM backend: support single dish metadata => SpectrumXds and improvements in sub-datasets (FieldAndSourceXds),project,,added,https://github.com/casangi/xradio/issues/612
+2026-10-22T17:39:38Z,casangi/xradio,613,ASDM backend: ensure BDFs are loaded correctly for single dish ASDMs,project,,added,https://github.com/casangi/xradio/issues/613
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,210,Epic: Performance Targets for Imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/210
+2026-10-22T17:39:38Z,casangi/astroviper,281,Create python bindings for deconvolver MTMFS,project,,added,https://github.com/casangi/astroviper/issues/281
+2026-10-22T17:39:38Z,casangi/pyasdm,44,Create pyasdm first release,project,,added,https://github.com/casangi/pyasdm/issues/44
+2026-10-22T17:39:38Z,casangi/radps-alma-pdr,66,Final revisions,project,,added,https://github.com/casangi/radps-alma-pdr/issues/66
+2026-10-22T17:39:38Z,casangi/radps-sccb,2,SCCB: Add full polarization imaging to RADPS-ALMA project scope,project,,added,https://github.com/casangi/radps-sccb/issues/2
+2026-10-22T17:39:38Z,casangi/flowviper,4,Add new example workflow,project,,added,https://github.com/casangi/flowviper/issues/4
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,214,Epic:  GraphVIPER maintenance,project,,added,https://github.com/casangi/RADPS-roadmap/issues/214
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,215,Work through ToolVIPER tutorials,project,,added,https://github.com/casangi/RADPS-roadmap/issues/215
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,216,Epic: Astrohack PI26.4 placeholder,project,,added,https://github.com/casangi/RADPS-roadmap/issues/216
+2026-10-22T17:39:38Z,casangi/astroviper,283,Epic: Fringe fitting prototype,project,,added,https://github.com/casangi/astroviper/issues/283
+2026-10-22T17:39:38Z,casangi/benchviper,36,Update benchviper for iteration control parameter name changes,project,,added,https://github.com/casangi/benchviper/issues/36
+2026-10-22T17:39:38Z,casangi/astroviper,286,Fix plotting in iteration controller notebooks,project,,added,https://github.com/casangi/astroviper/issues/286
+2026-10-22T17:39:38Z,casangi/astroviper,285,Fix nsigma in iteration controller,project,,added,https://github.com/casangi/astroviper/issues/285
+2026-10-22T17:39:38Z,casangi/astroviper,288,Refactor to match the new module structure,project,,added,https://github.com/casangi/astroviper/issues/288
+2026-10-22T17:39:38Z,casangi/astroviper,294,Atmospheric phase corruption with a Kolmogorov phase screen in the simulator,project,,added,https://github.com/casangi/astroviper/issues/294
+2026-10-22T17:39:38Z,casangi/astroviper,289,Fix divergence test memory usage and add memory test,project,,added,https://github.com/casangi/astroviper/issues/289
+2026-10-22T17:39:38Z,casangi/astroviper,290,Divergence test based on Thompson et al.,project,,added,https://github.com/casangi/astroviper/issues/290
+2026-10-22T17:39:38Z,casangi/astroviper,291,Entropy stop based on Homan et al.,project,,added,https://github.com/casangi/astroviper/issues/291
+2026-10-22T17:39:38Z,casangi/astroviper,292,Restore convention change,project,,added,https://github.com/casangi/astroviper/issues/292
+2026-10-22T17:39:38Z,casangi/astroviper,293,Reduce duplicate instances of GitHub workflows,project,,added,https://github.com/casangi/astroviper/issues/293
+2026-10-22T17:39:38Z,casangi/astroviper,295,"Simulation From ""First Principles"" for Cube and Continuum Imaging",project,,added,https://github.com/casangi/astroviper/issues/295
+2026-10-22T17:39:38Z,casangi/testviper,60,Create A Dispatch to Benchviper,project,,added,https://github.com/casangi/testviper/issues/60
+2026-10-22T17:39:38Z,casangi/astroviper,297,Connect Continuum Imaging to MTMFS,project,,added,https://github.com/casangi/astroviper/issues/297
+2026-10-22T17:39:38Z,casangi/astroviper,299,Align uv-cell assignment between CASA and Astroviper,project,,added,https://github.com/casangi/astroviper/issues/299
+2026-10-22T17:39:38Z,casangi/astroviper,298,Finish Continuum Imaging Memo II,project,,added,https://github.com/casangi/astroviper/issues/298
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,217,Epic: Single Field Cube and Continuum Imaging Campaign on real data,project,,added,https://github.com/casangi/RADPS-roadmap/issues/217
+2026-10-22T17:39:38Z,casangi/RADPS,97,Transfer single field cube imaging test data to Charlottesville,project,,added,https://github.com/casangi/RADPS/issues/97
+2026-10-22T17:39:38Z,casangi/toolviper,65,Dask Nanny MALLOC_TRIM_THRESHOLD_ disables glibc dynamic mmap threshold in workers,project,,added,https://github.com/casangi/toolviper/issues/65
+2026-10-22T17:39:38Z,casangi/graphviper,67,"Default per-task memory hooks (mmap threshold pin, malloc_trim) raise minor page faults",project,,added,https://github.com/casangi/graphviper/issues/67
+2026-10-22T17:39:38Z,casangi/xradio,617,"load_processing_set GC race, astropy unit cycle in image factory, numcodecs memory",project,,added,https://github.com/casangi/xradio/issues/617
+2026-10-22T17:39:38Z,casangi/flowviper,10,4 add new example workflow,project,,added,https://github.com/casangi/flowviper/pull/10
+2026-10-22T17:39:38Z,casangi/pyasdm,46,ArrayTimeInterval.fromBin returns about half the real start time for binary tables (midpoint convention),project,,added,https://github.com/casangi/pyasdm/issues/46
+2026-10-22T17:39:38Z,casangi/pyasdm,47,"Generated setFromXML parses XML booleans with bool(text), so 'false' is read as True",project,,added,https://github.com/casangi/pyasdm/issues/47
+2026-10-22T17:39:38Z,casangi/pyasdm,48,SourceTable.add checks the wrong container length and can raise IndexError when adding Source rows,project,,added,https://github.com/casangi/pyasdm/issues/48
+2026-10-22T17:39:38Z,casangi/pyasdm,49,"ASDM.fromXML never resets the startTimeDurationInXML/Bin flags, so one ASDM's time convention leaks into later ASDMs",project,,added,https://github.com/casangi/pyasdm/issues/49
+2026-10-22T17:39:38Z,casangi/pyasdm,50,"CI: Python 3.12–3.14, lint + Linux 3.13 on push, full matrix on PRs and merges to main",project,,added,https://github.com/casangi/pyasdm/issues/50
+2026-10-22T17:39:38Z,casangi/xradio,620,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",project,,added,https://github.com/casangi/xradio/issues/620
+2026-10-22T17:39:38Z,casangi/xradio,624,"MSv2 converter: replace per-partition TaQL with row-run reads, read sub-tables once, stream large variables to zarr",project,,added,https://github.com/casangi/xradio/issues/624
+2026-10-22T17:39:38Z,casangi/toolviper,69,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",project,,added,https://github.com/casangi/toolviper/issues/69
+2026-10-22T17:39:38Z,casangi/graphviper,68,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",project,,added,https://github.com/casangi/graphviper/issues/68
+2026-10-22T17:39:38Z,casangi/astroviper,306,Self consistency test of cube imaging on a simulated point source field,project,,added,https://github.com/casangi/astroviper/issues/306
+2026-10-22T17:39:38Z,casangi/astroviper,303,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",project,,added,https://github.com/casangi/astroviper/issues/303
+2026-10-22T17:39:38Z,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,project,,added,https://github.com/casangi/astroviper/issues/314
+2026-10-22T17:39:38Z,casangi/pyasdm,52,"When an empty set is passed to `loadOnlyComponents` that should mean ""no binary component array is loaded"".",project,,added,https://github.com/casangi/pyasdm/issues/52
+2026-10-22T17:39:38Z,casangi/xradio,629,MSv2 xarray backend: xr.open_datatree(msv2) with partitions cached in the MSv2,project,,added,https://github.com/casangi/xradio/issues/629
+2026-10-22T17:39:38Z,casangi/astroviper,307,New Algorithms Tracker,project,,added,https://github.com/casangi/astroviper/issues/307
+2026-10-22T17:39:38Z,casangi/graphviper,70,make_parallel_coord(n_chunks=n) can return far fewer chunks than requested,project,,added,https://github.com/casangi/graphviper/issues/70
+2026-10-22T17:39:38Z,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",project,,added,https://github.com/casangi/xradio/issues/633
+2026-10-22T17:39:38Z,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",project,,added,https://github.com/casangi/xradio/issues/634
+2026-10-22T17:39:38Z,casangi/xradio,635,"ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",project,,added,https://github.com/casangi/xradio/issues/635
+2026-10-22T17:39:38Z,casangi/astroviper,323,Simulator: add bandwidth and time averaging smearing for all sky models,project,,added,https://github.com/casangi/astroviper/issues/323
+2026-10-22T17:39:38Z,casangi/astroviper,324,Simulator: add on/off source observing gaps and expose scan_intent,project,,added,https://github.com/casangi/astroviper/issues/324
+2026-10-22T17:39:38Z,casangi/astroviper,325,Simulator: add visibility corruptions following the measurement equation,project,,added,https://github.com/casangi/astroviper/issues/325
+2026-10-22T17:39:38Z,casangi/astroviper,326,Simulator: VLBI accurate UVW from radio_telescope_delay_model (CALC11),project,,added,https://github.com/casangi/astroviper/issues/326
+2026-10-22T17:39:38Z,casangi/xradio,636,ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11),project,,added,https://github.com/casangi/xradio/issues/636
+2026-10-22T17:39:38Z,casangi/toolviper,64,Please upload this ASDM to be available for download with `toolviper.utils.data.download()`: uid://A002/X10f6291/X12d9 (ExecBlock ID),project,,added,https://github.com/casangi/toolviper/issues/64
+2026-10-22T17:39:38Z,casangi/xradio,637,arcae backend: known arcae issues and limitations (review list for #606),project,,added,https://github.com/casangi/xradio/issues/637
+2026-10-22T17:39:38Z,casangi/xradio,640,Move API from Custom Functions to Xarray backends + Accessors,project,,added,https://github.com/casangi/xradio/issues/640
+2026-10-22T17:39:38Z,casangi/astroviper,330,Finish Continuum Imaging Memo I,project,,added,https://github.com/casangi/astroviper/issues/330
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,219,Epic: AI Usage,project,,added,https://github.com/casangi/RADPS-roadmap/issues/219
+2026-10-22T17:39:38Z,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,project,,added,https://github.com/casangi/astroviper/issues/319
+2026-10-22T17:39:38Z,casangi/astroviper,327,Asp: evaluate two LibRA AspMatrixCleaner behaviours (Hogbom switch state across model updates; scales when largestscale < PSF width),project,,added,https://github.com/casangi/astroviper/issues/327
+2026-10-22T17:39:38Z,casangi/astroviper,322,Define a floating-point precision policy for continuum imaging,project,,added,https://github.com/casangi/astroviper/issues/322
+2026-10-22T17:39:38Z,casangi/astroviper,321,Define a consistent PSF-origin convention across imaging and deconvolution,project,,added,https://github.com/casangi/astroviper/issues/321
+2026-10-22T17:39:38Z,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,project,,added,https://github.com/casangi/astroviper/issues/320
+2026-10-22T17:39:38Z,casangi/astroviper,318,Integrate all processing steps into single workflow to construct E2E data reduction sequence of ALMA Solar TP Regional observation,project,,added,https://github.com/casangi/astroviper/issues/318
+2026-10-22T17:39:38Z,casangi/astroviper,309,Recheck cube convergence after the visibility-based residual update,project,,added,https://github.com/casangi/astroviper/issues/309
+2026-10-22T17:39:38Z,casangi/astroviper,308,Automatic simulation chunking can index beyond the available axes,project,,added,https://github.com/casangi/astroviper/issues/308
+2026-10-22T17:39:38Z,casangi/flowviper,11,single dish workflow notebooks,project,,added,https://github.com/casangi/flowviper/issues/11
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,220,Epic: Visibility visualization GUI,project,,added,https://github.com/casangi/RADPS-roadmap/issues/220
+2026-10-22T17:39:38Z,casangi/RADPS-roadmap,221,Epic: Calibration data set visualization GUI,project,,added,https://github.com/casangi/RADPS-roadmap/issues/221
+2026-10-22T17:39:38Z,casangi/astroviper,328,"Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",project,,added,https://github.com/casangi/astroviper/issues/328
+2026-10-22T17:39:38Z,casangi/xradio,644,`SIGMA` is not a redundant column,project,,added,https://github.com/casangi/xradio/issues/644
+2026-10-22T17:39:38Z,casangi/toolviper,71,Remove GraphVIPER Dependency,project,,added,https://github.com/casangi/toolviper/issues/71
+2026-10-22T17:39:38Z,casangi/graphviper,73,"The all extra installs python-casacore, but XRADIO 1.3.0 needs arcae",project,,added,https://github.com/casangi/graphviper/issues/73
+2026-10-22T17:39:38Z,casangi/xradio,645,Docs: remove the python-casacore mentions left after the arcae backend,project,,added,https://github.com/casangi/xradio/issues/645
+2026-10-22T17:39:38Z,casangi/xradio,647,Update docs now that MSv2 is a full supported backend,project,,added,https://github.com/casangi/xradio/issues/647
+2026-10-22T17:39:38Z,casangi/astroviper,331,"Document arcae as the casacore backend; remove python-casacore from the README, extras and tests",project,,added,https://github.com/casangi/astroviper/issues/331
+2026-10-22T17:39:38Z,casangi/testviper,64,Remove the python-casacore and conda instructions for macOS,project,,added,https://github.com/casangi/testviper/issues/64
+2026-10-22T17:39:38Z,casangi/benchviper,41,README: give the reason for the macOS note now that XRADIO uses arcae,project,,added,https://github.com/casangi/benchviper/issues/41
+2026-10-22T17:39:38Z,casangi/toolviper,76,Add twhya_selfcal_lsrk_5chans.ps.zarr to CloudFlare,project,,added,https://github.com/casangi/toolviper/issues/76
+2026-10-22T17:39:38Z,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",project,,added,https://github.com/casangi/toolviper/issues/75
+2026-10-22T17:39:38Z,casangi/astroviper,338,fft_backend: scipy is about 2x faster than pyfftw on Apple silicon; check on Linux before changing the default,project,,added,https://github.com/casangi/astroviper/issues/338
+2026-10-22T17:39:38Z,casangi/astroviper,337,Future testing of CORAL,project,,added,https://github.com/casangi/astroviper/issues/337
+2026-10-22T17:39:38Z,casangi/astroviper,333,Reports for image_cube_single_field and simulate_processing_set,project,,added,https://github.com/casangi/astroviper/issues/333
+2026-10-22T17:39:38Z,casangi/xradio,648,Image schema review,project,,added,https://github.com/casangi/xradio/issues/648
+2026-10-22T17:39:38Z,casangi/astroviper,339,ARDG -> astroviper: Component Relaxation,project,,added,https://github.com/casangi/astroviper/issues/339
+2026-10-22T17:39:38Z,casangi/astroviper,340,ARDG -> astroviper: Autocorr-CLEAN,project,,added,https://github.com/casangi/astroviper/issues/340
+2026-10-22T17:39:38Z,casangi/xradio,651,ASDM Backend: ensure multi-field/source partitions work well (mosaics),project,,added,https://github.com/casangi/xradio/issues/651
+2026-10-22T17:39:38Z,casangi/xradio,652,ASDM Backend: support ephemeris data (FieldSourceEphemerisXds),project,,added,https://github.com/casangi/xradio/issues/652
+2026-10-22T17:39:38Z,casangi/toolviper,77,Evaluate proposed file uploader solution for cyber-security,project,,added,https://github.com/casangi/toolviper/issues/77
+2026-10-22T17:39:38Z,casangi/benchviper,45,Fix astroviper fft_ifft benchmark,project,,added,https://github.com/casangi/benchviper/issues/45
+2026-10-22T17:39:38Z,casangi/benchviper,44,Use the shared pre-commit workflow,project,,added,https://github.com/casangi/benchviper/pull/44
+2026-10-22T17:39:38Z,casangi/pyasdm,56,Errors found by ruff,project,,added,https://github.com/casangi/pyasdm/issues/56
+2026-10-22T17:39:38Z,casangi/toolviper,78,"pre-commit: update ruff to 0.16.10, the version every repository uses",project,,added,https://github.com/casangi/toolviper/issues/78
+2026-10-22T17:39:38Z,casangi/xradio,660,An aperture-plane image read from CASA does not conform to the image schema,project,,added,https://github.com/casangi/xradio/issues/660
+2026-10-22T17:39:38Z,casangi/xradio,659,"Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",project,,added,https://github.com/casangi/xradio/issues/659
+2026-10-22T17:39:38Z,casangi/xradio,657,"pre-commit: update ruff to 0.16.10, the version every repository uses",project,,added,https://github.com/casangi/xradio/issues/657
+2026-10-22T17:39:38Z,casangi/xradio,656,Image schema review -- the TRON lens -- 4. Support cropped PSFs,project,,added,https://github.com/casangi/xradio/issues/656
+2026-10-22T17:39:38Z,casangi/xradio,655,Image schema review -- the TRON lens -- 3. Expose the dataset's WCS,project,,added,https://github.com/casangi/xradio/issues/655
+2026-10-22T17:39:38Z,casangi/xradio,654,Image schema review -- the TRON lens -- 2. No schema home for time/frequency-reduced products,project,,added,https://github.com/casangi/xradio/issues/654
+2026-10-22T17:39:38Z,casangi/xradio,653,Image schema review -- the TRON lens -- 1. Per-timeslot flags,project,,added,https://github.com/casangi/xradio/issues/653
+2026-10-22T17:39:38Z,casangi/xradio,649,convert_msv2_to_processing_set: AlignmentError in create_system_calibration_xds when SYSCAL lacks some antennas of a partition,project,,added,https://github.com/casangi/xradio/issues/649
+2026-10-22T17:39:38Z,casangi/testviper,66,Use the shared pre-commit workflow,project,,added,https://github.com/casangi/testviper/issues/66
+2026-10-22T17:39:38Z,casangi/flowviper,18,prefect_workflow README: out-of-date macOS MSv2 note and broken link,project,,added,https://github.com/casangi/flowviper/issues/18
+2026-10-22T17:39:38Z,casangi/testviper,68,Add No Deps Flag to Makefile,project,,added,https://github.com/casangi/testviper/issues/68
