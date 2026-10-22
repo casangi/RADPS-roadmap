@@ -10,7 +10,7 @@ body:
         An **epic** represents a significant, multi-part body of work. It may be broken down into individual feature issues, tasks, or implementation issues across one or more repositories.
 
   - type: textarea
-    id: summary
+    id: Goal
     attributes:
       label: Summary
       description: A brief description of this epic and its overall goal.
