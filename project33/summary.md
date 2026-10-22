@@ -1,20 +1,19 @@
 # RADPS Roadmap — status by PI and team
 
-Generated 2026-10-21T17:41:13Z from https://github.com/orgs/casangi/projects/33.
+Generated 2026-10-22T15:23:49Z from https://github.com/orgs/casangi/projects/33.
 
 Current PI: **PI26.4**
 
-## PI26.4 — 48/168 done (29%)
+## PI26.4 — 1/16 done (6%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
-| Calibration | 0/6 | 0% | 1 | 5 | 0 | 0 |
+| Calibration | 0/1 | 0% | 0 | 1 | 0 | 0 |
 | External | 0/1 | 0% | 0 | 1 | 0 | 0 |
-| Imaging | 14/49 | 29% | 23 | 12 | 14 | 0 |
-| Infrastructure | 32/86 | 37% | 27 | 27 | 32 | 0 |
-| Management | 0/5 | 0% | 0 | 5 | 0 | 0 |
-| Pipeline | 1/8 | 12% | 7 | 0 | 1 | 0 |
-| Single Dish | 1/13 | 8% | 9 | 3 | 1 | 0 |
+| Imaging | 1/3 | 33% | 1 | 1 | 1 | 0 |
+| Infrastructure | 0/9 | 0% | 4 | 5 | 0 | 0 |
+| Management | 0/1 | 0% | 0 | 1 | 0 | 0 |
+| Pipeline | 0/1 | 0% | 1 | 0 | 0 | 0 |
 
 ## Far-term — 0/9 done (0%)
 
@@ -25,81 +24,59 @@ Current PI: **PI26.4**
 | Imaging | 0/3 | 0% | 3 | 0 | 0 | 0 |
 | Management | 0/3 | 0% | 3 | 0 | 0 | 0 |
 
-## Mid-term — 0/10 done (0%)
+## Mid-term — 0/9 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | Calibration | 0/2 | 0% | 2 | 0 | 0 | 0 |
-| External | 0/1 | 0% | 1 | 0 | 0 | 0 |
 | Imaging | 0/2 | 0% | 2 | 0 | 0 | 0 |
 | Infrastructure | 0/2 | 0% | 2 | 0 | 0 | 0 |
 | Management | 0/2 | 0% | 2 | 0 | 0 | 0 |
 | Pipeline | 0/1 | 0% | 1 | 0 | 0 | 0 |
 
-## Near-term — 0/29 done (0%)
+## Near-term — 0/12 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
-| External | 0/2 | 0% | 1 | 1 | 0 | 0 |
-| Imaging | 0/7 | 0% | 7 | 0 | 0 | 0 |
-| Infrastructure | 0/4 | 0% | 4 | 0 | 0 | 0 |
-| Management | 0/11 | 0% | 10 | 1 | 0 | 0 |
-| Pipeline | 0/5 | 0% | 5 | 0 | 0 | 0 |
+| Imaging | 0/4 | 0% | 4 | 0 | 0 | 0 |
+| Infrastructure | 0/2 | 0% | 2 | 0 | 0 | 0 |
+| Management | 0/3 | 0% | 2 | 1 | 0 | 0 |
+| Pipeline | 0/3 | 0% | 3 | 0 | 0 | 0 |
 
-## Triage — 0/41 done (0%)
+## Triage — 0/3 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
+| Infrastructure | 0/2 | 0% | 2 | 0 | 0 | 0 |
+| Single Dish | 0/1 | 0% | 0 | 0 | 0 | 1 |
+
+## PI27.1 — 0/8 done (0%)
+
+| Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
+|---|---:|---:|---:|---:|---:|---:|
+| Calibration | 0/1 | 0% | 1 | 0 | 0 | 0 |
 | Imaging | 0/5 | 0% | 5 | 0 | 0 | 0 |
-| Infrastructure | 0/6 | 0% | 5 | 0 | 0 | 1 |
-| Single Dish | 0/27 | 0% | 26 | 0 | 0 | 1 |
-| (no team) | 0/3 | 0% | 3 | 0 | 0 | 0 |
-
-## PI27.1 — 0/14 done (0%)
-
-| Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
-|---|---:|---:|---:|---:|---:|---:|
-| Calibration | 0/3 | 0% | 3 | 0 | 0 | 0 |
-| Imaging | 0/9 | 0% | 9 | 0 | 0 | 0 |
 | Infrastructure | 0/2 | 0% | 2 | 0 | 0 | 0 |
 
-## PI-4=26.3 — 150/162 done (93%)
+## PI-4=26.3 — 30/32 done (94%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
-| Calibration | 9/9 | 100% | 0 | 0 | 9 | 0 |
-| Imaging | 39/47 | 83% | 0 | 8 | 39 | 0 |
-| Infrastructure | 41/43 | 95% | 0 | 0 | 41 | 2 |
-| Management | 46/47 | 98% | 0 | 0 | 46 | 1 |
-| Pipeline | 4/4 | 100% | 0 | 0 | 4 | 0 |
-| Single Dish | 11/12 | 92% | 0 | 0 | 11 | 1 |
+| Calibration | 6/6 | 100% | 0 | 0 | 6 | 0 |
+| Imaging | 10/11 | 91% | 0 | 1 | 10 | 0 |
+| Infrastructure | 9/9 | 100% | 0 | 0 | 9 | 0 |
+| Management | 5/5 | 100% | 0 | 0 | 5 | 0 |
+| Single Dish | 0/1 | 0% | 0 | 0 | 0 | 1 |
 
-## PI-3 — 36/40 done (90%)
-
-| Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
-|---|---:|---:|---:|---:|---:|---:|
-| External | 7/7 | 100% | 0 | 0 | 7 | 0 |
-| Imaging | 5/7 | 71% | 0 | 0 | 5 | 2 |
-| Infrastructure | 13/13 | 100% | 0 | 0 | 13 | 0 |
-| Management | 4/4 | 100% | 0 | 0 | 4 | 0 |
-| Pipeline | 4/4 | 100% | 0 | 0 | 4 | 0 |
-| Single Dish | 3/3 | 100% | 0 | 0 | 3 | 0 |
-| (no team) | 0/2 | 0% | 0 | 0 | 0 | 2 |
-
-## PI-2 — 41/42 done (98%)
+## PI-3 — 1/3 done (33%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
-| External | 5/5 | 100% | 0 | 0 | 5 | 0 |
-| Imaging | 31/31 | 100% | 0 | 0 | 31 | 0 |
-| Management | 5/6 | 83% | 0 | 0 | 5 | 1 |
+| Imaging | 1/3 | 33% | 0 | 0 | 1 | 2 |
 
-## (no PI) — 1/15 done (7%)
+## PI-2 — 8/8 done (100%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
-| External | 1/1 | 100% | 0 | 0 | 1 | 0 |
-| Imaging | 0/1 | 0% | 0 | 0 | 0 | 1 |
-| Infrastructure | 0/3 | 0% | 1 | 1 | 0 | 1 |
-| (no team) | 0/10 | 0% | 1 | 0 | 0 | 9 |
+| Imaging | 8/8 | 100% | 0 | 0 | 8 | 0 |
 
