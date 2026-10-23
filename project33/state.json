@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T15:13:17Z",
+ "generated_at": "2026-10-23T17:29:44Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2446,9 +2446,9 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
-   "title": "Epic: Imaging Processing Function Refactor",
+   "title": "Epic: Imaging Refactor",
    "url": "https://github.com/casangi/astroviper/issues/269"
   },
   "https://github.com/casangi/astroviper/issues/270": {

@@ -9,7 +9,6 @@ External,In progress,Issue,casangi/RADPS-roadmap,33,Epic: Xradio images in CARTA
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,10,Epic: Mosaic Cube Imaging Distributed Application,OPEN,,Imaging,2026-10-15T15:18:28Z,,,https://github.com/casangi/RADPS-roadmap/issues/10
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,210,Epic: Performance Targets for Imaging,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-10-15T15:16:03Z,,,https://github.com/casangi/RADPS-roadmap/issues/210
 Imaging,Backlog,Issue,casangi/astroviper,263,port Zernike polynominal fitting code from astrohack,OPEN,,,2026-08-10T20:47:37Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/astroviper/issues/263
-Imaging,Backlog,Issue,casangi/astroviper,269,Epic: Imaging Processing Function Refactor,OPEN,Jan-Willem,,2026-09-11T13:04:23Z,,,https://github.com/casangi/astroviper/issues/269
 Imaging,Backlog,Issue,casangi/astroviper,285,Fix nsigma in iteration controller,OPEN,Kitchi,Fundamental Core Function,2026-09-29T01:52:53Z,,,https://github.com/casangi/astroviper/issues/285
 Imaging,Backlog,Issue,casangi/astroviper,286,Fix plotting in iteration controller notebooks,OPEN,,Fundamental Core Function,2026-10-21T17:08:35Z,,,https://github.com/casangi/astroviper/issues/286
 Imaging,Backlog,Issue,casangi/astroviper,295,"Simulation From ""First Principles"" for Cube and Continuum Imaging",OPEN,Jan-Willem hmuellergoe,Unit Tests,2026-09-30T18:40:52Z,,,https://github.com/casangi/astroviper/issues/295
@@ -53,6 +52,7 @@ Imaging,Done,Issue,casangi/flowviper,4,Add new example workflow,CLOSED,smcastro 
 Imaging,In progress,Issue,casangi/RADPS,96,Epic: AstroVIPER Cube Imaging Benchmarking at NRAO,OPEN,Jan-Willem,,2026-10-22T14:38:47Z,,,https://github.com/casangi/RADPS/issues/96
 Imaging,In progress,Issue,casangi/RADPS-roadmap,9,Epic: Image Statistics,OPEN,aakepley Jan-Willem hmuellergoe,Image Analysis,2026-10-15T15:15:54Z,,,https://github.com/casangi/RADPS-roadmap/issues/9
 Imaging,In progress,Issue,casangi/astroviper,245,Decide on test case(s) to use for continuum imaging performance experiments,OPEN,aakepley,,2026-09-10T17:20:41Z,,casangi/RADPS-roadmap#202,https://github.com/casangi/astroviper/issues/245
+Imaging,In progress,Issue,casangi/astroviper,269,Epic: Imaging Refactor,OPEN,Jan-Willem hmuellergoe,,2026-10-23T17:25:51Z,,,https://github.com/casangi/astroviper/issues/269
 Imaging,In progress,Issue,casangi/astroviper,298,Finish Continuum Imaging Memo II,OPEN,hmuellergoe,,2026-10-01T15:46:18Z,,,https://github.com/casangi/astroviper/issues/298
 Imaging,In progress,Issue,casangi/astroviper,299,Align uv-cell assignment between CASA and Astroviper,OPEN,hmuellergoe,,2026-10-20T17:09:38Z,,,https://github.com/casangi/astroviper/issues/299
 Imaging,In progress,Issue,casangi/astroviper,306,Self consistency test of cube imaging on a simulated point source field,OPEN,Jan-Willem,,2026-10-05T15:59:22Z,,,https://github.com/casangi/astroviper/issues/306

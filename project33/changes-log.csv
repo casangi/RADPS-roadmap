@@ -1369,3 +1369,4 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-23T15:13:17Z,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,project,,added,https://github.com/casangi/xradio/issues/661
 2026-10-23T15:13:17Z,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,project,,added,https://github.com/casangi/astroviper/issues/355
 2026-10-23T15:13:17Z,casangi/astroviper,356,Document Departures from CASA Implemenation,project,,added,https://github.com/casangi/astroviper/issues/356
+2026-10-23T17:29:44Z,casangi/astroviper,269,Epic: Imaging Refactor,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/269
