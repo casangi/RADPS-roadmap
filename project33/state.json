@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T17:39:38Z",
+ "generated_at": "2026-10-23T15:13:17Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -1065,8 +1065,8 @@
    "number": 39,
    "pi": "PI-4=26.3",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Epic:  simple (nterms=0) continuum imaging",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/39"
@@ -2405,8 +2405,8 @@
    "number": 261,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "add appropriate unit tests for the chosen continuum imaging path",
    "url": "https://github.com/casangi/astroviper/issues/261"
@@ -2880,6 +2880,106 @@
    "team": "Imaging",
    "title": "ARDG -> astroviper: Autocorr-CLEAN",
    "url": "https://github.com/casangi/astroviper/issues/340"
+  },
+  "https://github.com/casangi/astroviper/issues/347": {
+   "number": 347,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Define validation and recalculation policy for existing imaging weights",
+   "url": "https://github.com/casangi/astroviper/issues/347"
+  },
+  "https://github.com/casangi/astroviper/issues/348": {
+   "number": 348,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",
+   "url": "https://github.com/casangi/astroviper/issues/348"
+  },
+  "https://github.com/casangi/astroviper/issues/349": {
+   "number": 349,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Benchmark and select the continuum task-state storage strategy",
+   "url": "https://github.com/casangi/astroviper/issues/349"
+  },
+  "https://github.com/casangi/astroviper/issues/350": {
+   "number": 350,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Align primary-beam conventions between AstroViper and CASA",
+   "url": "https://github.com/casangi/astroviper/issues/350"
+  },
+  "https://github.com/casangi/astroviper/issues/351": {
+   "number": 351,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Add XRADIO tooling for updating data groups directly in persisted Zarr stores",
+   "url": "https://github.com/casangi/astroviper/issues/351"
+  },
+  "https://github.com/casangi/astroviper/issues/352": {
+   "number": 352,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Investigate and correct MVC PSF Taylor-plane primary-beam weighting",
+   "url": "https://github.com/casangi/astroviper/issues/352"
+  },
+  "https://github.com/casangi/astroviper/issues/353": {
+   "number": 353,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Reduce excessive shard-file allocation in continuum sharding tests",
+   "url": "https://github.com/casangi/astroviper/issues/353"
+  },
+  "https://github.com/casangi/astroviper/issues/354": {
+   "number": 354,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Investigate caching and threading of MT-MFS setup across imaging cycles",
+   "url": "https://github.com/casangi/astroviper/issues/354"
+  },
+  "https://github.com/casangi/astroviper/issues/355": {
+   "number": 355,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Clarify and consolidate exact versus nearest frequency-matching policies",
+   "url": "https://github.com/casangi/astroviper/issues/355"
+  },
+  "https://github.com/casangi/astroviper/issues/356": {
+   "number": 356,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Document Departures from CASA Implemenation",
+   "url": "https://github.com/casangi/astroviper/issues/356"
   },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
@@ -5310,6 +5410,16 @@
    "team": "Infrastructure",
    "title": "An aperture-plane image read from CASA does not conform to the image schema",
    "url": "https://github.com/casangi/xradio/issues/660"
+  },
+  "https://github.com/casangi/xradio/issues/661": {
+   "number": 661,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "",
+   "title": "Support continuum Taylor-product image dimensions in the XRADIO image schema",
+   "url": "https://github.com/casangi/xradio/issues/661"
   }
  }
 }

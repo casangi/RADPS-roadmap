@@ -1354,3 +1354,18 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-22T17:39:38Z,casangi/testviper,66,Use the shared pre-commit workflow,project,,added,https://github.com/casangi/testviper/issues/66
 2026-10-22T17:39:38Z,casangi/flowviper,18,prefect_workflow README: out-of-date macOS MSv2 note and broken link,project,,added,https://github.com/casangi/flowviper/issues/18
 2026-10-22T17:39:38Z,casangi/testviper,68,Add No Deps Flag to Makefile,project,,added,https://github.com/casangi/testviper/issues/68
+2026-10-23T15:13:17Z,casangi/RADPS-roadmap,39,Epic:  simple (nterms=0) continuum imaging,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/39
+2026-10-23T15:13:17Z,casangi/RADPS-roadmap,39,Epic:  simple (nterms=0) continuum imaging,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/39
+2026-10-23T15:13:17Z,casangi/astroviper,261,add appropriate unit tests for the chosen continuum imaging path,Status,In progress,Done,https://github.com/casangi/astroviper/issues/261
+2026-10-23T15:13:17Z,casangi/astroviper,261,add appropriate unit tests for the chosen continuum imaging path,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/261
+2026-10-23T15:13:17Z,casangi/astroviper,347,Define validation and recalculation policy for existing imaging weights,project,,added,https://github.com/casangi/astroviper/issues/347
+2026-10-23T15:13:17Z,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",project,,added,https://github.com/casangi/astroviper/issues/348
+2026-10-23T15:13:17Z,casangi/astroviper,349,Benchmark and select the continuum task-state storage strategy,project,,added,https://github.com/casangi/astroviper/issues/349
+2026-10-23T15:13:17Z,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,project,,added,https://github.com/casangi/astroviper/issues/350
+2026-10-23T15:13:17Z,casangi/astroviper,351,Add XRADIO tooling for updating data groups directly in persisted Zarr stores,project,,added,https://github.com/casangi/astroviper/issues/351
+2026-10-23T15:13:17Z,casangi/astroviper,352,Investigate and correct MVC PSF Taylor-plane primary-beam weighting,project,,added,https://github.com/casangi/astroviper/issues/352
+2026-10-23T15:13:17Z,casangi/astroviper,353,Reduce excessive shard-file allocation in continuum sharding tests,project,,added,https://github.com/casangi/astroviper/issues/353
+2026-10-23T15:13:17Z,casangi/astroviper,354,Investigate caching and threading of MT-MFS setup across imaging cycles,project,,added,https://github.com/casangi/astroviper/issues/354
+2026-10-23T15:13:17Z,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,project,,added,https://github.com/casangi/xradio/issues/661
+2026-10-23T15:13:17Z,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,project,,added,https://github.com/casangi/astroviper/issues/355
+2026-10-23T15:13:17Z,casangi/astroviper,356,Document Departures from CASA Implemenation,project,,added,https://github.com/casangi/astroviper/issues/356
