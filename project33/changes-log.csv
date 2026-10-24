@@ -1370,3 +1370,7 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-23T15:13:17Z,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,project,,added,https://github.com/casangi/astroviper/issues/355
 2026-10-23T15:13:17Z,casangi/astroviper,356,Document Departures from CASA Implemenation,project,,added,https://github.com/casangi/astroviper/issues/356
 2026-10-23T17:29:44Z,casangi/astroviper,269,Epic: Imaging Refactor,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/269
+2026-10-24T14:03:02Z,casangi/astroviper,269,Epic: Imaging Refactor,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/269
+2026-10-24T14:03:02Z,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,Status,Backlog,Done,https://github.com/casangi/astroviper/issues/314
+2026-10-24T14:03:02Z,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/314
+2026-10-24T14:03:02Z,casangi/astroviper,357,Performance Improvements and Bug Fixes for deconvolvers,project,,added,https://github.com/casangi/astroviper/pull/357

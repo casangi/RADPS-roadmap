@@ -1,6 +1,6 @@
 team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
 Calibration,Backlog,Issue,casangi/astroviper,288,Refactor to match the new module structure,OPEN,dessmalljive,,2026-09-30T15:11:31Z,,casangi/astroviper#283,https://github.com/casangi/astroviper/issues/288
-Calibration,In progress,Issue,casangi/RADPS-roadmap,216,Epic: Astrohack PI26.4 placeholder,OPEN,vsmagalhaes,,2026-10-16T17:56:09Z,,,https://github.com/casangi/RADPS-roadmap/issues/216
+Calibration,In progress,Issue,casangi/RADPS-roadmap,216,Epic: Astrohack PI26.4 placeholder,OPEN,vsmagalhaes,,2026-10-23T22:21:12Z,,,https://github.com/casangi/RADPS-roadmap/issues/216
 Calibration,In progress,Issue,casangi/RADPS-roadmap,4,Epic: Calibration dataset specifications,OPEN,Jan-Willem vsmagalhaes gmoellen dessmalljive,Calibration; Data Schemas,2026-10-15T15:17:47Z,,,https://github.com/casangi/RADPS-roadmap/issues/4
 Calibration,In progress,Issue,casangi/astroviper,283,Epic: Fringe fitting prototype,OPEN,dessmalljive,,2026-09-28T15:43:13Z,,,https://github.com/casangi/astroviper/issues/283
 Calibration,In progress,Issue,casangi/xradio,545,"Add a schema to xradio for calibration data, paralleling the one for MSv4",OPEN,dessmalljive,documentation; Calibration Data Schema,2026-07-24T15:21:38Z,,casangi/RADPS-roadmap#4,https://github.com/casangi/xradio/issues/545
@@ -14,7 +14,6 @@ Imaging,Backlog,Issue,casangi/astroviper,286,Fix plotting in iteration controlle
 Imaging,Backlog,Issue,casangi/astroviper,295,"Simulation From ""First Principles"" for Cube and Continuum Imaging",OPEN,Jan-Willem hmuellergoe,Unit Tests,2026-09-30T18:40:52Z,,,https://github.com/casangi/astroviper/issues/295
 Imaging,Backlog,Issue,casangi/astroviper,307,New Algorithms Tracker,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-10-20T15:08:59Z,,,https://github.com/casangi/astroviper/issues/307
 Imaging,Backlog,Issue,casangi/astroviper,309,Recheck cube convergence after the visibility-based residual update,OPEN,hmuellergoe,,2026-10-05T21:29:44Z,,,https://github.com/casangi/astroviper/issues/309
-Imaging,Backlog,Issue,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,OPEN,Jan-Willem hmuellergoe,,2026-10-08T21:04:14Z,,,https://github.com/casangi/astroviper/issues/314
 Imaging,Backlog,Issue,casangi/astroviper,321,Define a consistent PSF-origin convention across imaging and deconvolution,OPEN,,,2026-10-08T21:47:00Z,,,https://github.com/casangi/astroviper/issues/321
 Imaging,Backlog,Issue,casangi/astroviper,322,Define a floating-point precision policy for continuum imaging,OPEN,,,2026-10-08T21:48:35Z,,,https://github.com/casangi/astroviper/issues/322
 Imaging,Backlog,Issue,casangi/astroviper,323,Simulator: add bandwidth and time averaging smearing for all sky models,OPEN,Jan-Willem,,2026-10-12T19:16:23Z,,,https://github.com/casangi/astroviper/issues/323
@@ -45,6 +44,7 @@ Imaging,Done,Issue,casangi/astroviper,291,Entropy stop based on Homan et al.,CLO
 Imaging,Done,Issue,casangi/astroviper,292,Restore convention change,CLOSED,Jan-Willem,Fundamental Core Function,2026-10-08T21:40:02Z,2026-10-08T21:40:02Z,,https://github.com/casangi/astroviper/issues/292
 Imaging,Done,Issue,casangi/astroviper,297,Connect Continuum Imaging to MTMFS,CLOSED,hmuellergoe,,2026-10-19T14:39:42Z,2026-10-19T14:39:42Z,,https://github.com/casangi/astroviper/issues/297
 Imaging,Done,Issue,casangi/astroviper,303,"CI: lint + Linux 3.13 on push, full Python 3.12–3.14 matrix on PRs and merges to main",CLOSED,Jan-Willem,,2026-10-16T15:17:30Z,2026-10-16T15:17:30Z,,https://github.com/casangi/astroviper/issues/303
+Imaging,Done,Issue,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,CLOSED,Jan-Willem hmuellergoe,,2026-10-24T02:45:09Z,2026-10-24T02:45:09Z,,https://github.com/casangi/astroviper/issues/314
 Imaging,Done,Issue,casangi/astroviper,328,"Cycle and iteration control: one name per quantity across Python and C++, model update stop codes, divergence stop",CLOSED,Jan-Willem,,2026-10-20T02:38:21Z,2026-10-20T02:38:21Z,,https://github.com/casangi/astroviper/issues/328
 Imaging,Done,Issue,casangi/astroviper,333,Reports for image_cube_single_field and simulate_processing_set,CLOSED,Jan-Willem,,2026-10-20T02:38:21Z,2026-10-20T02:38:21Z,,https://github.com/casangi/astroviper/issues/333
 Imaging,Done,PullRequest,casangi/flowviper,10,4 add new example workflow,MERGED,,,2026-10-06T08:29:25Z,2026-10-06T08:29:25Z,,https://github.com/casangi/flowviper/pull/10
@@ -52,12 +52,12 @@ Imaging,Done,Issue,casangi/flowviper,4,Add new example workflow,CLOSED,smcastro 
 Imaging,In progress,Issue,casangi/RADPS,96,Epic: AstroVIPER Cube Imaging Benchmarking at NRAO,OPEN,Jan-Willem,,2026-10-22T14:38:47Z,,,https://github.com/casangi/RADPS/issues/96
 Imaging,In progress,Issue,casangi/RADPS-roadmap,9,Epic: Image Statistics,OPEN,aakepley Jan-Willem hmuellergoe,Image Analysis,2026-10-15T15:15:54Z,,,https://github.com/casangi/RADPS-roadmap/issues/9
 Imaging,In progress,Issue,casangi/astroviper,245,Decide on test case(s) to use for continuum imaging performance experiments,OPEN,aakepley,,2026-09-10T17:20:41Z,,casangi/RADPS-roadmap#202,https://github.com/casangi/astroviper/issues/245
-Imaging,In progress,Issue,casangi/astroviper,269,Epic: Imaging Refactor,OPEN,Jan-Willem hmuellergoe,,2026-10-23T17:25:51Z,,,https://github.com/casangi/astroviper/issues/269
+Imaging,In progress,Issue,casangi/astroviper,269,Epic: Imaging Refactor,CLOSED,Jan-Willem hmuellergoe,,2026-10-23T22:22:07Z,2026-10-23T22:22:07Z,,https://github.com/casangi/astroviper/issues/269
 Imaging,In progress,Issue,casangi/astroviper,298,Finish Continuum Imaging Memo II,OPEN,hmuellergoe,,2026-10-01T15:46:18Z,,,https://github.com/casangi/astroviper/issues/298
 Imaging,In progress,Issue,casangi/astroviper,299,Align uv-cell assignment between CASA and Astroviper,OPEN,hmuellergoe,,2026-10-20T17:09:38Z,,,https://github.com/casangi/astroviper/issues/299
 Imaging,In progress,Issue,casangi/astroviper,306,Self consistency test of cube imaging on a simulated point source field,OPEN,Jan-Willem,,2026-10-05T15:59:22Z,,,https://github.com/casangi/astroviper/issues/306
 Imaging,In progress,Issue,casangi/astroviper,308,Automatic simulation chunking can index beyond the available axes,OPEN,Jan-Willem hmuellergoe,,2026-10-05T21:22:48Z,,,https://github.com/casangi/astroviper/issues/308
-Imaging,In progress,Issue,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,OPEN,hmuellergoe,,2026-10-21T16:52:18Z,,,https://github.com/casangi/astroviper/issues/319
+Imaging,In progress,Issue,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,OPEN,hmuellergoe,,2026-10-23T17:54:25Z,,,https://github.com/casangi/astroviper/issues/319
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
 Imaging,In progress,Issue,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",OPEN,hmuellergoe,,2026-10-22T15:20:07Z,,,https://github.com/casangi/astroviper/issues/348
 Imaging,In progress,Issue,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,OPEN,Jan-Willem hmuellergoe,,2026-10-22T18:02:27Z,,,https://github.com/casangi/astroviper/issues/350

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:29:44Z",
+  "generated_at": "2026-10-24T14:03:02Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -148,7 +148,7 @@
     "PI-2": "pi/PI-2.csv",
     "(no PI)": "pi/no-pi.csv"
   },
-  "item_count": 542,
+  "item_count": 543,
   "counts": {
     "PI26.4": {
       "Calibration": {
@@ -168,10 +168,10 @@
       },
       "Imaging": {
         "total": 59,
-        "done": 16,
+        "done": 17,
         "by_status": {
-          "Backlog": 27,
-          "Done": 16,
+          "Backlog": 26,
+          "Done": 17,
           "In progress": 16
         }
       },
@@ -533,10 +533,11 @@
         }
       },
       "(no team)": {
-        "total": 10,
-        "done": 0,
+        "total": 11,
+        "done": 1,
         "by_status": {
           "Backlog": 1,
+          "Done": 1,
           "Won't Do": 9
         }
       }

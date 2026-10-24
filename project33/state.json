@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T17:29:44Z",
+ "generated_at": "2026-10-24T14:03:02Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2445,7 +2445,7 @@
    "number": 269,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
+   "state": "CLOSED",
    "status": "In progress",
    "team": "Imaging",
    "title": "Epic: Imaging Refactor",
@@ -2695,8 +2695,8 @@
    "number": 314,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Performance Improvements and Bug Fixes for deconvolvers",
    "url": "https://github.com/casangi/astroviper/issues/314"
@@ -3170,6 +3170,16 @@
    "team": "Imaging",
    "title": "Build System for C++ using Pybind11, scikit_build_core, cibuildwheel",
    "url": "https://github.com/casangi/astroviper/issues/90"
+  },
+  "https://github.com/casangi/astroviper/pull/357": {
+   "number": 357,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "MERGED",
+   "status": "Done",
+   "team": "",
+   "title": "Performance Improvements and Bug Fixes for deconvolvers",
+   "url": "https://github.com/casangi/astroviper/pull/357"
   },
   "https://github.com/casangi/benchviper/issues/17": {
    "number": 17,
