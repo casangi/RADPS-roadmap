@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T14:27:25Z",
+ "generated_at": "2026-10-25T16:51:01Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -5106,7 +5106,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Data Schema for Representing Primary Beams",
    "url": "https://github.com/casangi/xradio/issues/600"

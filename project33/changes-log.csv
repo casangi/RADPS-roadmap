@@ -1374,3 +1374,4 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-24T14:03:02Z,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,Status,Backlog,Done,https://github.com/casangi/astroviper/issues/314
 2026-10-24T14:03:02Z,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/314
 2026-10-24T14:03:02Z,casangi/astroviper,357,Performance Improvements and Bug Fixes for deconvolvers,project,,added,https://github.com/casangi/astroviper/pull/357
+2026-10-25T16:51:01Z,casangi/xradio,600,Data Schema for Representing Primary Beams,Status,Backlog,In progress,https://github.com/casangi/xradio/issues/600
