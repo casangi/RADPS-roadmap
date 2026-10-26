@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:51:01Z",
+  "generated_at": "2026-10-26T16:50:15Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -148,7 +148,7 @@
     "PI-2": "pi/PI-2.csv",
     "(no PI)": "pi/no-pi.csv"
   },
-  "item_count": 543,
+  "item_count": 544,
   "counts": {
     "PI26.4": {
       "Calibration": {
@@ -167,21 +167,21 @@
         }
       },
       "Imaging": {
-        "total": 59,
+        "total": 60,
         "done": 17,
         "by_status": {
-          "Backlog": 25,
+          "Backlog": 29,
           "Done": 17,
-          "In progress": 17
+          "In progress": 14
         }
       },
       "Infrastructure": {
         "total": 87,
-        "done": 34,
+        "done": 35,
         "by_status": {
           "Backlog": 27,
-          "Done": 34,
-          "In progress": 26
+          "Done": 35,
+          "In progress": 25
         }
       },
       "Management": {
@@ -206,13 +206,6 @@
           "Backlog": 9,
           "Done": 1,
           "In progress": 3
-        }
-      },
-      "(no team)": {
-        "total": 1,
-        "done": 0,
-        "by_status": {
-          "In progress": 1
         }
       }
     },
@@ -239,10 +232,10 @@
         }
       },
       "Infrastructure": {
-        "total": 2,
+        "total": 1,
         "done": 0,
         "by_status": {
-          "Backlog": 2
+          "Backlog": 1
         }
       },
       "Management": {
@@ -454,10 +447,10 @@
     },
     "Triage": {
       "Imaging": {
-        "total": 5,
+        "total": 6,
         "done": 0,
         "by_status": {
-          "Backlog": 5
+          "Backlog": 6
         }
       },
       "Infrastructure": {
@@ -533,10 +526,10 @@
         }
       },
       "(no team)": {
-        "total": 11,
+        "total": 12,
         "done": 1,
         "by_status": {
-          "Backlog": 1,
+          "Backlog": 2,
           "Done": 1,
           "Won't Do": 9
         }

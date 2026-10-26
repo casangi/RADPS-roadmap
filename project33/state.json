@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:51:01Z",
+ "generated_at": "2026-10-26T16:50:15Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -950,16 +950,6 @@
    "team": "Imaging",
    "title": "Epic:  Prototype Imaging Workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/27"
-  },
-  "https://github.com/casangi/RADPS-roadmap/issues/28": {
-   "number": 28,
-   "pi": "Mid-term",
-   "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "Backlog",
-   "team": "Infrastructure",
-   "title": "Epic: Visibilities and cal sets visualization",
-   "url": "https://github.com/casangi/RADPS-roadmap/issues/28"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/29": {
    "number": 29,
@@ -2896,7 +2886,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Backlog",
    "team": "Imaging",
    "title": "Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",
    "url": "https://github.com/casangi/astroviper/issues/348"
@@ -2926,7 +2916,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Backlog",
    "team": "Imaging",
    "title": "Add XRADIO tooling for updating data groups directly in persisted Zarr stores",
    "url": "https://github.com/casangi/astroviper/issues/351"
@@ -2966,7 +2956,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Backlog",
    "team": "Imaging",
    "title": "Clarify and consolidate exact versus nearest frequency-matching policies",
    "url": "https://github.com/casangi/astroviper/issues/355"
@@ -2980,6 +2970,26 @@
    "team": "Imaging",
    "title": "Document Departures from CASA Implemenation",
    "url": "https://github.com/casangi/astroviper/issues/356"
+  },
+  "https://github.com/casangi/astroviper/issues/362": {
+   "number": 362,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "zernike_basis: three of the 66 polynomials have wrong terms, and the shipped coefficient tables depend on them",
+   "url": "https://github.com/casangi/astroviper/issues/362"
+  },
+  "https://github.com/casangi/astroviper/issues/364": {
+   "number": 364,
+   "pi": "Triage",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "EVLA L-band Zernike model has no eta column, and its beams come out 6-12 % wider than the measured VLA beam",
+   "url": "https://github.com/casangi/astroviper/issues/364"
   },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
@@ -5165,8 +5175,8 @@
    "number": 612,
    "pi": "PI26.4",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "ASDM backend: support single dish metadata => SpectrumXds and improvements in sub-datasets (FieldAndSourceXds)",
    "url": "https://github.com/casangi/xradio/issues/612"
@@ -5426,8 +5436,8 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "In progress",
-   "team": "",
+   "status": "Backlog",
+   "team": "Imaging",
    "title": "Support continuum Taylor-product image dimensions in the XRADIO image schema",
    "url": "https://github.com/casangi/xradio/issues/661"
   }

@@ -1375,3 +1375,13 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-24T14:03:02Z,casangi/astroviper,314,Performance Improvements and Bug Fixes for deconvolvers,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/314
 2026-10-24T14:03:02Z,casangi/astroviper,357,Performance Improvements and Bug Fixes for deconvolvers,project,,added,https://github.com/casangi/astroviper/pull/357
 2026-10-25T16:51:01Z,casangi/xradio,600,Data Schema for Representing Primary Beams,Status,Backlog,In progress,https://github.com/casangi/xradio/issues/600
+2026-10-26T16:50:15Z,casangi/xradio,612,ASDM backend: support single dish metadata => SpectrumXds and improvements in sub-datasets (FieldAndSourceXds),Status,In progress,Done,https://github.com/casangi/xradio/issues/612
+2026-10-26T16:50:15Z,casangi/xradio,612,ASDM backend: support single dish metadata => SpectrumXds and improvements in sub-datasets (FieldAndSourceXds),state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/612
+2026-10-26T16:50:15Z,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",Status,In progress,Backlog,https://github.com/casangi/astroviper/issues/348
+2026-10-26T16:50:15Z,casangi/astroviper,351,Add XRADIO tooling for updating data groups directly in persisted Zarr stores,Status,In progress,Backlog,https://github.com/casangi/astroviper/issues/351
+2026-10-26T16:50:15Z,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,Status,In progress,Backlog,https://github.com/casangi/xradio/issues/661
+2026-10-26T16:50:15Z,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,Team,,Imaging,https://github.com/casangi/xradio/issues/661
+2026-10-26T16:50:15Z,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,Status,In progress,Backlog,https://github.com/casangi/astroviper/issues/355
+2026-10-26T16:50:15Z,casangi/astroviper,362,"zernike_basis: three of the 66 polynomials have wrong terms, and the shipped coefficient tables depend on them",project,,added,https://github.com/casangi/astroviper/issues/362
+2026-10-26T16:50:15Z,casangi/astroviper,364,"EVLA L-band Zernike model has no eta column, and its beams come out 6-12 % wider than the measured VLA beam",project,,added,https://github.com/casangi/astroviper/issues/364
+2026-10-26T16:50:15Z,casangi/RADPS-roadmap,28,Epic: Visibilities and cal sets visualization,project,present,removed,https://github.com/casangi/RADPS-roadmap/issues/28
