@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:55:24Z",
+ "generated_at": "2026-10-27T18:52:03Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -1575,8 +1575,8 @@
    "number": 9,
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Epic: Image Statistics",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/9"
@@ -2435,7 +2435,7 @@
    "number": 269,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "CLOSED",
+   "state": "OPEN",
    "status": "In progress",
    "team": "Imaging",
    "title": "Epic: Imaging Refactor",
@@ -3585,8 +3585,8 @@
    "number": 37,
    "pi": "PI26.4",
    "repo": "casangi/pyasdm",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Finalize and implement binary table improvements",
    "url": "https://github.com/casangi/pyasdm/issues/37"

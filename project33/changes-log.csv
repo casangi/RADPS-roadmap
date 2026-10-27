@@ -1393,3 +1393,8 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-27T15:55:24Z,casangi/xradio,647,Update docs now that MSv2 is a full supported backend,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/647
 2026-10-27T15:55:24Z,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/348
 2026-10-27T15:55:24Z,casangi/xradio,667,Docs: TikZ figures and outdated text in the MS v4 and image overviews,project,,added,https://github.com/casangi/xradio/issues/667
+2026-10-27T18:52:03Z,casangi/RADPS-roadmap,9,Epic: Image Statistics,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/9
+2026-10-27T18:52:03Z,casangi/RADPS-roadmap,9,Epic: Image Statistics,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/9
+2026-10-27T18:52:03Z,casangi/pyasdm,37,Finalize and implement binary table improvements,Status,In progress,Done,https://github.com/casangi/pyasdm/issues/37
+2026-10-27T18:52:03Z,casangi/pyasdm,37,Finalize and implement binary table improvements,state,OPEN,CLOSED,https://github.com/casangi/pyasdm/issues/37
+2026-10-27T18:52:03Z,casangi/astroviper,269,Epic: Imaging Refactor,state,CLOSED,OPEN,https://github.com/casangi/astroviper/issues/269

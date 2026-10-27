@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:55:24Z",
+  "generated_at": "2026-10-27T18:52:03Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -168,20 +168,20 @@
       },
       "Imaging": {
         "total": 60,
-        "done": 18,
+        "done": 19,
         "by_status": {
           "Backlog": 28,
-          "Done": 18,
-          "In progress": 14
+          "Done": 19,
+          "In progress": 13
         }
       },
       "Infrastructure": {
         "total": 88,
-        "done": 38,
+        "done": 39,
         "by_status": {
           "Backlog": 27,
-          "Done": 38,
-          "In progress": 23
+          "Done": 39,
+          "In progress": 22
         }
       },
       "Management": {
