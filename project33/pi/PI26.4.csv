@@ -1,6 +1,6 @@
 team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
 Calibration,Backlog,Issue,casangi/astroviper,288,Refactor to match the new module structure,OPEN,dessmalljive,,2026-09-30T15:11:31Z,,casangi/astroviper#283,https://github.com/casangi/astroviper/issues/288
-Calibration,In progress,Issue,casangi/RADPS-roadmap,216,Epic: Astrohack PI26.4 placeholder,OPEN,vsmagalhaes,,2026-10-23T22:21:12Z,,,https://github.com/casangi/RADPS-roadmap/issues/216
+Calibration,In progress,Issue,casangi/RADPS-roadmap,216,Epic: Astrohack PI26.4 placeholder,OPEN,vsmagalhaes,,2026-10-26T21:16:36Z,,,https://github.com/casangi/RADPS-roadmap/issues/216
 Calibration,In progress,Issue,casangi/RADPS-roadmap,4,Epic: Calibration dataset specifications,OPEN,Jan-Willem vsmagalhaes gmoellen dessmalljive,Calibration; Data Schemas,2026-10-15T15:17:47Z,,,https://github.com/casangi/RADPS-roadmap/issues/4
 Calibration,In progress,Issue,casangi/astroviper,283,Epic: Fringe fitting prototype,OPEN,dessmalljive,,2026-09-28T15:43:13Z,,,https://github.com/casangi/astroviper/issues/283
 Calibration,In progress,Issue,casangi/xradio,545,"Add a schema to xradio for calibration data, paralleling the one for MSv4",OPEN,dessmalljive,documentation; Calibration Data Schema,2026-07-24T15:21:38Z,,casangi/RADPS-roadmap#4,https://github.com/casangi/xradio/issues/545
@@ -24,7 +24,6 @@ Imaging,Backlog,Issue,casangi/astroviper,330,Finish Continuum Imaging Memo I,OPE
 Imaging,Backlog,Issue,casangi/astroviper,337,Future testing of CORAL,OPEN,Jan-Willem,,2026-10-19T01:05:00Z,,,https://github.com/casangi/astroviper/issues/337
 Imaging,Backlog,Issue,casangi/astroviper,338,fft_backend: scipy is about 2x faster than pyfftw on Apple silicon; check on Linux before changing the default,OPEN,Jan-Willem,,2026-10-19T01:48:31Z,,,https://github.com/casangi/astroviper/issues/338
 Imaging,Backlog,Issue,casangi/astroviper,347,Define validation and recalculation policy for existing imaging weights,OPEN,hmuellergoe,,2026-10-22T15:19:22Z,,,https://github.com/casangi/astroviper/issues/347
-Imaging,Backlog,Issue,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",OPEN,hmuellergoe,,2026-10-22T15:20:07Z,,,https://github.com/casangi/astroviper/issues/348
 Imaging,Backlog,Issue,casangi/astroviper,349,Benchmark and select the continuum task-state storage strategy,OPEN,hmuellergoe,,2026-10-22T15:20:58Z,,,https://github.com/casangi/astroviper/issues/349
 Imaging,Backlog,Issue,casangi/astroviper,351,Add XRADIO tooling for updating data groups directly in persisted Zarr stores,OPEN,hmuellergoe,,2026-10-22T15:21:49Z,,,https://github.com/casangi/astroviper/issues/351
 Imaging,Backlog,Issue,casangi/astroviper,352,Investigate and correct MVC PSF Taylor-plane primary-beam weighting,OPEN,hmuellergoe,,2026-10-22T15:22:17Z,,,https://github.com/casangi/astroviper/issues/352
@@ -52,6 +51,7 @@ Imaging,Done,Issue,casangi/astroviper,328,"Cycle and iteration control: one name
 Imaging,Done,Issue,casangi/astroviper,333,Reports for image_cube_single_field and simulate_processing_set,CLOSED,Jan-Willem,,2026-10-20T02:38:21Z,2026-10-20T02:38:21Z,,https://github.com/casangi/astroviper/issues/333
 Imaging,Done,PullRequest,casangi/flowviper,10,4 add new example workflow,MERGED,,,2026-10-06T08:29:25Z,2026-10-06T08:29:25Z,,https://github.com/casangi/flowviper/pull/10
 Imaging,Done,Issue,casangi/flowviper,4,Add new example workflow,CLOSED,smcastro taktsutsumi,,2026-10-06T08:29:26Z,2026-10-06T08:29:26Z,,https://github.com/casangi/flowviper/issues/4
+Imaging,Done,Issue,casangi/xradio,608,Review definition UVW Coordinates,CLOSED,Jan-Willem,documentation,2026-10-26T23:46:15Z,2026-10-26T23:46:15Z,,https://github.com/casangi/xradio/issues/608
 Imaging,In progress,Issue,casangi/RADPS,96,Epic: AstroVIPER Cube Imaging Benchmarking at NRAO,OPEN,Jan-Willem,,2026-10-22T14:38:47Z,,,https://github.com/casangi/RADPS/issues/96
 Imaging,In progress,Issue,casangi/RADPS-roadmap,9,Epic: Image Statistics,OPEN,aakepley Jan-Willem hmuellergoe,Image Analysis,2026-10-15T15:15:54Z,,,https://github.com/casangi/RADPS-roadmap/issues/9
 Imaging,In progress,Issue,casangi/astroviper,245,Decide on test case(s) to use for continuum imaging performance experiments,OPEN,aakepley,,2026-09-10T17:20:41Z,,casangi/RADPS-roadmap#202,https://github.com/casangi/astroviper/issues/245
@@ -62,10 +62,10 @@ Imaging,In progress,Issue,casangi/astroviper,306,Self consistency test of cube i
 Imaging,In progress,Issue,casangi/astroviper,308,Automatic simulation chunking can index beyond the available axes,OPEN,Jan-Willem hmuellergoe,,2026-10-05T21:22:48Z,,,https://github.com/casangi/astroviper/issues/308
 Imaging,In progress,Issue,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,OPEN,hmuellergoe,,2026-10-23T17:54:25Z,,,https://github.com/casangi/astroviper/issues/319
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
+Imaging,In progress,Issue,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",OPEN,hmuellergoe,,2026-10-27T15:43:39Z,,,https://github.com/casangi/astroviper/issues/348
 Imaging,In progress,Issue,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,OPEN,Jan-Willem hmuellergoe,,2026-10-22T18:02:27Z,,,https://github.com/casangi/astroviper/issues/350
 Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-10-26T14:19:29Z,,,https://github.com/casangi/astroviper/issues/356
 Imaging,In progress,Issue,casangi/xradio,600,Data Schema for Representing Primary Beams,OPEN,,Schema,2026-10-07T15:05:06Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/600
-Imaging,In progress,Issue,casangi/xradio,608,Review definition UVW Coordinates,OPEN,Jan-Willem,documentation,2026-08-29T15:22:29Z,,,https://github.com/casangi/xradio/issues/608
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,109,Epic: Workflow integration tests,OPEN,smcastro,Testing,2026-10-15T15:17:51Z,,,https://github.com/casangi/RADPS-roadmap/issues/109
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,147,Epic: Benchmark tests for astroviper for PI26.4,OPEN,,,2026-10-15T15:17:56Z,,,https://github.com/casangi/RADPS-roadmap/issues/147
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,148,Epic: Benchmark tests for xradio for PI26.4,OPEN,,,2026-10-15T15:17:57Z,,,https://github.com/casangi/RADPS-roadmap/issues/148
@@ -126,15 +126,18 @@ Infrastructure,Done,Issue,casangi/xradio,629,MSv2 xarray backend: xr.open_datatr
 Infrastructure,Done,Issue,casangi/xradio,633,"write_image: let the zarr writer take chunks, shards and a compressor",CLOSED,Jan-Willem,enhancement,2026-10-14T10:52:08Z,2026-10-14T10:52:08Z,,https://github.com/casangi/xradio/issues/633
 Infrastructure,Done,Issue,casangi/xradio,634,"FITS reader: slow when an image is read in many small blocks (graph per block, file reopened per block)",CLOSED,Jan-Willem,,2026-10-13T18:47:43Z,2026-10-13T18:47:43Z,,https://github.com/casangi/xradio/issues/634
 Infrastructure,Done,Issue,casangi/xradio,635,"ASDM backend: improvements in documentation and notebook, also general overview.rst and diagrams",CLOSED,FedeMPouzols,documentation; enhancement,2026-10-14T16:48:24Z,2026-10-14T16:48:24Z,casangi/xradio#592,https://github.com/casangi/xradio/issues/635
+Infrastructure,Done,Issue,casangi/xradio,644,`SIGMA` is not a redundant column,CLOSED,Jan-Willem,MSv4 Review,2026-10-26T23:46:15Z,2026-10-26T23:46:15Z,,https://github.com/casangi/xradio/issues/644
 Infrastructure,Done,Issue,casangi/xradio,645,Docs: remove the python-casacore mentions left after the arcae backend,CLOSED,Jan-Willem,,2026-10-16T17:46:06Z,2026-10-16T17:46:06Z,,https://github.com/casangi/xradio/issues/645
+Infrastructure,Done,Issue,casangi/xradio,647,Update docs now that MSv2 is a full supported backend,CLOSED,Jan-Willem,documentation,2026-10-26T23:46:14Z,2026-10-26T23:46:14Z,,https://github.com/casangi/xradio/issues/647
 Infrastructure,Done,Issue,casangi/xradio,657,"pre-commit: update ruff to 0.16.10, the version every repository uses",CLOSED,Jan-Willem,,2026-10-21T19:28:53Z,2026-10-21T19:28:53Z,,https://github.com/casangi/xradio/issues/657
+Infrastructure,Done,Issue,casangi/xradio,667,Docs: TikZ figures and outdated text in the MS v4 and image overviews,CLOSED,Jan-Willem,documentation,2026-10-26T23:46:14Z,2026-10-26T23:46:14Z,,https://github.com/casangi/xradio/issues/667
 Infrastructure,In progress,Issue,casangi/RADPS-roadmap,117,Epic: RADIO (Radio Astronomy Data-processing Inter-Operability) Reference Architecture,OPEN,Jan-Willem,Data Processing Workflows; Performance,2026-10-15T15:19:11Z,,,https://github.com/casangi/RADPS-roadmap/issues/117
 Infrastructure,In progress,Issue,casangi/RADPS-roadmap,135,port Adaptive Scale Clean (ASP) from CASA into astroviper,CLOSED,Jan-Willem smcastro,AI,2026-10-19T21:28:44Z,2026-10-19T21:28:44Z,casangi/RADPS-roadmap#133,https://github.com/casangi/RADPS-roadmap/issues/135
 Infrastructure,In progress,Issue,casangi/RADPS-roadmap,139,Epic: ASDM backend improvements,OPEN,FedeMPouzols,Data Schemas,2026-10-21T07:04:05Z,,,https://github.com/casangi/RADPS-roadmap/issues/139
 Infrastructure,In progress,Issue,casangi/RADPS-roadmap,62,Epic:  Refactor of XRADIO MSv2 to MSv4 converter,OPEN,enrique-alma-eso,Data Schemas,2026-10-15T15:18:36Z,,,https://github.com/casangi/RADPS-roadmap/issues/62
 Infrastructure,In progress,Issue,casangi/benchviper,27,Force workflow failure when benchmarks fail to execute,OPEN,awells-nrao,,2026-09-01T13:43:03Z,,,https://github.com/casangi/benchviper/issues/27
 Infrastructure,In progress,Issue,casangi/pyasdm,30,binary table improvement,OPEN,bgarwood,,2026-07-28T18:45:49Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/pyasdm/issues/30
-Infrastructure,In progress,Issue,casangi/pyasdm,37,Finalize and implement binary table improvements,OPEN,bgarwood,,2026-10-21T14:42:00Z,,casangi/pyasdm#30,https://github.com/casangi/pyasdm/issues/37
+Infrastructure,In progress,Issue,casangi/pyasdm,37,Finalize and implement binary table improvements,OPEN,bgarwood,,2026-10-27T14:42:49Z,,casangi/pyasdm#30,https://github.com/casangi/pyasdm/issues/37
 Infrastructure,In progress,Issue,casangi/testviper,34,Prototype first workflow integration test,OPEN,awells-nrao smcastro taktsutsumi,,2026-10-05T06:24:00Z,,casangi/RADPS-roadmap#109,https://github.com/casangi/testviper/issues/34
 Infrastructure,In progress,Issue,casangi/toolviper,53,Add a file uploader interface to toolviper,OPEN,jrhosk vsmagalhaes enrique-alma-eso,enhancement,2026-10-21T04:47:23Z,,,https://github.com/casangi/toolviper/issues/53
 Infrastructure,In progress,Issue,casangi/toolviper,62,Propose a structure to store test data in Cloudflare,OPEN,jrhosk smcastro enrique-alma-eso,,2026-10-23T13:01:20Z,,,https://github.com/casangi/toolviper/issues/62
@@ -144,8 +147,6 @@ Infrastructure,In progress,Issue,casangi/xradio,591,ASDM backend: Support single
 Infrastructure,In progress,Issue,casangi/xradio,603,Ephemeris data trimmed,OPEN,Jan-Willem,bug,2026-10-22T08:15:58Z,,,https://github.com/casangi/xradio/issues/603
 Infrastructure,In progress,Issue,casangi/xradio,636,ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11),OPEN,Jan-Willem,,2026-10-12T19:59:56Z,,,https://github.com/casangi/xradio/issues/636
 Infrastructure,In progress,Issue,casangi/xradio,640,Move API from Custom Functions to Xarray backends + Accessors,OPEN,Jan-Willem,documentation; enhancement; API,2026-10-13T17:16:26Z,,,https://github.com/casangi/xradio/issues/640
-Infrastructure,In progress,Issue,casangi/xradio,644,`SIGMA` is not a redundant column,OPEN,Jan-Willem,MSv4 Review,2026-10-19T09:40:02Z,,,https://github.com/casangi/xradio/issues/644
-Infrastructure,In progress,Issue,casangi/xradio,647,Update docs now that MSv2 is a full supported backend,OPEN,Jan-Willem,documentation,2026-10-19T14:11:46Z,,,https://github.com/casangi/xradio/issues/647
 Infrastructure,In progress,Issue,casangi/xradio,648,Image schema review,OPEN,Jan-Willem,,2026-10-19T14:11:11Z,,,https://github.com/casangi/xradio/issues/648
 Infrastructure,In progress,Issue,casangi/xradio,649,convert_msv2_to_processing_set: AlignmentError in create_system_calibration_xds when SYSCAL lacks some antennas of a partition,OPEN,Jan-Willem,bug,2026-10-21T14:56:06Z,,,https://github.com/casangi/xradio/issues/649
 Infrastructure,In progress,Issue,casangi/xradio,653,Image schema review -- the TRON lens -- 1. Per-timeslot flags,OPEN,Jan-Willem,,2026-10-21T14:55:30Z,,,https://github.com/casangi/xradio/issues/653

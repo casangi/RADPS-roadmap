@@ -1385,3 +1385,11 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-26T16:50:15Z,casangi/astroviper,362,"zernike_basis: three of the 66 polynomials have wrong terms, and the shipped coefficient tables depend on them",project,,added,https://github.com/casangi/astroviper/issues/362
 2026-10-26T16:50:15Z,casangi/astroviper,364,"EVLA L-band Zernike model has no eta column, and its beams come out 6-12 % wider than the measured VLA beam",project,,added,https://github.com/casangi/astroviper/issues/364
 2026-10-26T16:50:15Z,casangi/RADPS-roadmap,28,Epic: Visibilities and cal sets visualization,project,present,removed,https://github.com/casangi/RADPS-roadmap/issues/28
+2026-10-27T15:55:24Z,casangi/xradio,608,Review definition UVW Coordinates,Status,In progress,Done,https://github.com/casangi/xradio/issues/608
+2026-10-27T15:55:24Z,casangi/xradio,608,Review definition UVW Coordinates,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/608
+2026-10-27T15:55:24Z,casangi/xradio,644,`SIGMA` is not a redundant column,Status,In progress,Done,https://github.com/casangi/xradio/issues/644
+2026-10-27T15:55:24Z,casangi/xradio,644,`SIGMA` is not a redundant column,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/644
+2026-10-27T15:55:24Z,casangi/xradio,647,Update docs now that MSv2 is a full supported backend,Status,In progress,Done,https://github.com/casangi/xradio/issues/647
+2026-10-27T15:55:24Z,casangi/xradio,647,Update docs now that MSv2 is a full supported backend,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/647
+2026-10-27T15:55:24Z,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/348
+2026-10-27T15:55:24Z,casangi/xradio,667,Docs: TikZ figures and outdated text in the MS v4 and image overviews,project,,added,https://github.com/casangi/xradio/issues/667
