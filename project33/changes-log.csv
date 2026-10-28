@@ -1398,3 +1398,6 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-27T18:52:03Z,casangi/pyasdm,37,Finalize and implement binary table improvements,Status,In progress,Done,https://github.com/casangi/pyasdm/issues/37
 2026-10-27T18:52:03Z,casangi/pyasdm,37,Finalize and implement binary table improvements,state,OPEN,CLOSED,https://github.com/casangi/pyasdm/issues/37
 2026-10-27T18:52:03Z,casangi/astroviper,269,Epic: Imaging Refactor,state,CLOSED,OPEN,https://github.com/casangi/astroviper/issues/269
+2026-10-28T16:43:43Z,casangi/graphviper,77,Nearest selection drops datasets whose values lie slightly outside the end chunks of the parallel coordinate,project,,added,https://github.com/casangi/graphviper/issues/77
+2026-10-28T16:43:43Z,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",project,,added,https://github.com/casangi/astroviper/issues/374
+2026-10-28T16:43:43Z,casangi/astroviper,380,Fix dtype validation in deconvolver C++ bindings for serialized NumPy arrays,project,,added,https://github.com/casangi/astroviper/issues/380
