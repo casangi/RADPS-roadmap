@@ -61,12 +61,13 @@ Imaging,In progress,Issue,casangi/astroviper,298,Finish Continuum Imaging Memo I
 Imaging,In progress,Issue,casangi/astroviper,299,Align uv-cell assignment between CASA and Astroviper,OPEN,hmuellergoe,,2026-10-20T17:09:38Z,,,https://github.com/casangi/astroviper/issues/299
 Imaging,In progress,Issue,casangi/astroviper,306,Self consistency test of cube imaging on a simulated point source field,OPEN,Jan-Willem,,2026-10-05T15:59:22Z,,,https://github.com/casangi/astroviper/issues/306
 Imaging,In progress,Issue,casangi/astroviper,308,Automatic simulation chunking can index beyond the available axes,OPEN,Jan-Willem hmuellergoe,,2026-10-05T21:22:48Z,,,https://github.com/casangi/astroviper/issues/308
-Imaging,In progress,Issue,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,OPEN,hmuellergoe,,2026-10-23T17:54:25Z,,,https://github.com/casangi/astroviper/issues/319
+Imaging,In progress,Issue,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,OPEN,hmuellergoe,,2026-10-28T19:27:10Z,,,https://github.com/casangi/astroviper/issues/319
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
 Imaging,In progress,Issue,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",OPEN,hmuellergoe,,2026-10-27T20:45:46Z,,,https://github.com/casangi/astroviper/issues/348
 Imaging,In progress,Issue,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,OPEN,Jan-Willem hmuellergoe,,2026-10-22T18:02:27Z,,,https://github.com/casangi/astroviper/issues/350
-Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-10-26T14:19:29Z,,,https://github.com/casangi/astroviper/issues/356
+Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-10-28T20:58:54Z,,,https://github.com/casangi/astroviper/issues/356
 Imaging,In progress,Issue,casangi/astroviper,380,Fix dtype validation in deconvolver C++ bindings for serialized NumPy arrays,OPEN,hmuellergoe,,2026-10-28T16:27:17Z,,,https://github.com/casangi/astroviper/issues/380
+Imaging,In progress,Issue,casangi/astroviper,382,Naming inconsistencies,OPEN,Jan-Willem,,2026-10-28T19:35:23Z,,,https://github.com/casangi/astroviper/issues/382
 Imaging,In progress,Issue,casangi/xradio,600,Data Schema for Representing Primary Beams,OPEN,,Schema,2026-10-07T15:05:06Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/600
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,109,Epic: Workflow integration tests,OPEN,smcastro,Testing,2026-10-15T15:17:51Z,,,https://github.com/casangi/RADPS-roadmap/issues/109
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,147,Epic: Benchmark tests for astroviper for PI26.4,OPEN,,,2026-10-15T15:17:56Z,,,https://github.com/casangi/RADPS-roadmap/issues/147
@@ -142,6 +143,7 @@ Infrastructure,In progress,Issue,casangi/RADPS-roadmap,62,Epic:  Refactor of XRA
 Infrastructure,In progress,Issue,casangi/benchviper,27,Force workflow failure when benchmarks fail to execute,OPEN,awells-nrao,,2026-09-01T13:43:03Z,,,https://github.com/casangi/benchviper/issues/27
 Infrastructure,In progress,Issue,casangi/pyasdm,30,binary table improvement,OPEN,bgarwood,,2026-07-28T18:45:49Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/pyasdm/issues/30
 Infrastructure,In progress,Issue,casangi/testviper,34,Prototype first workflow integration test,OPEN,awells-nrao smcastro taktsutsumi,,2026-10-05T06:24:00Z,,casangi/RADPS-roadmap#109,https://github.com/casangi/testviper/issues/34
+Infrastructure,In progress,Issue,casangi/testviper,76,allure history component jsonl file exceeds file size limit,OPEN,awells-nrao,bug,2026-10-29T13:31:34Z,,,https://github.com/casangi/testviper/issues/76
 Infrastructure,In progress,Issue,casangi/toolviper,53,Add a file uploader interface to toolviper,OPEN,jrhosk vsmagalhaes enrique-alma-eso,enhancement,2026-10-21T04:47:23Z,,,https://github.com/casangi/toolviper/issues/53
 Infrastructure,In progress,Issue,casangi/toolviper,62,Propose a structure to store test data in Cloudflare,OPEN,jrhosk smcastro enrique-alma-eso,,2026-10-23T13:01:20Z,,,https://github.com/casangi/toolviper/issues/62
 Infrastructure,In progress,Issue,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",OPEN,Jan-Willem,,2026-10-21T14:47:55Z,,,https://github.com/casangi/toolviper/issues/75

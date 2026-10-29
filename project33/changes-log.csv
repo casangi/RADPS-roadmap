@@ -1401,3 +1401,8 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-28T16:43:43Z,casangi/graphviper,77,Nearest selection drops datasets whose values lie slightly outside the end chunks of the parallel coordinate,project,,added,https://github.com/casangi/graphviper/issues/77
 2026-10-28T16:43:43Z,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",project,,added,https://github.com/casangi/astroviper/issues/374
 2026-10-28T16:43:43Z,casangi/astroviper,380,Fix dtype validation in deconvolver C++ bindings for serialized NumPy arrays,project,,added,https://github.com/casangi/astroviper/issues/380
+2026-10-29T16:58:52Z,casangi/pyasdm,56,Errors found by ruff,Status,Backlog,Done,https://github.com/casangi/pyasdm/issues/56
+2026-10-29T16:58:52Z,casangi/pyasdm,56,Errors found by ruff,state,OPEN,CLOSED,https://github.com/casangi/pyasdm/issues/56
+2026-10-29T16:58:52Z,casangi/astroviper,362,"zernike_basis: three of the 66 polynomials have wrong terms, and the shipped coefficient tables depend on them",Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/362
+2026-10-29T16:58:52Z,casangi/astroviper,382,Naming inconsistencies,project,,added,https://github.com/casangi/astroviper/issues/382
+2026-10-29T16:58:52Z,casangi/testviper,76,allure history component jsonl file exceeds file size limit,project,,added,https://github.com/casangi/testviper/issues/76
