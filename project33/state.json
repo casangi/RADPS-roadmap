@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T16:58:52Z",
+ "generated_at": "2026-10-29T18:40:04Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3005,8 +3005,8 @@
    "number": 380,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Fix dtype validation in deconvolver C++ bindings for serialized NumPy arrays",
    "url": "https://github.com/casangi/astroviper/issues/380"
