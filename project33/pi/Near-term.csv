@@ -13,6 +13,7 @@ Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,201,Epic: Incorporate VIPER i
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,23,Epic: Incorporate GPU Gridder Code into Astroviper,OPEN,,Deployment Patterns,2026-10-15T15:19:01Z,,,https://github.com/casangi/RADPS-roadmap/issues/23
 Infrastructure,Backlog,Issue,casangi/graphviper,65,python-graphviz needs to be installed in addition to graphviz,OPEN,,,2026-07-21T17:28:05Z,,,https://github.com/casangi/graphviper/issues/65
 Management,Backlog,Issue,casangi/RADPS-roadmap,206,Epic:  Process for inclusion of diagrams in documents,OPEN,,,2026-10-15T15:17:58Z,,,https://github.com/casangi/RADPS-roadmap/issues/206
+Management,Backlog,Issue,casangi/RADPS-roadmap,226,Epic: Develop requirements for local test infrastructure,OPEN,Jan-Willem,,2026-10-30T21:12:37Z,,,https://github.com/casangi/RADPS-roadmap/issues/226
 Management,Backlog,Issue,casangi/RADPS-roadmap,26,Epic: RADPS Program level documentation,OPEN,,,2026-10-15T15:18:31Z,,,https://github.com/casangi/RADPS-roadmap/issues/26
 Management,Backlog,Issue,casangi/RADPS-roadmap,50,Epic:  ngVLA Data Reduction Reports Use Cases,OPEN,,Data Reduction Reports,2026-10-15T15:19:04Z,,,https://github.com/casangi/RADPS-roadmap/issues/50
 Management,Backlog,Issue,casangi/radpsdocs,23,implement RADPS documentation skeleton on readthedocs,OPEN,,ReadTheDocs,2026-04-21T21:44:24Z,,casangi/radpsdocs#9,https://github.com/casangi/radpsdocs/issues/23

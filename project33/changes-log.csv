@@ -1408,3 +1408,4 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-29T16:58:52Z,casangi/testviper,76,allure history component jsonl file exceeds file size limit,project,,added,https://github.com/casangi/testviper/issues/76
 2026-10-29T18:40:04Z,casangi/astroviper,380,Fix dtype validation in deconvolver C++ bindings for serialized NumPy arrays,Status,In progress,Done,https://github.com/casangi/astroviper/issues/380
 2026-10-29T18:40:04Z,casangi/astroviper,380,Fix dtype validation in deconvolver C++ bindings for serialized NumPy arrays,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/380
+2026-10-31T15:47:32Z,casangi/RADPS-roadmap,226,Epic: Develop requirements for local test infrastructure,project,,added,https://github.com/casangi/RADPS-roadmap/issues/226
