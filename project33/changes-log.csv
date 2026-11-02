@@ -1409,3 +1409,16 @@ changed_at,repo,number,title,field,old,new,url
 2026-10-29T18:40:04Z,casangi/astroviper,380,Fix dtype validation in deconvolver C++ bindings for serialized NumPy arrays,Status,In progress,Done,https://github.com/casangi/astroviper/issues/380
 2026-10-29T18:40:04Z,casangi/astroviper,380,Fix dtype validation in deconvolver C++ bindings for serialized NumPy arrays,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/380
 2026-10-31T15:47:32Z,casangi/RADPS-roadmap,226,Epic: Develop requirements for local test infrastructure,project,,added,https://github.com/casangi/RADPS-roadmap/issues/226
+2026-11-02T20:25:02Z,casangi/astroviper,362,"zernike_basis: three of the 66 polynomials have wrong terms, and the shipped coefficient tables depend on them",Status,In progress,Done,https://github.com/casangi/astroviper/issues/362
+2026-11-02T20:25:02Z,casangi/astroviper,362,"zernike_basis: three of the 66 polynomials have wrong terms, and the shipped coefficient tables depend on them",state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/362
+2026-11-02T20:25:02Z,casangi/astroviper,382,Naming inconsistencies,Status,In progress,Done,https://github.com/casangi/astroviper/issues/382
+2026-11-02T20:25:02Z,casangi/astroviper,382,Naming inconsistencies,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/382
+2026-11-02T20:25:02Z,casangi/astroviper,375,Simulator: predict visibilities of a sky image with the exact DFT or a high-precision anti-aliasing kernel,project,,added,https://github.com/casangi/astroviper/issues/375
+2026-11-02T20:25:02Z,casangi/astroviper,370,skunk_works=True images nothing when the MSv4s have slightly different channel centres,project,,added,https://github.com/casangi/astroviper/issues/370
+2026-11-02T20:25:02Z,casangi/astroviper,383,"Deconvolution statistics: residual RMS and more per cycle, and the iteration history of every deconvolver",project,,added,https://github.com/casangi/astroviper/issues/383
+2026-11-02T20:25:02Z,casangi/astroviper,376,Asp / Coral: record per-iteration information (record_iteration_history),project,,added,https://github.com/casangi/astroviper/issues/376
+2026-11-02T20:25:02Z,casangi/xradio,677,Add the dependency review workflow,project,,added,https://github.com/casangi/xradio/pull/677
+2026-11-02T20:25:02Z,casangi/xradio,676,Add the dependency review workflow,project,,added,https://github.com/casangi/xradio/issues/676
+2026-11-02T20:25:02Z,casangi/xradio,666,ASDM backend: UVW computed at the wrong epoch,project,,added,https://github.com/casangi/xradio/issues/666
+2026-11-02T20:25:02Z,casangi/toolviper,83,Add the dependency review workflow,project,,added,https://github.com/casangi/toolviper/issues/83
+2026-11-02T20:25:02Z,casangi/toolviper,85,Dependency cleanup,project,,added,https://github.com/casangi/toolviper/issues/85

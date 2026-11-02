@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T18:08:21Z",
+ "generated_at": "2026-11-02T20:25:02Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2985,8 +2985,8 @@
    "number": 362,
    "pi": "",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "",
    "title": "zernike_basis: three of the 66 polynomials have wrong terms, and the shipped coefficient tables depend on them",
    "url": "https://github.com/casangi/astroviper/issues/362"
@@ -3001,6 +3001,16 @@
    "title": "EVLA L-band Zernike model has no eta column, and its beams come out 6-12 % wider than the measured VLA beam",
    "url": "https://github.com/casangi/astroviper/issues/364"
   },
+  "https://github.com/casangi/astroviper/issues/370": {
+   "number": 370,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "skunk_works=True images nothing when the MSv4s have slightly different channel centres",
+   "url": "https://github.com/casangi/astroviper/issues/370"
+  },
   "https://github.com/casangi/astroviper/issues/374": {
    "number": 374,
    "pi": "PI26.4",
@@ -3010,6 +3020,26 @@
    "team": "Imaging",
    "title": "pbcorr, widebandpbcorr and flat-noise image heuristics",
    "url": "https://github.com/casangi/astroviper/issues/374"
+  },
+  "https://github.com/casangi/astroviper/issues/375": {
+   "number": 375,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Simulator: predict visibilities of a sky image with the exact DFT or a high-precision anti-aliasing kernel",
+   "url": "https://github.com/casangi/astroviper/issues/375"
+  },
+  "https://github.com/casangi/astroviper/issues/376": {
+   "number": 376,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Asp / Coral: record per-iteration information (record_iteration_history)",
+   "url": "https://github.com/casangi/astroviper/issues/376"
   },
   "https://github.com/casangi/astroviper/issues/380": {
    "number": 380,
@@ -3025,11 +3055,21 @@
    "number": 382,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Naming inconsistencies",
    "url": "https://github.com/casangi/astroviper/issues/382"
+  },
+  "https://github.com/casangi/astroviper/issues/383": {
+   "number": 383,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Deconvolution statistics: residual RMS and more per cycle, and the iteration history of every deconvolver",
+   "url": "https://github.com/casangi/astroviper/issues/383"
   },
   "https://github.com/casangi/astroviper/issues/39": {
    "number": 39,
@@ -4971,6 +5011,26 @@
    "title": "pre-commit: update ruff to 0.16.10, the version every repository uses",
    "url": "https://github.com/casangi/toolviper/issues/78"
   },
+  "https://github.com/casangi/toolviper/issues/83": {
+   "number": 83,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add the dependency review workflow",
+   "url": "https://github.com/casangi/toolviper/issues/83"
+  },
+  "https://github.com/casangi/toolviper/issues/85": {
+   "number": 85,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Dependency cleanup",
+   "url": "https://github.com/casangi/toolviper/issues/85"
+  },
   "https://github.com/casangi/xradio/issues/355": {
    "number": 355,
    "pi": "PI-3",
@@ -5501,6 +5561,16 @@
    "title": "Support continuum Taylor-product image dimensions in the XRADIO image schema",
    "url": "https://github.com/casangi/xradio/issues/661"
   },
+  "https://github.com/casangi/xradio/issues/666": {
+   "number": 666,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "ASDM backend: UVW computed at the wrong epoch",
+   "url": "https://github.com/casangi/xradio/issues/666"
+  },
   "https://github.com/casangi/xradio/issues/667": {
    "number": 667,
    "pi": "PI26.4",
@@ -5510,6 +5580,26 @@
    "team": "Infrastructure",
    "title": "Docs: TikZ figures and outdated text in the MS v4 and image overviews",
    "url": "https://github.com/casangi/xradio/issues/667"
+  },
+  "https://github.com/casangi/xradio/issues/676": {
+   "number": 676,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Add the dependency review workflow",
+   "url": "https://github.com/casangi/xradio/issues/676"
+  },
+  "https://github.com/casangi/xradio/pull/677": {
+   "number": 677,
+   "pi": "",
+   "repo": "casangi/xradio",
+   "state": "MERGED",
+   "status": "Done",
+   "team": "",
+   "title": "Add the dependency review workflow",
+   "url": "https://github.com/casangi/xradio/pull/677"
   }
  }
 }
