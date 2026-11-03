@@ -1,5 +1,5 @@
 team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
-Imaging,Backlog,Issue,casangi/RADPS-roadmap,198,Epic: Implement widebandpbcor,OPEN,,,2026-10-15T15:16:00Z,,,https://github.com/casangi/RADPS-roadmap/issues/198
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,198,Epic: Implement widebandpbcor,OPEN,,,2026-11-03T17:43:54Z,,,https://github.com/casangi/RADPS-roadmap/issues/198
 Imaging,Backlog,Issue,casangi/astroviper,125,Graceful error handling when re-running imaging weights,OPEN,Jan-Willem,,2025-09-24T20:44:36Z,,casangi/astroviper#39,https://github.com/casangi/astroviper/issues/125
 Imaging,Backlog,Issue,casangi/astroviper,294,Atmospheric phase corruption with a Kolmogorov phase screen in the simulator,OPEN,Jan-Willem,Fundamental Core Function,2026-09-30T19:14:09Z,,,https://github.com/casangi/astroviper/issues/294
 Imaging,Backlog,Issue,casangi/astroviper,339,ARDG -> astroviper: Component Relaxation,OPEN,hmuellergoe,,2026-10-19T19:54:31Z,,,https://github.com/casangi/astroviper/issues/339

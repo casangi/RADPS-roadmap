@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T21:56:51Z",
+ "generated_at": "2026-11-03T17:54:57Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -353,7 +353,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/14": {
    "number": 14,
-   "pi": "Near-term",
+   "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1098,7 +1098,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
-   "title": "Epic:  Prototype Self-Calibration Workflow",
+   "title": "Epic: Prototype Including Self-Calibration in IF Imaging Workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/41"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/42": {
