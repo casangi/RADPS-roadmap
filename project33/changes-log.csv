@@ -1423,3 +1423,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-02T20:25:02Z,casangi/toolviper,83,Add the dependency review workflow,project,,added,https://github.com/casangi/toolviper/issues/83
 2026-11-02T20:25:02Z,casangi/toolviper,85,Dependency cleanup,project,,added,https://github.com/casangi/toolviper/issues/85
 2026-11-03T17:54:57Z,casangi/RADPS-roadmap,14,Epic: Multi-term Continuum Imaging,Program Increment,Near-term,PI26.4,https://github.com/casangi/RADPS-roadmap/issues/14
+2026-11-03T19:50:56Z,casangi/RADPS-roadmap,227,Epic: Continuum Polarization Imaging ,project,,added,https://github.com/casangi/RADPS-roadmap/issues/227
+2026-11-03T19:50:56Z,casangi/RADPS-roadmap,228,Epic: Cube Polarization Imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/228

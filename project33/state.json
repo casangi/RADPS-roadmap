@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:54:57Z",
+ "generated_at": "2026-11-03T19:50:56Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -910,6 +910,26 @@
    "team": "Management",
    "title": "Epic: Develop requirements for local test infrastructure",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/226"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/227": {
+   "number": 227,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Continuum Polarization Imaging ",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/227"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/228": {
+   "number": 228,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Cube Polarization Imaging",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/228"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/23": {
    "number": 23,
