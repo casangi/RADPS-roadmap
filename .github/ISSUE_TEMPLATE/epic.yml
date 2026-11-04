@@ -12,7 +12,7 @@ body:
   - type: textarea
     id: Goal
     attributes:
-      label: Summary
+      label: Goal
       description: A brief description of this epic and its overall goal.
       placeholder: "e.g. Implement end-to-end visibility calibration pipeline across xradio, astroviper, and calviper."
     validations:
