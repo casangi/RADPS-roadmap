@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T18:05:44Z",
+ "generated_at": "2026-11-04T20:04:19Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2965,8 +2965,8 @@
    "number": 348,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",
    "url": "https://github.com/casangi/astroviper/issues/348"

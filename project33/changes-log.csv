@@ -1446,3 +1446,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-04T18:05:44Z,casangi/RADPS-roadmap,234,Epic: Workflow Manager Performance Investigation,project,,added,https://github.com/casangi/RADPS-roadmap/issues/234
 2026-11-04T18:05:44Z,casangi/xradio,671,ASDM backend: time values labelled unix/tai read 8 s late,project,,added,https://github.com/casangi/xradio/issues/671
 2026-11-04T18:05:44Z,casangi/flowviper,24,Expose parameters in workflow,project,,added,https://github.com/casangi/flowviper/issues/24
+2026-11-04T20:04:19Z,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",Status,In progress,Done,https://github.com/casangi/astroviper/issues/348
+2026-11-04T20:04:19Z,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/348
