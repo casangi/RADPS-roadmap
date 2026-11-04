@@ -26,5 +26,5 @@ Management,In progress,Issue,casangi/RADPS-roadmap,25,Epic: RADPS Intro Memo & S
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,204,Epic: Analyze how to incorporate existing Pipeline heuristics into RADIO architecture,OPEN,,,2026-10-15T15:17:57Z,,,https://github.com/casangi/RADPS-roadmap/issues/204
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,207,Epic:  Logical Workflow Design,OPEN,,,2026-10-15T15:16:02Z,,,https://github.com/casangi/RADPS-roadmap/issues/207
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,29,"Epic: Demonstrate hybrid workflow mixing legacy domain functions with astroviper, CASA, etc.",OPEN,,Data Processing Workflows; Deployment Patterns,2026-11-03T17:26:59Z,,,https://github.com/casangi/RADPS-roadmap/issues/29
-Pipeline,Backlog,Issue,casangi/RADPS-roadmap,34,Epic:  Deploy legacy CASA in RADPS workflow,OPEN,,Deployment Patterns,2026-11-03T17:23:04Z,,,https://github.com/casangi/RADPS-roadmap/issues/34
-Pipeline,Backlog,Issue,casangi/RADPS-roadmap,35,Epic:  Legacy ALMA Pipeline Deployment,OPEN,,Deployment Patterns,2026-10-15T15:18:32Z,,,https://github.com/casangi/RADPS-roadmap/issues/35
+Pipeline,Backlog,Issue,casangi/RADPS-roadmap,34,Epic:  Legacy CASA running in RADPS workflow manager,OPEN,,Deployment Patterns,2026-11-04T15:09:29Z,,,https://github.com/casangi/RADPS-roadmap/issues/34
+Pipeline,Backlog,Issue,casangi/RADPS-roadmap,35,Epic:  Legacy ALMA Pipeline running in RADPS workflow manager,OPEN,,Deployment Patterns,2026-11-04T15:09:42Z,,,https://github.com/casangi/RADPS-roadmap/issues/35

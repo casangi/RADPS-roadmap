@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:50:56Z",
+  "generated_at": "2026-11-04T18:05:44Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -148,7 +148,7 @@
     "PI-2": "pi/PI-2.csv",
     "(no PI)": "pi/no-pi.csv"
   },
-  "item_count": 562,
+  "item_count": 573,
   "counts": {
     "PI26.4": {
       "Calibration": {
@@ -167,21 +167,22 @@
         }
       },
       "Imaging": {
-        "total": 68,
-        "done": 25,
+        "total": 69,
+        "done": 27,
         "by_status": {
-          "Backlog": 30,
-          "Done": 25,
+          "(no status)": 1,
+          "Backlog": 28,
+          "Done": 27,
           "In progress": 13
         }
       },
       "Infrastructure": {
-        "total": 94,
-        "done": 42,
+        "total": 98,
+        "done": 46,
         "by_status": {
-          "Backlog": 28,
-          "Done": 42,
-          "In progress": 24
+          "Backlog": 27,
+          "Done": 46,
+          "In progress": 25
         }
       },
       "Management": {
@@ -251,6 +252,13 @@
         "by_status": {
           "Backlog": 1
         }
+      },
+      "(no team)": {
+        "total": 2,
+        "done": 0,
+        "by_status": {
+          "Backlog": 2
+        }
       }
     },
     "Far-term": {
@@ -276,6 +284,13 @@
         }
       },
       "Management": {
+        "total": 3,
+        "done": 0,
+        "by_status": {
+          "Backlog": 3
+        }
+      },
+      "(no team)": {
         "total": 3,
         "done": 0,
         "by_status": {
@@ -526,11 +541,11 @@
         }
       },
       "(no team)": {
-        "total": 15,
-        "done": 4,
+        "total": 16,
+        "done": 5,
         "by_status": {
           "Backlog": 2,
-          "Done": 4,
+          "Done": 5,
           "Won't Do": 9
         }
       }

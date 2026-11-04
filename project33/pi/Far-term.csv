@@ -8,3 +8,6 @@ Imaging,Backlog,Issue,casangi/RADPS-roadmap,84,Epic:  Prototype Ephemeris Imagin
 Management,Backlog,Issue,casangi/RADPS-roadmap,46,Epic:  ALMA Manual Data Reduction Requirements Capture,OPEN,,Imaging; Calibration; Flagging,2026-11-03T17:30:41Z,,,https://github.com/casangi/RADPS-roadmap/issues/46
 Management,Backlog,Issue,casangi/RADPS-roadmap,47,Epic:  ALMA Manual Data Reduction Demonstration,OPEN,,Imaging; Calibration; User Tools,2026-11-03T17:30:42Z,,,https://github.com/casangi/RADPS-roadmap/issues/47
 Management,Backlog,Issue,casangi/RADPS-roadmap,48,Epic:  User-facing workflow guide,OPEN,,Data Processing Workflows,2026-10-15T15:18:34Z,,,https://github.com/casangi/RADPS-roadmap/issues/48
+,Backlog,Issue,casangi/RADPS-roadmap,227,Epic: Continuum Polarization Imaging ,OPEN,,,2026-11-03T18:00:57Z,,,https://github.com/casangi/RADPS-roadmap/issues/227
+,Backlog,Issue,casangi/RADPS-roadmap,228,Epic: Cube Polarization Imaging,OPEN,,,2026-11-03T17:59:35Z,,,https://github.com/casangi/RADPS-roadmap/issues/228
+,Backlog,Issue,casangi/RADPS-roadmap,229,Epic: QA for Continuum Polarization Imaging,OPEN,,,2026-11-03T22:59:19Z,,,https://github.com/casangi/RADPS-roadmap/issues/229

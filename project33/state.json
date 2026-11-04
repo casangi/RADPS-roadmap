@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T19:50:56Z",
+ "generated_at": "2026-11-04T18:05:44Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -913,7 +913,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/227": {
    "number": 227,
-   "pi": "",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -923,13 +923,23 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/228": {
    "number": 228,
-   "pi": "",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
    "team": "",
    "title": "Epic: Cube Polarization Imaging",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/228"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/229": {
+   "number": 229,
+   "pi": "Far-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: QA for Continuum Polarization Imaging",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/229"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/23": {
    "number": 23,
@@ -940,6 +950,46 @@
    "team": "Infrastructure",
    "title": "Epic: Incorporate GPU Gridder Code into Astroviper",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/23"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/230": {
+   "number": 230,
+   "pi": "Mid-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Deploy Workflow and Resource Manager at JAO",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/230"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/231": {
+   "number": 231,
+   "pi": "Mid-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Deploy Workflow and Resource Manager at the ARCs",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/231"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/233": {
+   "number": 233,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Workflow and Resource Management Technology Downselect",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/233"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/234": {
+   "number": 234,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Workflow Manager Performance Investigation",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/234"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/24": {
    "number": 24,
@@ -1048,7 +1098,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Pipeline",
-   "title": "Epic:  Deploy legacy CASA in RADPS workflow",
+   "title": "Epic:  Legacy CASA running in RADPS workflow manager",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/34"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/35": {
@@ -1058,7 +1108,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Pipeline",
-   "title": "Epic:  Legacy ALMA Pipeline Deployment",
+   "title": "Epic:  Legacy ALMA Pipeline running in RADPS workflow manager",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/35"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/37": {
@@ -2695,8 +2745,8 @@
    "number": 308,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Automatic simulation chunking can index beyond the available axes",
    "url": "https://github.com/casangi/astroviper/issues/308"
@@ -2705,8 +2755,8 @@
    "number": 309,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Recheck cube convergence after the visibility-based residual update",
    "url": "https://github.com/casangi/astroviper/issues/309"
@@ -2986,7 +3036,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Clarify and consolidate exact versus nearest frequency-matching policies",
    "url": "https://github.com/casangi/astroviper/issues/355"
@@ -3020,6 +3070,16 @@
    "team": "Imaging",
    "title": "EVLA L-band Zernike model has no eta column, and its beams come out 6-12 % wider than the measured VLA beam",
    "url": "https://github.com/casangi/astroviper/issues/364"
+  },
+  "https://github.com/casangi/astroviper/issues/366": {
+   "number": 366,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "",
+   "team": "Imaging",
+   "title": "Continuum imager needs >= 6.4 GiB more memory than the cube on large images",
+   "url": "https://github.com/casangi/astroviper/issues/366"
   },
   "https://github.com/casangi/astroviper/issues/370": {
    "number": 370,
@@ -3441,15 +3501,45 @@
    "title": "single dish workflow notebooks",
    "url": "https://github.com/casangi/flowviper/issues/11"
   },
+  "https://github.com/casangi/flowviper/issues/17": {
+   "number": 17,
+   "pi": "PI26.4",
+   "repo": "casangi/flowviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Use the shared pre-commit workflow",
+   "url": "https://github.com/casangi/flowviper/issues/17"
+  },
   "https://github.com/casangi/flowviper/issues/18": {
    "number": 18,
    "pi": "PI26.4",
    "repo": "casangi/flowviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "prefect_workflow README: out-of-date macOS MSv2 note and broken link",
    "url": "https://github.com/casangi/flowviper/issues/18"
+  },
+  "https://github.com/casangi/flowviper/issues/22": {
+   "number": 22,
+   "pi": "PI26.4",
+   "repo": "casangi/flowviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Update workflow and create unit tests",
+   "url": "https://github.com/casangi/flowviper/issues/22"
+  },
+  "https://github.com/casangi/flowviper/issues/24": {
+   "number": 24,
+   "pi": "PI26.4",
+   "repo": "casangi/flowviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Expose parameters in workflow",
+   "url": "https://github.com/casangi/flowviper/issues/24"
   },
   "https://github.com/casangi/flowviper/issues/4": {
    "number": 4,
@@ -3490,6 +3580,16 @@
    "team": "Imaging",
    "title": "4 add new example workflow",
    "url": "https://github.com/casangi/flowviper/pull/10"
+  },
+  "https://github.com/casangi/flowviper/pull/19": {
+   "number": 19,
+   "pi": "",
+   "repo": "casangi/flowviper",
+   "state": "MERGED",
+   "status": "Done",
+   "team": "",
+   "title": "Use the shared pre-commit workflow",
+   "url": "https://github.com/casangi/flowviper/pull/19"
   },
   "https://github.com/casangi/graphviper/issues/57": {
    "number": 57,
@@ -5486,7 +5586,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "ASDM Backend: ensure multi-field/source partitions work well (mosaics)",
    "url": "https://github.com/casangi/xradio/issues/651"
@@ -5600,6 +5700,16 @@
    "team": "Infrastructure",
    "title": "Docs: TikZ figures and outdated text in the MS v4 and image overviews",
    "url": "https://github.com/casangi/xradio/issues/667"
+  },
+  "https://github.com/casangi/xradio/issues/671": {
+   "number": 671,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM backend: time values labelled unix/tai read 8 s late",
+   "url": "https://github.com/casangi/xradio/issues/671"
   },
   "https://github.com/casangi/xradio/issues/676": {
    "number": 676,

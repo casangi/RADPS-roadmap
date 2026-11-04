@@ -1,22 +1,22 @@
 # RADPS Roadmap — status by PI and team
 
-Generated 2026-11-03T19:50:56Z from https://github.com/orgs/casangi/projects/33.
+Generated 2026-11-04T18:05:44Z from https://github.com/orgs/casangi/projects/33.
 
 Current PI: **PI26.4**
 
-## PI26.4 — 69/195 done (35%)
+## PI26.4 — 75/200 done (38%)
 
-| Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
-|---|---:|---:|---:|---:|---:|---:|
-| Calibration | 0/6 | 0% | 1 | 5 | 0 | 0 |
-| External | 0/1 | 0% | 0 | 1 | 0 | 0 |
-| Imaging | 25/68 | 37% | 30 | 13 | 25 | 0 |
-| Infrastructure | 42/94 | 45% | 28 | 24 | 42 | 0 |
-| Management | 0/5 | 0% | 0 | 5 | 0 | 0 |
-| Pipeline | 1/8 | 12% | 7 | 0 | 1 | 0 |
-| Single Dish | 1/13 | 8% | 9 | 3 | 1 | 0 |
+| Team | Done/Total | % | Backlog | In progress | Done | Won't Do | (no status) |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Calibration | 0/6 | 0% | 1 | 5 | 0 | 0 | 0 |
+| External | 0/1 | 0% | 0 | 1 | 0 | 0 | 0 |
+| Imaging | 27/69 | 39% | 28 | 13 | 27 | 0 | 1 |
+| Infrastructure | 46/98 | 47% | 27 | 25 | 46 | 0 | 0 |
+| Management | 0/5 | 0% | 0 | 5 | 0 | 0 | 0 |
+| Pipeline | 1/8 | 12% | 7 | 0 | 1 | 0 | 0 |
+| Single Dish | 1/13 | 8% | 9 | 3 | 1 | 0 | 0 |
 
-## Far-term — 0/9 done (0%)
+## Far-term — 0/12 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
@@ -24,8 +24,9 @@ Current PI: **PI26.4**
 | External | 0/1 | 0% | 1 | 0 | 0 | 0 |
 | Imaging | 0/3 | 0% | 3 | 0 | 0 | 0 |
 | Management | 0/3 | 0% | 3 | 0 | 0 | 0 |
+| (no team) | 0/3 | 0% | 3 | 0 | 0 | 0 |
 
-## Mid-term — 0/9 done (0%)
+## Mid-term — 0/11 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
@@ -35,6 +36,7 @@ Current PI: **PI26.4**
 | Infrastructure | 0/1 | 0% | 1 | 0 | 0 | 0 |
 | Management | 0/2 | 0% | 2 | 0 | 0 | 0 |
 | Pipeline | 0/1 | 0% | 1 | 0 | 0 | 0 |
+| (no team) | 0/2 | 0% | 2 | 0 | 0 | 0 |
 
 ## Near-term — 0/29 done (0%)
 
@@ -94,12 +96,12 @@ Current PI: **PI26.4**
 | Imaging | 31/31 | 100% | 0 | 0 | 31 | 0 |
 | Management | 5/6 | 83% | 0 | 0 | 5 | 1 |
 
-## (no PI) — 6/20 done (30%)
+## (no PI) — 7/21 done (33%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | External | 1/1 | 100% | 0 | 0 | 1 | 0 |
 | Imaging | 0/1 | 0% | 0 | 0 | 0 | 1 |
 | Infrastructure | 1/3 | 33% | 1 | 0 | 1 | 1 |
-| (no team) | 4/15 | 27% | 2 | 0 | 4 | 9 |
+| (no team) | 5/16 | 31% | 2 | 0 | 5 | 9 |
 

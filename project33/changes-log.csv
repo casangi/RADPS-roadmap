@@ -1425,3 +1425,24 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-03T17:54:57Z,casangi/RADPS-roadmap,14,Epic: Multi-term Continuum Imaging,Program Increment,Near-term,PI26.4,https://github.com/casangi/RADPS-roadmap/issues/14
 2026-11-03T19:50:56Z,casangi/RADPS-roadmap,227,Epic: Continuum Polarization Imaging ,project,,added,https://github.com/casangi/RADPS-roadmap/issues/227
 2026-11-03T19:50:56Z,casangi/RADPS-roadmap,228,Epic: Cube Polarization Imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/228
+2026-11-04T18:05:44Z,casangi/astroviper,309,Recheck cube convergence after the visibility-based residual update,Status,Backlog,Done,https://github.com/casangi/astroviper/issues/309
+2026-11-04T18:05:44Z,casangi/astroviper,309,Recheck cube convergence after the visibility-based residual update,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/309
+2026-11-04T18:05:44Z,casangi/astroviper,308,Automatic simulation chunking can index beyond the available axes,Status,In progress,Done,https://github.com/casangi/astroviper/issues/308
+2026-11-04T18:05:44Z,casangi/astroviper,308,Automatic simulation chunking can index beyond the available axes,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/308
+2026-11-04T18:05:44Z,casangi/xradio,651,ASDM Backend: ensure multi-field/source partitions work well (mosaics),Status,Backlog,In progress,https://github.com/casangi/xradio/issues/651
+2026-11-04T18:05:44Z,casangi/flowviper,18,prefect_workflow README: out-of-date macOS MSv2 note and broken link,Status,Backlog,Done,https://github.com/casangi/flowviper/issues/18
+2026-11-04T18:05:44Z,casangi/flowviper,18,prefect_workflow README: out-of-date macOS MSv2 note and broken link,state,OPEN,CLOSED,https://github.com/casangi/flowviper/issues/18
+2026-11-04T18:05:44Z,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/355
+2026-11-04T18:05:44Z,casangi/RADPS-roadmap,227,Epic: Continuum Polarization Imaging ,Program Increment,,Far-term,https://github.com/casangi/RADPS-roadmap/issues/227
+2026-11-04T18:05:44Z,casangi/RADPS-roadmap,228,Epic: Cube Polarization Imaging,Program Increment,,Far-term,https://github.com/casangi/RADPS-roadmap/issues/228
+2026-11-04T18:05:44Z,casangi/RADPS-roadmap,229,Epic: QA for Continuum Polarization Imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/229
+2026-11-04T18:05:44Z,casangi/astroviper,366,Continuum imager needs >= 6.4 GiB more memory than the cube on large images,project,,added,https://github.com/casangi/astroviper/issues/366
+2026-11-04T18:05:44Z,casangi/flowviper,22,Update workflow and create unit tests,project,,added,https://github.com/casangi/flowviper/issues/22
+2026-11-04T18:05:44Z,casangi/flowviper,19,Use the shared pre-commit workflow,project,,added,https://github.com/casangi/flowviper/pull/19
+2026-11-04T18:05:44Z,casangi/flowviper,17,Use the shared pre-commit workflow,project,,added,https://github.com/casangi/flowviper/issues/17
+2026-11-04T18:05:44Z,casangi/RADPS-roadmap,230,Epic: Deploy Workflow and Resource Manager at JAO,project,,added,https://github.com/casangi/RADPS-roadmap/issues/230
+2026-11-04T18:05:44Z,casangi/RADPS-roadmap,231,Epic: Deploy Workflow and Resource Manager at the ARCs,project,,added,https://github.com/casangi/RADPS-roadmap/issues/231
+2026-11-04T18:05:44Z,casangi/RADPS-roadmap,233,Epic: Workflow and Resource Management Technology Downselect,project,,added,https://github.com/casangi/RADPS-roadmap/issues/233
+2026-11-04T18:05:44Z,casangi/RADPS-roadmap,234,Epic: Workflow Manager Performance Investigation,project,,added,https://github.com/casangi/RADPS-roadmap/issues/234
+2026-11-04T18:05:44Z,casangi/xradio,671,ASDM backend: time values labelled unix/tai read 8 s late,project,,added,https://github.com/casangi/xradio/issues/671
+2026-11-04T18:05:44Z,casangi/flowviper,24,Expose parameters in workflow,project,,added,https://github.com/casangi/flowviper/issues/24
