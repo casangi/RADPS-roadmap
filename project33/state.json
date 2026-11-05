@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T20:04:19Z",
+ "generated_at": "2026-11-05T18:07:41Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3171,6 +3171,26 @@
    "title": "make_prolate_spheroidal_convolution",
    "url": "https://github.com/casangi/astroviper/issues/40"
   },
+  "https://github.com/casangi/astroviper/issues/406": {
+   "number": 406,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Audit full stack for time reporting",
+   "url": "https://github.com/casangi/astroviper/issues/406"
+  },
+  "https://github.com/casangi/astroviper/issues/407": {
+   "number": 407,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Reduce restoring preparation memory and static-state transfers",
+   "url": "https://github.com/casangi/astroviper/issues/407"
+  },
   "https://github.com/casangi/astroviper/issues/42": {
    "number": 42,
    "pi": "PI-2",
@@ -5001,6 +5021,26 @@
    "title": "allure history component jsonl file exceeds file size limit",
    "url": "https://github.com/casangi/testviper/issues/76"
   },
+  "https://github.com/casangi/testviper/issues/78": {
+   "number": 78,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "Explore writing Allure Report History to Cloudflare DB",
+   "url": "https://github.com/casangi/testviper/issues/78"
+  },
+  "https://github.com/casangi/testviper/issues/79": {
+   "number": 79,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Refactor allure history in gh-pages",
+   "url": "https://github.com/casangi/testviper/issues/79"
+  },
   "https://github.com/casangi/toolviper/issues/52": {
    "number": 52,
    "pi": "PI-4=26.3",
@@ -5685,8 +5725,8 @@
    "number": 666,
    "pi": "PI26.4",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "ASDM backend: UVW computed at the wrong epoch",
    "url": "https://github.com/casangi/xradio/issues/666"

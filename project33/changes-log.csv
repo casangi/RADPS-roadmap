@@ -1448,3 +1448,9 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-04T18:05:44Z,casangi/flowviper,24,Expose parameters in workflow,project,,added,https://github.com/casangi/flowviper/issues/24
 2026-11-04T20:04:19Z,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",Status,In progress,Done,https://github.com/casangi/astroviper/issues/348
 2026-11-04T20:04:19Z,casangi/astroviper,348,"Make MVC Taylor residuals, PSF Hessian, and model prediction consistent off axis",state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/348
+2026-11-05T18:07:41Z,casangi/xradio,666,ASDM backend: UVW computed at the wrong epoch,Status,In progress,Done,https://github.com/casangi/xradio/issues/666
+2026-11-05T18:07:41Z,casangi/xradio,666,ASDM backend: UVW computed at the wrong epoch,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/666
+2026-11-05T18:07:41Z,casangi/astroviper,406,Audit full stack for time reporting,project,,added,https://github.com/casangi/astroviper/issues/406
+2026-11-05T18:07:41Z,casangi/astroviper,407,Reduce restoring preparation memory and static-state transfers,project,,added,https://github.com/casangi/astroviper/issues/407
+2026-11-05T18:07:41Z,casangi/testviper,78,Explore writing Allure Report History to Cloudflare DB,project,,added,https://github.com/casangi/testviper/issues/78
+2026-11-05T18:07:41Z,casangi/testviper,79,Refactor allure history in gh-pages,project,,added,https://github.com/casangi/testviper/issues/79
