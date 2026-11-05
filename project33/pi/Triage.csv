@@ -38,6 +38,5 @@ Single Dish,Backlog,Issue,casangi/RADPS-roadmap,98,Epic:  Migration of Single-Di
 Single Dish,Backlog,Issue,casangi/RADPS-roadmap,99,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_applycal,OPEN,,Heuristics; Single Dish,2026-10-15T15:19:09Z,,,https://github.com/casangi/RADPS-roadmap/issues/99
 Single Dish,Backlog,Issue,casangi/astroviper,228,explore single-dish pipeline with prefect capabilities,OPEN,jrhosk,Single Dish,2026-04-24T02:21:53Z,,,https://github.com/casangi/astroviper/issues/228
 Single Dish,Won't Do,Issue,casangi/astroviper,239,Preliminary description of walking skeleton for SD imaging and baseline subtraction,CLOSED,,,2026-06-23T14:56:55Z,2026-06-16T18:59:00Z,,https://github.com/casangi/astroviper/issues/239
-,Backlog,Issue,casangi/RADPS-roadmap,143,Epic: Compute Infrastructure recommendations,OPEN,,,2026-10-15T15:17:55Z,,,https://github.com/casangi/RADPS-roadmap/issues/143
 ,Backlog,Issue,casangi/RADPS-roadmap,69,Epic:  Quantifying the Cluster Utilization Efficiency,OPEN,,Data Processing Workflows,2026-10-15T15:18:36Z,,,https://github.com/casangi/RADPS-roadmap/issues/69
 ,Backlog,Issue,casangi/RADPS-roadmap,70,Epic:  Empirical Size of Compute Estimates,OPEN,,Performance; Descope?,2026-10-15T15:18:37Z,,,https://github.com/casangi/RADPS-roadmap/issues/70

@@ -4,8 +4,6 @@ Imaging,Won't Do,Issue,casangi/xradio,516,Update Image Unit Tests,CLOSED,,,2026-
 Infrastructure,Backlog,Issue,casangi/xradio,659,"Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",OPEN,Jan-Willem,bug,2026-10-21T14:51:14Z,,,https://github.com/casangi/xradio/issues/659
 Infrastructure,Done,Issue,casangi/toolviper,78,"pre-commit: update ruff to 0.16.10, the version every repository uses",CLOSED,Jan-Willem,,2026-10-21T19:25:52Z,2026-10-21T19:25:52Z,,https://github.com/casangi/toolviper/issues/78
 Infrastructure,Won't Do,Issue,casangi/RADPS-roadmap,60,Epic:  XRADIO measurement set maintenance,CLOSED,,Data Schemas,2026-09-10T21:24:14Z,2026-09-10T21:24:14Z,,https://github.com/casangi/RADPS-roadmap/issues/60
-,Backlog,Issue,casangi/RADPS-roadmap,233,Epic: Workflow and Resource Management Technology Downselect,OPEN,aakepley,,2026-11-04T15:35:52Z,,,https://github.com/casangi/RADPS-roadmap/issues/233
-,Backlog,Issue,casangi/RADPS-roadmap,234,Epic: Workflow Manager Performance Investigation,OPEN,aakepley,,2026-11-04T15:35:20Z,,,https://github.com/casangi/RADPS-roadmap/issues/234
 ,Done,PullRequest,casangi/astroviper,357,Performance Improvements and Bug Fixes for deconvolvers,MERGED,,,2026-10-24T02:45:07Z,2026-10-24T02:45:07Z,,https://github.com/casangi/astroviper/pull/357
 ,Done,Issue,casangi/astroviper,362,"zernike_basis: three of the 66 polynomials have wrong terms, and the shipped coefficient tables depend on them",CLOSED,,,2026-11-02T13:13:52Z,2026-11-02T13:13:52Z,,https://github.com/casangi/astroviper/issues/362
 ,Done,PullRequest,casangi/flowviper,19,Use the shared pre-commit workflow,MERGED,,,2026-11-04T13:50:31Z,2026-11-04T13:50:31Z,,https://github.com/casangi/flowviper/pull/19

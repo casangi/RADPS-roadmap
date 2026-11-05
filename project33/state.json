@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T18:07:41Z",
+ "generated_at": "2026-11-05T20:17:33Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -383,7 +383,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/143": {
    "number": 143,
-   "pi": "Triage",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -588,7 +588,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Infrastructure",
-   "title": "Epic: Specify Pipeline Processing Data Product (PPDP) schema",
+   "title": "Epic: Specify Pipeline Processing Data Package (PPDP) schema",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/17"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/18": {
@@ -973,7 +973,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/233": {
    "number": 233,
-   "pi": "",
+   "pi": "PI-1",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -983,13 +983,33 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/234": {
    "number": 234,
-   "pi": "",
+   "pi": "PI-1",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
    "team": "",
    "title": "Epic: Workflow Manager Performance Investigation",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/234"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/235": {
+   "number": 235,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic: Simulated Reference Imaging Data Sets for Acceptance Tests",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/235"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/236": {
+   "number": 236,
+   "pi": "PI-1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "",
+   "title": "Workflow Manager Technology Down Select for Demonstrator",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/236"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/24": {
    "number": 24,

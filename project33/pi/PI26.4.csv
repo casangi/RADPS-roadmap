@@ -5,7 +5,7 @@ Calibration,In progress,Issue,casangi/RADPS-roadmap,4,Epic: Calibration dataset 
 Calibration,In progress,Issue,casangi/astroviper,283,Epic: Fringe fitting prototype,OPEN,dessmalljive,,2026-09-28T15:43:13Z,,,https://github.com/casangi/astroviper/issues/283
 Calibration,In progress,Issue,casangi/xradio,545,"Add a schema to xradio for calibration data, paralleling the one for MSv4",OPEN,dessmalljive,documentation; Calibration Data Schema,2026-07-24T15:21:38Z,,casangi/RADPS-roadmap#4,https://github.com/casangi/xradio/issues/545
 Calibration,In progress,Issue,casangi/xradio,547,Creation of calibration datatree use case list.,OPEN,gmoellen,documentation; Calibration Data Schema,2026-03-09T14:25:42Z,,casangi/RADPS-roadmap#4,https://github.com/casangi/xradio/issues/547
-External,In progress,Issue,casangi/RADPS-roadmap,33,Epic: Xradio images in CARTA,OPEN,,Visualization,2026-10-15T15:15:56Z,,,https://github.com/casangi/RADPS-roadmap/issues/33
+External,In progress,Issue,casangi/RADPS-roadmap,33,Epic: Xradio images in CARTA,OPEN,,Visualization,2026-11-05T19:44:21Z,,,https://github.com/casangi/RADPS-roadmap/issues/33
 Imaging,,Issue,casangi/astroviper,366,Continuum imager needs >= 6.4 GiB more memory than the cube on large images,OPEN,Jan-Willem,,2026-11-03T23:21:28Z,,,https://github.com/casangi/astroviper/issues/366
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,10,Epic: Mosaic Cube Imaging Distributed Application,OPEN,,Imaging,2026-11-03T17:40:22Z,,,https://github.com/casangi/RADPS-roadmap/issues/10
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,14,Epic: Multi-term Continuum Imaging,OPEN,,Imaging; Algorithms,2026-11-03T17:37:35Z,,,https://github.com/casangi/RADPS-roadmap/issues/14
@@ -73,17 +73,17 @@ Imaging,In progress,Issue,casangi/astroviper,306,Self consistency test of cube i
 Imaging,In progress,Issue,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,OPEN,hmuellergoe,,2026-11-02T17:57:37Z,,,https://github.com/casangi/astroviper/issues/319
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
 Imaging,In progress,Issue,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,OPEN,Jan-Willem hmuellergoe,,2026-10-22T18:02:27Z,,,https://github.com/casangi/astroviper/issues/350
-Imaging,In progress,Issue,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,OPEN,hmuellergoe,,2026-11-05T16:46:43Z,,,https://github.com/casangi/astroviper/issues/355
+Imaging,In progress,Issue,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,OPEN,hmuellergoe,,2026-11-05T18:22:32Z,,,https://github.com/casangi/astroviper/issues/355
 Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-10-28T20:58:54Z,,,https://github.com/casangi/astroviper/issues/356
 Imaging,In progress,Issue,casangi/astroviper,407,Reduce restoring preparation memory and static-state transfers,OPEN,hmuellergoe,,2026-11-04T23:23:56Z,,,https://github.com/casangi/astroviper/issues/407
 Imaging,In progress,Issue,casangi/xradio,600,Data Schema for Representing Primary Beams,OPEN,,Schema,2026-10-07T15:05:06Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/600
-Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,109,Epic: Workflow integration tests,OPEN,smcastro,Testing,2026-10-15T15:17:51Z,,,https://github.com/casangi/RADPS-roadmap/issues/109
-Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,147,Epic: Benchmark tests for astroviper for PI26.4,OPEN,,,2026-10-15T15:17:56Z,,,https://github.com/casangi/RADPS-roadmap/issues/147
-Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,148,Epic: Benchmark tests for xradio for PI26.4,OPEN,,,2026-10-15T15:17:57Z,,,https://github.com/casangi/RADPS-roadmap/issues/148
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,109,Epic: Workflow integration tests,OPEN,smcastro,Testing,2026-11-05T19:39:01Z,,,https://github.com/casangi/RADPS-roadmap/issues/109
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,147,Epic: Benchmark tests for astroviper for PI26.4,OPEN,,,2026-11-05T19:39:11Z,,,https://github.com/casangi/RADPS-roadmap/issues/147
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,148,Epic: Benchmark tests for xradio for PI26.4,OPEN,,,2026-11-05T19:39:07Z,,,https://github.com/casangi/RADPS-roadmap/issues/148
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,193,Increment Python Version,OPEN,Jan-Willem,,2026-07-30T13:47:21Z,,,https://github.com/casangi/RADPS-roadmap/issues/193
-Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,214,Epic:  GraphVIPER maintenance,OPEN,,,2026-10-15T15:16:03Z,,,https://github.com/casangi/RADPS-roadmap/issues/214
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,214,Epic:  GraphVIPER maintenance,OPEN,,,2026-11-05T19:40:27Z,,,https://github.com/casangi/RADPS-roadmap/issues/214
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,215,Work through ToolVIPER tutorials,OPEN,enrique-alma-eso,,2026-09-24T14:28:14Z,,casangi/RADPS-roadmap#57,https://github.com/casangi/RADPS-roadmap/issues/215
-Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,57,Epic:  ToolVIPER maintenance,OPEN,enrique-alma-eso,,2026-10-15T15:15:57Z,,,https://github.com/casangi/RADPS-roadmap/issues/57
+Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,57,Epic:  ToolVIPER maintenance,OPEN,enrique-alma-eso,,2026-11-05T19:40:59Z,,,https://github.com/casangi/RADPS-roadmap/issues/57
 Infrastructure,Backlog,Issue,casangi/astroviper,293,Reduce duplicate instances of GitHub workflows,OPEN,Jan-Willem,,2026-09-30T19:14:09Z,,,https://github.com/casangi/astroviper/issues/293
 Infrastructure,Backlog,Issue,casangi/astroviper,326,Simulator: VLBI accurate UVW from radio_telescope_delay_model (CALC11),OPEN,Jan-Willem,,2026-10-12T19:59:58Z,,,https://github.com/casangi/astroviper/issues/326
 Infrastructure,Backlog,Issue,casangi/benchviper,36,Update benchviper for iteration control parameter name changes,OPEN,,,2026-09-29T14:21:36Z,,,https://github.com/casangi/benchviper/issues/36
@@ -152,10 +152,10 @@ Infrastructure,Done,Issue,casangi/xradio,657,"pre-commit: update ruff to 0.16.10
 Infrastructure,Done,Issue,casangi/xradio,666,ASDM backend: UVW computed at the wrong epoch,CLOSED,Jan-Willem,bug,2026-11-05T15:48:15Z,2026-11-05T15:48:15Z,,https://github.com/casangi/xradio/issues/666
 Infrastructure,Done,Issue,casangi/xradio,667,Docs: TikZ figures and outdated text in the MS v4 and image overviews,CLOSED,Jan-Willem,documentation,2026-10-26T23:46:14Z,2026-10-26T23:46:14Z,,https://github.com/casangi/xradio/issues/667
 Infrastructure,Done,Issue,casangi/xradio,676,Add the dependency review workflow,CLOSED,Jan-Willem,,2026-11-02T13:55:51Z,2026-11-02T13:55:51Z,,https://github.com/casangi/xradio/issues/676
-Infrastructure,In progress,Issue,casangi/RADPS-roadmap,117,Epic: RADIO (Radio Astronomy Data-processing Inter-Operability) Reference Architecture,OPEN,Jan-Willem,Data Processing Workflows; Performance,2026-10-15T15:19:11Z,,,https://github.com/casangi/RADPS-roadmap/issues/117
+Infrastructure,In progress,Issue,casangi/RADPS-roadmap,117,Epic: RADIO (Radio Astronomy Data-processing Inter-Operability) Reference Architecture,OPEN,Jan-Willem,Data Processing Workflows; Performance,2026-11-05T19:49:36Z,,,https://github.com/casangi/RADPS-roadmap/issues/117
 Infrastructure,In progress,Issue,casangi/RADPS-roadmap,135,port Adaptive Scale Clean (ASP) from CASA into astroviper,CLOSED,Jan-Willem smcastro,AI,2026-10-19T21:28:44Z,2026-10-19T21:28:44Z,casangi/RADPS-roadmap#133,https://github.com/casangi/RADPS-roadmap/issues/135
-Infrastructure,In progress,Issue,casangi/RADPS-roadmap,139,Epic: ASDM backend improvements,OPEN,FedeMPouzols,Data Schemas,2026-10-21T07:04:05Z,,,https://github.com/casangi/RADPS-roadmap/issues/139
-Infrastructure,In progress,Issue,casangi/RADPS-roadmap,62,Epic:  Refactor of XRADIO MSv2 to MSv4 converter,OPEN,enrique-alma-eso,Data Schemas,2026-10-15T15:18:36Z,,,https://github.com/casangi/RADPS-roadmap/issues/62
+Infrastructure,In progress,Issue,casangi/RADPS-roadmap,139,Epic: ASDM backend improvements,OPEN,FedeMPouzols,Data Schemas,2026-11-05T19:37:48Z,,,https://github.com/casangi/RADPS-roadmap/issues/139
+Infrastructure,In progress,Issue,casangi/RADPS-roadmap,62,Epic:  Refactor of XRADIO MSv2 to MSv4 converter,OPEN,enrique-alma-eso,Data Schemas,2026-11-05T19:38:30Z,,,https://github.com/casangi/RADPS-roadmap/issues/62
 Infrastructure,In progress,Issue,casangi/benchviper,27,Force workflow failure when benchmarks fail to execute,OPEN,awells-nrao,,2026-09-01T13:43:03Z,,,https://github.com/casangi/benchviper/issues/27
 Infrastructure,In progress,Issue,casangi/pyasdm,30,binary table improvement,OPEN,bgarwood,,2026-07-28T18:45:49Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/pyasdm/issues/30
 Infrastructure,In progress,Issue,casangi/testviper,34,Prototype first workflow integration test,OPEN,awells-nrao smcastro taktsutsumi,,2026-10-05T06:24:00Z,,casangi/RADPS-roadmap#109,https://github.com/casangi/testviper/issues/34
@@ -178,11 +178,11 @@ Infrastructure,In progress,Issue,casangi/xradio,655,Image schema review -- the T
 Infrastructure,In progress,Issue,casangi/xradio,656,Image schema review -- the TRON lens -- 4. Support cropped PSFs,OPEN,Jan-Willem,,2026-10-21T14:53:03Z,,,https://github.com/casangi/xradio/issues/656
 Infrastructure,In progress,Issue,casangi/xradio,660,An aperture-plane image read from CASA does not conform to the image schema,OPEN,Jan-Willem,,2026-10-21T14:50:31Z,,,https://github.com/casangi/xradio/issues/660
 Management,In progress,Issue,casangi/RADPS-roadmap,197,Add guidelines for issue and PR creation to AGENTS.md,OPEN,aakepley,,2026-08-10T14:18:52Z,,,https://github.com/casangi/RADPS-roadmap/issues/197
-Management,In progress,Issue,casangi/RADPS-roadmap,199,Epic:  RADPS-ALMA - ALMA-D3 Interface process,OPEN,aakepley,,2026-10-15T15:16:00Z,,,https://github.com/casangi/RADPS-roadmap/issues/199
-Management,In progress,Issue,casangi/RADPS-roadmap,219,Epic: AI Usage,OPEN,Jan-Willem,AI,2026-10-15T15:16:08Z,,,https://github.com/casangi/RADPS-roadmap/issues/219
+Management,In progress,Issue,casangi/RADPS-roadmap,199,Epic:  RADPS-ALMA - ALMA-D3 Interface process,OPEN,aakepley,,2026-11-05T19:45:25Z,,,https://github.com/casangi/RADPS-roadmap/issues/199
+Management,In progress,Issue,casangi/RADPS-roadmap,219,Epic: AI Usage,OPEN,Jan-Willem,AI,2026-11-05T19:40:53Z,,,https://github.com/casangi/RADPS-roadmap/issues/219
 Management,In progress,Issue,casangi/radps-sccb,2,SCCB: Add full polarization imaging to RADPS-ALMA project scope,OPEN,sspitale,,2026-10-21T17:20:32Z,,,https://github.com/casangi/radps-sccb/issues/2
 Management,In progress,Issue,casangi/radpsdocs,25,Initiate RADPS memo series,OPEN,aakepley,Memo Series,2026-04-28T17:21:14Z,,casangi/RADPS-roadmap#25,https://github.com/casangi/radpsdocs/issues/25
-Pipeline,Backlog,Issue,casangi/RADPS-roadmap,116,Epic: Explore Different Design Options for RADPS context,OPEN,aakepley whiteheaddmark,,2026-10-15T15:17:52Z,,,https://github.com/casangi/RADPS-roadmap/issues/116
+Pipeline,Backlog,Issue,casangi/RADPS-roadmap,116,Epic: Explore Different Design Options for RADPS context,OPEN,aakepley whiteheaddmark,,2026-11-05T19:41:04Z,,,https://github.com/casangi/RADPS-roadmap/issues/116
 Pipeline,Backlog,Issue,casangi/radps-context,2,Review Walking Skeleton for prototype requirements,OPEN,,,2026-03-02T19:40:53Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/2
 Pipeline,Backlog,Issue,casangi/radps-context,4,Define trade-off analysis parameters,OPEN,,,2026-03-02T19:46:03Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/4
 Pipeline,Backlog,Issue,casangi/radps-context,5,Write up ADRs,OPEN,,,2026-03-02T19:46:17Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/5

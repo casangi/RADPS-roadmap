@@ -1,0 +1,4 @@
+team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
+,Backlog,Issue,casangi/RADPS-roadmap,233,Epic: Workflow and Resource Management Technology Downselect,OPEN,aakepley,,2026-11-04T15:35:52Z,,,https://github.com/casangi/RADPS-roadmap/issues/233
+,Backlog,Issue,casangi/RADPS-roadmap,234,Epic: Workflow Manager Performance Investigation,OPEN,aakepley,,2026-11-04T15:35:20Z,,,https://github.com/casangi/RADPS-roadmap/issues/234
+,Done,Issue,casangi/RADPS-roadmap,236,Workflow Manager Technology Down Select for Demonstrator,CLOSED,,,2026-11-05T20:03:34Z,2026-11-05T20:03:34Z,,https://github.com/casangi/RADPS-roadmap/issues/236

@@ -1454,3 +1454,8 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-05T18:07:41Z,casangi/astroviper,407,Reduce restoring preparation memory and static-state transfers,project,,added,https://github.com/casangi/astroviper/issues/407
 2026-11-05T18:07:41Z,casangi/testviper,78,Explore writing Allure Report History to Cloudflare DB,project,,added,https://github.com/casangi/testviper/issues/78
 2026-11-05T18:07:41Z,casangi/testviper,79,Refactor allure history in gh-pages,project,,added,https://github.com/casangi/testviper/issues/79
+2026-11-05T20:17:33Z,casangi/RADPS-roadmap,143,Epic: Compute Infrastructure recommendations,Program Increment,Triage,Near-term,https://github.com/casangi/RADPS-roadmap/issues/143
+2026-11-05T20:17:33Z,casangi/RADPS-roadmap,233,Epic: Workflow and Resource Management Technology Downselect,Program Increment,,PI-1,https://github.com/casangi/RADPS-roadmap/issues/233
+2026-11-05T20:17:33Z,casangi/RADPS-roadmap,234,Epic: Workflow Manager Performance Investigation,Program Increment,,PI-1,https://github.com/casangi/RADPS-roadmap/issues/234
+2026-11-05T20:17:33Z,casangi/RADPS-roadmap,235,Epic: Simulated Reference Imaging Data Sets for Acceptance Tests,project,,added,https://github.com/casangi/RADPS-roadmap/issues/235
+2026-11-05T20:17:33Z,casangi/RADPS-roadmap,236,Workflow Manager Technology Down Select for Demonstrator,project,,added,https://github.com/casangi/RADPS-roadmap/issues/236
