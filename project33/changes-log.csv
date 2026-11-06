@@ -1469,3 +1469,4 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-06T17:49:42Z,casangi/xradio,681,"`frequency` axis is not always increasing: `open_asdm` never reverses it, MSv2 readers check two channels",project,,added,https://github.com/casangi/xradio/issues/681
 2026-11-06T17:49:42Z,casangi/graphviper,82,"Check that coordinates are monotonic, and handle decreasing axes in every interpolation method",project,,added,https://github.com/casangi/graphviper/issues/82
 2026-11-06T17:49:42Z,casangi/xradio,663,Schema for Zernike polynomial coefficients of antenna aperture illumination (zpc_xds),project,,added,https://github.com/casangi/xradio/issues/663
+2026-11-06T19:42:55Z,casangi/astroviper,413,Review unit and regression tests,project,,added,https://github.com/casangi/astroviper/issues/413

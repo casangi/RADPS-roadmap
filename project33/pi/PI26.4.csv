@@ -30,7 +30,7 @@ Imaging,Backlog,Issue,casangi/astroviper,351,Add XRADIO tooling for updating dat
 Imaging,Backlog,Issue,casangi/astroviper,352,Investigate and correct MVC PSF Taylor-plane primary-beam weighting,OPEN,hmuellergoe,,2026-10-22T15:22:17Z,,,https://github.com/casangi/astroviper/issues/352
 Imaging,Backlog,Issue,casangi/astroviper,353,Reduce excessive shard-file allocation in continuum sharding tests,OPEN,hmuellergoe,,2026-10-22T15:22:34Z,,,https://github.com/casangi/astroviper/issues/353
 Imaging,Backlog,Issue,casangi/astroviper,354,Investigate caching and threading of MT-MFS setup across imaging cycles,OPEN,hmuellergoe,,2026-10-22T15:22:51Z,,,https://github.com/casangi/astroviper/issues/354
-Imaging,Backlog,Issue,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",OPEN,hmuellergoe,,2026-11-04T15:36:04Z,,,https://github.com/casangi/astroviper/issues/374
+Imaging,Backlog,Issue,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",OPEN,hmuellergoe,,2026-11-06T18:58:19Z,,,https://github.com/casangi/astroviper/issues/374
 Imaging,Backlog,Issue,casangi/astroviper,406,Audit full stack for time reporting,OPEN,hmuellergoe,,2026-11-04T23:18:47Z,,,https://github.com/casangi/astroviper/issues/406
 Imaging,Backlog,Issue,casangi/astroviper,47,apply_common_beam,OPEN,,Fundamental Core Function; MS3.1: Single Field; MS3.2: Mosaic,2025-07-25T21:08:55Z,,casangi/astroviper#51,https://github.com/casangi/astroviper/issues/47
 Imaging,Backlog,Issue,casangi/radps-context,3,Define how to prototype,OPEN,,,2026-03-02T19:41:13Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/3
@@ -204,6 +204,6 @@ Single Dish,Backlog,Issue,casangi/astroviper,135,support of cube imaging with si
 Single Dish,Backlog,Issue,casangi/astroviper,214,direction mapping from celestial coordinate to image pixel coordinate (including projection),OPEN,,,2026-10-08T07:09:48Z,,casangi/RADPS-roadmap#223,https://github.com/casangi/astroviper/issues/214
 Single Dish,Backlog,Issue,casangi/astroviper,318,Integrate all processing steps into single workflow to construct E2E data reduction sequence of ALMA Solar TP Regional observation,OPEN,,,2026-10-08T07:11:12Z,,,https://github.com/casangi/astroviper/issues/318
 Single Dish,Done,Issue,casangi/astroviper,115,primitive single-dish imaging prototype,CLOSED,renaudmiel,Single Dish,2025-12-25T00:29:24Z,2025-10-22T08:58:33Z,casangi/RADPS-roadmap#118,https://github.com/casangi/astroviper/issues/115
-Single Dish,In progress,Issue,casangi/RADPS-roadmap,118,Epic: Prototype ALMA Solar TP MDR workflow,OPEN,,Single Dish,2026-10-15T15:17:52Z,,,https://github.com/casangi/RADPS-roadmap/issues/118
-Single Dish,In progress,Issue,casangi/RADPS-roadmap,223,Epic: Advanced single-dish cube imaging,OPEN,,Single Dish,2026-10-16T00:14:30Z,,,https://github.com/casangi/RADPS-roadmap/issues/223
+Single Dish,In progress,Issue,casangi/RADPS-roadmap,118,Epic: Prototype ALMA Solar TP MDR workflow,OPEN,,Single Dish,2026-11-06T19:40:00Z,,,https://github.com/casangi/RADPS-roadmap/issues/118
+Single Dish,In progress,Issue,casangi/RADPS-roadmap,223,Epic: Advanced single-dish cube imaging,OPEN,,Single Dish,2026-11-06T19:40:56Z,,,https://github.com/casangi/RADPS-roadmap/issues/223
 Single Dish,In progress,Issue,casangi/flowviper,11,single dish workflow notebooks,OPEN,jrhosk,documentation,2026-09-30T23:48:06Z,,,https://github.com/casangi/flowviper/issues/11

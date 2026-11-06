@@ -1,5 +1,6 @@
 team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
 External,Done,Issue,casangi/RADPS-roadmap,121,Initial Assessment of Workflow Initialization Proposal by ISAP,CLOSED,,,2026-10-14T20:30:00Z,2026-10-14T20:30:00Z,casangi/RADPS-roadmap#51,https://github.com/casangi/RADPS-roadmap/issues/121
+Imaging,Backlog,Issue,casangi/astroviper,413,Review unit and regression tests,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-11-06T19:20:16Z,,,https://github.com/casangi/astroviper/issues/413
 Imaging,Won't Do,Issue,casangi/xradio,516,Update Image Unit Tests,CLOSED,,,2026-01-07T18:12:04Z,2026-01-07T18:12:04Z,casangi/xradio#497,https://github.com/casangi/xradio/issues/516
 Infrastructure,Backlog,Issue,casangi/xradio,659,"Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",OPEN,Jan-Willem,bug,2026-10-21T14:51:14Z,,,https://github.com/casangi/xradio/issues/659
 Infrastructure,Done,Issue,casangi/toolviper,78,"pre-commit: update ruff to 0.16.10, the version every repository uses",CLOSED,Jan-Willem,,2026-10-21T19:25:52Z,2026-10-21T19:25:52Z,,https://github.com/casangi/toolviper/issues/78
