@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:17:33Z",
+ "generated_at": "2026-11-06T17:49:42Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -975,8 +975,8 @@
    "number": 233,
    "pi": "PI-1",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "",
    "title": "Epic: Workflow and Resource Management Technology Downselect",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/233"
@@ -985,8 +985,8 @@
    "number": 234,
    "pi": "PI-1",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "",
    "title": "Epic: Workflow Manager Performance Investigation",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/234"
@@ -3211,6 +3211,16 @@
    "title": "Reduce restoring preparation memory and static-state transfers",
    "url": "https://github.com/casangi/astroviper/issues/407"
   },
+  "https://github.com/casangi/astroviper/issues/411": {
+   "number": 411,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Asp's Gaussian components go outside the clean mask",
+   "url": "https://github.com/casangi/astroviper/issues/411"
+  },
   "https://github.com/casangi/astroviper/issues/42": {
    "number": 42,
    "pi": "PI-2",
@@ -3750,6 +3760,16 @@
    "team": "Infrastructure",
    "title": "Nearest selection drops datasets whose values lie slightly outside the end chunks of the parallel coordinate",
    "url": "https://github.com/casangi/graphviper/issues/77"
+  },
+  "https://github.com/casangi/graphviper/issues/82": {
+   "number": 82,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Check that coordinates are monotonic, and handle decreasing axes in every interpolation method",
+   "url": "https://github.com/casangi/graphviper/issues/82"
   },
   "https://github.com/casangi/pyasdm/issues/28": {
    "number": 28,
@@ -5055,8 +5075,8 @@
    "number": 79,
    "pi": "PI26.4",
    "repo": "casangi/testviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Refactor allure history in gh-pages",
    "url": "https://github.com/casangi/testviper/issues/79"
@@ -5741,6 +5761,16 @@
    "title": "Support continuum Taylor-product image dimensions in the XRADIO image schema",
    "url": "https://github.com/casangi/xradio/issues/661"
   },
+  "https://github.com/casangi/xradio/issues/663": {
+   "number": 663,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Schema for Zernike polynomial coefficients of antenna aperture illumination (zpc_xds)",
+   "url": "https://github.com/casangi/xradio/issues/663"
+  },
   "https://github.com/casangi/xradio/issues/666": {
    "number": 666,
    "pi": "PI26.4",
@@ -5780,6 +5810,16 @@
    "team": "Infrastructure",
    "title": "Add the dependency review workflow",
    "url": "https://github.com/casangi/xradio/issues/676"
+  },
+  "https://github.com/casangi/xradio/issues/681": {
+   "number": 681,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "`frequency` axis is not always increasing: `open_asdm` never reverses it, MSv2 readers check two channels",
+   "url": "https://github.com/casangi/xradio/issues/681"
   },
   "https://github.com/casangi/xradio/pull/677": {
    "number": 677,
