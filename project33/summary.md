@@ -1,16 +1,16 @@
 # RADPS Roadmap — status by PI and team
 
-Generated 2026-11-06T19:42:55Z from https://github.com/orgs/casangi/projects/33.
+Generated 2026-11-07T16:32:48Z from https://github.com/orgs/casangi/projects/33.
 
 Current PI: **PI26.4**
 
-## PI26.4 — 80/208 done (38%)
+## PI26.4 — 82/210 done (39%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do | (no status) |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | Calibration | 0/6 | 0% | 1 | 5 | 0 | 0 | 0 |
 | External | 0/1 | 0% | 0 | 1 | 0 | 0 | 0 |
-| Imaging | 29/73 | 40% | 29 | 14 | 29 | 0 | 1 |
+| Imaging | 31/75 | 41% | 30 | 13 | 31 | 0 | 1 |
 | Infrastructure | 49/102 | 48% | 28 | 25 | 49 | 0 | 0 |
 | Management | 0/5 | 0% | 0 | 5 | 0 | 0 | 0 |
 | Pipeline | 1/8 | 12% | 7 | 0 | 1 | 0 | 0 |
@@ -108,7 +108,7 @@ Current PI: **PI26.4**
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | External | 1/1 | 100% | 0 | 0 | 1 | 0 |
-| Imaging | 0/2 | 0% | 1 | 0 | 0 | 1 |
+| Imaging | 0/1 | 0% | 0 | 0 | 0 | 1 |
 | Infrastructure | 1/3 | 33% | 1 | 0 | 1 | 1 |
-| (no team) | 5/14 | 36% | 0 | 0 | 5 | 9 |
+| (no team) | 5/15 | 33% | 1 | 0 | 5 | 9 |
 

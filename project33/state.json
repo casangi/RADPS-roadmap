@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:42:55Z",
+ "generated_at": "2026-11-07T16:32:48Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2805,8 +2805,8 @@
    "number": 319,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Check Input Parameters for validity before scheduling a graph",
    "url": "https://github.com/casangi/astroviper/issues/319"
@@ -3025,8 +3025,8 @@
    "number": 352,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Investigate and correct MVC PSF Taylor-plane primary-beam weighting",
    "url": "https://github.com/casangi/astroviper/issues/352"
@@ -3223,13 +3223,23 @@
   },
   "https://github.com/casangi/astroviper/issues/413": {
    "number": 413,
-   "pi": "",
+   "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
    "title": "Review unit and regression tests",
    "url": "https://github.com/casangi/astroviper/issues/413"
+  },
+  "https://github.com/casangi/astroviper/issues/414": {
+   "number": 414,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Define and implement empty-channel handling in cube imaging",
+   "url": "https://github.com/casangi/astroviper/issues/414"
   },
   "https://github.com/casangi/astroviper/issues/42": {
    "number": 42,
@@ -3550,6 +3560,16 @@
    "team": "Infrastructure",
    "title": "Use the shared pre-commit workflow",
    "url": "https://github.com/casangi/benchviper/pull/44"
+  },
+  "https://github.com/casangi/cubevis/issues/5": {
+   "number": 5,
+   "pi": "",
+   "repo": "casangi/cubevis",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "use xradio to load msv4 data",
+   "url": "https://github.com/casangi/cubevis/issues/5"
   },
   "https://github.com/casangi/flowviper/issues/11": {
    "number": 11,

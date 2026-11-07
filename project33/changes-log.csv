@@ -1470,3 +1470,10 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-06T17:49:42Z,casangi/graphviper,82,"Check that coordinates are monotonic, and handle decreasing axes in every interpolation method",project,,added,https://github.com/casangi/graphviper/issues/82
 2026-11-06T17:49:42Z,casangi/xradio,663,Schema for Zernike polynomial coefficients of antenna aperture illumination (zpc_xds),project,,added,https://github.com/casangi/xradio/issues/663
 2026-11-06T19:42:55Z,casangi/astroviper,413,Review unit and regression tests,project,,added,https://github.com/casangi/astroviper/issues/413
+2026-11-07T16:32:48Z,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,Status,In progress,Done,https://github.com/casangi/astroviper/issues/319
+2026-11-07T16:32:48Z,casangi/astroviper,319,Check Input Parameters for validity before scheduling a graph,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/319
+2026-11-07T16:32:48Z,casangi/astroviper,352,Investigate and correct MVC PSF Taylor-plane primary-beam weighting,Status,Backlog,Done,https://github.com/casangi/astroviper/issues/352
+2026-11-07T16:32:48Z,casangi/astroviper,352,Investigate and correct MVC PSF Taylor-plane primary-beam weighting,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/352
+2026-11-07T16:32:48Z,casangi/astroviper,413,Review unit and regression tests,Program Increment,,PI26.4,https://github.com/casangi/astroviper/issues/413
+2026-11-07T16:32:48Z,casangi/astroviper,414,Define and implement empty-channel handling in cube imaging,project,,added,https://github.com/casangi/astroviper/issues/414
+2026-11-07T16:32:48Z,casangi/cubevis,5,use xradio to load msv4 data,project,,added,https://github.com/casangi/cubevis/issues/5
