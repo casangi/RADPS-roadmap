@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T18:06:33Z",
+ "generated_at": "2026-11-09T20:51:50Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2626,7 +2626,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Calibration",
    "title": "Refactor to match the new module structure",
    "url": "https://github.com/casangi/astroviper/issues/288"
@@ -3116,7 +3116,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "pbcorr, widebandpbcorr and flat-noise image heuristics",
    "url": "https://github.com/casangi/astroviper/issues/374"
@@ -3240,6 +3240,26 @@
    "team": "Imaging",
    "title": "Define and implement empty-channel handling in cube imaging",
    "url": "https://github.com/casangi/astroviper/issues/414"
+  },
+  "https://github.com/casangi/astroviper/issues/416": {
+   "number": 416,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Automatic CLEAN masks in the imagers (CASA auto-multithresh)",
+   "url": "https://github.com/casangi/astroviper/issues/416"
+  },
+  "https://github.com/casangi/astroviper/issues/418": {
+   "number": 418,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "asp_min_mask_coverage cannot be set: the model update check refuses it",
+   "url": "https://github.com/casangi/astroviper/issues/418"
   },
   "https://github.com/casangi/astroviper/issues/42": {
    "number": 42,
