@@ -1481,3 +1481,20 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-09T20:51:50Z,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/374
 2026-11-09T20:51:50Z,casangi/astroviper,418,asp_min_mask_coverage cannot be set: the model update check refuses it,project,,added,https://github.com/casangi/astroviper/issues/418
 2026-11-09T20:51:50Z,casangi/astroviper,416,Automatic CLEAN masks in the imagers (CASA auto-multithresh),project,,added,https://github.com/casangi/astroviper/issues/416
+2026-11-10T17:58:35Z,casangi/RADPS-roadmap,62,Epic:  Refactor of XRADIO MSv2 to MSv4 converter,Status,In progress,Won't Do,https://github.com/casangi/RADPS-roadmap/issues/62
+2026-11-10T17:58:35Z,casangi/testviper,34,Prototype first workflow integration test,Status,In progress,Backlog,https://github.com/casangi/testviper/issues/34
+2026-11-10T17:58:35Z,casangi/xradio,577,Improve Memory Performance of convert_msv2_to_processing_set,Status,In progress,Won't Do,https://github.com/casangi/xradio/issues/577
+2026-11-10T17:58:35Z,casangi/pyasdm,46,ArrayTimeInterval.fromBin returns about half the real start time for binary tables (midpoint convention),Status,Backlog,Done,https://github.com/casangi/pyasdm/issues/46
+2026-11-10T17:58:35Z,casangi/pyasdm,46,ArrayTimeInterval.fromBin returns about half the real start time for binary tables (midpoint convention),state,OPEN,CLOSED,https://github.com/casangi/pyasdm/issues/46
+2026-11-10T17:58:35Z,casangi/pyasdm,48,SourceTable.add checks the wrong container length and can raise IndexError when adding Source rows,Status,Backlog,Done,https://github.com/casangi/pyasdm/issues/48
+2026-11-10T17:58:35Z,casangi/pyasdm,48,SourceTable.add checks the wrong container length and can raise IndexError when adding Source rows,state,OPEN,CLOSED,https://github.com/casangi/pyasdm/issues/48
+2026-11-10T17:58:35Z,casangi/benchviper,45,Fix astroviper fft_ifft benchmark,Status,Backlog,In progress,https://github.com/casangi/benchviper/issues/45
+2026-11-10T17:58:35Z,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,Status,In progress,Done,https://github.com/casangi/astroviper/issues/355
+2026-11-10T17:58:35Z,casangi/astroviper,355,Clarify and consolidate exact versus nearest frequency-matching policies,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/355
+2026-11-10T17:58:35Z,casangi/astroviper,407,Reduce restoring preparation memory and static-state transfers,Status,In progress,Done,https://github.com/casangi/astroviper/issues/407
+2026-11-10T17:58:35Z,casangi/astroviper,407,Reduce restoring preparation memory and static-state transfers,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/407
+2026-11-10T17:58:35Z,casangi/xradio,688,Image schema: complex voltage pattern of an antenna,project,,added,https://github.com/casangi/xradio/issues/688
+2026-11-10T17:58:35Z,casangi/testviper,69,Refactor testviper installation,project,,added,https://github.com/casangi/testviper/issues/69
+2026-11-10T17:58:35Z,casangi/testviper,70,Evaluate keeping history of reports,project,,added,https://github.com/casangi/testviper/issues/70
+2026-11-10T17:58:35Z,casangi/xradio,689,ASDM backend: cross-compare several details with importasdm,project,,added,https://github.com/casangi/xradio/issues/689
+2026-11-10T17:58:35Z,casangi/flowviper,10,4 add new example workflow,project,present,removed,https://github.com/casangi/flowviper/pull/10

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:44:25Z",
+ "generated_at": "2026-11-10T17:58:35Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -1386,7 +1386,7 @@
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Won't Do",
    "team": "Infrastructure",
    "title": "Epic:  Refactor of XRADIO MSv2 to MSv4 converter",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/62"
@@ -3038,7 +3038,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
-   "title": "Reduce excessive shard-file allocation in continuum sharding tests",
+   "title": "Reduce excessive shard-file allocation in sharding tests",
    "url": "https://github.com/casangi/astroviper/issues/353"
   },
   "https://github.com/casangi/astroviper/issues/354": {
@@ -3055,8 +3055,8 @@
    "number": 355,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Clarify and consolidate exact versus nearest frequency-matching policies",
    "url": "https://github.com/casangi/astroviper/issues/355"
@@ -3205,8 +3205,8 @@
    "number": 407,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Reduce restoring preparation memory and static-state transfers",
    "url": "https://github.com/casangi/astroviper/issues/407"
@@ -3566,7 +3566,7 @@
    "pi": "PI26.4",
    "repo": "casangi/benchviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "Fix astroviper fft_ifft benchmark",
    "url": "https://github.com/casangi/benchviper/issues/45"
@@ -3670,16 +3670,6 @@
    "team": "Infrastructure",
    "title": "Create the necessary license files for flowviper  repo",
    "url": "https://github.com/casangi/flowviper/issues/8"
-  },
-  "https://github.com/casangi/flowviper/pull/10": {
-   "number": 10,
-   "pi": "PI26.4",
-   "repo": "casangi/flowviper",
-   "state": "MERGED",
-   "status": "Done",
-   "team": "Imaging",
-   "title": "4 add new example workflow",
-   "url": "https://github.com/casangi/flowviper/pull/10"
   },
   "https://github.com/casangi/flowviper/pull/19": {
    "number": 19,
@@ -3965,8 +3955,8 @@
    "number": 46,
    "pi": "PI26.4",
    "repo": "casangi/pyasdm",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "ArrayTimeInterval.fromBin returns about half the real start time for binary tables (midpoint convention)",
    "url": "https://github.com/casangi/pyasdm/issues/46"
@@ -3985,8 +3975,8 @@
    "number": 48,
    "pi": "PI26.4",
    "repo": "casangi/pyasdm",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "SourceTable.add checks the wrong container length and can raise IndexError when adding Source rows",
    "url": "https://github.com/casangi/pyasdm/issues/48"
@@ -5006,7 +4996,7 @@
    "pi": "PI26.4",
    "repo": "casangi/testviper",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Backlog",
    "team": "Infrastructure",
    "title": "Prototype first workflow integration test",
    "url": "https://github.com/casangi/testviper/issues/34"
@@ -5100,6 +5090,26 @@
    "team": "Infrastructure",
    "title": "Add No Deps Flag to Makefile",
    "url": "https://github.com/casangi/testviper/issues/68"
+  },
+  "https://github.com/casangi/testviper/issues/69": {
+   "number": 69,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Refactor testviper installation",
+   "url": "https://github.com/casangi/testviper/issues/69"
+  },
+  "https://github.com/casangi/testviper/issues/70": {
+   "number": 70,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Evaluate keeping history of reports",
+   "url": "https://github.com/casangi/testviper/issues/70"
   },
   "https://github.com/casangi/testviper/issues/76": {
    "number": 76,
@@ -5396,7 +5406,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Won't Do",
    "team": "Infrastructure",
    "title": "Improve Memory Performance of convert_msv2_to_processing_set",
    "url": "https://github.com/casangi/xradio/issues/577"
@@ -5870,6 +5880,26 @@
    "team": "Infrastructure",
    "title": "`frequency` axis is not always increasing: `open_asdm` never reverses it, MSv2 readers check two channels",
    "url": "https://github.com/casangi/xradio/issues/681"
+  },
+  "https://github.com/casangi/xradio/issues/688": {
+   "number": 688,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Image schema: complex voltage pattern of an antenna",
+   "url": "https://github.com/casangi/xradio/issues/688"
+  },
+  "https://github.com/casangi/xradio/issues/689": {
+   "number": 689,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "ASDM backend: cross-compare several details with importasdm",
+   "url": "https://github.com/casangi/xradio/issues/689"
   },
   "https://github.com/casangi/xradio/pull/677": {
    "number": 677,
