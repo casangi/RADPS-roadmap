@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:56:38Z",
+ "generated_at": "2026-11-11T19:52:53Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -5245,8 +5245,8 @@
    "number": 75,
    "pi": "PI26.4",
    "repo": "casangi/toolviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",
    "url": "https://github.com/casangi/toolviper/issues/75"

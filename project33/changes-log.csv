@@ -1510,3 +1510,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-11T17:56:38Z,casangi/cubevis,5,use xradio to load msv4 data,Program Increment,,Near-term,https://github.com/casangi/cubevis/issues/5
 2026-11-11T17:56:38Z,casangi/cubevis,5,use xradio to load msv4 data,Team,,Visualization,https://github.com/casangi/cubevis/issues/5
 2026-11-11T17:56:38Z,casangi/benchviper,50,Remove python-casacore from astroviper build,project,,added,https://github.com/casangi/benchviper/issues/50
+2026-11-11T19:52:53Z,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",Status,In progress,Done,https://github.com/casangi/toolviper/issues/75
+2026-11-11T19:52:53Z,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",state,OPEN,CLOSED,https://github.com/casangi/toolviper/issues/75
