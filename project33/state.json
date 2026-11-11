@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:01:59Z",
+ "generated_at": "2026-11-11T17:56:38Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -635,8 +635,8 @@
    "number": 194,
    "pi": "PI-4=26.3",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Continuum Imaging Validation",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/194"
@@ -2426,7 +2426,7 @@
    "pi": "PI-4=26.3",
    "repo": "casangi/astroviper",
    "state": "CLOSED",
-   "status": "In progress",
+   "status": "Done",
    "team": "Imaging",
    "title": "enable mvc option (standard gridder only)",
    "url": "https://github.com/casangi/astroviper/issues/254"
@@ -2436,7 +2436,7 @@
    "pi": "PI-4=26.3",
    "repo": "casangi/astroviper",
    "state": "CLOSED",
-   "status": "In progress",
+   "status": "Done",
    "team": "Imaging",
    "title": "validate that mvc is working properly",
    "url": "https://github.com/casangi/astroviper/issues/255"
@@ -2446,7 +2446,7 @@
    "pi": "PI-4=26.3",
    "repo": "casangi/astroviper",
    "state": "CLOSED",
-   "status": "In progress",
+   "status": "Done",
    "team": "Imaging",
    "title": "validate mfs is working correctly",
    "url": "https://github.com/casangi/astroviper/issues/256"
@@ -2456,7 +2456,7 @@
    "pi": "PI-4=26.3",
    "repo": "casangi/astroviper",
    "state": "CLOSED",
-   "status": "In progress",
+   "status": "Done",
    "team": "Imaging",
    "title": "identify and obtain appropriate test data sets for continuum validation",
    "url": "https://github.com/casangi/astroviper/issues/257"
@@ -2466,7 +2466,7 @@
    "pi": "PI-4=26.3",
    "repo": "casangi/astroviper",
    "state": "CLOSED",
-   "status": "In progress",
+   "status": "Done",
    "team": "Imaging",
    "title": "test 8 permutations and compare resulting image properties",
    "url": "https://github.com/casangi/astroviper/issues/258"
@@ -2476,7 +2476,7 @@
    "pi": "PI-4=26.3",
    "repo": "casangi/astroviper",
    "state": "CLOSED",
-   "status": "In progress",
+   "status": "Done",
    "team": "Imaging",
    "title": "decide on one path through the algorithm",
    "url": "https://github.com/casangi/astroviper/issues/259"
@@ -3571,6 +3571,16 @@
    "title": "Fix astroviper fft_ifft benchmark",
    "url": "https://github.com/casangi/benchviper/issues/45"
   },
+  "https://github.com/casangi/benchviper/issues/50": {
+   "number": 50,
+   "pi": "PI26.4",
+   "repo": "casangi/benchviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Remove python-casacore from astroviper build",
+   "url": "https://github.com/casangi/benchviper/issues/50"
+  },
   "https://github.com/casangi/benchviper/pull/44": {
    "number": 44,
    "pi": "PI26.4",
@@ -3583,11 +3593,11 @@
   },
   "https://github.com/casangi/cubevis/issues/5": {
    "number": 5,
-   "pi": "",
+   "pi": "Near-term",
    "repo": "casangi/cubevis",
    "state": "OPEN",
    "status": "Backlog",
-   "team": "",
+   "team": "Visualization",
    "title": "use xradio to load msv4 data",
    "url": "https://github.com/casangi/cubevis/issues/5"
   },
@@ -5816,7 +5826,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Support continuum Taylor-product image dimensions in the XRADIO image schema",
    "url": "https://github.com/casangi/xradio/issues/661"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:01:59Z",
+  "generated_at": "2026-11-11T17:56:38Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -53,6 +53,7 @@
         "Calibration",
         "Infrastructure",
         "Pipeline",
+        "Visualization",
         "Management",
         "Single Dish",
         "External"
@@ -135,7 +136,7 @@
     "(no PI)": "pi/no-pi.csv",
     "PI-1": "pi/PI-1.csv"
   },
-  "item_count": 591,
+  "item_count": 592,
   "counts": {
     "PI26.4": {
       "Calibration": {
@@ -157,17 +158,17 @@
         "done": 35,
         "by_status": {
           "(no status)": 1,
-          "Backlog": 29,
+          "Backlog": 28,
           "Done": 35,
-          "In progress": 12
+          "In progress": 13
         }
       },
       "Infrastructure": {
-        "total": 105,
-        "done": 51,
+        "total": 106,
+        "done": 52,
         "by_status": {
           "Backlog": 29,
-          "Done": 51,
+          "Done": 52,
           "In progress": 23,
           "Won't Do": 2
         }
@@ -323,6 +324,13 @@
           "Backlog": 5
         }
       },
+      "Visualization": {
+        "total": 1,
+        "done": 0,
+        "by_status": {
+          "Backlog": 1
+        }
+      },
       "(no team)": {
         "total": 1,
         "done": 0,
@@ -364,10 +372,9 @@
       },
       "Imaging": {
         "total": 47,
-        "done": 40,
+        "done": 47,
         "by_status": {
-          "Done": 40,
-          "In progress": 7
+          "Done": 47
         }
       },
       "Infrastructure": {
@@ -535,10 +542,9 @@
         }
       },
       "(no team)": {
-        "total": 15,
+        "total": 14,
         "done": 5,
         "by_status": {
-          "Backlog": 1,
           "Done": 5,
           "Won't Do": 9
         }

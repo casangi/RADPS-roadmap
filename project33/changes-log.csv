@@ -1498,3 +1498,15 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-10T17:58:35Z,casangi/testviper,70,Evaluate keeping history of reports,project,,added,https://github.com/casangi/testviper/issues/70
 2026-11-10T17:58:35Z,casangi/xradio,689,ASDM backend: cross-compare several details with importasdm,project,,added,https://github.com/casangi/xradio/issues/689
 2026-11-10T17:58:35Z,casangi/flowviper,10,4 add new example workflow,project,present,removed,https://github.com/casangi/flowviper/pull/10
+2026-11-11T17:56:38Z,casangi/RADPS-roadmap,194,Continuum Imaging Validation,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/194
+2026-11-11T17:56:38Z,casangi/RADPS-roadmap,194,Continuum Imaging Validation,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/194
+2026-11-11T17:56:38Z,casangi/astroviper,254,enable mvc option (standard gridder only),Status,In progress,Done,https://github.com/casangi/astroviper/issues/254
+2026-11-11T17:56:38Z,casangi/astroviper,255,validate that mvc is working properly,Status,In progress,Done,https://github.com/casangi/astroviper/issues/255
+2026-11-11T17:56:38Z,casangi/astroviper,256,validate mfs is working correctly,Status,In progress,Done,https://github.com/casangi/astroviper/issues/256
+2026-11-11T17:56:38Z,casangi/astroviper,257,identify and obtain appropriate test data sets for continuum validation,Status,In progress,Done,https://github.com/casangi/astroviper/issues/257
+2026-11-11T17:56:38Z,casangi/astroviper,258,test 8 permutations and compare resulting image properties,Status,In progress,Done,https://github.com/casangi/astroviper/issues/258
+2026-11-11T17:56:38Z,casangi/astroviper,259,decide on one path through the algorithm,Status,In progress,Done,https://github.com/casangi/astroviper/issues/259
+2026-11-11T17:56:38Z,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,Status,Backlog,In progress,https://github.com/casangi/xradio/issues/661
+2026-11-11T17:56:38Z,casangi/cubevis,5,use xradio to load msv4 data,Program Increment,,Near-term,https://github.com/casangi/cubevis/issues/5
+2026-11-11T17:56:38Z,casangi/cubevis,5,use xradio to load msv4 data,Team,,Visualization,https://github.com/casangi/cubevis/issues/5
+2026-11-11T17:56:38Z,casangi/benchviper,50,Remove python-casacore from astroviper build,project,,added,https://github.com/casangi/benchviper/issues/50

@@ -35,7 +35,6 @@ Imaging,Backlog,Issue,casangi/astroviper,414,Define and implement empty-channel 
 Imaging,Backlog,Issue,casangi/astroviper,47,apply_common_beam,OPEN,,Fundamental Core Function; MS3.1: Single Field; MS3.2: Mosaic,2026-11-10T16:48:15Z,,casangi/astroviper#51,https://github.com/casangi/astroviper/issues/47
 Imaging,Backlog,Issue,casangi/radps-context,3,Define how to prototype,OPEN,,,2026-03-02T19:41:13Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/3
 Imaging,Backlog,Issue,casangi/xradio,601,Define Convolution Function Cache Data Schema,OPEN,,,2026-08-10T20:42:12Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/601
-Imaging,Backlog,Issue,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,OPEN,Jan-Willem hmuellergoe,,2026-11-10T19:30:52Z,,,https://github.com/casangi/xradio/issues/661
 Imaging,Done,Issue,casangi/RADPS,97,Transfer single field cube imaging test data to Charlottesville,CLOSED,Jan-Willem,,2026-10-22T14:27:41Z,2026-10-22T14:27:41Z,casangi/RADPS#96,https://github.com/casangi/RADPS/issues/97
 Imaging,Done,Issue,casangi/RADPS-roadmap,136,port Multi-Term Multi-Scale Multi-Frequency Synthesis (MTMFS w/ multiscale) from CASA to astroviper,CLOSED,smcastro hmuellergoe,AI,2026-11-10T16:50:55Z,2026-10-13T16:52:03Z,casangi/RADPS-roadmap#133,https://github.com/casangi/RADPS-roadmap/issues/136
 Imaging,Done,Issue,casangi/RADPS-roadmap,21,Epic: Simulating visibilities,CLOSED,,Visibility Manipulation,2026-11-10T16:47:41Z,2026-10-01T17:45:10Z,,https://github.com/casangi/RADPS-roadmap/issues/21
@@ -80,8 +79,9 @@ Imaging,In progress,Issue,casangi/astroviper,306,Self consistency test of cube i
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
 Imaging,In progress,Issue,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,OPEN,Jan-Willem hmuellergoe,,2026-10-22T18:02:27Z,,,https://github.com/casangi/astroviper/issues/350
 Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-11-06T14:00:22Z,,,https://github.com/casangi/astroviper/issues/356
-Imaging,In progress,Issue,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",OPEN,hmuellergoe,,2026-11-10T19:32:46Z,,,https://github.com/casangi/astroviper/issues/374
+Imaging,In progress,Issue,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",OPEN,hmuellergoe,,2026-11-10T21:44:25Z,,,https://github.com/casangi/astroviper/issues/374
 Imaging,In progress,Issue,casangi/xradio,600,Data Schema for Representing Primary Beams,OPEN,,Schema,2026-10-07T15:05:06Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/600
+Imaging,In progress,Issue,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,OPEN,Jan-Willem hmuellergoe,,2026-11-10T19:30:52Z,,,https://github.com/casangi/xradio/issues/661
 Imaging,In progress,Issue,casangi/xradio,663,Schema for Zernike polynomial coefficients of antenna aperture illumination (zpc_xds),OPEN,Kitchi Jan-Willem vsmagalhaes,,2026-11-09T12:01:45Z,,,https://github.com/casangi/xradio/issues/663
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,109,Epic: Workflow integration tests,OPEN,smcastro,Testing,2026-11-10T16:51:47Z,,,https://github.com/casangi/RADPS-roadmap/issues/109
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,147,Epic: Benchmark tests for astroviper for PI26.4,OPEN,,,2026-11-10T16:52:04Z,,,https://github.com/casangi/RADPS-roadmap/issues/147
@@ -118,6 +118,7 @@ Infrastructure,Done,Issue,casangi/astroviper,331,"Document arcae as the casacore
 Infrastructure,Done,Issue,casangi/benchviper,25,Update matrix of dependencies to use ARCAE backend,CLOSED,awells-nrao smcastro,enhancement,2026-11-10T16:52:39Z,2026-10-21T17:40:04Z,,https://github.com/casangi/benchviper/issues/25
 Infrastructure,Done,Issue,casangi/benchviper,41,README: give the reason for the macOS note now that XRADIO uses arcae,CLOSED,Jan-Willem,,2026-11-10T16:51:26Z,2026-10-16T18:01:52Z,,https://github.com/casangi/benchviper/issues/41
 Infrastructure,Done,PullRequest,casangi/benchviper,44,Use the shared pre-commit workflow,MERGED,smcastro,,2026-10-21T19:29:58Z,2026-10-21T19:29:57Z,,https://github.com/casangi/benchviper/pull/44
+Infrastructure,Done,Issue,casangi/benchviper,50,Remove python-casacore from astroviper build,CLOSED,smcastro,,2026-11-11T14:44:19Z,2026-11-11T14:44:19Z,,https://github.com/casangi/benchviper/issues/50
 Infrastructure,Done,Issue,casangi/flowviper,17,Use the shared pre-commit workflow,CLOSED,Jan-Willem,,2026-11-10T16:51:35Z,2026-11-04T13:50:32Z,,https://github.com/casangi/flowviper/issues/17
 Infrastructure,Done,Issue,casangi/flowviper,18,prefect_workflow README: out-of-date macOS MSv2 note and broken link,CLOSED,smcastro,,2026-11-04T13:58:23Z,2026-11-04T13:58:23Z,,https://github.com/casangi/flowviper/issues/18
 Infrastructure,Done,Issue,casangi/flowviper,22,Update workflow and create unit tests,CLOSED,smcastro,,2026-11-10T16:52:52Z,2026-11-04T13:43:39Z,,https://github.com/casangi/flowviper/issues/22
