@@ -1,0 +1,53 @@
+name: Set Triage on new project issues
+
+# Sets Program Increment to Triage on open issues added to org project
+# casangi/33 since --since that have no Program Increment.
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: List the issues without changing them
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: project-triage
+  cancel-in-progress: false
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # GITHUB_TOKEN cannot write to organization projects.
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3
+        with:
+          client-id: ${{ vars.RADPS_ROADMAP_APP_CLIENT_ID }}
+          private-key: ${{ secrets.RADPS_ROADMAP_APP_PRIVATE_KEY }}
+          owner: casangi
+          permission-issues: read
+          permission-organization-projects: write
+
+      - name: Set Triage
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          DRY_RUN: ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: |
+          python .github/scripts/set_triage.py \
+            --org casangi --project 33 --since 2026-11-06 $DRY_RUN
