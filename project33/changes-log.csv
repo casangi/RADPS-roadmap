@@ -1512,3 +1512,15 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-11T17:56:38Z,casangi/benchviper,50,Remove python-casacore from astroviper build,project,,added,https://github.com/casangi/benchviper/issues/50
 2026-11-11T19:52:53Z,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",Status,In progress,Done,https://github.com/casangi/toolviper/issues/75
 2026-11-11T19:52:53Z,casangi/toolviper,75,"local_client sets OMP_NUM_THREADS=1 in every worker, which caps the scipy and pyfftw FFT threads",state,OPEN,CLOSED,https://github.com/casangi/toolviper/issues/75
+2026-11-12T18:26:21Z,casangi/xradio,600,Data Schema for Representing Primary Beams,Status,In progress,Done,https://github.com/casangi/xradio/issues/600
+2026-11-12T18:26:21Z,casangi/xradio,600,Data Schema for Representing Primary Beams,state,OPEN,CLOSED,https://github.com/casangi/xradio/issues/600
+2026-11-12T18:26:21Z,casangi/astroviper,286,Fix plotting in iteration controller notebooks,Program Increment,PI26.4,PI27.1,https://github.com/casangi/astroviper/issues/286
+2026-11-12T18:26:21Z,casangi/astroviper,295,"Simulation From ""First Principles"" for Cube and Continuum Imaging",Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/295
+2026-11-12T18:26:21Z,casangi/astroviper,306,Self consistency test of cube imaging on a simulated point source field,Status,In progress,Done,https://github.com/casangi/astroviper/issues/306
+2026-11-12T18:26:21Z,casangi/astroviper,306,Self consistency test of cube imaging on a simulated point source field,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/306
+2026-11-12T18:26:21Z,casangi/xradio,652,ASDM Backend: support ephemeris data (FieldSourceEphemerisXds),Status,Backlog,In progress,https://github.com/casangi/xradio/issues/652
+2026-11-12T18:26:21Z,casangi/benchviper,45,Fix astroviper fft_ifft benchmark,Status,In progress,Done,https://github.com/casangi/benchviper/issues/45
+2026-11-12T18:26:21Z,casangi/benchviper,45,Fix astroviper fft_ifft benchmark,state,OPEN,CLOSED,https://github.com/casangi/benchviper/issues/45
+2026-11-12T18:26:21Z,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,Status,In progress,Won't Do,https://github.com/casangi/astroviper/issues/350
+2026-11-12T18:26:21Z,casangi/astroviper,366,Continuum imager needs >= 6.4 GiB more memory than the cube on large images,Status,,Backlog,https://github.com/casangi/astroviper/issues/366
+2026-11-12T18:26:21Z,casangi/astroviper,422,"Dirty cube channel 1.7x slower than v0.0.37: plane statistics, stop test and primary beam",project,,added,https://github.com/casangi/astroviper/issues/422

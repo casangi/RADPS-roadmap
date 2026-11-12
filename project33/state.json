@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T19:52:53Z",
+ "generated_at": "2026-11-12T18:26:21Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2613,7 +2613,7 @@
   },
   "https://github.com/casangi/astroviper/issues/286": {
    "number": 286,
-   "pi": "PI26.4",
+   "pi": "PI27.1",
    "repo": "casangi/astroviper",
    "state": "OPEN",
    "status": "Backlog",
@@ -2696,7 +2696,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Simulation From \"First Principles\" for Cube and Continuum Imaging",
    "url": "https://github.com/casangi/astroviper/issues/295"
@@ -2745,8 +2745,8 @@
    "number": 306,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Self consistency test of cube imaging on a simulated point source field",
    "url": "https://github.com/casangi/astroviper/issues/306"
@@ -3006,7 +3006,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Won't Do",
    "team": "Imaging",
    "title": "Align primary-beam conventions between AstroViper and CASA",
    "url": "https://github.com/casangi/astroviper/issues/350"
@@ -3096,7 +3096,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "",
+   "status": "Backlog",
    "team": "Imaging",
    "title": "Continuum imager needs >= 6.4 GiB more memory than the cube on large images",
    "url": "https://github.com/casangi/astroviper/issues/366"
@@ -3270,6 +3270,16 @@
    "team": "Imaging",
    "title": "prolate_spheroidal_grid_visibility",
    "url": "https://github.com/casangi/astroviper/issues/42"
+  },
+  "https://github.com/casangi/astroviper/issues/422": {
+   "number": 422,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Imaging",
+   "title": "Dirty cube channel 1.7x slower than v0.0.37: plane statistics, stop test and primary beam",
+   "url": "https://github.com/casangi/astroviper/issues/422"
   },
   "https://github.com/casangi/astroviper/issues/43": {
    "number": 43,
@@ -3565,8 +3575,8 @@
    "number": 45,
    "pi": "PI26.4",
    "repo": "casangi/benchviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Fix astroviper fft_ifft benchmark",
    "url": "https://github.com/casangi/benchviper/issues/45"
@@ -5505,8 +5515,8 @@
    "number": 600,
    "pi": "PI26.4",
    "repo": "casangi/xradio",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Data Schema for Representing Primary Beams",
    "url": "https://github.com/casangi/xradio/issues/600"
@@ -5746,7 +5756,7 @@
    "pi": "PI26.4",
    "repo": "casangi/xradio",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "ASDM Backend: support ephemeris data (FieldSourceEphemerisXds)",
    "url": "https://github.com/casangi/xradio/issues/652"
