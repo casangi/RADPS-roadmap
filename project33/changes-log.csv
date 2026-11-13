@@ -1525,3 +1525,4 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-12T18:26:21Z,casangi/astroviper,366,Continuum imager needs >= 6.4 GiB more memory than the cube on large images,Status,,Backlog,https://github.com/casangi/astroviper/issues/366
 2026-11-12T18:26:21Z,casangi/astroviper,422,"Dirty cube channel 1.7x slower than v0.0.37: plane statistics, stop test and primary beam",project,,added,https://github.com/casangi/astroviper/issues/422
 2026-11-13T17:54:01Z,casangi/astroviper,424,Port the pipeline's findcont as find_continuum (imaging),project,,added,https://github.com/casangi/astroviper/issues/424
+2026-11-13T20:05:32Z,casangi/graphviper,85,Resource monitor: first and last CPU samples are taken over near-zero intervals,project,,added,https://github.com/casangi/graphviper/issues/85

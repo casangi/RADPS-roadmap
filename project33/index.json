@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:54:01Z",
+  "generated_at": "2026-11-13T20:05:32Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -136,7 +136,7 @@
     "(no PI)": "pi/no-pi.csv",
     "PI-1": "pi/PI-1.csv"
   },
-  "item_count": 594,
+  "item_count": 595,
   "counts": {
     "PI26.4": {
       "Calibration": {
@@ -164,11 +164,11 @@
         }
       },
       "Infrastructure": {
-        "total": 106,
-        "done": 54,
+        "total": 107,
+        "done": 55,
         "by_status": {
           "Backlog": 28,
-          "Done": 54,
+          "Done": 55,
           "In progress": 22,
           "Won't Do": 2
         }

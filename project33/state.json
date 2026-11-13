@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:54:01Z",
+ "generated_at": "2026-11-13T20:05:32Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3840,6 +3840,16 @@
    "team": "Infrastructure",
    "title": "Check that coordinates are monotonic, and handle decreasing axes in every interpolation method",
    "url": "https://github.com/casangi/graphviper/issues/82"
+  },
+  "https://github.com/casangi/graphviper/issues/85": {
+   "number": 85,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Resource monitor: first and last CPU samples are taken over near-zero intervals",
+   "url": "https://github.com/casangi/graphviper/issues/85"
   },
   "https://github.com/casangi/pyasdm/issues/28": {
    "number": 28,
