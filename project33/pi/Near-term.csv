@@ -29,5 +29,5 @@ Pipeline,Backlog,Issue,casangi/RADPS-roadmap,207,Epic:  Logical Workflow Design,
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,29,"Epic: Demonstrate hybrid workflow mixing legacy domain functions with astroviper, CASA, etc.",OPEN,,Data Processing Workflows; Deployment Patterns,2026-11-03T17:26:59Z,,,https://github.com/casangi/RADPS-roadmap/issues/29
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,34,Epic:  Legacy CASA running in RADPS workflow manager,OPEN,,Deployment Patterns,2026-11-04T15:09:29Z,,,https://github.com/casangi/RADPS-roadmap/issues/34
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,35,Epic:  Legacy ALMA Pipeline running in RADPS workflow manager,OPEN,,Deployment Patterns,2026-11-04T15:09:42Z,,,https://github.com/casangi/RADPS-roadmap/issues/35
-Visualization,Backlog,Issue,casangi/cubevis,5,use xradio to load msv4 data,OPEN,,,2026-11-10T21:08:32Z,,casangi/RADPS-roadmap#220,https://github.com/casangi/cubevis/issues/5
+Visualization,Backlog,Issue,casangi/cubevis,5,use xradio to load msv4 data,OPEN,schiebel,,2026-11-12T22:04:52Z,,casangi/RADPS-roadmap#220,https://github.com/casangi/cubevis/issues/5
 ,Backlog,Issue,casangi/RADPS-roadmap,143,Epic: Compute Infrastructure recommendations,OPEN,,,2026-11-05T19:48:44Z,,,https://github.com/casangi/RADPS-roadmap/issues/143

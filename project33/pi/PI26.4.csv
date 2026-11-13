@@ -80,6 +80,7 @@ Imaging,In progress,Issue,casangi/astroviper,299,Align uv-cell assignment betwee
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
 Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-11-12T17:56:26Z,,,https://github.com/casangi/astroviper/issues/356
 Imaging,In progress,Issue,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",OPEN,hmuellergoe,,2026-11-10T21:44:25Z,,,https://github.com/casangi/astroviper/issues/374
+Imaging,In progress,Issue,casangi/astroviper,424,Port the pipeline's findcont as find_continuum (imaging),OPEN,Jan-Willem,,2026-11-13T17:46:33Z,,,https://github.com/casangi/astroviper/issues/424
 Imaging,In progress,Issue,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,OPEN,Jan-Willem hmuellergoe,,2026-11-12T16:57:04Z,,,https://github.com/casangi/xradio/issues/661
 Imaging,In progress,Issue,casangi/xradio,663,Schema for Zernike polynomial coefficients of antenna aperture illumination (zpc_xds),OPEN,Kitchi Jan-Willem vsmagalhaes,Schema,2026-11-12T17:56:40Z,,,https://github.com/casangi/xradio/issues/663
 Imaging,Won't Do,Issue,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,OPEN,Jan-Willem hmuellergoe,,2026-10-22T18:02:27Z,,,https://github.com/casangi/astroviper/issues/350

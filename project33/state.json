@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T20:29:23Z",
+ "generated_at": "2026-11-13T17:54:01Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3280,6 +3280,16 @@
    "team": "Imaging",
    "title": "Dirty cube channel 1.7x slower than v0.0.37: plane statistics, stop test and primary beam",
    "url": "https://github.com/casangi/astroviper/issues/422"
+  },
+  "https://github.com/casangi/astroviper/issues/424": {
+   "number": 424,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Port the pipeline's findcont as find_continuum (imaging)",
+   "url": "https://github.com/casangi/astroviper/issues/424"
   },
   "https://github.com/casangi/astroviper/issues/43": {
    "number": 43,
