@@ -78,7 +78,7 @@ Imaging,In progress,Issue,casangi/astroviper,295,"Simulation From ""First Princi
 Imaging,In progress,Issue,casangi/astroviper,298,Finish Continuum Imaging Memo II,OPEN,hmuellergoe,,2026-11-10T16:48:03Z,,,https://github.com/casangi/astroviper/issues/298
 Imaging,In progress,Issue,casangi/astroviper,299,Align uv-cell assignment between CASA and Astroviper,OPEN,hmuellergoe,,2026-11-10T16:48:01Z,,,https://github.com/casangi/astroviper/issues/299
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
-Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-11-12T17:56:26Z,,,https://github.com/casangi/astroviper/issues/356
+Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-11-14T17:06:13Z,,,https://github.com/casangi/astroviper/issues/356
 Imaging,In progress,Issue,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",OPEN,hmuellergoe,,2026-11-10T21:44:25Z,,,https://github.com/casangi/astroviper/issues/374
 Imaging,In progress,Issue,casangi/astroviper,424,Port the pipeline's findcont as find_continuum (imaging),OPEN,Jan-Willem,,2026-11-13T17:46:33Z,,,https://github.com/casangi/astroviper/issues/424
 Imaging,In progress,Issue,casangi/astroviper,429,Restore to a target beam (tclean restoringbeam) and add CASA's common beam,OPEN,Jan-Willem,,2026-11-14T00:47:45Z,,,https://github.com/casangi/astroviper/issues/429
