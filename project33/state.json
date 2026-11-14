@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:05:32Z",
+ "generated_at": "2026-11-14T16:38:48Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3035,8 +3035,8 @@
    "number": 353,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Reduce excessive shard-file allocation in sharding tests",
    "url": "https://github.com/casangi/astroviper/issues/353"
@@ -3290,6 +3290,16 @@
    "team": "Imaging",
    "title": "Port the pipeline's findcont as find_continuum (imaging)",
    "url": "https://github.com/casangi/astroviper/issues/424"
+  },
+  "https://github.com/casangi/astroviper/issues/429": {
+   "number": 429,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Restore to a target beam (tclean restoringbeam) and add CASA's common beam",
+   "url": "https://github.com/casangi/astroviper/issues/429"
   },
   "https://github.com/casangi/astroviper/issues/43": {
    "number": 43,
@@ -3835,8 +3845,8 @@
    "number": 82,
    "pi": "PI26.4",
    "repo": "casangi/graphviper",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Infrastructure",
    "title": "Check that coordinates are monotonic, and handle decreasing axes in every interpolation method",
    "url": "https://github.com/casangi/graphviper/issues/82"
