@@ -29,7 +29,6 @@ Imaging,Backlog,Issue,casangi/astroviper,366,Continuum imager needs >= 6.4 GiB m
 Imaging,Backlog,Issue,casangi/astroviper,406,Audit full stack for time reporting,OPEN,hmuellergoe,,2026-11-04T23:18:47Z,,,https://github.com/casangi/astroviper/issues/406
 Imaging,Backlog,Issue,casangi/astroviper,413,Review unit and regression tests,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-11-10T16:48:21Z,,,https://github.com/casangi/astroviper/issues/413
 Imaging,Backlog,Issue,casangi/astroviper,414,Define and implement empty-channel handling in cube imaging,OPEN,hmuellergoe,,2026-11-07T01:01:39Z,,,https://github.com/casangi/astroviper/issues/414
-Imaging,Backlog,Issue,casangi/astroviper,47,apply_common_beam,OPEN,,Fundamental Core Function; MS3.1: Single Field; MS3.2: Mosaic,2026-11-10T16:48:15Z,,casangi/astroviper#51,https://github.com/casangi/astroviper/issues/47
 Imaging,Backlog,Issue,casangi/radps-context,3,Define how to prototype,OPEN,,,2026-03-02T19:41:13Z,,casangi/RADPS-roadmap#116,https://github.com/casangi/radps-context/issues/3
 Imaging,Backlog,Issue,casangi/xradio,601,Define Convolution Function Cache Data Schema,OPEN,,,2026-08-10T20:42:12Z,,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/601
 Imaging,Done,Issue,casangi/RADPS,97,Transfer single field cube imaging test data to Charlottesville,CLOSED,Jan-Willem,,2026-10-22T14:27:41Z,2026-10-22T14:27:41Z,casangi/RADPS#96,https://github.com/casangi/RADPS/issues/97
@@ -67,6 +66,10 @@ Imaging,Done,Issue,casangi/astroviper,411,Asp's Gaussian components go outside t
 Imaging,Done,Issue,casangi/astroviper,416,Automatic CLEAN masks in the imagers (CASA auto-multithresh),CLOSED,,,2026-11-08T14:33:53Z,2026-11-08T14:33:53Z,,https://github.com/casangi/astroviper/issues/416
 Imaging,Done,Issue,casangi/astroviper,418,asp_min_mask_coverage cannot be set: the model update check refuses it,CLOSED,Jan-Willem,,2026-11-12T15:26:01Z,2026-11-08T14:34:17Z,,https://github.com/casangi/astroviper/issues/418
 Imaging,Done,Issue,casangi/astroviper,422,"Dirty cube channel 1.7x slower than v0.0.37: plane statistics, stop test and primary beam",CLOSED,Jan-Willem,,2026-11-12T15:25:28Z,2026-11-12T15:24:26Z,,https://github.com/casangi/astroviper/issues/422
+Imaging,Done,Issue,casangi/astroviper,424,Port the pipeline's findcont as find_continuum (imaging),CLOSED,Jan-Willem,,2026-11-15T00:37:01Z,2026-11-15T00:37:01Z,,https://github.com/casangi/astroviper/issues/424
+Imaging,Done,Issue,casangi/astroviper,429,Restore to a target beam (tclean restoringbeam) and add CASA's common beam,CLOSED,Jan-Willem,,2026-11-15T00:36:39Z,2026-11-15T00:36:39Z,,https://github.com/casangi/astroviper/issues/429
+Imaging,Done,Issue,casangi/astroviper,433,Move the benchmark result figures from RADPS into AstroVIPER,CLOSED,Jan-Willem,,2026-11-14T20:15:26Z,2026-11-14T20:15:26Z,,https://github.com/casangi/astroviper/issues/433
+Imaging,Done,Issue,casangi/astroviper,47,apply_common_beam,CLOSED,,Fundamental Core Function; MS3.1: Single Field; MS3.2: Mosaic,2026-11-15T00:36:41Z,2026-11-15T00:36:41Z,casangi/astroviper#51,https://github.com/casangi/astroviper/issues/47
 Imaging,Done,Issue,casangi/flowviper,4,Add new example workflow,CLOSED,smcastro taktsutsumi,,2026-11-10T16:47:09Z,2026-10-06T08:29:26Z,,https://github.com/casangi/flowviper/issues/4
 Imaging,Done,Issue,casangi/xradio,600,Data Schema for Representing Primary Beams,CLOSED,,Schema,2026-11-12T17:35:28Z,2026-11-12T17:35:28Z,casangi/RADPS-roadmap#10,https://github.com/casangi/xradio/issues/600
 Imaging,Done,Issue,casangi/xradio,608,Review definition UVW Coordinates,CLOSED,Jan-Willem,documentation,2026-11-10T16:48:35Z,2026-10-26T23:46:15Z,,https://github.com/casangi/xradio/issues/608
@@ -80,8 +83,6 @@ Imaging,In progress,Issue,casangi/astroviper,299,Align uv-cell assignment betwee
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
 Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-11-14T17:06:13Z,,,https://github.com/casangi/astroviper/issues/356
 Imaging,In progress,Issue,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",OPEN,hmuellergoe,,2026-11-10T21:44:25Z,,,https://github.com/casangi/astroviper/issues/374
-Imaging,In progress,Issue,casangi/astroviper,424,Port the pipeline's findcont as find_continuum (imaging),OPEN,Jan-Willem,,2026-11-13T17:46:33Z,,,https://github.com/casangi/astroviper/issues/424
-Imaging,In progress,Issue,casangi/astroviper,429,Restore to a target beam (tclean restoringbeam) and add CASA's common beam,OPEN,Jan-Willem,,2026-11-14T00:47:45Z,,,https://github.com/casangi/astroviper/issues/429
 Imaging,In progress,Issue,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,OPEN,Jan-Willem hmuellergoe,,2026-11-12T16:57:04Z,,,https://github.com/casangi/xradio/issues/661
 Imaging,In progress,Issue,casangi/xradio,663,Schema for Zernike polynomial coefficients of antenna aperture illumination (zpc_xds),OPEN,Kitchi Jan-Willem vsmagalhaes,Schema,2026-11-12T17:56:40Z,,,https://github.com/casangi/xradio/issues/663
 Imaging,Won't Do,Issue,casangi/astroviper,350,Align primary-beam conventions between AstroViper and CASA,OPEN,Jan-Willem hmuellergoe,,2026-10-22T18:02:27Z,,,https://github.com/casangi/astroviper/issues/350
