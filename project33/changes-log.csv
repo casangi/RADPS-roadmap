@@ -1538,3 +1538,7 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-15T17:16:58Z,casangi/astroviper,429,Restore to a target beam (tclean restoringbeam) and add CASA's common beam,Status,In progress,Done,https://github.com/casangi/astroviper/issues/429
 2026-11-15T17:16:58Z,casangi/astroviper,429,Restore to a target beam (tclean restoringbeam) and add CASA's common beam,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/429
 2026-11-15T17:16:58Z,casangi/astroviper,433,Move the benchmark result figures from RADPS into AstroVIPER,project,,added,https://github.com/casangi/astroviper/issues/433
+2026-11-16T20:34:15Z,casangi/RADPS-roadmap,10,Epic: Mosaic Cube Imaging Distributed Application,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/10
+2026-11-16T20:34:15Z,casangi/RADPS-roadmap,14,Epic: Multi-term Continuum Imaging,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/14
+2026-11-16T20:34:15Z,casangi/astroviper,351,Add XRADIO tooling for updating data groups directly in persisted Zarr stores,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/351
+2026-11-16T20:34:15Z,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,project,,added,https://github.com/casangi/astroviper/issues/447

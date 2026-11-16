@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-15T19:08:36Z",
+ "generated_at": "2026-11-16T20:34:15Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Epic: Mosaic Cube Imaging Distributed Application",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/10"
@@ -356,7 +356,7 @@
    "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Epic: Multi-term Continuum Imaging",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/14"
@@ -3016,7 +3016,7 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Add XRADIO tooling for updating data groups directly in persisted Zarr stores",
    "url": "https://github.com/casangi/astroviper/issues/351"
@@ -3330,6 +3330,16 @@
    "team": "Imaging",
    "title": "hogbom_deconvolve\u200b",
    "url": "https://github.com/casangi/astroviper/issues/44"
+  },
+  "https://github.com/casangi/astroviper/issues/447": {
+   "number": 447,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Check MVC datasets that failed for CASA in the past",
+   "url": "https://github.com/casangi/astroviper/issues/447"
   },
   "https://github.com/casangi/astroviper/issues/45": {
    "number": 45,
