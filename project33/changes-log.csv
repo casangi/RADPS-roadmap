@@ -1542,3 +1542,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-16T20:34:15Z,casangi/RADPS-roadmap,14,Epic: Multi-term Continuum Imaging,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/14
 2026-11-16T20:34:15Z,casangi/astroviper,351,Add XRADIO tooling for updating data groups directly in persisted Zarr stores,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/351
 2026-11-16T20:34:15Z,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,project,,added,https://github.com/casangi/astroviper/issues/447
+2026-11-17T19:14:36Z,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/354
+2026-11-17T19:14:36Z,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,Program Increment,,Triage,https://github.com/casangi/astroviper/issues/447

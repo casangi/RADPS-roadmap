@@ -5,6 +5,7 @@ Imaging,Backlog,Issue,casangi/astroviper,294,Atmospheric phase corruption with a
 Imaging,Backlog,Issue,casangi/astroviper,339,ARDG -> astroviper: Component Relaxation,OPEN,hmuellergoe,,2026-10-19T19:54:31Z,,,https://github.com/casangi/astroviper/issues/339
 Imaging,Backlog,Issue,casangi/astroviper,340,ARDG -> astroviper: Autocorr-CLEAN,OPEN,,,2026-10-19T19:55:10Z,,,https://github.com/casangi/astroviper/issues/340
 Imaging,Backlog,Issue,casangi/astroviper,364,"EVLA L-band Zernike model has no eta column, and its beams come out 6-12 % wider than the measured VLA beam",OPEN,,,2026-10-27T14:37:38Z,,,https://github.com/casangi/astroviper/issues/364
+Imaging,Backlog,Issue,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,OPEN,hmuellergoe,,2026-11-16T15:57:08Z,,,https://github.com/casangi/astroviper/issues/447
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,137,port AWproject from CASA,OPEN,,,2026-06-23T15:23:20Z,,,https://github.com/casangi/RADPS-roadmap/issues/137
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,138,port GPU gridder to astroviper,OPEN,,Imaging,2026-06-24T19:45:15Z,,,https://github.com/casangi/RADPS-roadmap/issues/138
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,24,Epic: Prototype data reduction report components,OPEN,,Data Reduction Reports,2026-11-06T19:43:55Z,,,https://github.com/casangi/RADPS-roadmap/issues/24

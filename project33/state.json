@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:33:13Z",
+ "generated_at": "2026-11-17T19:14:36Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3046,9 +3046,9 @@
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
-   "title": "Investigate caching and threading of MT-MFS setup across imaging cycles",
+   "title": "Investigate caching and threading of setup across imaging cycles",
    "url": "https://github.com/casangi/astroviper/issues/354"
   },
   "https://github.com/casangi/astroviper/issues/355": {
@@ -3333,7 +3333,7 @@
   },
   "https://github.com/casangi/astroviper/issues/447": {
    "number": 447,
-   "pi": "",
+   "pi": "Triage",
    "repo": "casangi/astroviper",
    "state": "OPEN",
    "status": "Backlog",

@@ -21,7 +21,6 @@ Imaging,Backlog,Issue,casangi/astroviper,337,Future testing of CORAL,OPEN,Jan-Wi
 Imaging,Backlog,Issue,casangi/astroviper,338,fft_backend: scipy is about 2x faster than pyfftw on Apple silicon; check on Linux before changing the default,OPEN,Jan-Willem,,2026-10-19T01:48:31Z,,,https://github.com/casangi/astroviper/issues/338
 Imaging,Backlog,Issue,casangi/astroviper,347,Define validation and recalculation policy for existing imaging weights,OPEN,hmuellergoe,,2026-10-22T15:19:22Z,,,https://github.com/casangi/astroviper/issues/347
 Imaging,Backlog,Issue,casangi/astroviper,349,Benchmark and select the continuum task-state storage strategy,OPEN,hmuellergoe,,2026-10-22T15:20:58Z,,,https://github.com/casangi/astroviper/issues/349
-Imaging,Backlog,Issue,casangi/astroviper,354,Investigate caching and threading of MT-MFS setup across imaging cycles,OPEN,hmuellergoe,,2026-10-22T15:22:51Z,,,https://github.com/casangi/astroviper/issues/354
 Imaging,Backlog,Issue,casangi/astroviper,366,Continuum imager needs >= 6.4 GiB more memory than the cube on large images,OPEN,Jan-Willem,,2026-11-12T18:08:53Z,,,https://github.com/casangi/astroviper/issues/366
 Imaging,Backlog,Issue,casangi/astroviper,406,Audit full stack for time reporting,OPEN,hmuellergoe,,2026-11-04T23:18:47Z,,,https://github.com/casangi/astroviper/issues/406
 Imaging,Backlog,Issue,casangi/astroviper,413,Review unit and regression tests,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-11-10T16:48:21Z,,,https://github.com/casangi/astroviper/issues/413
@@ -81,6 +80,7 @@ Imaging,In progress,Issue,casangi/astroviper,298,Finish Continuum Imaging Memo I
 Imaging,In progress,Issue,casangi/astroviper,299,Align uv-cell assignment between CASA and Astroviper,OPEN,hmuellergoe,,2026-11-10T16:48:01Z,,,https://github.com/casangi/astroviper/issues/299
 Imaging,In progress,Issue,casangi/astroviper,320,NumPy-compatible dtypes from load through the full stack,OPEN,,,2026-10-08T21:43:32Z,,,https://github.com/casangi/astroviper/issues/320
 Imaging,In progress,Issue,casangi/astroviper,351,Add XRADIO tooling for updating data groups directly in persisted Zarr stores,OPEN,hmuellergoe,,2026-10-22T15:21:49Z,,,https://github.com/casangi/astroviper/issues/351
+Imaging,In progress,Issue,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,OPEN,hmuellergoe,,2026-11-16T23:53:33Z,,,https://github.com/casangi/astroviper/issues/354
 Imaging,In progress,Issue,casangi/astroviper,356,Document Departures from CASA Implemenation,OPEN,Jan-Willem taktsutsumi hmuellergoe,,2026-11-14T17:06:13Z,,,https://github.com/casangi/astroviper/issues/356
 Imaging,In progress,Issue,casangi/astroviper,374,"pbcorr, widebandpbcorr and flat-noise image heuristics",OPEN,hmuellergoe,,2026-11-10T21:44:25Z,,,https://github.com/casangi/astroviper/issues/374
 Imaging,In progress,Issue,casangi/xradio,661,Support continuum Taylor-product image dimensions in the XRADIO image schema,OPEN,Jan-Willem hmuellergoe,,2026-11-12T16:57:04Z,,,https://github.com/casangi/xradio/issues/661
