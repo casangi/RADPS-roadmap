@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:14:36Z",
+ "generated_at": "2026-11-17T21:22:49Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -1010,6 +1010,16 @@
    "team": "",
    "title": "Workflow Manager Technology Down Select for Demonstrator",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/236"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/238": {
+   "number": 238,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Imaging",
+   "title": "Epic:  Define parameters for worst case ALMA WSU continuum imaging",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/238"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/24": {
    "number": 24,

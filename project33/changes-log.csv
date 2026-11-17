@@ -1544,3 +1544,4 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-16T20:34:15Z,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,project,,added,https://github.com/casangi/astroviper/issues/447
 2026-11-17T19:14:36Z,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/354
 2026-11-17T19:14:36Z,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,Program Increment,,Triage,https://github.com/casangi/astroviper/issues/447
+2026-11-17T21:22:49Z,casangi/RADPS-roadmap,238,Epic:  Define parameters for worst case ALMA WSU continuum imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/238
