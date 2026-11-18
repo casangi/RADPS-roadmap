@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:22:49Z",
+ "generated_at": "2026-11-18T18:54:10Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2635,8 +2635,8 @@
    "number": 288,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Calibration",
    "title": "Refactor to match the new module structure",
    "url": "https://github.com/casangi/astroviper/issues/288"
@@ -3343,13 +3343,23 @@
   },
   "https://github.com/casangi/astroviper/issues/447": {
    "number": 447,
-   "pi": "Triage",
+   "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Check MVC datasets that failed for CASA in the past",
    "url": "https://github.com/casangi/astroviper/issues/447"
+  },
+  "https://github.com/casangi/astroviper/issues/449": {
+   "number": 449,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "",
+   "title": "Multiband fringefit",
+   "url": "https://github.com/casangi/astroviper/issues/449"
   },
   "https://github.com/casangi/astroviper/issues/45": {
    "number": 45,
@@ -3360,6 +3370,86 @@
    "team": "Imaging",
    "title": "fit_gaussian",
    "url": "https://github.com/casangi/astroviper/issues/45"
+  },
+  "https://github.com/casangi/astroviper/issues/450": {
+   "number": 450,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "",
+   "title": "Multiband fringefit global fringefit",
+   "url": "https://github.com/casangi/astroviper/issues/450"
+  },
+  "https://github.com/casangi/astroviper/issues/451": {
+   "number": 451,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "",
+   "title": "Multiband fringefit in Dask",
+   "url": "https://github.com/casangi/astroviper/issues/451"
+  },
+  "https://github.com/casangi/astroviper/issues/452": {
+   "number": 452,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "",
+   "title": "Apply fringefit calibrations to named Xds members",
+   "url": "https://github.com/casangi/astroviper/issues/452"
+  },
+  "https://github.com/casangi/astroviper/issues/453": {
+   "number": 453,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Apply fringefit calibrations via Dask",
+   "url": "https://github.com/casangi/astroviper/issues/453"
+  },
+  "https://github.com/casangi/astroviper/issues/454": {
+   "number": 454,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Assess fringefit parallel performance behaviour on a Big Computer",
+   "url": "https://github.com/casangi/astroviper/issues/454"
+  },
+  "https://github.com/casangi/astroviper/issues/455": {
+   "number": 455,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Decompose the observation time axis into solution intervals that scan boundaries",
+   "url": "https://github.com/casangi/astroviper/issues/455"
+  },
+  "https://github.com/casangi/astroviper/issues/456": {
+   "number": 456,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Preserve image-channel boundaries when validating partitioned frequency mappings",
+   "url": "https://github.com/casangi/astroviper/issues/456"
+  },
+  "https://github.com/casangi/astroviper/issues/457": {
+   "number": 457,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Audit and enforce array alignment and serialization-safe dtype checks across native kernels",
+   "url": "https://github.com/casangi/astroviper/issues/457"
   },
   "https://github.com/casangi/astroviper/issues/47": {
    "number": 47,

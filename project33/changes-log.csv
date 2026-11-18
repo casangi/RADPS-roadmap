@@ -1545,3 +1545,16 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-17T19:14:36Z,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/354
 2026-11-17T19:14:36Z,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,Program Increment,,Triage,https://github.com/casangi/astroviper/issues/447
 2026-11-17T21:22:49Z,casangi/RADPS-roadmap,238,Epic:  Define parameters for worst case ALMA WSU continuum imaging,project,,added,https://github.com/casangi/RADPS-roadmap/issues/238
+2026-11-18T18:54:10Z,casangi/astroviper,288,Refactor to match the new module structure,Status,In progress,Done,https://github.com/casangi/astroviper/issues/288
+2026-11-18T18:54:10Z,casangi/astroviper,288,Refactor to match the new module structure,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/288
+2026-11-18T18:54:10Z,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,Status,Backlog,In progress,https://github.com/casangi/astroviper/issues/447
+2026-11-18T18:54:10Z,casangi/astroviper,447,Check MVC datasets that failed for CASA in the past,Program Increment,Triage,PI26.4,https://github.com/casangi/astroviper/issues/447
+2026-11-18T18:54:10Z,casangi/astroviper,449,Multiband fringefit,project,,added,https://github.com/casangi/astroviper/issues/449
+2026-11-18T18:54:10Z,casangi/astroviper,450,Multiband fringefit global fringefit,project,,added,https://github.com/casangi/astroviper/issues/450
+2026-11-18T18:54:10Z,casangi/astroviper,451,Multiband fringefit in Dask,project,,added,https://github.com/casangi/astroviper/issues/451
+2026-11-18T18:54:10Z,casangi/astroviper,452,Apply fringefit calibrations to named Xds members,project,,added,https://github.com/casangi/astroviper/issues/452
+2026-11-18T18:54:10Z,casangi/astroviper,453,Apply fringefit calibrations via Dask,project,,added,https://github.com/casangi/astroviper/issues/453
+2026-11-18T18:54:10Z,casangi/astroviper,454,Assess fringefit parallel performance behaviour on a Big Computer,project,,added,https://github.com/casangi/astroviper/issues/454
+2026-11-18T18:54:10Z,casangi/astroviper,455,Decompose the observation time axis into solution intervals that scan boundaries,project,,added,https://github.com/casangi/astroviper/issues/455
+2026-11-18T18:54:10Z,casangi/astroviper,456,Preserve image-channel boundaries when validating partitioned frequency mappings,project,,added,https://github.com/casangi/astroviper/issues/456
+2026-11-18T18:54:10Z,casangi/astroviper,457,Audit and enforce array alignment and serialization-safe dtype checks across native kernels,project,,added,https://github.com/casangi/astroviper/issues/457
