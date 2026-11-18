@@ -1558,3 +1558,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-18T18:54:10Z,casangi/astroviper,455,Decompose the observation time axis into solution intervals that scan boundaries,project,,added,https://github.com/casangi/astroviper/issues/455
 2026-11-18T18:54:10Z,casangi/astroviper,456,Preserve image-channel boundaries when validating partitioned frequency mappings,project,,added,https://github.com/casangi/astroviper/issues/456
 2026-11-18T18:54:10Z,casangi/astroviper,457,Audit and enforce array alignment and serialization-safe dtype checks across native kernels,project,,added,https://github.com/casangi/astroviper/issues/457
+2026-11-18T20:55:16Z,casangi/RADPS-roadmap,140,Epic: Auto-multithresh Implementation,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/140
+2026-11-18T20:55:16Z,casangi/RADPS-roadmap,145,Epic:  Integrate findcont into RADPS,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/145

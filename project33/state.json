@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:54:10Z",
+ "generated_at": "2026-11-18T20:55:16Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -366,7 +366,7 @@
    "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Epic: Auto-multithresh Implementation",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/140"
@@ -406,7 +406,7 @@
    "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Imaging",
    "title": "Epic:  Integrate findcont into RADPS",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/145"
