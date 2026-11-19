@@ -1,16 +1,16 @@
 # RADPS Roadmap — status by PI and team
 
-Generated 2026-11-18T20:55:16Z from https://github.com/orgs/casangi/projects/33.
+Generated 2026-11-19T19:03:27Z from https://github.com/orgs/casangi/projects/33.
 
 Current PI: **PI26.4**
 
-## PI26.4 — 102/223 done (46%)
+## PI26.4 — 102/224 done (46%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | Calibration | 1/6 | 17% | 0 | 5 | 1 | 0 |
 | External | 0/1 | 0% | 0 | 1 | 0 | 0 |
-| Imaging | 43/83 | 52% | 21 | 18 | 43 | 1 |
+| Imaging | 43/84 | 51% | 21 | 19 | 43 | 1 |
 | Infrastructure | 56/107 | 52% | 27 | 22 | 56 | 2 |
 | Management | 0/5 | 0% | 0 | 5 | 0 | 0 |
 | Pipeline | 1/8 | 12% | 7 | 0 | 1 | 0 |
@@ -38,12 +38,12 @@ Current PI: **PI26.4**
 | Pipeline | 0/1 | 0% | 1 | 0 | 0 | 0 |
 | (no team) | 0/2 | 0% | 2 | 0 | 0 | 0 |
 
-## Near-term — 0/32 done (0%)
+## Near-term — 1/32 done (3%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | External | 0/2 | 0% | 1 | 1 | 0 | 0 |
-| Imaging | 0/7 | 0% | 6 | 1 | 0 | 0 |
+| Imaging | 1/7 | 14% | 6 | 0 | 1 | 0 |
 | Infrastructure | 0/4 | 0% | 4 | 0 | 0 | 0 |
 | Management | 0/12 | 0% | 11 | 1 | 0 | 0 |
 | Pipeline | 0/5 | 0% | 5 | 0 | 0 | 0 |
@@ -59,12 +59,12 @@ Current PI: **PI26.4**
 | Single Dish | 0/27 | 0% | 26 | 0 | 0 | 1 |
 | (no team) | 0/2 | 0% | 2 | 0 | 0 | 0 |
 
-## PI27.1 — 0/16 done (0%)
+## PI27.1 — 3/16 done (19%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | Calibration | 0/3 | 0% | 3 | 0 | 0 | 0 |
-| Imaging | 0/11 | 0% | 10 | 1 | 0 | 0 |
+| Imaging | 3/11 | 27% | 8 | 0 | 3 | 0 |
 | Infrastructure | 0/2 | 0% | 2 | 0 | 0 | 0 |
 
 ## PI-4=26.3 — 158/162 done (98%)
@@ -104,12 +104,12 @@ Current PI: **PI26.4**
 |---|---:|---:|---:|---:|---:|---:|
 | (no team) | 3/3 | 100% | 0 | 0 | 3 | 0 |
 
-## (no PI) — 11/26 done (42%)
+## (no PI) — 11/33 done (33%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | External | 1/1 | 100% | 0 | 0 | 1 | 0 |
 | Imaging | 0/1 | 0% | 0 | 0 | 0 | 1 |
 | Infrastructure | 1/3 | 33% | 1 | 0 | 1 | 1 |
-| (no team) | 9/21 | 43% | 3 | 0 | 9 | 9 |
+| (no team) | 9/28 | 32% | 10 | 0 | 9 | 9 |
 

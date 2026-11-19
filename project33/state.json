@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:55:16Z",
+ "generated_at": "2026-11-19T19:03:27Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -365,8 +365,8 @@
    "number": 140,
    "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Epic: Auto-multithresh Implementation",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/140"
@@ -395,8 +395,8 @@
    "number": 144,
    "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Epic: Spectrum within a mask",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/144"
@@ -405,8 +405,8 @@
    "number": 145,
    "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Epic:  Integrate findcont into RADPS",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/145"
@@ -695,8 +695,8 @@
    "number": 20,
    "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Epic: Image Moments",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/20"
@@ -848,7 +848,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
-   "title": "Epic: Single Field Cube and Continuum Imaging Campaign on real data",
+   "title": "Epic: Cube Imaging Campaign on real data",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/217"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/219": {
@@ -1021,6 +1021,16 @@
    "title": "Epic:  Define parameters for worst case ALMA WSU continuum imaging",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/238"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/239": {
+   "number": 239,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Detailed science validation of find_continuum",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/239"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/24": {
    "number": 24,
    "pi": "Triage",
@@ -1030,6 +1040,66 @@
    "team": "Infrastructure",
    "title": "Epic: Prototype data reduction report components",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/24"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/240": {
+   "number": 240,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Detailed science validation auto-multithresh",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/240"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/241": {
+   "number": 241,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Detailed science validation of uv continuum subtraction",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/241"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/242": {
+   "number": 242,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: IF Imaging Prototype Workflow tests at JAO",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/242"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/243": {
+   "number": 243,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: interface to existing msv2 calibration tables",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/243"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/244": {
+   "number": 244,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Continuum Imaging Test Campaign on Real Data",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/244"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/245": {
+   "number": 245,
+   "pi": "",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Design for QA",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/245"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/25": {
    "number": 25,
@@ -1058,7 +1128,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
-   "title": "Epic:  Prototype Imaging Workflow",
+   "title": "Epic:  Prototype IF MOUS Imaging Workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/27"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/29": {
@@ -3450,6 +3520,16 @@
    "team": "Imaging",
    "title": "Audit and enforce array alignment and serialization-safe dtype checks across native kernels",
    "url": "https://github.com/casangi/astroviper/issues/457"
+  },
+  "https://github.com/casangi/astroviper/issues/462": {
+   "number": 462,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Decode complex Zarr fill values correctly in the chunk reader",
+   "url": "https://github.com/casangi/astroviper/issues/462"
   },
   "https://github.com/casangi/astroviper/issues/47": {
    "number": 47,

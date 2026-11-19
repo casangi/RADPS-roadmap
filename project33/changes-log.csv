@@ -1560,3 +1560,19 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-18T18:54:10Z,casangi/astroviper,457,Audit and enforce array alignment and serialization-safe dtype checks across native kernels,project,,added,https://github.com/casangi/astroviper/issues/457
 2026-11-18T20:55:16Z,casangi/RADPS-roadmap,140,Epic: Auto-multithresh Implementation,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/140
 2026-11-18T20:55:16Z,casangi/RADPS-roadmap,145,Epic:  Integrate findcont into RADPS,Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/145
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,140,Epic: Auto-multithresh Implementation,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/140
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,140,Epic: Auto-multithresh Implementation,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/140
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,144,Epic: Spectrum within a mask,Status,Backlog,Done,https://github.com/casangi/RADPS-roadmap/issues/144
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,144,Epic: Spectrum within a mask,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/144
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,20,Epic: Image Moments,Status,Backlog,Done,https://github.com/casangi/RADPS-roadmap/issues/20
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,20,Epic: Image Moments,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/20
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,145,Epic:  Integrate findcont into RADPS,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/145
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,145,Epic:  Integrate findcont into RADPS,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/145
+2026-11-19T19:03:27Z,casangi/astroviper,462,Decode complex Zarr fill values correctly in the chunk reader,project,,added,https://github.com/casangi/astroviper/issues/462
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,239,Epic: Detailed science validation of find_continuum,project,,added,https://github.com/casangi/RADPS-roadmap/issues/239
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,240,Epic: Detailed science validation auto-multithresh,project,,added,https://github.com/casangi/RADPS-roadmap/issues/240
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,241,Epic: Detailed science validation of uv continuum subtraction,project,,added,https://github.com/casangi/RADPS-roadmap/issues/241
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,242,Epic: IF Imaging Prototype Workflow tests at JAO,project,,added,https://github.com/casangi/RADPS-roadmap/issues/242
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,243,Epic: interface to existing msv2 calibration tables,project,,added,https://github.com/casangi/RADPS-roadmap/issues/243
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,244,Epic: Continuum Imaging Test Campaign on Real Data,project,,added,https://github.com/casangi/RADPS-roadmap/issues/244
+2026-11-19T19:03:27Z,casangi/RADPS-roadmap,245,Epic: Design for QA,project,,added,https://github.com/casangi/RADPS-roadmap/issues/245

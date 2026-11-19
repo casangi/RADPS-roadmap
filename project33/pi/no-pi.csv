@@ -4,6 +4,13 @@ Imaging,Won't Do,Issue,casangi/xradio,516,Update Image Unit Tests,CLOSED,,,2026-
 Infrastructure,Backlog,Issue,casangi/xradio,659,"Only a sky image's flag can be declared in `data_groups`, and a sky and an aperture image cannot share a store",OPEN,Jan-Willem,bug,2026-10-21T14:51:14Z,,,https://github.com/casangi/xradio/issues/659
 Infrastructure,Done,Issue,casangi/toolviper,78,"pre-commit: update ruff to 0.16.10, the version every repository uses",CLOSED,Jan-Willem,,2026-10-21T19:25:52Z,2026-10-21T19:25:52Z,,https://github.com/casangi/toolviper/issues/78
 Infrastructure,Won't Do,Issue,casangi/RADPS-roadmap,60,Epic:  XRADIO measurement set maintenance,CLOSED,,Data Schemas,2026-09-10T21:24:14Z,2026-09-10T21:24:14Z,,https://github.com/casangi/RADPS-roadmap/issues/60
+,Backlog,Issue,casangi/RADPS-roadmap,239,Epic: Detailed science validation of find_continuum,OPEN,,,2026-11-19T14:54:11Z,,,https://github.com/casangi/RADPS-roadmap/issues/239
+,Backlog,Issue,casangi/RADPS-roadmap,240,Epic: Detailed science validation auto-multithresh,OPEN,,,2026-11-19T14:54:13Z,,,https://github.com/casangi/RADPS-roadmap/issues/240
+,Backlog,Issue,casangi/RADPS-roadmap,241,Epic: Detailed science validation of uv continuum subtraction,OPEN,,,2026-11-19T14:54:15Z,,,https://github.com/casangi/RADPS-roadmap/issues/241
+,Backlog,Issue,casangi/RADPS-roadmap,242,Epic: IF Imaging Prototype Workflow tests at JAO,OPEN,,,2026-11-19T15:06:41Z,,,https://github.com/casangi/RADPS-roadmap/issues/242
+,Backlog,Issue,casangi/RADPS-roadmap,243,Epic: interface to existing msv2 calibration tables,OPEN,,,2026-11-19T15:29:12Z,,,https://github.com/casangi/RADPS-roadmap/issues/243
+,Backlog,Issue,casangi/RADPS-roadmap,244,Epic: Continuum Imaging Test Campaign on Real Data,OPEN,,,2026-11-19T15:54:46Z,,,https://github.com/casangi/RADPS-roadmap/issues/244
+,Backlog,Issue,casangi/RADPS-roadmap,245,Epic: Design for QA,OPEN,,,2026-11-19T16:04:40Z,,,https://github.com/casangi/RADPS-roadmap/issues/245
 ,Backlog,Issue,casangi/astroviper,453,Apply fringefit calibrations via Dask,OPEN,,,2026-11-18T10:31:02Z,,casangi/astroviper#283,https://github.com/casangi/astroviper/issues/453
 ,Backlog,Issue,casangi/astroviper,454,Assess fringefit parallel performance behaviour on a Big Computer,OPEN,,,2026-11-18T10:33:20Z,,casangi/astroviper#283,https://github.com/casangi/astroviper/issues/454
 ,Backlog,Issue,casangi/astroviper,455,Decompose the observation time axis into solution intervals that scan boundaries,OPEN,,,2026-11-18T10:37:32Z,,casangi/astroviper#283,https://github.com/casangi/astroviper/issues/455
