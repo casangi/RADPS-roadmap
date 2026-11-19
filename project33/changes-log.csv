@@ -1576,3 +1576,6 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-19T19:03:27Z,casangi/RADPS-roadmap,243,Epic: interface to existing msv2 calibration tables,project,,added,https://github.com/casangi/RADPS-roadmap/issues/243
 2026-11-19T19:03:27Z,casangi/RADPS-roadmap,244,Epic: Continuum Imaging Test Campaign on Real Data,project,,added,https://github.com/casangi/RADPS-roadmap/issues/244
 2026-11-19T19:03:27Z,casangi/RADPS-roadmap,245,Epic: Design for QA,project,,added,https://github.com/casangi/RADPS-roadmap/issues/245
+2026-11-19T21:02:08Z,casangi/cubevis,5,use xradio to load msv4 data,Status,Backlog,Done,https://github.com/casangi/cubevis/issues/5
+2026-11-19T21:02:08Z,casangi/cubevis,5,use xradio to load msv4 data,state,OPEN,CLOSED,https://github.com/casangi/cubevis/issues/5
+2026-11-19T21:02:08Z,casangi/astroviper,467,Tutorial notebook: simulate and recover an SED in all ten ALMA bands,project,,added,https://github.com/casangi/astroviper/issues/467

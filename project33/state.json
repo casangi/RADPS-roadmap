@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:03:27Z",
+ "generated_at": "2026-11-19T21:02:08Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3531,6 +3531,16 @@
    "title": "Decode complex Zarr fill values correctly in the chunk reader",
    "url": "https://github.com/casangi/astroviper/issues/462"
   },
+  "https://github.com/casangi/astroviper/issues/467": {
+   "number": 467,
+   "pi": "PI26.4",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Imaging",
+   "title": "Tutorial notebook: simulate and recover an SED in all ten ALMA bands",
+   "url": "https://github.com/casangi/astroviper/issues/467"
+  },
   "https://github.com/casangi/astroviper/issues/47": {
    "number": 47,
    "pi": "PI26.4",
@@ -3825,8 +3835,8 @@
    "number": 5,
    "pi": "Near-term",
    "repo": "casangi/cubevis",
-   "state": "OPEN",
-   "status": "Backlog",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Visualization",
    "title": "use xradio to load msv4 data",
    "url": "https://github.com/casangi/cubevis/issues/5"
