@@ -197,8 +197,8 @@ Infrastructure,In progress,Issue,casangi/xradio,656,Image schema review -- the T
 Infrastructure,In progress,Issue,casangi/xradio,660,An aperture-plane image read from CASA does not conform to the image schema,OPEN,Jan-Willem,,2026-10-21T14:50:31Z,,,https://github.com/casangi/xradio/issues/660
 Infrastructure,Won't Do,Issue,casangi/RADPS-roadmap,62,Epic:  Refactor of XRADIO MSv2 to MSv4 converter,OPEN,enrique-alma-eso,Data Schemas,2026-11-05T19:38:30Z,,,https://github.com/casangi/RADPS-roadmap/issues/62
 Infrastructure,Won't Do,Issue,casangi/xradio,577,Improve Memory Performance of convert_msv2_to_processing_set,OPEN,enrique-alma-eso,,2026-08-24T07:48:13Z,,casangi/RADPS-roadmap#62,https://github.com/casangi/xradio/issues/577
+Management,Done,Issue,casangi/RADPS-roadmap,199,Epic:  RADPS-ALMA - ALMA-D3 Interface process,CLOSED,aakepley,,2026-11-20T19:53:05Z,2026-11-20T19:53:05Z,,https://github.com/casangi/RADPS-roadmap/issues/199
 Management,In progress,Issue,casangi/RADPS-roadmap,197,Add guidelines for issue and PR creation to AGENTS.md,OPEN,aakepley,,2026-11-10T16:53:52Z,,,https://github.com/casangi/RADPS-roadmap/issues/197
-Management,In progress,Issue,casangi/RADPS-roadmap,199,Epic:  RADPS-ALMA - ALMA-D3 Interface process,OPEN,aakepley,,2026-11-10T16:53:30Z,,,https://github.com/casangi/RADPS-roadmap/issues/199
 Management,In progress,Issue,casangi/RADPS-roadmap,219,Epic: AI Usage,OPEN,Jan-Willem,AI,2026-11-05T19:40:53Z,,,https://github.com/casangi/RADPS-roadmap/issues/219
 Management,In progress,Issue,casangi/radps-sccb,2,SCCB: Add full polarization imaging to RADPS-ALMA project scope,OPEN,sspitale,,2026-10-21T17:20:32Z,,,https://github.com/casangi/radps-sccb/issues/2
 Management,In progress,Issue,casangi/radpsdocs,25,Initiate RADPS memo series,OPEN,aakepley,Memo Series,2026-04-28T17:21:14Z,,casangi/RADPS-roadmap#25,https://github.com/casangi/radpsdocs/issues/25

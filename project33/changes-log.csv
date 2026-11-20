@@ -1602,3 +1602,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-20T18:39:29Z,casangi/flowviper,27,Create diagram for MVP implementation of IF MOUS Imaging Workflow,project,,added,https://github.com/casangi/flowviper/issues/27
 2026-11-20T18:39:29Z,casangi/RADPS-roadmap,246,Epic: Solve for complex gain with time,project,,added,https://github.com/casangi/RADPS-roadmap/issues/246
 2026-11-20T18:39:29Z,casangi/RADPS-roadmap,247,Epic: Continuum Polarization Imaging Workflow,project,,added,https://github.com/casangi/RADPS-roadmap/issues/247
+2026-11-20T20:45:45Z,casangi/RADPS-roadmap,199,Epic:  RADPS-ALMA - ALMA-D3 Interface process,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/199
+2026-11-20T20:45:45Z,casangi/RADPS-roadmap,199,Epic:  RADPS-ALMA - ALMA-D3 Interface process,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/199
