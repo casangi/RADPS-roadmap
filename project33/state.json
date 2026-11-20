@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:02:08Z",
+ "generated_at": "2026-11-20T18:39:29Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -443,7 +443,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/15": {
    "number": 15,
-   "pi": "Mid-term",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -613,7 +613,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/19": {
    "number": 19,
-   "pi": "Near-term",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -863,7 +863,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/22": {
    "number": 22,
-   "pi": "Far-term",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -923,7 +923,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/228": {
    "number": 228,
-   "pi": "Far-term",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1023,7 +1023,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/239": {
    "number": 239,
-   "pi": "",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1043,7 +1043,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/240": {
    "number": 240,
-   "pi": "",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1053,7 +1053,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/241": {
    "number": 241,
-   "pi": "",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1063,7 +1063,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/242": {
    "number": 242,
-   "pi": "",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1073,7 +1073,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/243": {
    "number": 243,
-   "pi": "",
+   "pi": "Triage",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1083,7 +1083,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/244": {
    "number": 244,
-   "pi": "",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1093,13 +1093,33 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/245": {
    "number": 245,
-   "pi": "",
+   "pi": "Triage",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
    "team": "",
    "title": "Epic: Design for QA",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/245"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/246": {
+   "number": 246,
+   "pi": "Triage",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Solve for complex gain with time",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/246"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/247": {
+   "number": 247,
+   "pi": "Far-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Continuum Polarization Imaging Workflow",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/247"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/25": {
    "number": 25,
@@ -1128,7 +1148,7 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
-   "title": "Epic:  Prototype IF MOUS Imaging Workflow",
+   "title": "Epic: MVP IF MOUS Imaging Workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/27"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/29": {
@@ -1258,12 +1278,12 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
-   "title": "Epic:  Prototype Full Imaging Workflow",
+   "title": "Epic:  Prototype Full Imaging Workflow Incluing Self-Calibration",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/40"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/41": {
    "number": 41,
-   "pi": "Far-term",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -3123,10 +3143,10 @@
   },
   "https://github.com/casangi/astroviper/issues/354": {
    "number": 354,
-   "pi": "PI26.4",
+   "pi": "",
    "repo": "casangi/astroviper",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Backlog",
    "team": "Imaging",
    "title": "Investigate caching and threading of setup across imaging cycles",
    "url": "https://github.com/casangi/astroviper/issues/354"
@@ -3505,8 +3525,8 @@
    "number": 456,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Preserve image-channel boundaries when validating partitioned frequency mappings",
    "url": "https://github.com/casangi/astroviper/issues/456"
@@ -3515,8 +3535,8 @@
    "number": 457,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Audit and enforce array alignment and serialization-safe dtype checks across native kernels",
    "url": "https://github.com/casangi/astroviper/issues/457"
@@ -3535,8 +3555,8 @@
    "number": 467,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Tutorial notebook: simulate and recover an SED in all ten ALMA bands",
    "url": "https://github.com/casangi/astroviper/issues/467"
@@ -3890,6 +3910,16 @@
    "team": "Infrastructure",
    "title": "Expose parameters in workflow",
    "url": "https://github.com/casangi/flowviper/issues/24"
+  },
+  "https://github.com/casangi/flowviper/issues/27": {
+   "number": 27,
+   "pi": "",
+   "repo": "casangi/flowviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Create diagram for MVP implementation of IF MOUS Imaging Workflow",
+   "url": "https://github.com/casangi/flowviper/issues/27"
   },
   "https://github.com/casangi/flowviper/issues/4": {
    "number": 4,

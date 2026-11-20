@@ -1,14 +1,15 @@
 team,status,kind,repo,number,title,state,assignees,labels,updated_at,closed_at,parent,url
 External,Backlog,Issue,casangi/RADPS-roadmap,54,Epic:  ALMA-D3 - Data Access Interface Definition,OPEN,,Data Processing Workflows; System Integration; ALMA ICT,2026-10-15T15:33:02Z,,,https://github.com/casangi/RADPS-roadmap/issues/54
 External,In progress,Issue,casangi/RADPS-roadmap,51,Epic:  ALMA-D3 - Workflow Initialization Interface Definition,OPEN,aakepley,System Integration; ALMA ICT,2026-10-15T15:33:13Z,,,https://github.com/casangi/RADPS-roadmap/issues/51
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,15,Epic: Auto-multithresh scaling,OPEN,,Data Processing Workflows; Performance,2026-11-03T17:35:03Z,,,https://github.com/casangi/RADPS-roadmap/issues/15
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,217,Epic: Cube Imaging Campaign on real data,OPEN,,,2026-11-19T15:55:46Z,,,https://github.com/casangi/RADPS-roadmap/issues/217
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,220,Epic: Visibility visualization GUI,OPEN,,Visualization,2026-11-03T17:38:47Z,,,https://github.com/casangi/RADPS-roadmap/issues/220
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,221,Epic: Calibration data set visualization GUI,OPEN,,Visualization,2026-11-03T17:38:50Z,,,https://github.com/casangi/RADPS-roadmap/issues/221
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,235,Epic: Simulated Reference Imaging Data Sets for Acceptance Tests,OPEN,aakepley Jan-Willem smcastro,,2026-11-05T19:46:15Z,,,https://github.com/casangi/RADPS-roadmap/issues/235
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,30,Epic: User-facing tutorial focusing on  prototype imaging functionality for scientists,OPEN,,Imaging,2026-11-05T19:43:42Z,,,https://github.com/casangi/RADPS-roadmap/issues/30
+Imaging,Backlog,Issue,casangi/RADPS-roadmap,41,Epic: Prototype Including Self-Calibration in IF Imaging Workflow,OPEN,,Data Processing Workflows,2026-11-20T17:37:37Z,,,https://github.com/casangi/RADPS-roadmap/issues/41
 Imaging,Backlog,Issue,casangi/RADPS-roadmap,8,Epic: Imaging-related Visibility Manipulation,OPEN,,Visibility Manipulation,2026-11-19T15:23:18Z,,,https://github.com/casangi/RADPS-roadmap/issues/8
 Imaging,Done,Issue,casangi/RADPS-roadmap,140,Epic: Auto-multithresh Implementation,CLOSED,,,2026-11-19T14:57:58Z,2026-11-19T14:57:58Z,,https://github.com/casangi/RADPS-roadmap/issues/140
-Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,19,Epic: Component list specification,OPEN,,Visibility Manipulation,2026-11-05T19:43:50Z,,,https://github.com/casangi/RADPS-roadmap/issues/19
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,201,Epic: Incorporate VIPER into SIS testing,OPEN,awells-nrao,,2026-11-05T19:46:41Z,,,https://github.com/casangi/RADPS-roadmap/issues/201
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,23,Epic: Incorporate GPU Gridder Code into Astroviper,OPEN,,Deployment Patterns,2026-10-15T15:19:01Z,,,https://github.com/casangi/RADPS-roadmap/issues/23
 Infrastructure,Backlog,Issue,casangi/graphviper,65,python-graphviz needs to be installed in addition to graphviz,OPEN,,,2026-07-21T17:28:05Z,,,https://github.com/casangi/graphviper/issues/65
@@ -31,3 +32,7 @@ Pipeline,Backlog,Issue,casangi/RADPS-roadmap,34,Epic:  Legacy CASA running in RA
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,35,Epic:  Legacy ALMA Pipeline running in RADPS workflow manager,OPEN,,Deployment Patterns,2026-11-04T15:09:42Z,,,https://github.com/casangi/RADPS-roadmap/issues/35
 Visualization,Done,Issue,casangi/cubevis,5,use xradio to load msv4 data,CLOSED,schiebel,,2026-11-19T20:04:46Z,2026-11-19T20:01:39Z,casangi/RADPS-roadmap#220,https://github.com/casangi/cubevis/issues/5
 ,Backlog,Issue,casangi/RADPS-roadmap,143,Epic: Compute Infrastructure recommendations,OPEN,,,2026-11-05T19:48:44Z,,,https://github.com/casangi/RADPS-roadmap/issues/143
+,Backlog,Issue,casangi/RADPS-roadmap,239,Epic: Detailed science validation of find_continuum,OPEN,,,2026-11-19T14:54:11Z,,,https://github.com/casangi/RADPS-roadmap/issues/239
+,Backlog,Issue,casangi/RADPS-roadmap,240,Epic: Detailed science validation auto-multithresh,OPEN,,,2026-11-19T14:54:13Z,,,https://github.com/casangi/RADPS-roadmap/issues/240
+,Backlog,Issue,casangi/RADPS-roadmap,241,Epic: Detailed science validation of uv continuum subtraction,OPEN,,,2026-11-19T14:54:15Z,,,https://github.com/casangi/RADPS-roadmap/issues/241
+,Backlog,Issue,casangi/RADPS-roadmap,244,Epic: Continuum Imaging Test Campaign on Real Data,OPEN,,,2026-11-19T15:54:46Z,,,https://github.com/casangi/RADPS-roadmap/issues/244

@@ -1579,3 +1579,26 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-19T21:02:08Z,casangi/cubevis,5,use xradio to load msv4 data,Status,Backlog,Done,https://github.com/casangi/cubevis/issues/5
 2026-11-19T21:02:08Z,casangi/cubevis,5,use xradio to load msv4 data,state,OPEN,CLOSED,https://github.com/casangi/cubevis/issues/5
 2026-11-19T21:02:08Z,casangi/astroviper,467,Tutorial notebook: simulate and recover an SED in all ten ALMA bands,project,,added,https://github.com/casangi/astroviper/issues/467
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,22,Epic: Ephemeris Imaging,Program Increment,Far-term,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/22
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,41,Epic: Prototype Including Self-Calibration in IF Imaging Workflow,Program Increment,Far-term,Near-term,https://github.com/casangi/RADPS-roadmap/issues/41
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,15,Epic: Auto-multithresh scaling,Program Increment,Mid-term,Near-term,https://github.com/casangi/RADPS-roadmap/issues/15
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,19,Epic: Component list specification,Program Increment,Near-term,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/19
+2026-11-20T18:39:29Z,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,Status,In progress,Backlog,https://github.com/casangi/astroviper/issues/354
+2026-11-20T18:39:29Z,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,Program Increment,PI26.4,,https://github.com/casangi/astroviper/issues/354
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,228,Epic: Cube Polarization Imaging,Program Increment,Far-term,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/228
+2026-11-20T18:39:29Z,casangi/astroviper,456,Preserve image-channel boundaries when validating partitioned frequency mappings,Status,In progress,Done,https://github.com/casangi/astroviper/issues/456
+2026-11-20T18:39:29Z,casangi/astroviper,456,Preserve image-channel boundaries when validating partitioned frequency mappings,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/456
+2026-11-20T18:39:29Z,casangi/astroviper,457,Audit and enforce array alignment and serialization-safe dtype checks across native kernels,Status,In progress,Done,https://github.com/casangi/astroviper/issues/457
+2026-11-20T18:39:29Z,casangi/astroviper,457,Audit and enforce array alignment and serialization-safe dtype checks across native kernels,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/457
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,239,Epic: Detailed science validation of find_continuum,Program Increment,,Near-term,https://github.com/casangi/RADPS-roadmap/issues/239
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,240,Epic: Detailed science validation auto-multithresh,Program Increment,,Near-term,https://github.com/casangi/RADPS-roadmap/issues/240
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,241,Epic: Detailed science validation of uv continuum subtraction,Program Increment,,Near-term,https://github.com/casangi/RADPS-roadmap/issues/241
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,242,Epic: IF Imaging Prototype Workflow tests at JAO,Program Increment,,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/242
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,243,Epic: interface to existing msv2 calibration tables,Program Increment,,Triage,https://github.com/casangi/RADPS-roadmap/issues/243
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,244,Epic: Continuum Imaging Test Campaign on Real Data,Program Increment,,Near-term,https://github.com/casangi/RADPS-roadmap/issues/244
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,245,Epic: Design for QA,Program Increment,,Triage,https://github.com/casangi/RADPS-roadmap/issues/245
+2026-11-20T18:39:29Z,casangi/astroviper,467,Tutorial notebook: simulate and recover an SED in all ten ALMA bands,Status,In progress,Done,https://github.com/casangi/astroviper/issues/467
+2026-11-20T18:39:29Z,casangi/astroviper,467,Tutorial notebook: simulate and recover an SED in all ten ALMA bands,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/467
+2026-11-20T18:39:29Z,casangi/flowviper,27,Create diagram for MVP implementation of IF MOUS Imaging Workflow,project,,added,https://github.com/casangi/flowviper/issues/27
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,246,Epic: Solve for complex gain with time,project,,added,https://github.com/casangi/RADPS-roadmap/issues/246
+2026-11-20T18:39:29Z,casangi/RADPS-roadmap,247,Epic: Continuum Polarization Imaging Workflow,project,,added,https://github.com/casangi/RADPS-roadmap/issues/247
