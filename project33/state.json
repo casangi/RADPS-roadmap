@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:45:45Z",
+ "generated_at": "2026-11-21T17:39:16Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3545,8 +3545,8 @@
    "number": 462,
    "pi": "PI26.4",
    "repo": "casangi/astroviper",
-   "state": "OPEN",
-   "status": "In progress",
+   "state": "CLOSED",
+   "status": "Done",
    "team": "Imaging",
    "title": "Decode complex Zarr fill values correctly in the chunk reader",
    "url": "https://github.com/casangi/astroviper/issues/462"
@@ -4100,6 +4100,26 @@
    "team": "Infrastructure",
    "title": "Resource monitor: first and last CPU samples are taken over near-zero intervals",
    "url": "https://github.com/casangi/graphviper/issues/85"
+  },
+  "https://github.com/casangi/graphviper/issues/87": {
+   "number": 87,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Local cache: the node list is built from at most five workers with distributed 2026.3 to 2026.6",
+   "url": "https://github.com/casangi/graphviper/issues/87"
+  },
+  "https://github.com/casangi/graphviper/issues/90": {
+   "number": 90,
+   "pi": "PI26.4",
+   "repo": "casangi/graphviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Local cache: map tasks are not kept on the node their node_ip names",
+   "url": "https://github.com/casangi/graphviper/issues/90"
   },
   "https://github.com/casangi/pyasdm/issues/28": {
    "number": 28,
@@ -5431,6 +5451,26 @@
    "title": "Refactor allure history in gh-pages",
    "url": "https://github.com/casangi/testviper/issues/79"
   },
+  "https://github.com/casangi/toolviper/issues/100": {
+   "number": 100,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "slurm_cluster_client: workers keep Dask's comm timeouts (30 s) while the scheduler has 3600 s",
+   "url": "https://github.com/casangi/toolviper/issues/100"
+  },
+  "https://github.com/casangi/toolviper/issues/102": {
+   "number": 102,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "tests/test_client.py: the Dask config patch isolates nothing and hands workers a stale configuration",
+   "url": "https://github.com/casangi/toolviper/issues/102"
+  },
   "https://github.com/casangi/toolviper/issues/52": {
    "number": 52,
    "pi": "PI-4=26.3",
@@ -5580,6 +5620,66 @@
    "team": "Infrastructure",
    "title": "Dependency cleanup",
    "url": "https://github.com/casangi/toolviper/issues/85"
+  },
+  "https://github.com/casangi/toolviper/issues/87": {
+   "number": 87,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "ViperGraphPlugin sets no priority: it reads the annotations in a layout the scheduler does not pass",
+   "url": "https://github.com/casangi/toolviper/issues/87"
+  },
+  "https://github.com/casangi/toolviper/issues/88": {
+   "number": 88,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Dask settings: with worker-saturation 1.1 workers idle while others hold a waiting map task",
+   "url": "https://github.com/casangi/toolviper/issues/88"
+  },
+  "https://github.com/casangi/toolviper/issues/89": {
+   "number": 89,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "thread_info counts at most five workers with distributed 2026.3 to 2026.6 when the client has no cluster object",
+   "url": "https://github.com/casangi/toolviper/issues/89"
+  },
+  "https://github.com/casangi/toolviper/issues/94": {
+   "number": 94,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Dask settings: worker-ttl stays at 5 minutes while the comm timeouts are 3600 s",
+   "url": "https://github.com/casangi/toolviper/issues/94"
+  },
+  "https://github.com/casangi/toolviper/issues/95": {
+   "number": 95,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Dask settings: workers still spill task results to disk (memory.target and memory.spill are left on)",
+   "url": "https://github.com/casangi/toolviper/issues/95"
+  },
+  "https://github.com/casangi/toolviper/issues/98": {
+   "number": 98,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "slurm_cluster_client: workers keep Dask's memory defaults, so memory.pause and memory.terminate are not off",
+   "url": "https://github.com/casangi/toolviper/issues/98"
   },
   "https://github.com/casangi/xradio/issues/355": {
    "number": 355,

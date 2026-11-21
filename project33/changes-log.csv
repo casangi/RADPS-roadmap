@@ -1604,3 +1604,15 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-20T18:39:29Z,casangi/RADPS-roadmap,247,Epic: Continuum Polarization Imaging Workflow,project,,added,https://github.com/casangi/RADPS-roadmap/issues/247
 2026-11-20T20:45:45Z,casangi/RADPS-roadmap,199,Epic:  RADPS-ALMA - ALMA-D3 Interface process,Status,In progress,Done,https://github.com/casangi/RADPS-roadmap/issues/199
 2026-11-20T20:45:45Z,casangi/RADPS-roadmap,199,Epic:  RADPS-ALMA - ALMA-D3 Interface process,state,OPEN,CLOSED,https://github.com/casangi/RADPS-roadmap/issues/199
+2026-11-21T17:39:16Z,casangi/astroviper,462,Decode complex Zarr fill values correctly in the chunk reader,Status,In progress,Done,https://github.com/casangi/astroviper/issues/462
+2026-11-21T17:39:16Z,casangi/astroviper,462,Decode complex Zarr fill values correctly in the chunk reader,state,OPEN,CLOSED,https://github.com/casangi/astroviper/issues/462
+2026-11-21T17:39:16Z,casangi/toolviper,87,ViperGraphPlugin sets no priority: it reads the annotations in a layout the scheduler does not pass,project,,added,https://github.com/casangi/toolviper/issues/87
+2026-11-21T17:39:16Z,casangi/toolviper,88,Dask settings: with worker-saturation 1.1 workers idle while others hold a waiting map task,project,,added,https://github.com/casangi/toolviper/issues/88
+2026-11-21T17:39:16Z,casangi/toolviper,89,thread_info counts at most five workers with distributed 2026.3 to 2026.6 when the client has no cluster object,project,,added,https://github.com/casangi/toolviper/issues/89
+2026-11-21T17:39:16Z,casangi/toolviper,94,Dask settings: worker-ttl stays at 5 minutes while the comm timeouts are 3600 s,project,,added,https://github.com/casangi/toolviper/issues/94
+2026-11-21T17:39:16Z,casangi/toolviper,95,Dask settings: workers still spill task results to disk (memory.target and memory.spill are left on),project,,added,https://github.com/casangi/toolviper/issues/95
+2026-11-21T17:39:16Z,casangi/toolviper,98,"slurm_cluster_client: workers keep Dask's memory defaults, so memory.pause and memory.terminate are not off",project,,added,https://github.com/casangi/toolviper/issues/98
+2026-11-21T17:39:16Z,casangi/toolviper,102,tests/test_client.py: the Dask config patch isolates nothing and hands workers a stale configuration,project,,added,https://github.com/casangi/toolviper/issues/102
+2026-11-21T17:39:16Z,casangi/graphviper,87,Local cache: the node list is built from at most five workers with distributed 2026.3 to 2026.6,project,,added,https://github.com/casangi/graphviper/issues/87
+2026-11-21T17:39:16Z,casangi/graphviper,90,Local cache: map tasks are not kept on the node their node_ip names,project,,added,https://github.com/casangi/graphviper/issues/90
+2026-11-21T17:39:16Z,casangi/toolviper,100,slurm_cluster_client: workers keep Dask's comm timeouts (30 s) while the scheduler has 3600 s,project,,added,https://github.com/casangi/toolviper/issues/100
