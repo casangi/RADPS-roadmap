@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:49:49Z",
+ "generated_at": "2026-11-22T17:55:24Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -5470,6 +5470,16 @@
    "team": "Infrastructure",
    "title": "tests/test_client.py: the Dask config patch isolates nothing and hands workers a stale configuration",
    "url": "https://github.com/casangi/toolviper/issues/102"
+  },
+  "https://github.com/casangi/toolviper/issues/105": {
+   "number": 105,
+   "pi": "PI26.4",
+   "repo": "casangi/toolviper",
+   "state": "CLOSED",
+   "status": "Done",
+   "team": "Infrastructure",
+   "title": "Bug: parameter validation accepts NaN and booleans, rejects NumPy scalars, and is skipped under python -O",
+   "url": "https://github.com/casangi/toolviper/issues/105"
   },
   "https://github.com/casangi/toolviper/issues/52": {
    "number": 52,

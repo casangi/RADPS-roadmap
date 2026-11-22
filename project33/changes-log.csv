@@ -1616,3 +1616,4 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-21T17:39:16Z,casangi/graphviper,87,Local cache: the node list is built from at most five workers with distributed 2026.3 to 2026.6,project,,added,https://github.com/casangi/graphviper/issues/87
 2026-11-21T17:39:16Z,casangi/graphviper,90,Local cache: map tasks are not kept on the node their node_ip names,project,,added,https://github.com/casangi/graphviper/issues/90
 2026-11-21T17:39:16Z,casangi/toolviper,100,slurm_cluster_client: workers keep Dask's comm timeouts (30 s) while the scheduler has 3600 s,project,,added,https://github.com/casangi/toolviper/issues/100
+2026-11-22T17:55:24Z,casangi/toolviper,105,"Bug: parameter validation accepts NaN and booleans, rejects NumPy scalars, and is skipped under python -O",project,,added,https://github.com/casangi/toolviper/issues/105
