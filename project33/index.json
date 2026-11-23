@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:59:12Z",
+  "generated_at": "2026-11-23T22:06:12Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -155,10 +155,10 @@
         }
       },
       "Imaging": {
-        "total": 84,
+        "total": 85,
         "done": 47,
         "by_status": {
-          "Backlog": 21,
+          "Backlog": 22,
           "Done": 47,
           "In progress": 15,
           "Won't Do": 1
@@ -168,9 +168,9 @@
         "total": 118,
         "done": 67,
         "by_status": {
-          "Backlog": 27,
+          "Backlog": 26,
           "Done": 67,
-          "In progress": 22,
+          "In progress": 23,
           "Won't Do": 2
         }
       },
@@ -530,10 +530,9 @@
         }
       },
       "Imaging": {
-        "total": 2,
+        "total": 1,
         "done": 0,
         "by_status": {
-          "Backlog": 1,
           "Won't Do": 1
         }
       },

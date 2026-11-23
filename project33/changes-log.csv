@@ -1617,3 +1617,5 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-21T17:39:16Z,casangi/graphviper,90,Local cache: map tasks are not kept on the node their node_ip names,project,,added,https://github.com/casangi/graphviper/issues/90
 2026-11-21T17:39:16Z,casangi/toolviper,100,slurm_cluster_client: workers keep Dask's comm timeouts (30 s) while the scheduler has 3600 s,project,,added,https://github.com/casangi/toolviper/issues/100
 2026-11-22T17:55:24Z,casangi/toolviper,105,"Bug: parameter validation accepts NaN and booleans, rejects NumPy scalars, and is skipped under python -O",project,,added,https://github.com/casangi/toolviper/issues/105
+2026-11-23T22:06:12Z,casangi/testviper,34,Prototype first workflow integration test,Status,Backlog,In progress,https://github.com/casangi/testviper/issues/34
+2026-11-23T22:06:12Z,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,Program Increment,,PI26.4,https://github.com/casangi/astroviper/issues/354

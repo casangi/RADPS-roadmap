@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:59:12Z",
+ "generated_at": "2026-11-23T22:06:12Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -3143,7 +3143,7 @@
   },
   "https://github.com/casangi/astroviper/issues/354": {
    "number": 354,
-   "pi": "",
+   "pi": "PI26.4",
    "repo": "casangi/astroviper",
    "state": "OPEN",
    "status": "Backlog",
@@ -5306,7 +5306,7 @@
    "pi": "PI26.4",
    "repo": "casangi/testviper",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Infrastructure",
    "title": "Prototype first workflow integration test",
    "url": "https://github.com/casangi/testviper/issues/34"

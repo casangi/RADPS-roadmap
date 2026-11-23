@@ -21,6 +21,7 @@ Imaging,Backlog,Issue,casangi/astroviper,337,Future testing of CORAL,OPEN,Jan-Wi
 Imaging,Backlog,Issue,casangi/astroviper,338,fft_backend: scipy is about 2x faster than pyfftw on Apple silicon; check on Linux before changing the default,OPEN,Jan-Willem,,2026-10-19T01:48:31Z,,,https://github.com/casangi/astroviper/issues/338
 Imaging,Backlog,Issue,casangi/astroviper,347,Define validation and recalculation policy for existing imaging weights,OPEN,hmuellergoe,,2026-10-22T15:19:22Z,,,https://github.com/casangi/astroviper/issues/347
 Imaging,Backlog,Issue,casangi/astroviper,349,Benchmark and select the continuum task-state storage strategy,OPEN,hmuellergoe,,2026-10-22T15:20:58Z,,,https://github.com/casangi/astroviper/issues/349
+Imaging,Backlog,Issue,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,OPEN,hmuellergoe,,2026-11-16T23:53:33Z,,,https://github.com/casangi/astroviper/issues/354
 Imaging,Backlog,Issue,casangi/astroviper,366,Continuum imager needs >= 6.4 GiB more memory than the cube on large images,OPEN,Jan-Willem,,2026-11-12T18:08:53Z,,,https://github.com/casangi/astroviper/issues/366
 Imaging,Backlog,Issue,casangi/astroviper,406,Audit full stack for time reporting,OPEN,hmuellergoe,,2026-11-04T23:18:47Z,,,https://github.com/casangi/astroviper/issues/406
 Imaging,Backlog,Issue,casangi/astroviper,413,Review unit and regression tests,OPEN,Kitchi Jan-Willem kgolap taktsutsumi hmuellergoe,,2026-11-10T16:48:21Z,,,https://github.com/casangi/astroviper/issues/413
@@ -106,7 +107,6 @@ Infrastructure,Backlog,Issue,casangi/pyasdm,38,Move all of these changes to the 
 Infrastructure,Backlog,Issue,casangi/pyasdm,39,Pyasdm v1.0 release,OPEN,Jan-Willem,,2026-11-10T16:50:11Z,,casangi/pyasdm#30,https://github.com/casangi/pyasdm/issues/39
 Infrastructure,Backlog,Issue,casangi/pyasdm,47,"Generated setFromXML parses XML booleans with bool(text), so 'false' is read as True",OPEN,bgarwood,bug,2026-11-10T16:51:21Z,,,https://github.com/casangi/pyasdm/issues/47
 Infrastructure,Backlog,Issue,casangi/pyasdm,49,"ASDM.fromXML never resets the startTimeDurationInXML/Bin flags, so one ASDM's time convention leaks into later ASDMs",OPEN,bgarwood,bug,2026-11-10T16:53:11Z,,,https://github.com/casangi/pyasdm/issues/49
-Infrastructure,Backlog,Issue,casangi/testviper,34,Prototype first workflow integration test,OPEN,awells-nrao smcastro taktsutsumi,,2026-11-10T16:51:49Z,,casangi/RADPS-roadmap#109,https://github.com/casangi/testviper/issues/34
 Infrastructure,Backlog,Issue,casangi/testviper,68,Add No Deps Flag to Makefile,OPEN,awells-nrao smcastro,,2026-10-22T13:51:59Z,,,https://github.com/casangi/testviper/issues/68
 Infrastructure,Backlog,Issue,casangi/testviper,69,Refactor testviper installation,OPEN,smcastro,,2026-11-10T15:29:26Z,,,https://github.com/casangi/testviper/issues/69
 Infrastructure,Backlog,Issue,casangi/testviper,70,Evaluate keeping history of reports,OPEN,smcastro,,2026-10-22T14:17:42Z,,,https://github.com/casangi/testviper/issues/70
@@ -189,10 +189,11 @@ Infrastructure,In progress,Issue,casangi/RADPS-roadmap,135,port Adaptive Scale C
 Infrastructure,In progress,Issue,casangi/RADPS-roadmap,139,Epic: ASDM backend improvements,OPEN,FedeMPouzols,Data Schemas,2026-11-10T16:49:50Z,,,https://github.com/casangi/RADPS-roadmap/issues/139
 Infrastructure,In progress,Issue,casangi/benchviper,27,Force workflow failure when benchmarks fail to execute,OPEN,awells-nrao,,2026-11-10T16:51:13Z,,,https://github.com/casangi/benchviper/issues/27
 Infrastructure,In progress,Issue,casangi/pyasdm,30,binary table improvement,OPEN,bgarwood,,2026-11-10T16:49:58Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/pyasdm/issues/30
+Infrastructure,In progress,Issue,casangi/testviper,34,Prototype first workflow integration test,OPEN,awells-nrao smcastro taktsutsumi,,2026-11-23T15:32:10Z,,casangi/RADPS-roadmap#109,https://github.com/casangi/testviper/issues/34
 Infrastructure,In progress,Issue,casangi/testviper,76,allure history component jsonl file exceeds file size limit,OPEN,awells-nrao,bug,2026-11-04T15:34:02Z,,,https://github.com/casangi/testviper/issues/76
 Infrastructure,In progress,Issue,casangi/testviper,78,Explore writing Allure Report History to Cloudflare DB,OPEN,awells-nrao,,2026-11-10T16:52:54Z,,,https://github.com/casangi/testviper/issues/78
 Infrastructure,In progress,Issue,casangi/toolviper,53,Add a file uploader interface to toolviper,OPEN,jrhosk vsmagalhaes enrique-alma-eso,enhancement,2026-11-10T16:51:44Z,,,https://github.com/casangi/toolviper/issues/53
-Infrastructure,In progress,Issue,casangi/toolviper,62,Propose a structure to store test data in Cloudflare,OPEN,jrhosk smcastro enrique-alma-eso,,2026-11-10T16:51:15Z,,,https://github.com/casangi/toolviper/issues/62
+Infrastructure,In progress,Issue,casangi/toolviper,62,Propose a structure to store test data in Cloudflare,OPEN,jrhosk smcastro enrique-alma-eso,,2026-11-23T17:20:50Z,,,https://github.com/casangi/toolviper/issues/62
 Infrastructure,In progress,Issue,casangi/xradio,591,ASDM backend: Support single dish (SpectrumXds),OPEN,FedeMPouzols,enhancement,2026-11-10T16:50:32Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/xradio/issues/591
 Infrastructure,In progress,Issue,casangi/xradio,603,Ephemeris data trimmed,OPEN,Jan-Willem,bug,2026-10-22T08:15:58Z,,,https://github.com/casangi/xradio/issues/603
 Infrastructure,In progress,Issue,casangi/xradio,636,ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11),OPEN,Jan-Willem,,2026-10-12T19:59:56Z,,,https://github.com/casangi/xradio/issues/636
