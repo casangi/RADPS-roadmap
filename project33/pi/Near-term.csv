@@ -30,9 +30,15 @@ Pipeline,Backlog,Issue,casangi/RADPS-roadmap,207,Epic:  Logical Workflow Design,
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,29,"Epic: Demonstrate hybrid workflow mixing legacy domain functions with astroviper, CASA, etc.",OPEN,,Data Processing Workflows; Deployment Patterns,2026-11-03T17:26:59Z,,,https://github.com/casangi/RADPS-roadmap/issues/29
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,34,Epic:  Legacy CASA running in RADPS workflow manager,OPEN,,Deployment Patterns,2026-11-04T15:09:29Z,,,https://github.com/casangi/RADPS-roadmap/issues/34
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,35,Epic:  Legacy ALMA Pipeline running in RADPS workflow manager,OPEN,,Deployment Patterns,2026-11-04T15:09:42Z,,,https://github.com/casangi/RADPS-roadmap/issues/35
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,105,Epic:  Single-Dish Cadence imaging benchmarking,OPEN,,Imaging; Single Dish,2026-11-06T19:39:51Z,,,https://github.com/casangi/RADPS-roadmap/issues/105
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,106,Epic:  ALMA Solar Total-Power MDR benchmarking,OPEN,,Data Processing Workflows; Performance; Single Dish,2026-11-06T19:39:54Z,,,https://github.com/casangi/RADPS-roadmap/issues/106
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,118,Epic: Prototype ALMA Solar TP MDR workflow integration,OPEN,,Single Dish,2026-11-24T04:50:08Z,,,https://github.com/casangi/RADPS-roadmap/issues/118
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,86,Epic:  Assessment of dependency on libsakura,OPEN,,Single Dish,2026-11-06T19:37:33Z,,,https://github.com/casangi/RADPS-roadmap/issues/86
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,88,Epic:  Single-Dish baseline subtraction domain code - Polynominal fitting,OPEN,,Single Dish,2026-11-06T19:39:06Z,,,https://github.com/casangi/RADPS-roadmap/issues/88
 Visualization,Done,Issue,casangi/cubevis,5,use xradio to load msv4 data,CLOSED,schiebel,,2026-11-19T20:04:46Z,2026-11-19T20:01:39Z,casangi/RADPS-roadmap#220,https://github.com/casangi/cubevis/issues/5
 ,Backlog,Issue,casangi/RADPS-roadmap,143,Epic: Compute Infrastructure recommendations,OPEN,,,2026-11-05T19:48:44Z,,,https://github.com/casangi/RADPS-roadmap/issues/143
 ,Backlog,Issue,casangi/RADPS-roadmap,239,Epic: Detailed science validation of find_continuum,OPEN,,,2026-11-19T14:54:11Z,,,https://github.com/casangi/RADPS-roadmap/issues/239
 ,Backlog,Issue,casangi/RADPS-roadmap,240,Epic: Detailed science validation auto-multithresh,OPEN,,,2026-11-19T14:54:13Z,,,https://github.com/casangi/RADPS-roadmap/issues/240
 ,Backlog,Issue,casangi/RADPS-roadmap,241,Epic: Detailed science validation of uv continuum subtraction,OPEN,,,2026-11-19T14:54:15Z,,,https://github.com/casangi/RADPS-roadmap/issues/241
 ,Backlog,Issue,casangi/RADPS-roadmap,244,Epic: Continuum Imaging Test Campaign on Real Data,OPEN,,,2026-11-19T15:54:46Z,,,https://github.com/casangi/RADPS-roadmap/issues/244
+,Backlog,Issue,casangi/RADPS-roadmap,253,Epic: Functionality equivalent to CASA's atmosphere tool,OPEN,,Calibration; Single Dish,2026-11-24T04:47:00Z,,,https://github.com/casangi/RADPS-roadmap/issues/253

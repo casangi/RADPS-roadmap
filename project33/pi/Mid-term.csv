@@ -9,6 +9,11 @@ Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,19,Epic: Component list speci
 Management,Backlog,Issue,casangi/RADPS-roadmap,16,Epic: Heuristic Development Use Case,OPEN,,Heuristics; Data Processing Workflows,2026-11-05T19:46:54Z,,,https://github.com/casangi/RADPS-roadmap/issues/16
 Management,Backlog,Issue,casangi/RADPS-roadmap,31,Epic: User-facing tutorial page introducing RADPS technologies,OPEN,,Deployment Patterns,2026-10-15T15:19:02Z,,,https://github.com/casangi/RADPS-roadmap/issues/31
 Pipeline,Backlog,Issue,casangi/RADPS-roadmap,142,Epic: User interfaces for workflows,OPEN,,User Interfaces,2026-10-15T15:32:37Z,,,https://github.com/casangi/RADPS-roadmap/issues/142
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,107,Epic:  ALMA Total-Power Spectral Line MDR benchmarking,OPEN,,Performance; Single Dish,2026-11-06T19:39:57Z,,,https://github.com/casangi/RADPS-roadmap/issues/107
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,82,Epic:  Prototype ALMA Total-Power Spectral Line MDR workflow integration,OPEN,,Single Dish,2026-11-24T02:20:31Z,,,https://github.com/casangi/RADPS-roadmap/issues/82
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,89,Epic:  Single-Dish baseline subtraction domain code: cspline fitting,OPEN,,Single Dish; Baseline Subtraction,2026-11-06T19:39:08Z,,,https://github.com/casangi/RADPS-roadmap/issues/89
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,91,Epic:  Single-Dish baseline subtraction domain code: sinusoidal fitting,OPEN,,Single Dish; Baseline Subtraction,2026-11-06T19:39:14Z,,,https://github.com/casangi/RADPS-roadmap/issues/91
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,92,Epic:  Offline atmospheric correction domain code,OPEN,,Algorithms; Single Dish,2026-11-06T19:39:17Z,,,https://github.com/casangi/RADPS-roadmap/issues/92
 ,Backlog,Issue,casangi/RADPS-roadmap,228,Epic: Cube Polarization Imaging,OPEN,,,2026-11-03T17:59:35Z,,,https://github.com/casangi/RADPS-roadmap/issues/228
 ,Backlog,Issue,casangi/RADPS-roadmap,230,Epic: Deploy Workflow and Resource Manager at JAO,OPEN,,,2026-11-04T15:24:17Z,,,https://github.com/casangi/RADPS-roadmap/issues/230
 ,Backlog,Issue,casangi/RADPS-roadmap,231,Epic: Deploy Workflow and Resource Manager at the ARCs,OPEN,,,2026-11-04T15:26:56Z,,,https://github.com/casangi/RADPS-roadmap/issues/231

@@ -15,3 +15,7 @@ Imaging,Done,Issue,casangi/RADPS-roadmap,145,Epic:  Integrate findcont into RADP
 Imaging,Done,Issue,casangi/RADPS-roadmap,20,Epic: Image Moments,CLOSED,,Image Analysis,2026-11-19T14:39:59Z,2026-11-19T14:39:59Z,,https://github.com/casangi/RADPS-roadmap/issues/20
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,11,Epic: Flagging set specifications,OPEN,,Flagging,2026-11-19T16:09:08Z,,,https://github.com/casangi/RADPS-roadmap/issues/11
 Infrastructure,Backlog,Issue,casangi/RADPS-roadmap,13,Epic: Flagging task scaling,OPEN,,Flagging; Performance,2026-11-03T17:47:35Z,,,https://github.com/casangi/RADPS-roadmap/issues/13
+Single Dish,Backlog,Issue,casangi/RADPS-roadmap,93,Epic:  Single-Dish Ephemeris Imaging,OPEN,,Imaging; Algorithms; Single Dish,2026-11-06T19:39:20Z,,,https://github.com/casangi/RADPS-roadmap/issues/93
+,Backlog,Issue,casangi/RADPS-roadmap,250,Epic:  Generate amplitude calibration prototype,OPEN,,Calibration; Single Dish,2026-11-24T02:44:12Z,,,https://github.com/casangi/RADPS-roadmap/issues/250
+,Backlog,Issue,casangi/RADPS-roadmap,251,Epic: Implement applycal prototype for single-dish usecase,OPEN,,Calibration; Single Dish,2026-11-24T02:49:27Z,,,https://github.com/casangi/RADPS-roadmap/issues/251
+,Backlog,Issue,casangi/RADPS-roadmap,252,Epic: Implement image analysis capability for Solar TP MDR usecase,OPEN,,Image Analysis; Single Dish,2026-11-24T04:26:38Z,,,https://github.com/casangi/RADPS-roadmap/issues/252

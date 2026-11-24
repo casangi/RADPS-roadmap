@@ -1619,3 +1619,37 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-22T17:55:24Z,casangi/toolviper,105,"Bug: parameter validation accepts NaN and booleans, rejects NumPy scalars, and is skipped under python -O",project,,added,https://github.com/casangi/toolviper/issues/105
 2026-11-23T22:06:12Z,casangi/testviper,34,Prototype first workflow integration test,Status,Backlog,In progress,https://github.com/casangi/testviper/issues/34
 2026-11-23T22:06:12Z,casangi/astroviper,354,Investigate caching and threading of setup across imaging cycles,Program Increment,,PI26.4,https://github.com/casangi/astroviper/issues/354
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,82,Epic:  Prototype ALMA Total-Power Spectral Line MDR workflow integration,Program Increment,Triage,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/82
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,83,Epic:  Prototype ALMA Total-Power Spectral Line Calibration and Imaging Workflow,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/83
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,85,"Epic:  Single-Dish Calibration domain code - ""ps"" calibration",Status,Backlog,In progress,https://github.com/casangi/RADPS-roadmap/issues/85
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,85,"Epic:  Single-Dish Calibration domain code - ""ps"" calibration",Program Increment,Triage,PI26.4,https://github.com/casangi/RADPS-roadmap/issues/85
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,86,Epic:  Assessment of dependency on libsakura,Program Increment,Triage,Near-term,https://github.com/casangi/RADPS-roadmap/issues/86
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,88,Epic:  Single-Dish baseline subtraction domain code - Polynominal fitting,Program Increment,Triage,Near-term,https://github.com/casangi/RADPS-roadmap/issues/88
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,89,Epic:  Single-Dish baseline subtraction domain code: cspline fitting,Program Increment,Triage,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/89
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,90,Epic:  Single-Dish baseline subtraction domain code: chevyshev fitting,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/90
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,91,Epic:  Single-Dish baseline subtraction domain code: sinusoidal fitting,Program Increment,Triage,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/91
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,92,Epic:  Offline atmospheric correction domain code,Program Increment,Triage,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/92
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,93,Epic:  Single-Dish Ephemeris Imaging,Program Increment,Triage,PI27.1,https://github.com/casangi/RADPS-roadmap/issues/93
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,95,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_importdata,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/95
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,96,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_flagdata,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/96
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,97,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_skycal,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/97
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,98,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_k2jycal,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/98
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,99,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_applycal,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/99
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,100,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_atmcor,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/100
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,101,Epic:  Migration of Single-Dish Pipeline heuristics -  hsd_baseline (line detection/validation),Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/101
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,102,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_baseline (others),Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/102
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,103,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_blflag,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/103
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,104,Epic:  Migration of Single-Dish Pipeline heuristics - hsd_imaging,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/104
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,105,Epic:  Single-Dish Cadence imaging benchmarking,Program Increment,Triage,Near-term,https://github.com/casangi/RADPS-roadmap/issues/105
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,106,Epic:  ALMA Solar Total-Power MDR benchmarking,Program Increment,Triage,Near-term,https://github.com/casangi/RADPS-roadmap/issues/106
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,107,Epic:  ALMA Total-Power Spectral Line MDR benchmarking,Program Increment,Triage,Mid-term,https://github.com/casangi/RADPS-roadmap/issues/107
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,108,Epic:  ALMA Total-Power Spectral Line Calibration and Imaging benchmarking,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/108
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,118,Epic: Prototype ALMA Solar TP MDR workflow integration,Status,In progress,Backlog,https://github.com/casangi/RADPS-roadmap/issues/118
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,118,Epic: Prototype ALMA Solar TP MDR workflow integration,Program Increment,PI26.4,Near-term,https://github.com/casangi/RADPS-roadmap/issues/118
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,119,Epic: ALMA Total-Power Spectral Line Calibration and Imaging benchmarking,Program Increment,Triage,Far-term,https://github.com/casangi/RADPS-roadmap/issues/119
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,249,Epic:  Generate Tsys calibration prototype,project,,added,https://github.com/casangi/RADPS-roadmap/issues/249
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,250,Epic:  Generate amplitude calibration prototype,project,,added,https://github.com/casangi/RADPS-roadmap/issues/250
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,251,Epic: Implement applycal prototype for single-dish usecase,project,,added,https://github.com/casangi/RADPS-roadmap/issues/251
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,252,Epic: Implement image analysis capability for Solar TP MDR usecase,project,,added,https://github.com/casangi/RADPS-roadmap/issues/252
+2026-11-24T20:42:55Z,casangi/RADPS-roadmap,253,Epic: Functionality equivalent to CASA's atmosphere tool,project,,added,https://github.com/casangi/RADPS-roadmap/issues/253
+2026-11-24T20:42:55Z,casangi/testviper,82,Reduce gh-pages artifact size,project,,added,https://github.com/casangi/testviper/issues/82

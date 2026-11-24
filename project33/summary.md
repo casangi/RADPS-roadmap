@@ -1,22 +1,23 @@
 # RADPS Roadmap — status by PI and team
 
-Generated 2026-11-24T00:24:09Z from https://github.com/orgs/casangi/projects/33.
+Generated 2026-11-24T20:42:55Z from https://github.com/orgs/casangi/projects/33.
 
 Current PI: **PI26.4**
 
-## PI26.4 — 118/236 done (50%)
+## PI26.4 — 118/238 done (50%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | Calibration | 1/6 | 17% | 0 | 5 | 1 | 0 |
 | External | 0/1 | 0% | 0 | 1 | 0 | 0 |
 | Imaging | 47/85 | 55% | 22 | 15 | 47 | 1 |
-| Infrastructure | 67/118 | 57% | 26 | 23 | 67 | 2 |
+| Infrastructure | 67/119 | 56% | 27 | 23 | 67 | 2 |
 | Management | 1/5 | 20% | 0 | 4 | 1 | 0 |
 | Pipeline | 1/8 | 12% | 7 | 0 | 1 | 0 |
 | Single Dish | 1/13 | 8% | 9 | 3 | 1 | 0 |
+| (no team) | 0/1 | 0% | 1 | 0 | 0 | 0 |
 
-## Far-term — 0/10 done (0%)
+## Far-term — 0/24 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
@@ -24,9 +25,10 @@ Current PI: **PI26.4**
 | External | 0/1 | 0% | 1 | 0 | 0 | 0 |
 | Imaging | 0/1 | 0% | 1 | 0 | 0 | 0 |
 | Management | 0/3 | 0% | 3 | 0 | 0 | 0 |
+| Single Dish | 0/14 | 0% | 14 | 0 | 0 | 0 |
 | (no team) | 0/3 | 0% | 3 | 0 | 0 | 0 |
 
-## Mid-term — 0/14 done (0%)
+## Mid-term — 0/19 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
@@ -36,9 +38,10 @@ Current PI: **PI26.4**
 | Infrastructure | 0/2 | 0% | 2 | 0 | 0 | 0 |
 | Management | 0/2 | 0% | 2 | 0 | 0 | 0 |
 | Pipeline | 0/1 | 0% | 1 | 0 | 0 | 0 |
+| Single Dish | 0/5 | 0% | 5 | 0 | 0 | 0 |
 | (no team) | 0/4 | 0% | 4 | 0 | 0 | 0 |
 
-## Near-term — 2/37 done (5%)
+## Near-term — 2/43 done (5%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
@@ -47,25 +50,28 @@ Current PI: **PI26.4**
 | Infrastructure | 0/3 | 0% | 3 | 0 | 0 | 0 |
 | Management | 0/12 | 0% | 11 | 1 | 0 | 0 |
 | Pipeline | 0/5 | 0% | 5 | 0 | 0 | 0 |
+| Single Dish | 0/5 | 0% | 5 | 0 | 0 | 0 |
 | Visualization | 1/1 | 100% | 0 | 0 | 1 | 0 |
-| (no team) | 0/5 | 0% | 5 | 0 | 0 | 0 |
+| (no team) | 0/6 | 0% | 6 | 0 | 0 | 0 |
 
-## Triage — 0/44 done (0%)
+## Triage — 0/19 done (0%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | Imaging | 0/6 | 0% | 6 | 0 | 0 | 0 |
 | Infrastructure | 0/6 | 0% | 5 | 0 | 0 | 1 |
-| Single Dish | 0/27 | 0% | 26 | 0 | 0 | 1 |
+| Single Dish | 0/2 | 0% | 1 | 0 | 0 | 1 |
 | (no team) | 0/5 | 0% | 5 | 0 | 0 | 0 |
 
-## PI27.1 — 3/16 done (19%)
+## PI27.1 — 3/20 done (15%)
 
 | Team | Done/Total | % | Backlog | In progress | Done | Won't Do |
 |---|---:|---:|---:|---:|---:|---:|
 | Calibration | 0/3 | 0% | 3 | 0 | 0 | 0 |
 | Imaging | 3/11 | 27% | 8 | 0 | 3 | 0 |
 | Infrastructure | 0/2 | 0% | 2 | 0 | 0 | 0 |
+| Single Dish | 0/1 | 0% | 1 | 0 | 0 | 0 |
+| (no team) | 0/3 | 0% | 3 | 0 | 0 | 0 |
 
 ## PI-4=26.3 — 158/162 done (98%)
 

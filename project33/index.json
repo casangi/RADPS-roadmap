@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:24:09Z",
+  "generated_at": "2026-11-24T20:42:55Z",
   "project": {
     "org": "casangi",
     "number": 33,
@@ -136,7 +136,7 @@
     "(no PI)": "pi/no-pi.csv",
     "PI-1": "pi/PI-1.csv"
   },
-  "item_count": 631,
+  "item_count": 637,
   "counts": {
     "PI26.4": {
       "Calibration": {
@@ -165,10 +165,10 @@
         }
       },
       "Infrastructure": {
-        "total": 118,
+        "total": 119,
         "done": 67,
         "by_status": {
-          "Backlog": 26,
+          "Backlog": 27,
           "Done": 67,
           "In progress": 23,
           "Won't Do": 2
@@ -197,6 +197,13 @@
           "Backlog": 9,
           "Done": 1,
           "In progress": 3
+        }
+      },
+      "(no team)": {
+        "total": 1,
+        "done": 0,
+        "by_status": {
+          "Backlog": 1
         }
       }
     },
@@ -243,6 +250,13 @@
           "Backlog": 1
         }
       },
+      "Single Dish": {
+        "total": 5,
+        "done": 0,
+        "by_status": {
+          "Backlog": 5
+        }
+      },
       "(no team)": {
         "total": 4,
         "done": 0,
@@ -278,6 +292,13 @@
         "done": 0,
         "by_status": {
           "Backlog": 3
+        }
+      },
+      "Single Dish": {
+        "total": 14,
+        "done": 0,
+        "by_status": {
+          "Backlog": 14
         }
       },
       "(no team)": {
@@ -327,6 +348,13 @@
           "Backlog": 5
         }
       },
+      "Single Dish": {
+        "total": 5,
+        "done": 0,
+        "by_status": {
+          "Backlog": 5
+        }
+      },
       "Visualization": {
         "total": 1,
         "done": 1,
@@ -335,10 +363,10 @@
         }
       },
       "(no team)": {
-        "total": 5,
+        "total": 6,
         "done": 0,
         "by_status": {
-          "Backlog": 5
+          "Backlog": 6
         }
       }
     },
@@ -363,6 +391,20 @@
         "done": 0,
         "by_status": {
           "Backlog": 2
+        }
+      },
+      "Single Dish": {
+        "total": 1,
+        "done": 0,
+        "by_status": {
+          "Backlog": 1
+        }
+      },
+      "(no team)": {
+        "total": 3,
+        "done": 0,
+        "by_status": {
+          "Backlog": 3
         }
       }
     },
@@ -482,10 +524,10 @@
         }
       },
       "Single Dish": {
-        "total": 27,
+        "total": 2,
         "done": 0,
         "by_status": {
-          "Backlog": 26,
+          "Backlog": 1,
           "Won't Do": 1
         }
       },

@@ -110,6 +110,7 @@ Infrastructure,Backlog,Issue,casangi/pyasdm,49,"ASDM.fromXML never resets the st
 Infrastructure,Backlog,Issue,casangi/testviper,68,Add No Deps Flag to Makefile,OPEN,awells-nrao smcastro,,2026-10-22T13:51:59Z,,,https://github.com/casangi/testviper/issues/68
 Infrastructure,Backlog,Issue,casangi/testviper,69,Refactor testviper installation,OPEN,smcastro,,2026-11-10T15:29:26Z,,,https://github.com/casangi/testviper/issues/69
 Infrastructure,Backlog,Issue,casangi/testviper,70,Evaluate keeping history of reports,OPEN,smcastro,,2026-10-22T14:17:42Z,,,https://github.com/casangi/testviper/issues/70
+Infrastructure,Backlog,Issue,casangi/testviper,82,Reduce gh-pages artifact size,OPEN,awells-nrao smcastro,,2026-11-24T17:20:11Z,,,https://github.com/casangi/testviper/issues/82
 Infrastructure,Backlog,Issue,casangi/toolviper,77,Evaluate proposed file uploader solution for cyber-security,OPEN,enrique-alma-eso,,2026-11-10T16:52:26Z,,casangi/toolviper#53,https://github.com/casangi/toolviper/issues/77
 Infrastructure,Backlog,Issue,casangi/toolviper,85,Dependency cleanup,OPEN,,,2026-11-10T16:53:15Z,,,https://github.com/casangi/toolviper/issues/85
 Infrastructure,Backlog,Issue,casangi/xradio,594,Discuss modifications with partners,OPEN,,,2026-11-10T16:52:06Z,,casangi/xradio#577,https://github.com/casangi/xradio/issues/594
@@ -189,11 +190,11 @@ Infrastructure,In progress,Issue,casangi/RADPS-roadmap,135,port Adaptive Scale C
 Infrastructure,In progress,Issue,casangi/RADPS-roadmap,139,Epic: ASDM backend improvements,OPEN,FedeMPouzols,Data Schemas,2026-11-10T16:49:50Z,,,https://github.com/casangi/RADPS-roadmap/issues/139
 Infrastructure,In progress,Issue,casangi/benchviper,27,Force workflow failure when benchmarks fail to execute,OPEN,awells-nrao,,2026-11-10T16:51:13Z,,,https://github.com/casangi/benchviper/issues/27
 Infrastructure,In progress,Issue,casangi/pyasdm,30,binary table improvement,OPEN,bgarwood,,2026-11-10T16:49:58Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/pyasdm/issues/30
-Infrastructure,In progress,Issue,casangi/testviper,34,Prototype first workflow integration test,OPEN,awells-nrao smcastro taktsutsumi,,2026-11-23T15:32:10Z,,casangi/RADPS-roadmap#109,https://github.com/casangi/testviper/issues/34
+Infrastructure,In progress,Issue,casangi/testviper,34,Prototype first workflow integration test,OPEN,awells-nrao smcastro taktsutsumi,,2026-11-24T16:45:46Z,,casangi/RADPS-roadmap#109,https://github.com/casangi/testviper/issues/34
 Infrastructure,In progress,Issue,casangi/testviper,76,allure history component jsonl file exceeds file size limit,OPEN,awells-nrao,bug,2026-11-04T15:34:02Z,,,https://github.com/casangi/testviper/issues/76
 Infrastructure,In progress,Issue,casangi/testviper,78,Explore writing Allure Report History to Cloudflare DB,OPEN,awells-nrao,,2026-11-10T16:52:54Z,,,https://github.com/casangi/testviper/issues/78
 Infrastructure,In progress,Issue,casangi/toolviper,53,Add a file uploader interface to toolviper,OPEN,jrhosk vsmagalhaes enrique-alma-eso,enhancement,2026-11-10T16:51:44Z,,,https://github.com/casangi/toolviper/issues/53
-Infrastructure,In progress,Issue,casangi/toolviper,62,Propose a structure to store test data in Cloudflare,OPEN,jrhosk smcastro enrique-alma-eso,,2026-11-23T17:20:50Z,,,https://github.com/casangi/toolviper/issues/62
+Infrastructure,In progress,Issue,casangi/toolviper,62,Propose a structure to store test data in Cloudflare,OPEN,jrhosk smcastro enrique-alma-eso,,2026-11-24T12:52:42Z,,,https://github.com/casangi/toolviper/issues/62
 Infrastructure,In progress,Issue,casangi/xradio,591,ASDM backend: Support single dish (SpectrumXds),OPEN,FedeMPouzols,enhancement,2026-11-10T16:50:32Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/xradio/issues/591
 Infrastructure,In progress,Issue,casangi/xradio,603,Ephemeris data trimmed,OPEN,Jan-Willem,bug,2026-10-22T08:15:58Z,,,https://github.com/casangi/xradio/issues/603
 Infrastructure,In progress,Issue,casangi/xradio,636,ASDM backend: VLBI accurate UVW from radio_telescope_delay_model (CALC11),OPEN,Jan-Willem,,2026-10-12T19:59:56Z,,,https://github.com/casangi/xradio/issues/636
@@ -203,7 +204,7 @@ Infrastructure,In progress,Issue,casangi/xradio,649,convert_msv2_to_processing_s
 Infrastructure,In progress,Issue,casangi/xradio,651,ASDM Backend: ensure multi-field/source partitions work well (mosaics),OPEN,FedeMPouzols Jan-Willem,enhancement,2026-11-10T16:50:46Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/xradio/issues/651
 Infrastructure,In progress,Issue,casangi/xradio,652,ASDM Backend: support ephemeris data (FieldSourceEphemerisXds),OPEN,FedeMPouzols,enhancement,2026-11-10T16:50:48Z,,casangi/RADPS-roadmap#139,https://github.com/casangi/xradio/issues/652
 Infrastructure,In progress,Issue,casangi/xradio,653,Image schema review -- the TRON lens -- 1. Per-timeslot flags,OPEN,Jan-Willem,,2026-11-10T14:27:04Z,,,https://github.com/casangi/xradio/issues/653
-Infrastructure,In progress,Issue,casangi/xradio,654,Image schema review -- the TRON lens -- 2. No schema home for time/frequency-reduced products,OPEN,Jan-Willem,,2026-11-10T15:29:29Z,,,https://github.com/casangi/xradio/issues/654
+Infrastructure,In progress,Issue,casangi/xradio,654,Image schema review -- the TRON lens -- 2. No schema home for time/frequency-reduced products,OPEN,Jan-Willem,,2026-11-24T15:58:17Z,,,https://github.com/casangi/xradio/issues/654
 Infrastructure,In progress,Issue,casangi/xradio,655,Image schema review -- the TRON lens -- 3. Expose the dataset's WCS,OPEN,Jan-Willem,,2026-10-21T14:54:07Z,,,https://github.com/casangi/xradio/issues/655
 Infrastructure,In progress,Issue,casangi/xradio,656,Image schema review -- the TRON lens -- 4. Support cropped PSFs,OPEN,Jan-Willem,,2026-10-21T14:53:03Z,,,https://github.com/casangi/xradio/issues/656
 Infrastructure,In progress,Issue,casangi/xradio,660,An aperture-plane image read from CASA does not conform to the image schema,OPEN,Jan-Willem,,2026-10-21T14:50:31Z,,,https://github.com/casangi/xradio/issues/660
@@ -232,6 +233,7 @@ Single Dish,Backlog,Issue,casangi/astroviper,135,support of cube imaging with si
 Single Dish,Backlog,Issue,casangi/astroviper,214,direction mapping from celestial coordinate to image pixel coordinate (including projection),OPEN,,,2026-10-08T07:09:48Z,,casangi/RADPS-roadmap#223,https://github.com/casangi/astroviper/issues/214
 Single Dish,Backlog,Issue,casangi/astroviper,318,Integrate all processing steps into single workflow to construct E2E data reduction sequence of ALMA Solar TP Regional observation,OPEN,,,2026-10-08T07:11:12Z,,,https://github.com/casangi/astroviper/issues/318
 Single Dish,Done,Issue,casangi/astroviper,115,primitive single-dish imaging prototype,CLOSED,renaudmiel,Single Dish,2026-11-10T16:54:05Z,2025-10-22T08:58:33Z,casangi/RADPS-roadmap#118,https://github.com/casangi/astroviper/issues/115
-Single Dish,In progress,Issue,casangi/RADPS-roadmap,118,Epic: Prototype ALMA Solar TP MDR workflow,OPEN,,Single Dish,2026-11-10T16:53:57Z,,,https://github.com/casangi/RADPS-roadmap/issues/118
 Single Dish,In progress,Issue,casangi/RADPS-roadmap,223,Epic: Advanced single-dish cube imaging,OPEN,,Single Dish,2026-11-06T19:40:56Z,,,https://github.com/casangi/RADPS-roadmap/issues/223
+Single Dish,In progress,Issue,casangi/RADPS-roadmap,85,"Epic:  Single-Dish Calibration domain code - ""ps"" calibration",OPEN,,Calibration; Single Dish,2026-11-24T02:18:50Z,,,https://github.com/casangi/RADPS-roadmap/issues/85
 Single Dish,In progress,Issue,casangi/flowviper,11,single dish workflow notebooks,OPEN,jrhosk,documentation,2026-09-30T23:48:06Z,,,https://github.com/casangi/flowviper/issues/11
+,Backlog,Issue,casangi/RADPS-roadmap,249,Epic:  Generate Tsys calibration prototype,OPEN,,Single Dish,2026-11-24T02:31:32Z,,,https://github.com/casangi/RADPS-roadmap/issues/249

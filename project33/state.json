@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:24:09Z",
+ "generated_at": "2026-11-24T20:42:55Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -13,7 +13,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/100": {
    "number": 100,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -23,7 +23,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/101": {
    "number": 101,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -33,7 +33,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/102": {
    "number": 102,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -43,7 +43,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/103": {
    "number": 103,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -53,7 +53,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/104": {
    "number": 104,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -63,7 +63,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/105": {
    "number": 105,
-   "pi": "Triage",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -73,7 +73,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/106": {
    "number": 106,
-   "pi": "Triage",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -83,7 +83,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/107": {
    "number": 107,
-   "pi": "Triage",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -93,7 +93,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/108": {
    "number": 108,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -193,17 +193,17 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/118": {
    "number": 118,
-   "pi": "PI26.4",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
-   "status": "In progress",
+   "status": "Backlog",
    "team": "Single Dish",
-   "title": "Epic: Prototype ALMA Solar TP MDR workflow",
+   "title": "Epic: Prototype ALMA Solar TP MDR workflow integration",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/118"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/119": {
    "number": 119,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1121,6 +1121,16 @@
    "title": "Epic: Continuum Polarization Imaging Workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/247"
   },
+  "https://github.com/casangi/RADPS-roadmap/issues/249": {
+   "number": 249,
+   "pi": "PI26.4",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic:  Generate Tsys calibration prototype",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/249"
+  },
   "https://github.com/casangi/RADPS-roadmap/issues/25": {
    "number": 25,
    "pi": "Near-term",
@@ -1130,6 +1140,46 @@
    "team": "Management",
    "title": "Epic: RADPS Intro Memo & Series",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/25"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/250": {
+   "number": 250,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic:  Generate amplitude calibration prototype",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/250"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/251": {
+   "number": 251,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Implement applycal prototype for single-dish usecase",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/251"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/252": {
+   "number": 252,
+   "pi": "PI27.1",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Implement image analysis capability for Solar TP MDR usecase",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/252"
+  },
+  "https://github.com/casangi/RADPS-roadmap/issues/253": {
+   "number": 253,
+   "pi": "Near-term",
+   "repo": "casangi/RADPS-roadmap",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "",
+   "title": "Epic: Functionality equivalent to CASA's atmosphere tool",
+   "url": "https://github.com/casangi/RADPS-roadmap/issues/253"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/26": {
    "number": 26,
@@ -1703,17 +1753,17 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/82": {
    "number": 82,
-   "pi": "Triage",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
    "team": "Single Dish",
-   "title": "Epic:  Prototype ALMA Total-Power Spectral Line MDR workflow",
+   "title": "Epic:  Prototype ALMA Total-Power Spectral Line MDR workflow integration",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/82"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/83": {
    "number": 83,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1728,22 +1778,22 @@
    "state": "OPEN",
    "status": "Backlog",
    "team": "Imaging",
-   "title": "Epic:  Prototype Ephemeris Imaging Workflow",
+   "title": "Epic:  Ephemeris Imaging workflow",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/84"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/85": {
    "number": 85,
-   "pi": "Triage",
+   "pi": "PI26.4",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
-   "status": "Backlog",
+   "status": "In progress",
    "team": "Single Dish",
    "title": "Epic:  Single-Dish Calibration domain code - \"ps\" calibration",
    "url": "https://github.com/casangi/RADPS-roadmap/issues/85"
   },
   "https://github.com/casangi/RADPS-roadmap/issues/86": {
    "number": 86,
-   "pi": "Triage",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1753,7 +1803,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/88": {
    "number": 88,
-   "pi": "Triage",
+   "pi": "Near-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1763,7 +1813,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/89": {
    "number": 89,
-   "pi": "Triage",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1783,7 +1833,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/90": {
    "number": 90,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1793,7 +1843,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/91": {
    "number": 91,
-   "pi": "Triage",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1803,7 +1853,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/92": {
    "number": 92,
-   "pi": "Triage",
+   "pi": "Mid-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1813,7 +1863,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/93": {
    "number": 93,
-   "pi": "Triage",
+   "pi": "PI27.1",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1823,7 +1873,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/95": {
    "number": 95,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1833,7 +1883,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/96": {
    "number": 96,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1843,7 +1893,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/97": {
    "number": 97,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1853,7 +1903,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/98": {
    "number": 98,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -1863,7 +1913,7 @@
   },
   "https://github.com/casangi/RADPS-roadmap/issues/99": {
    "number": 99,
-   "pi": "Triage",
+   "pi": "Far-term",
    "repo": "casangi/RADPS-roadmap",
    "state": "OPEN",
    "status": "Backlog",
@@ -5450,6 +5500,16 @@
    "team": "Infrastructure",
    "title": "Refactor allure history in gh-pages",
    "url": "https://github.com/casangi/testviper/issues/79"
+  },
+  "https://github.com/casangi/testviper/issues/82": {
+   "number": 82,
+   "pi": "PI26.4",
+   "repo": "casangi/testviper",
+   "state": "OPEN",
+   "status": "Backlog",
+   "team": "Infrastructure",
+   "title": "Reduce gh-pages artifact size",
+   "url": "https://github.com/casangi/testviper/issues/82"
   },
   "https://github.com/casangi/toolviper/issues/100": {
    "number": 100,
