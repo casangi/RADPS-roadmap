@@ -1,6 +1,6 @@
 # RADPS Roadmap — status by PI and team
 
-Generated 2026-11-24T20:42:55Z from https://github.com/orgs/casangi/projects/33.
+Generated 2026-11-24T22:47:27Z from https://github.com/orgs/casangi/projects/33.
 
 Current PI: **PI26.4**
 
