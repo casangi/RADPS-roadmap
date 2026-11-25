@@ -1653,3 +1653,4 @@ changed_at,repo,number,title,field,old,new,url
 2026-11-24T20:42:55Z,casangi/RADPS-roadmap,252,Epic: Implement image analysis capability for Solar TP MDR usecase,project,,added,https://github.com/casangi/RADPS-roadmap/issues/252
 2026-11-24T20:42:55Z,casangi/RADPS-roadmap,253,Epic: Functionality equivalent to CASA's atmosphere tool,project,,added,https://github.com/casangi/RADPS-roadmap/issues/253
 2026-11-24T20:42:55Z,casangi/testviper,82,Reduce gh-pages artifact size,project,,added,https://github.com/casangi/testviper/issues/82
+2026-11-25T19:59:15Z,casangi/astroviper,247,expand direction frames,project,,added,https://github.com/casangi/astroviper/issues/247

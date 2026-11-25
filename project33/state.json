@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:47:27Z",
+ "generated_at": "2026-11-25T19:59:15Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -2520,6 +2520,16 @@
    "team": "Imaging",
    "title": "Decide on test case(s) to use for continuum imaging performance experiments",
    "url": "https://github.com/casangi/astroviper/issues/245"
+  },
+  "https://github.com/casangi/astroviper/issues/247": {
+   "number": 247,
+   "pi": "",
+   "repo": "casangi/astroviper",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "",
+   "title": "expand direction frames",
+   "url": "https://github.com/casangi/astroviper/issues/247"
   },
   "https://github.com/casangi/astroviper/issues/248": {
    "number": 248,
