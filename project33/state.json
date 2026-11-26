@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:59:51Z",
+ "generated_at": "2026-11-26T19:43:01Z",
  "items": {
   "https://github.com/casangi/RADPS-roadmap/issues/10": {
    "number": 10,
@@ -6370,6 +6370,16 @@
    "team": "Infrastructure",
    "title": "ASDM backend: cross-compare several details with importasdm",
    "url": "https://github.com/casangi/xradio/issues/689"
+  },
+  "https://github.com/casangi/xradio/issues/697": {
+   "number": 697,
+   "pi": "PI26.4",
+   "repo": "casangi/xradio",
+   "state": "OPEN",
+   "status": "In progress",
+   "team": "Infrastructure",
+   "title": "ASDM Backend: add weather_xds",
+   "url": "https://github.com/casangi/xradio/issues/697"
   },
   "https://github.com/casangi/xradio/pull/677": {
    "number": 677,
